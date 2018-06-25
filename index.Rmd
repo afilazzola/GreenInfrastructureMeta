@@ -1,0 +1,76 @@
+---
+title:
+author: "Alessandro filazzola"
+date: "2018"
+output:
+  html_document:
+    theme: flatly
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+  pdf_document:
+    toc: yes
+---
+<br>  
+
+### Estimating the benefit of green infrastructure to urban ecosystems: A synthesis and case-study
+<br>  
+
+![](./greenroof.JPG)
+<br> 
+
+[Alessandro Filazzola](http://www.filazzola.info/)
+
+[Scott MacIvor - UTSC](http://www.macivorlab.ca/)
+
+[Namrata Shrestha - TRCA](https://trca.ca/)
+
+[Glenn Milner - OCC](https://climateconnections.ca/)
+
+
+Global urbanization continues unabated, with more than 50% of the worlds’ population living in cities. Cities are conventionally viewed as a threat to local biodiversity because natural habitat is replaced with development. However, more recently, there is greater acknowledgement from the public and private sectors that supporting local environments sustains critical ecosystem services, which in turn improves human health and biodiversity conservation. Consequently, urban planning and design has shifted towards green infrastructure (GI), such as green roofs and retention ponds, to increase connections between city and nature in an era of climate change. The contribution of GI to some ecosystem services has been proven (e.g. stormwater management, building cooling), but the contribution to biodiversity conservation remains unspecified. Using a systematic literature review, this project will (i) determine effect estimates that relate different GI types and characteristics to the impacts on natural systems, and (ii) compile relevant data to develop different implementation scenarios GI for Toronto and region. This study will inform natural system planning and improve quantification of GI on urban ecosystems. Findings from this research will have global ramifications that allow city planners to optimize GI implementation for sustainable development and decrease the impacts of cities on natural systems.
+
+### Objectives
+
+1. A meta-analysis of the literature summarizing the effect of green infrastructure on natural systems. 
+2. Using Toronto, Ontario as a case study, develop a tool that can communicates the effectiveness of different GI implementation for biodiversity conservation. 
+
+### Expected Deliverables
+
+1. A peer-reviewed journal article that is a meta-analysis from objective 1. 
+2. A tool or data analysis that projects different scenarios of green infrastructure implementation for the City of Toronto. 
+
+### Timeline
+
+date    | task
+------------------|--------------------------------------------------
+June 18 | Begin meeting with staff and MacIvor lab to set out workplan
+June 25 | Begin literature review and data extraction
+July 2  | Aggregate available data for GI analysis in Toronto
+July 3  | Complete meetings with TRCA staff on relevant considerations for the project
+July 9  | Determine important parameters for modelling GI in Toronto
+August 20 | Complete collection and review of relevant articles
+September 3| Conduct meta-analysis on available data
+September 10 | Propose candidate models for quantifying GI effects for natural systems
+Sept 24 | Model validation and begin writting manuscript
+Oct 15 | Complete a draft of manuscript and finalize model
+
+### Literature Review - 1. Search
+
+A systematic literature search will be conducted using Web of Scienc for all articles between 1980 and 2018. This time frame was chosen because it captures the majority of the literature on green infrastructure and with articles that have some measured estimates. The review will include all studies globally. The intended purpose of this search is to capture all articles that have documented both green infrastructure implementation and a measure of natural systems. The search terms that will be used are: 
+
+`*green infrastructure OR low*impact development`
+**AND** 
+`*diversity OR species OR ecosystem OR ecology`
+
+These terms have returned 1,042 results (as of June 2018) 
+
+
+### Literature Review - 2. Sort
+
+This steps includes a. checking for duplicating, b. reviewing each instance for relevancy, c. consistently identifying and documenting exclusion criteria. Outcomes include a list of publications to be used for synthesis, a library of pdfs, and a PRISMA report to ensure the worflow is transparent and reproducible. Papers were excluded with the following characteristics:
+
+- Not emperical study (e.g. review, book chapter)
+- Irrelevant categories (e.g. political science, law, sports tourism, art)
+
+
