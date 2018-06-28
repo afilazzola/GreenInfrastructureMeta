@@ -73,4 +73,22 @@ This steps includes a. checking for duplicating, b. reviewing each instance for 
 - Not emperical study (e.g. review, book chapter)
 - Irrelevant categories (e.g. political science, law, sports tourism, art)
 
+```{r, warning=FALSE, message=FALSE}
+library(tidyverse)
+evidence <- read.csv("data/evidence.csv")
+
+excludes <- evidence %>% group_by(reason) %>% count(exclude) %>% filter(reason!="")
+ggplot(excludes, aes(x=reason, y=n)) + geom_bar(stat="identity") + coord_flip()
+```
+
+### Papers processed - Progress
+```{r}
+## Completed so far
+prog <- sum(evidence$exclude!="")
+prog
+## Remaining
+total <- nrow(evidence)
+total
+setTxtProgressBar(txtProgressBar(0,total,  style = 3), prog)
+
 
