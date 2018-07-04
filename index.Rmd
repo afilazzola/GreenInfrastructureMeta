@@ -113,5 +113,10 @@ prog
 total <- nrow(evidence)
 total
 setTxtProgressBar(txtProgressBar(0,total,  style = 3), prog)
+```
 
 
+```{r}
+
+GI.type <- evidence %>% group_by(GI.type) %>% count(exclude) %>% filter(GI.type!="")
+ggplot(GI.type, aes(x=GI.type, y=n)) + geom_bar(stat="identity") + coord_flip()
