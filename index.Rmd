@@ -27,6 +27,9 @@ output:
 
 [Glenn Milner - OCC](https://climateconnections.ca/)
 
+```{r}
+library(tidyverse)
+```
 
 Global urbanization continues unabated, with more than 50% of the worlds’ population living in cities. Cities are conventionally viewed as a threat to local biodiversity because natural habitat is replaced with development. However, more recently, there is greater acknowledgement from the public and private sectors that supporting local environments sustains critical ecosystem services, which in turn improves human health and biodiversity conservation. Consequently, urban planning and design has shifted towards green infrastructure (GI), such as green roofs and retention ponds, to increase connections between city and nature in an era of climate change. The contribution of GI to some ecosystem services has been proven (e.g. stormwater management, building cooling), but the contribution to biodiversity conservation remains unspecified. Using a systematic literature review, this project will (i) determine effect estimates that relate different GI types and characteristics to the impacts on natural systems, and (ii) compile relevant data to develop different implementation scenarios GI for Toronto and region. This study will inform natural system planning and improve quantification of GI on urban ecosystems. Findings from this research will have global ramifications that allow city planners to optimize GI implementation for sustainable development and decrease the impacts of cities on natural systems.
 
@@ -59,12 +62,32 @@ Oct 15 | Complete a draft of manuscript and finalize model
 
 A systematic literature search will be conducted using Web of Scienc for all articles between 1980 and 2018. This time frame was chosen because it captures the majority of the literature on green infrastructure and with articles that have some measured estimates. The review will include all studies globally. The intended purpose of this search is to capture all articles that have documented both green infrastructure implementation and a measure of natural systems. The search terms that will be used are: 
 
-`*green infrastructure OR low*impact development`
+`*green infrastructure OR low*impact development OR Sustainable Drainage System* OR Water Sensitive Urban Design OR green*roof`
 **AND** 
-`*diversity OR species OR ecosystem OR ecology`
+`*diversity OR species OR ecosystem OR ecology OR habitat* OR co-benefit`
 
 These terms have returned 1,042 results (as of June 2018) 
 
+
+### Revise list
+```{r}
+search1.1 <- read.csv("data/WOS-lit.csv")
+search1.2 <- read.csv("data/WoSPart3-July_4_2018.csv")
+net.difference <- anti_join(search1.2, search1.1, by = "DOI")
+net.difference <- net.difference %>% select(Title, DOI) #to simplify for a look
+nrow(net.difference) #count of number of differences from consecutive search
+
+## 182 papers to be added by including revised terms
+## Select those articles and join with other dataset
+net.difference <- anti_join(search1.2, search1.1, by = "DOI")
+
+updated.search <- rbind(search1.1, net.difference)
+
+#write.csv(updated.search, "data/WOS-lit.updated.csv")
+```
+
+Adding revised terms from July 3rd meeting added 182 papers
+Total articles returned = 1,224 (as of July 2018)
 
 ### Literature Review - 2. Sort
 
@@ -82,7 +105,7 @@ ggplot(excludes, aes(x=reason, y=n)) + geom_bar(stat="identity") + coord_flip()
 ```
 
 ### Papers processed - Progress
-```{r}
+```{r warning=FALSE, message=FALSE}
 ## Completed so far
 prog <- sum(evidence$exclude!="")
 prog

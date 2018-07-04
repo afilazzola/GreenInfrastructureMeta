@@ -93,7 +93,7 @@ id,Title,Authors,Source Title,Year,exclude,reason,meta?,lat,lon,elevation,city,c
 92,Planning support system for climate adaptation: Composing effective sets of blue-green measures to reduce urban vulnerability to extreme weather events,"Voskamp, I. M.; Van de Ven, F. H. M.",BUILDING AND ENVIRONMENT,2015,y,climate adaptation,,,,,,,,,,,,,,,,,,,
 93,A comparison of the economic benefits of urban green spaces estimated with NDVI and with high-resolution land cover data,"Li, Wei; Saphores, Jean-Daniel M.; Gillespie, Thomas W.",LANDSCAPE AND URBAN PLANNING,2015,n,,yes,,,,,,,,,,,,,,,,,,
 94,Structural Diversity: A Multi-dimensional Approach to Assess Recreational Services in Urban Parks,"Voigt, Annette; Kabisch, Nadja; Wurster, Daniel; Haase, Dagmar; Breuste, Juergen",AMBIO,2014,y,social impacts/human health,,,,,,,,,,,,,,,,,,,
-95,Gray vs. green urbanization: Relative importance of urban features for urban bird communities,"MacGregor-Fors, Ian; Schondube, Jorge E.",BASIC AND APPLIED ECOLOGY,2011,n,,yes,19.166667,-101.9,1920,Michoacán,Mexico,0.784776,,urban tree canopy,,bird species,,,,,,,,
+95,Gray vs. green urbanization: Relative importance of urban features for urban bird communities,"MacGregor-Fors, Ian; Schondube, Jorge E.",BASIC AND APPLIED ECOLOGY,2011,n,,yes,19.166667,-101.9,1920,Michoac n,Mexico,0.784776,,urban tree canopy,,bird species,,,,,,,,
 96,A New Approach in Measuring Rainfall Interception by Urban Trees in Coastal British Columbia,"Asadian, Yeganeh; Weiler, Markus",WATER QUALITY RESEARCH JOURNAL OF CANADA,2009,y,regulatory/ecosystem services,,,,,,,,,,,,,,,,,,,
 97,Mainstreaming ecosystem-based adaptation: transformation toward sustainability in urban governance and planning,"Wamsler, Christine",ECOLOGY AND SOCIETY,2015,y,climate adaptation,,,,,,,,,,,,,,,,,,,
 98,Growth of Native Aromatic Xerophytes in an Extensive Mediterranean Green Roof as Affected by Substrate Type and Depth and Irrigation Frequency,"Papafotiou, Maria; Pergialioti, Niki; Tassoula, Lamprini; Massas, Ioannis; Kargas, Georgios",HORTSCIENCE,2013,n,,yes,37.983972,23.727806,70,Athens,Greece,3.090508,0.007501233,green roofs,none,tree size,,,,,,,,
@@ -326,7 +326,7 @@ id,Title,Authors,Source Title,Year,exclude,reason,meta?,lat,lon,elevation,city,c
 325,Insights and opportunities from mapping ecosystem services of urban green spaces and potentials in planning,"Pulighe, Giuseppe; Fava, Francesco; Lupia, Flavio",ECOSYSTEM SERVICES,2016,y,regulatory/ecosystem services,,,,,,,,,,,,,,,,,,,
 326,Ecosystem services in urban land use planning: Integration challenges in complex urban settings-Case of Stockholm,"Anna, Kaczorowska; Jaan-Henrik, Kain; Jakub, Kronenberg; Dagmar, Haase",ECOSYSTEM SERVICES,2016,y,regulatory/ecosystem services,,,,,,,,,,,,,,,,,,,
 327,Design with Nature: Ian McHarg's ecological wisdom as actionable and practical knowledge,"Yang, Bo; Li, Shujuan",LANDSCAPE AND URBAN PLANNING,2016,y,city or greenspace planning,,,,,,,,,,,,,,,,,,,
-328,Plant species richness enhances nitrogen retention in green roof plots,"Johnson, Catherine; Schweinhart, Shelbye; Buffam, Ishi",ECOLOGICAL APPLICATIONS,2016,n,,yes,39.1,-84.511167,147,Cincinnati ,Ohio,0.296,0.001437,green roof,,species richness,,,,,,,,
+328,Plant species richness enhances nitrogen retention in green roof plots,"Johnson, Catherine; Schweinhart, Shelbye; Buffam, Ishi",ECOLOGICAL APPLICATIONS,2016,n,,yes,39.1,-84.511167,147,Cincinnatiÿ,Ohio,0.296,0.001437,green roof,,species richness,,,,,,,,
 329,Mediterranean habitat loss under future climate conditions: Assessing impacts on the Natura 2000 protected area network,"Barredo, Jose I.; Caudullo, Giovanni; Dosio, Alessandro",APPLIED GEOGRAPHY,2016,y,modelling conservation,,,,,,,,,,,,,,,,,,,
 330,Considering the ways biocultural diversity helps enforce the urban green infrastructure in times of urban transformation,"Vierikko, Kati; Elands, Birgit; Niemela, Jari; Andersson, Erik; Buijs, Arjen; Fischer, Leonie Katharina; Haase, Dagmar; Kabisch, Nadja; Kowarik, Ingo; Luz, Ana Catarina; Stahl, Anton Olafsson; Szaraz, Luca; Van der Jagt, Alexander; van den Bosch, Cecil Konijnendijk",CURRENT OPINION IN ENVIRONMENTAL SUSTAINABILITY,2016,y,social impacts/human health,,,,,,,,,,,,,,,,,,,
 331,Green roofs: Experimental and analytical study of its potential for urban microclimate regulation in Mediterranean-continental climates,"Saiz Alcazar, Susana; Olivieri, Francesca; Neila, Javier",URBAN CLIMATE,2016,y,regulatory/ecosystem services,,,,,,,,,,,,,,,,,,,
@@ -861,4 +861,358 @@ id,Title,Authors,Source Title,Year,exclude,reason,meta?,lat,lon,elevation,city,c
 860,Integrating ecological infrastructure in regional planning: a methodological case study from the Calgary region of western Canada,"Quinn, M. S.; Tyler, M. E.","Sustainable Development and Planning III, Vols 1 and 2",2007,,,,,,,,,,,,,,,,,,,,,
 861,Using GIS to support environmental stewardship objectives in Maryland rights of way,"Southerland, MT; Strebel, DE; Brindley, A; Perot, AM; Patty, SS",SEVENTH INTERNATIONAL SYMPOSIUM ON ENVIRONMENTAL CONCERNS IN RIGHTS-OF-WAY-MANAGEMENT,2002,,,,,,,,,,,,,,,,,,,,,
 862,Biodiversity; What are we losing? a case on Sri Lanka,"Ranasinghe, DMSHK","82541K0URAL ENVIRONMENT: CONCEPTS & SOLUTIONS, PROCEEDINGS",1996,,,,,,,,,,,,,,,,,,,,,
-863,"POPULATION, DEVELOPMENT AND EMPLOYMENT","SACHS, I",INTERNATIONAL SOCIAL SCIENCE JOURNAL,1994,,,,,,,,,,,,,,,,,,,,,
+863,"POPULATION, DEVELOPMENT AND EMPLOYMENT","SACHS, I",INTERNATIONAL SOCIAL SCIENCE JOURNAL,,,,,,,,,,,,,,,,,,,,,,
+864,"Impediments and solutions to sustainable, watershed-scale urban
+stormwater management: Lessons from Australia and the United States","Roy, Allison H.; Wenger, Seth J.; Fletcher, Tim D.; Walsh, Christopher J.; Ladson, Anthony R.; Shuster, William D.; Thurston, Hale W.; Brown, Rebekah R.",ENVIRONMENTAL MANAGEMENT,,,,,,,,,,,,,,,,,,,,,,
+865,"NEW FORESTRY PRINCIPLES FROM ECOSYSTEM ANALYSIS OF PACIFIC-NORTHWEST
+FORESTS","SWANSON, FJ; FRANKLIN, JF",ECOLOGICAL APPLICATIONS,,,,,,,,,,,,,,,,,,,,,,
+866,"River restoration: the fuzzy logic of repairing reaches to reverse
+catchment scale degradation","Bernhardt, Emily S.; Palmer, Margaret A.",ECOLOGICAL APPLICATIONS,,,,,,,,,,,,,,,,,,,,,,
+867,"Components of floating emergent macrophyte treatment wetlands
+influencing removal of stormwater pollutants","Tanner, Chris C.; Headley, Tom R.",ECOLOGICAL ENGINEERING,,,,,,,,,,,,,,,,,,,,,,
+868,"Modeling nitrate leaching with a biogeochemical model modified based on
+observations in a row-crop field in Iowa","Li, CS; Farahbakhshazad, N; Jaynes, DB; Dinnes, DL; Salas, W; McLaughlin, D",ECOLOGICAL MODELLING,,,,,,,,,,,,,,,,,,,,,,
+869,"Groundwater-surface water interactions: New methods and models to
+improve understanding of processes and dynamics","Fleckenstein, Jan H.; Krause, Stefan; Hannah, David M.; Boano, Fulvio",ADVANCES IN WATER RESOURCES,,,,,,,,,,,,,,,,,,,,,,
+870,"Removal of dissolved nitrogen, phosphorus and carbon from stormwater by
+biofiltration mesocosms","Henderson, C.; Greenway, M.; Phillips, I.",WATER SCIENCE AND TECHNOLOGY,,,,,,,,,,,,,,,,,,,,,,
+871,Transitions in European land-management regimes between 1800 and 2010,"Jepsen, Martin Rudbeck; Kuemmerle, Tobias; Mueller, Daniel; Erb, Karlheinz; Verburgf, Peter H.; Haberl, Helmut; Vesterager, Jens Peter; Andric, Maja; Antrop, Marc; Austrheim, Gunnar; Bjorn, Ismo; Bondeau, Alberte; Buergi, Matthias; Bryson, Jessica; Caspar, Gilles; Cassar, Louis F.; Conrad, Elisabeth; Chromy, Pavel; Daugirdas, Vidmantas; Van Eetvelde, Veerle; Elena-Rossello, Ramon; Gimmi, Urs; Izakovicova, Zita; Jancak, Vit; Jansson, Ulf; Kladnik, Drago; Kozak, Jacek; Konkoly-Gyuro, Eva; Krausmann, Fridolin; Mander, Uelo; McDonagh, John; Paern, Jaan; Niedertscheider, Maria; Nikodemus, Olgerts; Ostapowicz, Katarzyna; Perez-Soba, Marta; Pinto-Correia, Teresa; Ribokas, Gintaras; Rounsevell, Mark; Schistou, Despoina; Schmit, Claude; Terkenli, Theano S.; Tretvik, Aud M.; Trzepacz, Piotr; Vadineanu, Angheluta; Walz, Ariane; Zhllima, Edvin; Reenberg, Anette",LAND USE POLICY,,,,,,,,,,,,,,,,,,,,,,
+872,"Microbial response over time to hydrologic and fertilization treatments
+in a simulated wet prairie","Mentzer, Jessica L.; Goodman, Robert M.; Balser, Teri C.",PLANT AND SOIL,,,,,,,,,,,,,,,,,,,,,,
+873,Yearling Greater Sage-Grouse Response to Energy Development in Wyoming,"Holloran, Matthew J.; Kaiser, Rusty C.; Hubert, Wayne A.",JOURNAL OF WILDLIFE MANAGEMENT,,,,,,,,,,,,,,,,,,,,,,
+874,"Water localisation and reclamation: Steps towards low impact urban
+design and development","van Roon, Marjorie",JOURNAL OF ENVIRONMENTAL MANAGEMENT,,,,,,,,,,,,,,,,,,,,,,
+875,INDONESIAN PEAT SWAMP FORESTS AND THEIR ROLE AS A CARBON SINK,"SORENSEN, KW",CHEMOSPHERE,,,,,,,,,,,,,,,,,,,,,,
+876,"Co-benefit evaluation for urban public transportation sector a case of
+Shenyang, China","Geng, Yong; Ma, Zhixiao; Xue, Bing; Ren, Wanxia; Liu, Zhe; Fujita, Tsuyoshi",JOURNAL OF CLEANER PRODUCTION,,,,,,,,,,,,,,,,,,,,,,
+877,"The contribution of motorway stormwater retention ponds to the
+biodiversity of aquatic macroinvertebrates","Le Viol, Isabelle; Mocq, Julien; Julliard, Romain; Kerbiriou, Christian",BIOLOGICAL CONSERVATION,,,,,,,,,,,,,,,,,,,,,,
+878,"Fostering Green Communities Through Civic Engagement Community-Based
+Environmental Stewardship in the Portland Area","Shandas, Vivek; Messer, W. Barry",JOURNAL OF THE AMERICAN PLANNING ASSOCIATION,,,,,,,,,,,,,,,,,,,,,,
+879,"Streetscape biodiversity and the role of bioretention swales in an
+Australian urban environment","Kazemi, Fatemeh; Beecham, Simon; Gibbs, Joan",LANDSCAPE AND URBAN PLANNING,,,,,,,,,,,,,,,,,,,,,,
+880,"Evaluation of salt-tolerant forages for sequential water reuse systems -
+II. Plant-ion relations","Grieve, CM; Poss, JA; Grattan, SR; Suarez, DL; Benes, SE; Robinson, PH",AGRICULTURAL WATER MANAGEMENT,,,,,,,,,,,,,,,,,,,,,,
+881,Vegetation development over four years on two green roofs in the UK,"Bates, Adam J.; Sadler, Jon P.; Mackay, Rae",URBAN FORESTRY & URBAN GREENING,,,,,,,,,,,,,,,,,,,,,,
+882,"Leaching of nutrients from a sugarcane crop growing on an Ultisol in
+Brazil","Ghiberto, P. J.; Libardi, P. L.; Brito, A. S.; Trivelin, P. C. O.",AGRICULTURAL WATER MANAGEMENT,,,,,,,,,,,,,,,,,,,,,,
+883,"Adsorption of selenite and selenate by nanocrystalline aluminum oxide,
+neat and impregnated in chitosan beads","Yamani, Jamila S.; Lounsbury, Amanda W.; Zimmerman, Julie B.",WATER RESEARCH,,,,,,,,,,,,,,,,,,,,,,
+884,"Rainfall interception and stem flow by eucalypt street trees - The
+impacts of canopy density and bark type","Livesley, S. J.; Baudinette, B.; Glover, D.",URBAN FORESTRY & URBAN GREENING,,,,,,,,,,,,,,,,,,,,,,
+885,Harmonisation of the soil map of Africa at the continental scale,"Dewitte, Olivier; Jones, Arwyn; Spaargaren, Otto; Breuning-Madsen, Henrik; Brossard, Michel; Dampha, Almami; Deckers, Jozef; Gallali, Tahar; Hallett, Stephen; Jones, Robert; Kilasara, Method; Le Roux, Pieter; Micheli, Erika; Montanarella, Luca; Thiombiano, Lamourdia; Van Ranst, Eric; Yemefack, Martin; Zougmore, Robert",GEODERMA,,,,,,,,,,,,,,,,,,,,,,
+886,"Effect of soil-N and urine-N on nitrate leaching under pure grass, pure
+clover and mixed grass/clover swards","Loiseau, P; Carrere, P; Lafarge, M; Delpy, R; Dublanchet, J",EUROPEAN JOURNAL OF AGRONOMY,,,,,,,,,,,,,,,,,,,,,,
+887,"Info-gap decision theory for assessing the management of catchments for
+timber production and urban water supply","McCarthy, Michael A.; Lindenmayer, David B.",ENVIRONMENTAL MANAGEMENT,,,,,,,,,,,,,,,,,,,,,,
+888,Impact of concrete and PVC pipes on urban water chemistry,"Davies, P. J.; Wright, I. A.; Jonasson, O. J.; Findlay, S. J.",URBAN WATER JOURNAL,,,,,,,,,,,,,,,,,,,,,,
+889,Urban Water Mass Balance Analysis,"Kenway, Steven; Gregory, Alan; McMahon, Joseph",JOURNAL OF INDUSTRIAL ECOLOGY,,,,,,,,,,,,,,,,,,,,,,
+890,Passive mine water treatment: the correct approach?,"Kalin, M",ECOLOGICAL ENGINEERING,,,,,,,,,,,,,,,,,,,,,,
+891,"Non-OH chemistry in oxidation flow reactors for the study of atmospheric
+chemistry systematically examined by modeling","Peng, Zhe; Day, Douglas A.; Ortega, Amber M.; Palm, Brett B.; Hu, Weiwei; Stark, Harald; Li, Rui; Tsigaridis, Kostas; Brune, William H.; Jimenez, Jose L.",ATMOSPHERIC CHEMISTRY AND PHYSICS,,,,,,,,,,,,,,,,,,,,,,
+892,"Long-term development of phosphorus and nitrogen loads through the
+subsurface and surface water systems of drainage basins","Darracq, Amelie; Lindgren, Georg; Destouni, Georgia",GLOBAL BIOGEOCHEMICAL CYCLES,,,,,,,,,,,,,,,,,,,,,,
+893,"A Traditional Analysis of the First Flush Effect for Nutrients in
+Stormwater Runoff from Two Small Urban Catchments","Hathaway, J. M.; Tucker, R. S.; Spooner, J. M.; Hunt, W. F.",WATER AIR AND SOIL POLLUTION,,,,,,,,,,,,,,,,,,,,,,
+894,"Regional sediment deficits in the Dutch lowlands: Implications for
+long-term land-use options","van der Meulen, Michiel J.; van der Spek, Ad J. F.; de Lange, Ger; Gruijters, Stephan H. L. L.; van Gessel, Serge F.; Nguyen, Buu-Long; Maljers, Denise; Schokker, Jeroen; Mulder, Jan P. M.; van der Krogt, Rob A. A.",JOURNAL OF SOILS AND SEDIMENTS,,,,,,,,,,,,,,,,,,,,,,
+895,The growth and survival of plants in urban green roofs in a dry climate,"Razzaghmanesh, M.; Beecham, S.; Kazemi, F.",SCIENCE OF THE TOTAL ENVIRONMENT,,,,,,,,,,,,,,,,,,,,,,
+896,"Assessment of the nutrient removal effectiveness of floating treatment
+wetlands applied to urban retention ponds","Wang, Chih-Yu; Sample, David J.",JOURNAL OF ENVIRONMENTAL MANAGEMENT,,,,,,,,,,,,,,,,,,,,,,
+897,"Towards sustainable growth in nature-based tourism destinations:
+Clients' views of land use options in Finnish Lapland","Tyrvainen, Liisa; Uusitalo, Marja; Silvennoinen, Harri; Hasu, Eija",LANDSCAPE AND URBAN PLANNING,,,,,,,,,,,,,,,,,,,,,,
+898,"Salt-induced land and water degradation in the Aral Sea basin: A
+challenge to sustainable agriculture in Central Asia","Qadir, Manzoor; Noble, Andrew D.; Qureshi, Asad S.; Gupta, Raj K.; Yuldashev, Tulkun; Karimov, Akmal",NATURAL RESOURCES FORUM,,,,,,,,,,,,,,,,,,,,,,
+899,"Streetscale bioretention basins in Melbourne and their effect on local
+biodiversity","Kazemi, Fatemeh; Beecham, Simon; Gibbs, Joan",ECOLOGICAL ENGINEERING,,,,,,,,,,,,,,,,,,,,,,
+900,Water quality and quantity investigation of green roofs in a dry climate,"Beecham, S.; Razzaghmanesh, M.",WATER RESEARCH,,,,,,,,,,,,,,,,,,,,,,
+901,"Classification and assessment of water bodies as adaptive structural
+measures for flood risk management planning","McMinn, William R.; Yang, Qinli; Scholz, Miklas",JOURNAL OF ENVIRONMENTAL MANAGEMENT,,,,,,,,,,,,,,,,,,,,,,
+902,"Transpiration and Root Development of Urban Trees in Structural Soil
+Stormwater Reservoirs","Bartens, Julia; Day, Susan D.; Harris, J. Roger; Wynn, Theresa M.; Dove, Joseph E.",ENVIRONMENTAL MANAGEMENT,,,,,,,,,,,,,,,,,,,,,,
+903,"Legume-based farming in southern Australia: developing sustainable
+systems to meet environmental challenges","Ridley, AM; Mele, PM; Beverly, CR",SOIL BIOLOGY & BIOCHEMISTRY,,,,,,,,,,,,,,,,,,,,,,
+904,"Prioritizing Tiger Conservation through Landscape Genetics and Habitat
+Linkages","Yumnam, Bibek; Jhala, Yadvendradev V.; Qureshi, Qamar; Maldonado, Jesus E.; Gopal, Rajesh; Saini, Swati; Srinivas, Y.; Fleischer, Robert C.",PLOS ONE,,,,,,,,,,,,,,,,,,,,,,
+905,"Beyond on-site mitigation: An integrated, multi-scale approach to
+environmental mitigation and stewardship for transportation projects","Weber, Theodore C.; Allen, William L.",LANDSCAPE AND URBAN PLANNING,,,,,,,,,,,,,,,,,,,,,,
+906,"Photosynthesis and water use by two Sedum species in green roof
+substrate","Starry, O.; Lea-Cox, J. D.; Kim, J.; van Iersel, M. W.",ENVIRONMENTAL AND EXPERIMENTAL BOTANY,,,,,,,,,,,,,,,,,,,,,,
+907,"An assessment of landscape characteristics affecting estuarine nitrogen
+loading in an urban watershed","Yang, Xiaojun",JOURNAL OF ENVIRONMENTAL MANAGEMENT,,,,,,,,,,,,,,,,,,,,,,
+908,Sediment management in sustainable urban drainage system ponds,"Heal, Kv.; Hepburn, D. A.; Lunn, R. J.",WATER SCIENCE AND TECHNOLOGY,,,,,,,,,,,,,,,,,,,,,,
+909,"Evaluation of three vegetation treatments in bioretention gardens in a
+semi-arid climate","Houdeshel, C. Dasch; Hultine, Kevin R.; Johnson, Nancy Collins; Porneroy, Christine A.",LANDSCAPE AND URBAN PLANNING,,,,,,,,,,,,,,,,,,,,,,
+910,"The raft of the Saint-Jean River, Gaspe (Quebec, Canada): A dynamic
+feature trapping most of the wood transported from the catchment","Boivin, Maxime; Buffin-Belanger, Thomas; Piegay, Herve",GEOMORPHOLOGY,,,,,,,,,,,,,,,,,,,,,,
+911,Systemic solutions for multi-benefit water and environmental management,"Everard, Mark; McInnes, Robert",SCIENCE OF THE TOTAL ENVIRONMENT,,,,,,,,,,,,,,,,,,,,,,
+912,More amphibians than expected in highway stormwater ponds,"Le Viol, Isabelle; Chiron, Francois; Julliard, Romain; Kerbiriou, Christian",ECOLOGICAL ENGINEERING,,,,,,,,,,,,,,,,,,,,,,
+913,"Factors affecting terrestrial invertebrate diversity in bioretention
+basins in an Australian urban environment","Kazemi, Fatemeh; Beecham, Simon; Gibbs, Joan; Clay, Roger",LANDSCAPE AND URBAN PLANNING,,,,,,,,,,,,,,,,,,,,,,
+914,"The diversity of sewer sediments and the consequences for sewer flow
+quality modelling","Jack, AG; Petrie, MM; Ashley, RM",WATER SCIENCE AND TECHNOLOGY,,,,,,,,,,,,,,,,,,,,,,
+915,"Salt tolerant plants increase nitrogen removal from biofiltration
+systems affected by saline stormwater","Szota, Christopher; Farrell, Claire; Livesley, Stephen J.; Fletcher, Tim D.",WATER RESEARCH,,,,,,,,,,,,,,,,,,,,,,
+916,"Exploring social and cultural norms to promote ecologically sensitive
+residential garden design","Uren, Hannah V.; Dzidic, Peta L.; Bishop, Brian J.",LANDSCAPE AND URBAN PLANNING,,,,,,,,,,,,,,,,,,,,,,
+917,Bioretention Design for Xeric Climates Based on Ecological Principles,"Houdeshel, C. Dasch; Pomeroy, Christine A.; Hultine, Kevin R.",JOURNAL OF THE AMERICAN WATER RESOURCES ASSOCIATION,,,,,,,,,,,,,,,,,,,,,,
+918,"Variation in the instream dissolved inorganic nitrogen response between
+and within rainstorm events in an urban watershed","Rosenzweig, Bernice R.; Moon, Hee Sun; Smith, James A.; Baeck, Mary Lynn; Jaffe, Peter R.",JOURNAL OF ENVIRONMENTAL SCIENCE AND HEALTH PART A-TOXIC/HAZARDOUS SUBSTANCES & ENVIRONMENTAL ENGINEERING,,,,,,,,,,,,,,,,,,,,,,
+919,"EVALUATION OF WATER MANAGEMENT STRATEGIES FOR ACID SULFATE SOILS USING A
+SIMULATION-MODEL - A CASE-STUDY IN INDONESIA","BRONSWIJK, JJB; GROENENBERG, JE; RITSEMA, CJ; VANWIJK, ALM; NUGROHO, K",AGRICULTURAL WATER MANAGEMENT,,,,,,,,,,,,,,,,,,,,,,
+920,"Response of Soil-Associated Microbial Communities to Intrusion of Coal
+Mine-Derived Acid Mine Drainage","Brantner, Justin S.; Senko, John M.",ENVIRONMENTAL SCIENCE & TECHNOLOGY,,,,,,,,,,,,,,,,,,,,,,
+921,"DEVELOPING A SUSTAINABLE PHYTOMANAGEMENT STRATEGY FOR EXCESSIVE SELENIUM
+IN WESTERN UNITED STATES AND INDIA","Banuelos, G. S.; Dhillon, K. S.",INTERNATIONAL JOURNAL OF PHYTOREMEDIATION,,,,,,,,,,,,,,,,,,,,,,
+922,"Social and economic aspects of peatland management in Northern Europe,
+with particular reference to the English case","Rawlins, A.; Morris, J.",GEODERMA,,,,,,,,,,,,,,,,,,,,,,
+923,"The development of a 2,2 '-azinobis-(3-ethyl-benzothiazoline-6-sulfonic
+acid) radical cation decolourisation assay for evaluating total
+antioxidant status in an alga used to monitor environmental impacts in
+urban aquatic habitats","Johnstone, C; Day, JG; Staines, H; Benson, EE",ECOLOGICAL INDICATORS,,,,,,,,,,,,,,,,,,,,,,
+924,"Effect of seawater aerosol on leaves of six plant species potentially
+useful for ornamental purposes in coastal areas","Ferrante, Antonio; Trivellini, Alice; Malorgio, Fernando; Carmassi, Giulia; Vernieri, Paolo; Serra, Giovanni",SCIENTIA HORTICULTURAE,,,,,,,,,,,,,,,,,,,,,,
+925,"Vegetation pattern divergence between dry and wet season in a semiarid
+savanna - Spatio-temporal dynamics of plant diversity in northwest
+Namibia","Hassler, S. K.; Kreyling, J.; Beierkuhnlein, C.; Eisold, J.; Samimi, C.; Wagenseil, H.; Jentsch, A.",JOURNAL OF ARID ENVIRONMENTS,,,,,,,,,,,,,,,,,,,,,,
+926,"Macrophyte zonation in stormwater wetlands: getting it right! A case
+study from subtropical Australia","Greenway, M.; Jenkins, G.; Polson, C.",WATER SCIENCE AND TECHNOLOGY,,,,,,,,,,,,,,,,,,,,,,
+927,"Low carbon emission development strategies for Jambi, Indonesia:
+simulation and trade-off analysis using the FALLOW model","Mulia, Rachmat; Widayati, Atiek; Suyanto; Agung, Putra; Zulkarnain, Muhammad Thoha",MITIGATION AND ADAPTATION STRATEGIES FOR GLOBAL CHANGE,,,,,,,,,,,,,,,,,,,,,,
+928,"Rapid decision support tool based on novel ecosystem service variables
+for retrofitting of permeable pavement systems in the presence of trees","Scholz, Miklas; Uzomah, Vincent C.",SCIENCE OF THE TOTAL ENVIRONMENT,,,,,,,,,,,,,,,,,,,,,,
+929,"Middle to Late Holocene landscape changes and geoarchaeological
+implications in the marshes of the Dives estuary (NW France)","Lespez, Laurent; Clet-Pellerin, Martine; Davidson, Robert; Hermier, Guillaume; Carpentier, Vincent; Cador, Jean-Michel",QUATERNARY INTERNATIONAL,,,,,,,,,,,,,,,,,,,,,,
+930,"Sustainable stormwater management at Fornebu - from an airport to an
+industrial and residential area of the city of Oslo, Norway","Astebol, SO; Hvitved-Jacobson, T; Simonsen, O",SCIENCE OF THE TOTAL ENVIRONMENT,,,,,,,,,,,,,,,,,,,,,,
+931,Modeling the capacity of riverscapes to support beaver dams,"Macfarlane, William W.; Wheaton, Joseph M.; Bouwes, Nicolaas; Jensen, Martha L.; Gilbert, Jordan T.; Hough-Snee, Nate; Shivik, John A.",GEOMORPHOLOGY,,,,,,,,,,,,,,,,,,,,,,
+932,"A regenerative urban stormwater management methodology: the journey of a
+Mediterranean city","Perales-Momparler, Sara; Andres-Domenech, Ignacio; Andreu, Joaquin; Escuder-Bueno, Ignacio",JOURNAL OF CLEANER PRODUCTION,,,,,,,,,,,,,,,,,,,,,,
+933,"Concepts for the sustainable management of multi-scale flow systems: the
+groundwater system within the Laufen Basin, Switzerland","Huggenberger, Peter; Epting, Jannis; Scheidler, Stefan",ENVIRONMENTAL EARTH SCIENCES,,,,,,,,,,,,,,,,,,,,,,
+934,"Modelling of stormwater biofilters under random hydrologic variability:
+a case study of a car park at Monash University, Victoria (Australia)","Daly, E.; Deletic, A.; Hatt, B. E.; Fletcher, T. D.",HYDROLOGICAL PROCESSES,,,,,,,,,,,,,,,,,,,,,,
+935,"Water quantity and quality response of a green roof to storm events:
+Experimental and monitoring observations","Carpenter, Corey M. G.; Todorov, Dimitar; Driscoll, Charles T.; Montesdeoca, Mario",ENVIRONMENTAL POLLUTION,,,,,,,,,,,,,,,,,,,,,,
+936,"Effects of long term raw pig slurry inputs on nutrient and metal
+contamination of tropical volcanogenic soils, Uvea Island (South
+Pacific)","Gunkel-Grillon, P.; Roth, E.; Laporte-Magoni, C.; Le Mestre, M.",SCIENCE OF THE TOTAL ENVIRONMENT,,,,,,,,,,,,,,,,,,,,,,
+937,"Characterization""","Wario, Hussein T.; Roba, Hassan G.; Kaufmann, Brigitte",ENVIRONMENTAL MANAGEMENT,,,,,,,,,,,,,,,,,,,,,,
+938,"The socio-ecological drivers of forest degradation in part of the
+tropical peatlands of Central Kalimantan, Indonesia","Medrilzam, Medrilzam; Dargusch, Paul; Herbohn, John; Smith, Carl",FORESTRY,,,,,,,,,,,,,,,,,,,,,,
+939,"Stormwater quality improvement potential of an urbanised catchment using
+water sensitive retrofits into public parks","Segaran, Ramesh Raja; Lewis, Megan; Ostendorf, Bertram",URBAN FORESTRY & URBAN GREENING,,,,,,,,,,,,,,,,,,,,,,
+940,"Stormwater harvesting and WSUD frequent flow management: a compatibility
+analysis","Brodie, I.",WATER SCIENCE AND TECHNOLOGY,,,,,,,,,,,,,,,,,,,,,,
+941,GREEN SITE DESIGN: STRATEGIES FOR STORM WATER MANAGEMENT,"Cook, Edward A.",JOURNAL OF GREEN BUILDING,,,,,,,,,,,,,,,,,,,,,,
+942,"Optimum combination of water drainage, water supply and eco-environment
+protection in coal-accumulated basin of North China","Wu, Q; Dong, DL; Shi, ZH; Wu, X; Sun, WD; Ye, GJ; Li, SW; Liu, JT",SCIENCE IN CHINA SERIES D-EARTH SCIENCES,,,,,,,,,,,,,,,,,,,,,,
+943,"Stormwater nutrient attenuation in a constructed wetland with
+alternating surface and subsurface flow pathways: Event to annual
+dynamics","Adyel, Tanveer M.; Oldham, Carolyn E.; Hipsey, Matthew R.",WATER RESEARCH,,,,,,,,,,,,,,,,,,,,,,
+944,"The conservation of the Shahr-e-Zohak archaeological site (central
+Afghanistan): Geomorphological processes and ecosystem-based mitigation","Margottini, Claudio; Fidolini, Francesco; Iadanza, Carla; Trigila, Alessandro; Ubelmann, Yves",GEOMORPHOLOGY,,,,,,,,,,,,,,,,,,,,,,
+945,"The performance of plant species in removing nutrients from stormwater
+in biofiltration systems in Cape Town","Milandri, S. G.; Winter, K. J.; Chimphango, S. B. M.; Armitage, N. P.; Mbui, D. N.; Jackson, G. E.; Liebau, V.",WATER SA,,,,,,,,,,,,,,,,,,,,,,
+946,"Assessing the potential for nutrient leaching from beneath grazed
+leguminous swards at four European sites","Sulas, L.; Piluzza, G.; Rochon, J. J.; Goby, J. P.; Greef, J. M.; Soelter, U.; Headon, D.; Scholefield, D.",GRASS AND FORAGE SCIENCE,,,,,,,,,,,,,,,,,,,,,,
+947,"Restoration and rational use of degraded saline reed wetlands: A case
+study in western Songnen Plain, China",Wen Bolong; Liu Xingtu; Li Xiujun; Yang Fuyi; Li Xiaoyu,CHINESE GEOGRAPHICAL SCIENCE,,,,,,,,,,,,,,,,,,,,,,
+948,"Attenuating the surface Urban Heat Island within the Local Thermal Zones
+through land surface modification","Wang, Jiong; Ouyang, Wanlu",JOURNAL OF ENVIRONMENTAL MANAGEMENT,,,,,,,,,,,,,,,,,,,,,,
+949,"Colonization of a newly constructed urban wetland by mosquitoes in
+England: implications for nuisance and vector species","Medlock, Jolyon M.; Vaux, Alexander G. C.",JOURNAL OF VECTOR ECOLOGY,,,,,,,,,,,,,,,,,,,,,,
+950,"Coastal saltmarsh managed realignment drives rapid breach inlet and
+external creek evolution, Freiston Shore (UK)","Friess, Daniel A.; Moeller, Iris; Spencer, Thomas; Smith, Geoffrey M.; Thomson, Andrew G.; Hill, Ross A.",GEOMORPHOLOGY,,,,,,,,,,,,,,,,,,,,,,
+951,"The effect of light availability on leaf area index, biomass production
+and plant species composition of park grasslands in Warsaw","Dabrowski, P.; Pawluskiewicz, B.; Kalaji, H. M.; Baczewska, A. H.",PLANT SOIL AND ENVIRONMENT,,,,,,,,,,,,,,,,,,,,,,
+952,"Sustainable land-use in Peruvian flood plain forests: options, planning
+and implementation","Nebel, G",FOREST ECOLOGY AND MANAGEMENT,,,,,,,,,,,,,,,,,,,,,,
+953,"Sectional analysis of stormwater treatment performance of a constructed
+wetland","Mangangka, Isri R.; Liu, An; Egodawatta, Prasanna; Goonetilleke, Ashantha",ECOLOGICAL ENGINEERING,,,,,,,,,,,,,,,,,,,,,,
+954,Towards a new climate economics: research areas and prospects,"He, Jiankun; Teng, Fei; Qi, Ye",CHINESE JOURNAL OF POPULATION RESOURCES AND ENVIRONMENT,,,,,,,,,,,,,,,,,,,,,,
+955,"Generalizable principles for ecosystem stewardship-based management of
+social-ecological systems: lessons learned from Alaska","Hansen, Winslow D.",ECOLOGY AND SOCIETY,,,,,,,,,,,,,,,,,,,,,,
+956,"Low impact urban design and development: Catchment-based structure
+planning to optimise ecological outcomes","van Roon, Marjorie",URBAN WATER JOURNAL,,,,,,,,,,,,,,,,,,,,,,
+957,"The Australian Centre for Minesite Rehabilitation Research - An
+initiative to meet the strategic research needs for sustainable mining
+rehabilitation","Bell, LC",WATER AIR AND SOIL POLLUTION,,,,,,,,,,,,,,,,,,,,,,
+958,"ECOLOGICAL-ECONOMIC ASSESSMENT OF A SEDIMENT-PRODUCING STREAM BEHIND
+LOWER-GRANITE DAM ON THE LOWER SNAKE RIVER, USA","BRUSVEN, MA; WALKER, DJ; PAINTER, KM; BIGGAM, RC",REGULATED RIVERS-RESEARCH & MANAGEMENT,,,,,,,,,,,,,,,,,,,,,,
+959,"An EcoCity model for regulating urban land cover structure and thermal
+environment: Taking Beijing as an example",Kuang WenHui; Yang TianRong; Liu Ailin; Zhang Chi; Lu DengSheng; Chi WenFeng,SCIENCE CHINA-EARTH SCIENCES,,,,,,,,,,,,,,,,,,,,,,
+960,"Evaluation of DRAINMOD-DSSAT simulated effects of controlled drainage on
+crop yield, water balance, and water quality for a corn-soybean cropping
+system in central Iowa","Negm, Lamyaa M.; Youssef, Mohamed A.; Jaynes, Dan B.",AGRICULTURAL WATER MANAGEMENT,,,,,,,,,,,,,,,,,,,,,,
+961,"Temporal dynamics of stormwater nutrient attenuation of an urban
+constructed wetland experiencing summer low flows and macrophyte
+senescence","Adyel, Tanveer M.; Hipsey, Matthew R.; Oldham, Carolyn E.",ECOLOGICAL ENGINEERING,,,,,,,,,,,,,,,,,,,,,,
+962,"The challenge of managing soil functions at multiple scales: An
+optimisation study of the synergistic and antagonistic trade-offs
+between soil functions in Ireland","Valujeva, Kristine; O'Sullivan, Lilian; Gutzler, Carsten; Fealy, Reamonn; Schulte, Rogier P. O.",LAND USE POLICY,,,,,,,,,,,,,,,,,,,,,,
+963,"Sustainable grassland systems: a modelling perspective based on the
+North Wyke Farm Platform","Wu, L.; Zhang, X.; Griffith, B. A.; Misselbrook, T. H.",EUROPEAN JOURNAL OF SOIL SCIENCE,,,,,,,,,,,,,,,,,,,,,,
+964,"Fine scale patterns of genetic partitioning in the rediscovered African
+crocodile, Crocodylus suchus (Saint-Hilaire 1807)","Cunningham, Seth W.; Shirley, Matthew H.; Hekkala, Evon R.",PEERJ,,,,,,,,,,,,,,,,,,,,,,
+965,"Simulation of the groundwater balance in selected recharge areas on the
+German Baltic Sea coast","Kliesch, Stefanie; Behr, Leonore; Salzmann, Thomas; Miegel, Konrad",HYDROLOGIE UND WASSERBEWIRTSCHAFTUNG,,,,,,,,,,,,,,,,,,,,,,
+966,Management of Urban Wastewater on One of the Galapagos Islands,"Ragazzi, Marco; Catellani, Riccardo; Rada, Elena Cristina; Torretta, Vincenzo; Salazar-Valenzuela, Xavier",SUSTAINABILITY,,,,,,,,,,,,,,,,,,,,,,
+967,"Ecosystem ecology as a framework for organizing and advancing greenroof
+research","Starry, O. S.",ISRAEL JOURNAL OF ECOLOGY & EVOLUTION,,,,,,,,,,,,,,,,,,,,,,
+968,"Historical resurveys reveal persistence of smoky mouse (Pseudomys
+fumeus) populations over the long-term and through the short-term
+impacts of fire","Burns, Phoebe A.; Rowe, Karen M. C.; Holmes, Benjamin P.; Rowe, Kevin C.",WILDLIFE RESEARCH,,,,,,,,,,,,,,,,,,,,,,
+969,"Smart SUDS: recognising the multiple-benefit potential of sustainable
+surface water management systems","Jose, Roshni; Wade, Rebecca; Jefferies, Chris",WATER SCIENCE AND TECHNOLOGY,,,,,,,,,,,,,,,,,,,,,,
+970,"The role of vegetation analysis by remote sensing and GIS technology for
+planning sustainable development: A case study for the Santos estuary
+drainage basin (Brazil)","Almeida, P.; Altobelli, A.; D'Aietti, L.; Feoli, E.; Ganis, P.; Giordano, F.; Napolitano, R.; Simonetti, C.",PLANT BIOSYSTEMS,,,,,,,,,,,,,,,,,,,,,,
+971,"Selecting Sustainable Drainage Structures Based on Ecosystem Service
+Variables Estimated by Different Stakeholder Groups","Scholz, Miklas; Uzomah, Vincent C.; Almuktar, Suhad A. A. A. N.; Radet-Taligot, Julie",WATER,,,,,,,,,,,,,,,,,,,,,,
+972,"Water sensitive residential developments: Application of LIUDD
+principles and methods in the Netherlands, Australia and New Zealand","van Roon, Marjorie Ruth",URBAN WATER JOURNAL,,,,,,,,,,,,,,,,,,,,,,
+973,"The housing-forest interface: Testing structural approaches for
+protecting suburban natural systems following development","McWilliam, Wendy; Eagles, Paul; Seasons, Mark; Brown, Robert",URBAN FORESTRY & URBAN GREENING,,,,,,,,,,,,,,,,,,,,,,
+974,"Assessing gaps in irrigated agricultural productivity through satellite
+earth observations-A case study of the Fergana Valley, Central Asia","Loew, Fabian; Biradar, Chandrashekhar; Fliemann, Elisabeth; Lamers, John P. A.; Conrad, Christopher",INTERNATIONAL JOURNAL OF APPLIED EARTH OBSERVATION AND GEOINFORMATION,,,,,,,,,,,,,,,,,,,,,,
+975,"Habitat Mapping of the Leopard Cat (Prionailurus bengalensis) in South
+Korea Using GIS","Lee, Moung-Jin; Song, Wonkyong; Lee, Saro",SUSTAINABILITY,,,,,,,,,,,,,,,,,,,,,,
+976,"Sustainable drainage system (SuDS) ponds in Inverness, UK and the
+favourable conservation status of amphibians","O'Brien, C. David",URBAN ECOSYSTEMS,,,,,,,,,,,,,,,,,,,,,,
+977,"IDENTIFYING SENSITIVE INDICES IN THE RESPONSE OF AQUATIC BIOTA TO
+LANDSCAPE PATTERN CHANGES: A CASE STUDY OF THE TAIZI RIVER BASIN IN
+NORTH CHINA","Zhao, Y. W.; Xu, M. J.; Yu, L.; Yin, X. A.; Zhang, Y.",RIVER RESEARCH AND APPLICATIONS,,,,,,,,,,,,,,,,,,,,,,
+978,"An appraisal of the qualifying role of hydraulic heritage systems: a
+case study of Qanats in central Iran","Harandi, Mehdi F.; de Vries, Marc J.",Water Science and Technology-Water Supply,,,,,,,,,,,,,,,,,,,,,,
+979,"HEALTH IMPACT ASSESSMENTS A Tool for Designing Climate Change Resilience
+into Green Building and Planning Projects","Houghton, Adele",JOURNAL OF GREEN BUILDING,,,,,,,,,,,,,,,,,,,,,,
+980,"Beneficial effects on water management of simple hydraulic structures in
+wetland systems: the Vallevecchia case study, Italy","Carrer, G. M.; Bonato, M.; Smania, D.; Barausse, A.; Comis, C.; Palmeri, L.",WATER SCIENCE AND TECHNOLOGY,,,,,,,,,,,,,,,,,,,,,,
+981,"Potential contribution of geomorphology to tropical mountain
+development: The case of the MANRECUR project","Slaymaker, Av",GEOMORPHOLOGY,,,,,,,,,,,,,,,,,,,,,,
+982,"A quantified study method and its application to sustainable management
+of water resources in arid basins","Zuo, QiTing; Zhou, KeFa; Xia, Jun; Chen, Xi; Wang, YongQin",SCIENCE IN CHINA SERIES D-EARTH SCIENCES,,,,,,,,,,,,,,,,,,,,,,
+983,"A morphological and economic examination of plunge pools as energy
+dissipaters in urban stream channels","Allan, CJ; Estes, CJ",JOURNAL OF THE AMERICAN WATER RESOURCES ASSOCIATION,,,,,,,,,,,,,,,,,,,,,,
+984,ON EVOLUTION OF MAN-LAND SYSTEM IN OASIS-Taking Minqin Basin as a Case,Miao Lei-lei; Cai Wei-bin; Wang Ai-min,CHINESE GEOGRAPHICAL SCIENCE,,,,,,,,,,,,,,,,,,,,,,
+985,"Landscape Greening Policies-based Land Use/Land Cover Simulation for
+Beijing and Islamabad-An Implication of Sustainable Urban Ecosystems","Naeem, Shahid; Cao, Chunxiang; Fatima, Khunsa; Najmuddin, Omaid; Acharya, Bipin Kumar",SUSTAINABILITY,,,,,,,,,,,,,,,,,,,,,,
+986,A Framework to Assess Where and How Children Connect to Nature.,"Giusti, Matteo; Svane, Ulrika; Raymond, Christopher M.; Beery, Thomas H.",FRONTIERS IN PSYCHOLOGY,,,,,,,,,,,,,,,,,,,,,,
+987,"Using water management infrastructure to address both flood risk and the
+urban heat island","Richards, Daniel R.; Edwards, Peter J.",INTERNATIONAL JOURNAL OF WATER RESOURCES DEVELOPMENT,,,,,,,,,,,,,,,,,,,,,,
+988,"Lake Erie, phosphorus, and microcystin: Is it really the farmer's fault?","Smith, D. R.; Wilson, R. S.; King, K. W.; Zwonitzer, M.; McGrath, J. M.; Harmel, R. D.; Haney, R. L.; Johnson, L. T.",JOURNAL OF SOIL AND WATER CONSERVATION,,,,,,,,,,,,,,,,,,,,,,
+989,Enhanced roadside drainage system for environmentally sensitive areas,"Trenouth, William R.; Gharabaghi, Bahram; Farghaly, Hani",SCIENCE OF THE TOTAL ENVIRONMENT,,,,,,,,,,,,,,,,,,,,,,
+990,"Exploring Psychological and Aesthetic Approaches of Bio-Retention
+Facilities in the Urban Open Space","Kim, Suyeon; An, Kyungjin",SUSTAINABILITY,,,,,,,,,,,,,,,,,,,,,,
+991,"Growing substrates for aromatic plant species in green roofs and water
+runoff quality: pilot experiments in a Mediterranean climate","Monteiro, Cristina M.; Calheiros, Cristina S. C.; Palha, Paulo; Castro, Paula M. L.",WATER SCIENCE AND TECHNOLOGY,,,,,,,,,,,,,,,,,,,,,,
+992,"Urban tree growth and their dependency on infiltration rates in
+structural soil and structural cells","Ow, Lai Fern; Ghosh, Subhadip",URBAN FORESTRY & URBAN GREENING,,,,,,,,,,,,,,,,,,,,,,
+993,"Wet season hydrological performance of green roofs using native species
+under Mediterranean climate","Brandao, Carolina; Cameira, Maria do Rosario; Valente, Fernanda; de Carvalho, Ricardo Cruz; Paco, Teresa A.",ECOLOGICAL ENGINEERING,,,,,,,,,,,,,,,,,,,,,,
+994,"Assessing the environmental sustainability of cultivation systems in
+wetlands using the WET-Health framework in Zimbabwe","Marambanyika, Thomas; Beckedahl, Heinz; Ngetar, Njoya Silas; Dube, Timothy",PHYSICAL GEOGRAPHY,,,,,,,,,,,,,,,,,,,,,,
+995,"The Brookside Farm Wetland Ecosystem Treatment (WET) System: A
+Low-Energy Methodology for Sewage Purification, Biomass Production
+(Yield), Flood Resilience and Biodiversity Enhancement","Abrahams, Julian C.; Coupe, Stephen J.; Sanudo-Fontaneda, Luis A.; Schmutz, Ulrich",SUSTAINABILITY,,,,,,,,,,,,,,,,,,,,,,
+996,"Ground Water Modelling for the Restoration of Carex Communities on a
+Sandy River Terrace","Brandyk, Andrzej; Majewski, Grzegorz; Kiczko, Adam; Boczon, Andrzej; Wrobel, Michal; Porretta-Tomaszewska, Paola",SUSTAINABILITY,,,,,,,,,,,,,,,,,,,,,,
+997,"Rise and decline of the fishery industry in the Aydarkul-Arnasay Lake
+System (Uzbekistan): effects of reservoir management, irrigation farming
+and climate change on an unstable ecosystem","Groll, M.; Kulmatov, R.; Mullabaev, N.; Opp, C.; Kulmatova, D.",ENVIRONMENTAL EARTH SCIENCES,,,,,,,,,,,,,,,,,,,,,,
+998,"Afforestations and wetlands, are they a good combination? Study of water
+fluxes in two cases of Patagonian wetlands","Weigandt, M.; Gyenge, J.; Fernandez, M. E.; Varela, S.; Schlichter, T.",ECOHYDROLOGY,,,,,,,,,,,,,,,,,,,,,,
+999,Advance agriculture in the desert: the Israeli case story,"Katzir, Raanan",SCIENCES IN COLD AND ARID REGIONS,,,,,,,,,,,,,,,,,,,,,,
+1000,"Rapid assessment system based on ecosystem services for retrofitting of
+sustainable drainage systems","Scholz, Miklas",ENVIRONMENTAL TECHNOLOGY,,,,,,,,,,,,,,,,,,,,,,
+1001,FINANCING IRRIGATION,"Brelle, Francois; Dressayre, Etienne",IRRIGATION AND DRAINAGE,,,,,,,,,,,,,,,,,,,,,,
+1002,Recycling soil nutrients by using channel deposits as fertilizers?,"Leue, Martin; Lang, Friederike",NUTRIENT CYCLING IN AGROECOSYSTEMS,,,,,,,,,,,,,,,,,,,,,,
+1003,"Vegetation Cover and Long-Term Conservation of Radioactive Waste
+Packages: The Case Study of the CSM Waste Disposal Facility (Manche
+District, France)","Petit-Berghem, Yves; Lemperiere, Guy",ENVIRONMENTAL MANAGEMENT,,,,,,,,,,,,,,,,,,,,,,
+1004,"Towards an operational methodology to optimize ecosystem services
+provided by urban soils","Anne, Blanchart; Geoffroy, Sere; Cherel, Johan; Warot, Gilles; Marie, Stas; Noel, Consales Jean; Louis, Morel Jean; Christophe, Schwartz",LANDSCAPE AND URBAN PLANNING,,,,,,,,,,,,,,,,,,,,,,
+1005,Soil sealing and unsealing: State of the art and examples,"Tobias, Silvia; Conen, Franz; Duss, Adrian; Wenzel, Leonore M.; Buser, Christine; Alewell, Christine",LAND DEGRADATION & DEVELOPMENT,,,,,,,,,,,,,,,,,,,,,,
+1006,"Simulated Sensitivity of Urban Green Infrastructure Practices to Climate
+Change","Sarkar, Saumya; Butcher, Jonathan B.; Johnson, Thomas E.; Clark, Christopher M.",EARTH INTERACTIONS,,,,,,,,,,,,,,,,,,,,,,
+1007,"Multiple uses of small reservoirs in crop-livestock agro-ecosystems of
+Volta basin: Implications for livestock management","Ayantunde, Augustine A.; Cofie, Olufunke; Barron, Jennie",AGRICULTURAL WATER MANAGEMENT,,,,,,,,,,,,,,,,,,,,,,
+1008,Folded tubular photometer for atmospheric measurements of NO2 and NO,"Birks, John W.; Andersen, Peter C.; Williford, Craig J.; Turnipseed, Andrew A.; Strunk, Stanley E.; Ennis, Christine A.; Mattson, Erick",ATMOSPHERIC MEASUREMENT TECHNIQUES,,,,,,,,,,,,,,,,,,,,,,
+1009,"Objectives and Indexes for Implementation of Sponge CitiesA Case Study
+of Changzhou City, China","Li, Zhengzhao; Dong, Mingjing; Wong, Tony; Wang, Jianbing; Kumar, Alagarasan Jagadeesh; Singh, Rajendra Prasad",WATER,,,,,,,,,,,,,,,,,,,,,,
+1010,"Spatio-Temporal Patterns of Urban Forest Basal Area under China's Rapid
+Urban Expansion and Greening: Implications for Urban Green
+Infrastructure Management","Ren, Zhibin; He, Xingyuan; Zheng, Haifeng; Wei, Hongxu",FORESTS,,,,,,,,,,,,,,,,,,,,,,
+1011,Nature diversity and well-being in old age,"Rantakokko, Merja; Keskinen, Kirsi E.; Kokko, Katja; Portegijs, Erja",AGING CLINICAL AND EXPERIMENTAL RESEARCH,,,,,,,,,,,,,,,,,,,,,,
+1012,"Green Infrastructure and Ecological Corridors: A Regional Study
+Concerning Sardinia","Cannas, Ignazio; Lai, Sabrina; Leone, Federica; Zoppi, Corrado",SUSTAINABILITY,,,,,,,,,,,,,,,,,,,,,,
+1013,"Viability of Green Roofs as a Flood Mitigation Element in the Central
+Region of Chile","Mora-Melia, Daniel; Lopez-Aburto, Carlos S.; Ballesteros-Perez, Pablo; Munoz-Velasco, Pedro",SUSTAINABILITY,,,,,,,,,,,,,,,,,,,,,,
+1014,"Nitrogen Removal in Greywater Living Walls: Insights into the Governing
+Mechanisms","Fowdar, Harsha S.; Deletic, Ana; Hatt, Belinda E.; Cook, Perran L. M.",WATER,,,,,,,,,,,,,,,,,,,,,,
+1015,"Exploring the co-benefits of urban green infrastructure improvements for
+businesses and workers' wellbeing","Cinderby, Steve; Bagwell, Sue",AREA,,,,,,,,,,,,,,,,,,,,,,
+1016,"LANDSCAPE CONNECTIVITY IN THE UPPER MZIMVUBU RIVER CATCHMENT: AN
+ASSESSMENT OF ANTHROPOGENIC INFLUENCES ON SEDIMENT CONNECTIVITY","van der Waal, Bennie; Rowntree, Kate",LAND DEGRADATION & DEVELOPMENT,,,,,,,,,,,,,,,,,,,,,,
+1017,"Potential of combined Water Sensitive Urban Design systems for salinity
+treatment in urban environments","Kazemi, Fatemeh; Golzarian, Mahmood Reza; Myers, Baden",JOURNAL OF ENVIRONMENTAL MANAGEMENT,,,,,,,,,,,,,,,,,,,,,,
+1018,"Functional Land Management: Bridging the Think-Do-Gap using a
+multi-stakeholder science policy interface","O'Sullivan, Lilian; Wall, David; Creamer, Rachel; Bampa, Francesca; Schulte, Rogier P. O.",AMBIO,,,,,,,,,,,,,,,,,,,,,,
+1019,"Evaluation of LEED for Neighbourhood Development and Envision Rating
+Frameworks for Their Implementation in Poorer Countries","Manuel Diaz-Sarachaga, Jose; Jato-Espino, Daniel; Castro-Fresno, Daniel",SUSTAINABILITY,,,,,,,,,,,,,,,,,,,,,,
+1020,"CONSIDERING RESOURCES BEYOND WATER: IRRIGATION AND DRAINAGE MANAGEMENT
+IN THE CONTEXT OF THE WATER-ENERGY-FOOD NEXUS","Avellan, Tamara; Ardakanian, Reza; Perret, Sylvain R.; Ragab, Ragab; Vlotman, Willem; Zainal, Hayati; Im, Sangjun; Gany, Hafied A.",IRRIGATION AND DRAINAGE,,,,,,,,,,,,,,,,,,,,,,
+1021,"Sustainable Rainwater Utilization and Water Circulation Model for Green
+Campus Design at Tianjin University","Peng, Sen; Cui, Huiping; Ji, Min",JOURNAL OF SUSTAINABLE WATER IN THE BUILT ENVIRONMENT,,,,,,,,,,,,,,,,,,,,,,
+1022,"Building capacity on ecosystem-based adaptation strategy to cope with
+extreme events and sea-level rise on the Uruguayan coast","Carro, Inti; Seijo, Leonardo; Nagy, Gustavo J.; Lagos, Ximena; Gutierrez, Ofelia",INTERNATIONAL JOURNAL OF CLIMATE CHANGE STRATEGIES AND MANAGEMENT,,,,,,,,,,,,,,,,,,,,,,
+1023,"Exploring green infrastructure benefits at house and neighborhood scale:
+case study of Illinois, USA","Kim, Jinki",LANDSCAPE AND ECOLOGICAL ENGINEERING,,,,,,,,,,,,,,,,,,,,,,
+1024,"Spatial distribution and temporal variation of chemical properties of
+drainage watercourses in rural and peri-urban areas of Novi Sad
+(Serbia)-a case study","Savic, Radovan; Ondrasek, Gabrijel; Blagojevic, Bosko; Kovacic, Marina Bubalo; Zemunac, Rados",ENVIRONMENTAL MONITORING AND ASSESSMENT,,,,,,,,,,,,,,,,,,,,,,
+1025,"Handling the phosphorus paradox in agriculture and natural ecosystems:
+Scarcity, necessity, and burden of P","Leinweber, Peter; Bathmann, Ulrich; Buczko, Uwe; Douhaire, Caroline; Eichler-Loebermann, Bettina; Frossard, Emmanuel; Ekardt, Felix; Jarvie, Helen; Kraemer, Inga; Kabbe, Christian; Lennartz, Bernd; Mellander, Per-Erik; Nausch, Guenther; Ohtake, Hisao; Traenckner, Jens",AMBIO,,,,,,,,,,,,,,,,,,,,,,
+1026,"Enhancing the Economic Value of Large Investments in Sustainable
+Drainage Systems (SuDS) through Inclusion of Ecosystems Services
+Benefits","Urrestarazu Vincent, Santiago; Radhakrishnan, Mohanasundar; Hayde, Laszlo; Pathirana, Assela",WATER,,,,,,,,,,,,,,,,,,,,,,
+1027,"Assessment of metal and PAH profiles in SUDS soil based on an improved
+experimental procedure","Tedoldi, Damien; Chebbo, Ghassan; Pierlot, Daniel; Kovacs, Yves; Gromaire, Marie-Christine",JOURNAL OF ENVIRONMENTAL MANAGEMENT,,,,,,,,,,,,,,,,,,,,,,
+1028,Imputing plant community classifications for forest inventory plots,"Wilson, David C.; Ek, Alan R.",ECOLOGICAL INDICATORS,,,,,,,,,,,,,,,,,,,,,,
+1029,"How do people gain access to water resources in the Brazilian semiarid
+(Caatinga) in times of climate change?","Azevedo, Evaldo de Lira; Nobrega Alves, Romulo Romeu; Pereira Dias, Thelma Lucia; Molozzi, Joseline",ENVIRONMENTAL MONITORING AND ASSESSMENT,,,,,,,,,,,,,,,,,,,,,,
+1030,Information on Impacts of Climate Change and Adaptation in China,"He, X. J.",JOURNAL OF ENVIRONMENTAL INFORMATICS,,,,,,,,,,,,,,,,,,,,,,
+1031,"Spatial impacts of inorganic ligand availability and localized microbial
+community structure on mitigation of zinc laden mine water in
+sulfate-reducing bioreactors","Drennan, Dina M.; Almstrand, Robert; Ladderud, Jeffrey; Lee, Ilsu; Landkamer, Lee; Figueroa, Linda; Sharp, Jonathan O.",WATER RESEARCH,,,,,,,,,,,,,,,,,,,,,,
+1032,Geochemical modelling of heavy metals in urban stormwater biofilters,"Kabir, Md. Imran; Daly, Edoardo; Maggi, Federico",ECOLOGICAL ENGINEERING,,,,,,,,,,,,,,,,,,,,,,
+1033,"Sustainable drainage system site assessment method using urban ecosystem
+services","Mak, Chunglim; Scholz, Miklas; James, Philip",URBAN ECOSYSTEMS,,,,,,,,,,,,,,,,,,,,,,
+1034,"Sap flow in Searsia pendulina and Searsia lancea trees established on
+gold mining sites in central South Africa","Dye, P.; Naiken, V.; Clulow, A.; Prinsloo, E.; Crichton, M.; Weiersbye, I.",SOUTH AFRICAN JOURNAL OF BOTANY,,,,,,,,,,,,,,,,,,,,,,
+1035,"Valuing Multiple Benefits, and the Public Perception of SUDS Ponds","Jarvie, Joy; Arthur, Scott; Beevers, Lindsay",WATER,,,,,,,,,,,,,,,,,,,,,,
+1036,"Ecological conditions of garden and park territories of former iron
+mines (Kryvyi Rih Basin, Ukraine)","Savosko, V. M.; Tovstolyak, N. V.",UKRAINIAN JOURNAL OF ECOLOGY,,,,,,,,,,,,,,,,,,,,,,
+1037,"Evaluation of a new method for assessing resilience in urban aquatic
+social-ecological systems","Moores, Jonathan P.; Yalden, Sharleen; Gadd, Jennifer B.; Semadeni-Davies, Annette",ECOLOGY AND SOCIETY,,,,,,,,,,,,,,,,,,,,,,
+1038,"SOCIAL HOUSING AND SUSTAINABLE URBAN DEVELOPMENT: THE CASE OF GOIANIA
+METROPOLITAN REGION","Borges, Elcileni de Melo; Monteiro Antunes Barreira, Celene Cunha; da Silva Marques da Costa, Eduarda Pires Valente",GEO UERJ,,,,,,,,,,,,,,,,,,,,,,
+1039,"Justifying Water Sensitive Development: Science Informing Policy and
+Practice","van Roon, Marjorie R.",EUROPEAN JOURNAL OF SUSTAINABLE DEVELOPMENT,,,,,,,,,,,,,,,,,,,,,,
+1040,Profitability of Management Systems on German Fenlands,"Rebhann, Marco; Karatay, Yusuf Nadi; Filler, Guenther; Prochnow, Annette",SUSTAINABILITY,,,,,,,,,,,,,,,,,,,,,,
+1041,Desertification risk assessment and management program,"Akbari, M.; Ownegh, M.; Asgari, H. R.; Sadoddin, A.; Khosravi, H.",GLOBAL JOURNAL OF ENVIRONMENTAL SCIENCE AND MANAGEMENT-GJESM,,,,,,,,,,,,,,,,,,,,,,
+1042,"Strategic Framework for Sustainable Management of Drainage Systems in
+Semi-Arid Cities: An Iraqi Case Study","Nanekely, Mohammed; Scholz, Miklas; Al-Faraj, Furat",WATER,,,,,,,,,,,,,,,,,,,,,,
+1043,"Local Level Stormwater Harvesting and Reuse: A Practical Solution to the
+Water Security Challenges Faced by Urban Trees","Nichols, Peter W. B.; Lucke, Terry",SUSTAINABILITY,,,,,,,,,,,,,,,,,,,,,,
+1044,"August 2014: This Month in JoVE - Chemical Sensing Robots, Tracking
+Blood Cell Development, Rodents on the Treadmill, and Simulating Urban
+Runoff","Chao, Wendy; Kolski-Andreaco, Aaron",JOVE-JOURNAL OF VISUALIZED EXPERIMENTS,,,,,,,,,,,,,,,,,,,,,,
+1045,"THE AVENUE OF IDEAS: A SUSTAINABLE, AFFORDABLE HOUSING EXPERIMENT","Hardin, Mary; Comella, Joseph",JOURNAL OF GREEN BUILDING,,,,,,,,,,,,,,,,,,,,,,
+1046,Ecological functions within a sustainable urban drainage system,"Jackson, J. I., & Boutle, R.","11th International Conference on Urban Drainage, Edinburgh, Scotland, UK",,,,,,,,,,,,,,,,,,,,,,
+1047,Stormwater basins of the New Jersey coastal plain: Subsidies or sinks for frogs and toads?,"McCarthy, K., & Lathrop, R. G.ÿ",Urban Ecosystems,,,,,,,,,,,,,,,,,,,,,,
+1048,Streetscape biodiversity and the role of bioretention swales in an Australian urban environment.,"Kazemi, F., Beecham, S., & Gibbs, J.",Landscape and Urban Planning,,,,,,,,,,,,,,,,,,,,,,
+1049,Value of Artificial Habitats for Amphibian Reproduction in Altered Landscapes,"Brand AB1, &ÿSnodgrass JW.",Conservation Biology,,,,,,,,,,,,,,,,,,,,,,
+1050,The role of pollutant accumulation in determining the use of stormwater ponds by amphibians,"Gallagher, M. T., Snodgrass, J. W., Brand, A. B., Casey, R. E., Lev, S. M., & Van Meter, R. J.",Wetlands ecology and management,,,,,,,,,,,,,,,,,,,,,,
+1051,Amphibian use of urban stormwater wetlands: the role of natural habitat features,"Scheffers, B. R., & Paszkowski, C. A.",Landscape and Urban Plannin,,,,,,,,,,,,,,,,,,,,,,
