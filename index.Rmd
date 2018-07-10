@@ -27,7 +27,7 @@ output:
 
 [Glenn Milner - OCC](https://climateconnections.ca/)
 
-```{r}
+```{r warning=FALSE, message=FALSE}
 library(tidyverse)
 ```
 
@@ -70,7 +70,7 @@ These terms have returned 1,042 results (as of June 2018)
 
 
 ### Revise list
-```{r}
+```{r warning=FALSE, message=FALSE}
 search1.1 <- read.csv("data/WOS-lit.csv")
 search1.2 <- read.csv("data/WoSPart3-July_4_2018.csv")
 net.difference <- anti_join(search1.2, search1.1, by = "DOI")
@@ -97,7 +97,6 @@ This steps includes a. checking for duplicating, b. reviewing each instance for 
 - Irrelevant categories (e.g. political science, law, sports tourism, art)
 
 ```{r, warning=FALSE, message=FALSE}
-library(tidyverse)
 evidence <- read.csv("data/evidence.csv")
 
 excludes <- evidence %>% group_by(reason) %>% count(exclude) %>% filter(reason!="")
