@@ -29,6 +29,7 @@ output:
 
 ```{r warning=FALSE, message=FALSE}
 library(tidyverse)
+library(PRISMAstatement)
 ```
 
 Global urbanization continues unabated, with more than 50% of the worlds’ population living in cities. Cities are conventionally viewed as a threat to local biodiversity because natural habitat is replaced with development. However, more recently, there is greater acknowledgement from the public and private sectors that supporting local environments sustains critical ecosystem services, which in turn improves human health and biodiversity conservation. Consequently, urban planning and design has shifted towards green infrastructure (GI), such as green roofs and retention ponds, to increase connections between city and nature in an era of climate change. The contribution of GI to some ecosystem services has been proven (e.g. stormwater management, building cooling), but the contribution to biodiversity conservation remains unspecified. Using a systematic literature review, this project will (i) determine effect estimates that relate different GI types and characteristics to the impacts on natural systems, and (ii) compile relevant data to develop different implementation scenarios GI for Toronto and region. This study will inform natural system planning and improve quantification of GI on urban ecosystems. Findings from this research will have global ramifications that allow city planners to optimize GI implementation for sustainable development and decrease the impacts of cities on natural systems.
@@ -136,9 +137,66 @@ total <- nrow(evidence)
 total
 setTxtProgressBar(txtProgressBar(0,total,  style = 3), prog)
 ```
-
+Initial pass for relevant papers complete. 
 
 ```{r}
 
 GI.type <- evidence %>% group_by(GI.type) %>% count(exclude) %>% filter(GI.type!="")
 ggplot(GI.type, aes(x=GI.type, y=n)) + geom_bar(stat="identity") + coord_flip()
+```
+
+Representations of relevant GI types found in papers
+
+Prisma report
+```{r}
+## total number of papers found
+nrow(evidence)
+
+## number of papers found outside of WoS
+other <- read.csv("data/other.sources.csv")
+nrow(other)
+
+## number of articles excluded
+excludes <- evidence %>% filter(exclude=="y")
+nrow(excludes)
+
+## relevant papers
+review <- evidence %>% filter(exclude!="y")
+nrow(review)
+
+## papers for meta
+meta <- evidence %>% filter(meta.=="yes")
+nrow(meta)
+
+prisma(found = 1255,
+       found_other = 9,
+       no_dupes = 1264,
+       screened = 1264,
+       screen_exclusions = 1123,
+       full_text = 141,
+       full_text_exclusions = 0,
+       qualitative = 141, 
+       quantitative = 115,
+       width = 800, height = 800)
+```
+
+### Literature Review - 3. Synthesis
+
+```{r warning=FALSE, message=FALSE, fig.width=12, fig.height=10}
+require(ggmap)
+###  Start with base map of world
+mp <- NULL
+mapWorld <- borders("world", colour="gray50", fill="gray50") # create a layer of borders
+mp <- ggplot() +   mapWorld
+
+## colorblind-friendly palette
+cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7","#000000")
+
+
+## plot points on top
+mp <- mp+ geom_point(data=meta , aes(x=lon, y=lat, color=GI.type), size=2) + scale_colour_manual(values=cbPalette)+
+    theme(legend.position="bottom", text = element_text(size=20))
+mp
+
+```
+
