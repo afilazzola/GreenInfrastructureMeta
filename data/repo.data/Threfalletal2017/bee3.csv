@@ -1,0 +1,284 @@
+Bee data from Threlfall et al Journal of Applied Ecology 'Increasing biodiversity in urban green spaces through simple vegetation interventions',,,,,
+For data collection methods see above paper.,,,,,
+"spp = species. Point = green space site (n=39). Rep = plot within each green space. Season = spring and summer sampling seasons as  detailed in the paper. Homalictus (Homalictus) complex: punctatus, brisbanensis and megastigmus",,,,,
+Plot,point,rep,spp,Season,occ
+01GC03,GC001,7,"""Apis melifera""",2,1
+02GC04,GC002,4,"""Apis melifera""",1,1
+05GC02,GC005,2,"""Apis melifera""",1,1
+05RG05,GC005,3,"""Apis melifera""",1,1
+06GC02,GC006,2,"""Apis melifera""",1,1
+07GC04,GC007,8,"""Apis melifera""",2,1
+08GC01,GC008,5,"""Apis melifera""",2,1
+08GC04,GC008,8,"""Apis melifera""",2,1
+11GC01,GC010,5,"""Apis melifera""",2,0
+11GC01,GC011,5,"""Apis melifera""",2,1
+12GC01,GC012,1,"""Apis melifera""",1,1
+12GC01,GC012,5,"""Apis melifera""",2,1
+01RG02,RG001,2,"""Apis melifera""",1,1
+01RG04,RG001,8,"""Apis melifera""",2,1
+02RG03,RG002,3,"""Apis melifera""",1,1
+03RG03,RG003,3,"""Apis melifera""",1,1
+04RG05,RG004,1,"""Apis melifera""",1,1
+05RG02,RG005,6,"""Apis melifera""",2,1
+06RG01,RG006,1,"""Apis melifera""",1,1
+06RG02,RG006,2,"""Apis melifera""",1,1
+07RG01,RG007,1,"""Apis melifera""",1,1
+07RG02,RG007,2,"""Apis melifera""",1,1
+07RG04,RG007,8,"""Apis melifera""",2,1
+08RG01,RG008,1,"""Apis melifera""",1,1
+08RG03,RG008,3,"""Apis melifera""",1,1
+08RG02,RG008,6,"""Apis melifera""",2,1
+09RG01,RG009,1,"""Apis melifera""",1,1
+09RG03,RG009,3,"""Apis melifera""",1,1
+10RG04,RG010,4,"""Apis melifera""",1,1
+10RG01,RG010,5,"""Apis melifera""",2,1
+10RG03,RG010,7,"""Apis melifera""",2,1
+11RG05,RG011,4,"""Apis melifera""",1,1
+12RG01,RG012,1,"""Apis melifera""",1,1
+12RG03,RG012,3,"""Apis melifera""",1,1
+13RG02,RG013,2,"""Apis melifera""",1,1
+13RG03,RG013,3,"""Apis melifera""",1,1
+13RG04,RG013,4,"""Apis melifera""",1,1
+13RG03,RG013,7,"""Apis melifera""",2,1
+02UP02,UP002,4,"""Apis melifera""",2,1
+04UP02,UP004,4,"""Apis melifera""",2,1
+05UP02,UP005,2,"""Apis melifera""",1,1
+07UP01,UP007,1,"""Apis melifera""",1,1
+07UP01,UP007,3,"""Apis melifera""",2,1
+10UP01,UP010,1,"""Apis melifera""",1,1
+11UP02,UP011,4,"""Apis melifera""",2,1
+12UP01,UP012,1,"""Apis melifera""",1,1
+12UP02,UP012,2,"""Apis melifera""",1,1
+13UP01,UP013,1,"""Apis melifera""",1,1
+13UP02,UP013,4,"""Apis melifera""",2,1
+05GC02,GC005,6,"""Euhesma fasciatella""",2,1
+09GC02,GC009,2,"""Euhesma fasciatella""",1,1
+09RG01,RG009,5,"""Euhesma fasciatella""",2,1
+02UP02,UP002,4,"""Euhesma fasciatella""",2,1
+02GC03,GC002,3,"""Homalictus (Homalictus) sphecodoides""",1,1
+02GC01,GC002,5,"""Homalictus (Homalictus) sphecodoides""",2,1
+02GC02,GC002,6,"""Homalictus (Homalictus) sphecodoides""",2,1
+02GC03,GC002,7,"""Homalictus (Homalictus) sphecodoides""",2,1
+03GC01,GC003,1,"""Homalictus (Homalictus) sphecodoides""",1,1
+03GC02,GC003,6,"""Homalictus (Homalictus) sphecodoides""",2,1
+03GC03,GC003,7,"""Homalictus (Homalictus) sphecodoides""",2,1
+03GC04,GC003,8,"""Homalictus (Homalictus) sphecodoides""",2,1
+04GC01,GC004,1,"""Homalictus (Homalictus) sphecodoides""",1,1
+04GC02,GC004,2,"""Homalictus (Homalictus) sphecodoides""",1,1
+04GC03,GC004,3,"""Homalictus (Homalictus) sphecodoides""",1,1
+04GC04,GC004,4,"""Homalictus (Homalictus) sphecodoides""",1,1
+04GC01,GC004,5,"""Homalictus (Homalictus) sphecodoides""",2,1
+04GC03,GC004,7,"""Homalictus (Homalictus) sphecodoides""",2,1
+04GC04,GC004,8,"""Homalictus (Homalictus) sphecodoides""",2,1
+05GC01,GC005,5,"""Homalictus (Homalictus) sphecodoides""",2,1
+05GC02,GC005,6,"""Homalictus (Homalictus) sphecodoides""",2,1
+05GC03,GC005,7,"""Homalictus (Homalictus) sphecodoides""",2,1
+06GC02,GC006,6,"""Homalictus (Homalictus) sphecodoides""",2,1
+07GC02,GC007,6,"""Homalictus (Homalictus) sphecodoides""",2,1
+08GC01,GC008,5,"""Homalictus (Homalictus) sphecodoides""",2,1
+09GC01,GC009,1,"""Homalictus (Homalictus) sphecodoides""",1,1
+09GC02,GC009,2,"""Homalictus (Homalictus) sphecodoides""",1,1
+09GC03,GC009,3,"""Homalictus (Homalictus) sphecodoides""",1,1
+09GC04,GC009,4,"""Homalictus (Homalictus) sphecodoides""",1,1
+09GC01,GC009,5,"""Homalictus (Homalictus) sphecodoides""",2,1
+09GC02,GC009,6,"""Homalictus (Homalictus) sphecodoides""",2,1
+11GC01,GC011,1,"""Homalictus (Homalictus) sphecodoides""",1,1
+11GC02,GC011,2,"""Homalictus (Homalictus) sphecodoides""",1,1
+11GC04,GC011,4,"""Homalictus (Homalictus) sphecodoides""",1,1
+11GC04,GC011,8,"""Homalictus (Homalictus) sphecodoides""",2,1
+13GC01,GC013,5,"""Homalictus (Homalictus) sphecodoides""",2,1
+13GC02,GC013,6,"""Homalictus (Homalictus) sphecodoides""",2,1
+13GC03,GC013,7,"""Homalictus (Homalictus) sphecodoides""",2,1
+13GC04,GC013,8,"""Homalictus (Homalictus) sphecodoides""",2,1
+01RG01,RG001,1,"""Homalictus (Homalictus) sphecodoides""",1,1
+01RG02,RG001,2,"""Homalictus (Homalictus) sphecodoides""",1,1
+01RG04,RG001,4,"""Homalictus (Homalictus) sphecodoides""",1,1
+01RG01,RG001,5,"""Homalictus (Homalictus) sphecodoides""",2,1
+02RG01,RG002,5,"""Homalictus (Homalictus) sphecodoides""",2,1
+02RG02,RG002,6,"""Homalictus (Homalictus) sphecodoides""",2,1
+03RG04,RG003,4,"""Homalictus (Homalictus) sphecodoides""",1,1
+03RG01,RG003,5,"""Homalictus (Homalictus) sphecodoides""",2,1
+03RG02,RG003,6,"""Homalictus (Homalictus) sphecodoides""",2,1
+04RG05,RG004,1,"""Homalictus (Homalictus) sphecodoides""",1,1
+04RG02,RG004,2,"""Homalictus (Homalictus) sphecodoides""",1,1
+04RG03,RG004,3,"""Homalictus (Homalictus) sphecodoides""",1,1
+04RG05,RG004,5,"""Homalictus (Homalictus) sphecodoides""",2,1
+04RG02,RG004,6,"""Homalictus (Homalictus) sphecodoides""",2,1
+04RG03,RG004,7,"""Homalictus (Homalictus) sphecodoides""",2,1
+05RG01,RG005,5,"""Homalictus (Homalictus) sphecodoides""",2,1
+06RG02,RG006,6,"""Homalictus (Homalictus) sphecodoides""",2,1
+06RG03,RG006,7,"""Homalictus (Homalictus) sphecodoides""",2,1
+07RG02,RG007,6,"""Homalictus (Homalictus) sphecodoides""",2,1
+07RG03,RG007,7,"""Homalictus (Homalictus) sphecodoides""",2,1
+08RG04,RG008,4,"""Homalictus (Homalictus) sphecodoides""",1,1
+09RG01,RG009,1,"""Homalictus (Homalictus) sphecodoides""",1,1
+09RG01,RG009,5,"""Homalictus (Homalictus) sphecodoides""",2,1
+10RG01,RG010,1,"""Homalictus (Homalictus) sphecodoides""",1,1
+10RG02,RG010,2,"""Homalictus (Homalictus) sphecodoides""",1,1
+10RG01,RG010,5,"""Homalictus (Homalictus) sphecodoides""",2,1
+10RG02,RG010,6,"""Homalictus (Homalictus) sphecodoides""",2,1
+10RG03,RG010,7,"""Homalictus (Homalictus) sphecodoides""",2,1
+12RG03,RG012,3,"""Homalictus (Homalictus) sphecodoides""",1,1
+12RG04,RG012,4,"""Homalictus (Homalictus) sphecodoides""",1,1
+13RG01,RG013,1,"""Homalictus (Homalictus) sphecodoides""",1,1
+13RG03,RG013,3,"""Homalictus (Homalictus) sphecodoides""",1,1
+13RG01,RG013,5,"""Homalictus (Homalictus) sphecodoides""",2,1
+13RG03,RG013,7,"""Homalictus (Homalictus) sphecodoides""",2,1
+02UP01,UP002,1,"""Homalictus (Homalictus) sphecodoides""",1,1
+02UP02,UP002,2,"""Homalictus (Homalictus) sphecodoides""",1,1
+02UP01,UP002,3,"""Homalictus (Homalictus) sphecodoides""",2,1
+03UP01,UP003,1,"""Homalictus (Homalictus) sphecodoides""",1,1
+03UP02,UP003,4,"""Homalictus (Homalictus) sphecodoides""",2,1
+04UP02,UP004,4,"""Homalictus (Homalictus) sphecodoides""",2,1
+05UP01,UP005,1,"""Homalictus (Homalictus) sphecodoides""",1,1
+05UP02,UP005,2,"""Homalictus (Homalictus) sphecodoides""",1,1
+05UP01,UP005,3,"""Homalictus (Homalictus) sphecodoides""",2,1
+05UP02,UP005,4,"""Homalictus (Homalictus) sphecodoides""",2,1
+06UP02,UP006,4,"""Homalictus (Homalictus) sphecodoides""",2,1
+07UP02,UP007,2,"""Homalictus (Homalictus) sphecodoides""",1,1
+07UP01,UP007,3,"""Homalictus (Homalictus) sphecodoides""",2,1
+07UP02,UP007,4,"""Homalictus (Homalictus) sphecodoides""",2,1
+08UP02,UP008,2,"""Homalictus (Homalictus) sphecodoides""",1,1
+10UP02,UP010,2,"""Homalictus (Homalictus) sphecodoides""",1,1
+11UP02,UP011,2,"""Homalictus (Homalictus) sphecodoides""",1,1
+11UP02,UP011,4,"""Homalictus (Homalictus) sphecodoides""",2,1
+12UP01,UP012,1,"""Homalictus (Homalictus) sphecodoides""",1,1
+12UP02,UP012,2,"""Homalictus (Homalictus) sphecodoides""",1,1
+01GC01,GC001,1,"""Homalictus (Homalictus) complex""",1,1
+01GC02,GC001,2,"""Homalictus (Homalictus) complex""",1,1
+01GC03,GC001,3,"""Homalictus (Homalictus) complex""",1,1
+01GC04,GC001,8,"""Homalictus (Homalictus) complex""",2,1
+02GC04,GC002,4,"""Homalictus (Homalictus) complex""",1,1
+02GC01,GC002,5,"""Homalictus (Homalictus) complex""",2,1
+02GC02,GC002,6,"""Homalictus (Homalictus) complex""",2,1
+02GC03,GC002,7,"""Homalictus (Homalictus) complex""",2,1
+02GC04,GC002,8,"""Homalictus (Homalictus) complex""",2,1
+03GC02,GC003,2,"""Homalictus (Homalictus) complex""",1,1
+03GC03,GC003,3,"""Homalictus (Homalictus) complex""",1,1
+03GC04,GC003,4,"""Homalictus (Homalictus) complex""",1,1
+03GC02,GC003,6,"""Homalictus (Homalictus) complex""",2,1
+03GC03,GC003,7,"""Homalictus (Homalictus) complex""",2,1
+04GC03,GC004,3,"""Homalictus (Homalictus) complex""",1,1
+04GC01,GC004,5,"""Homalictus (Homalictus) complex""",2,1
+05GC01,GC005,5,"""Homalictus (Homalictus) complex""",2,1
+05GC02,GC005,6,"""Homalictus (Homalictus) complex""",2,1
+05GC04,GC005,8,"""Homalictus (Homalictus) complex""",2,1
+06GC01,GC006,5,"""Homalictus (Homalictus) complex""",2,1
+06GC02,GC006,6,"""Homalictus (Homalictus) complex""",2,1
+06GC03,GC006,7,"""Homalictus (Homalictus) complex""",2,1
+07GC03,GC007,3,"""Homalictus (Homalictus) complex""",1,1
+07GC02,GC007,6,"""Homalictus (Homalictus) complex""",2,1
+08GC01,GC008,1,"""Homalictus (Homalictus) complex""",1,1
+08GC04,GC008,4,"""Homalictus (Homalictus) complex""",1,1
+08GC01,GC008,5,"""Homalictus (Homalictus) complex""",2,1
+08GC03,GC008,7,"""Homalictus (Homalictus) complex""",2,1
+08GC04,GC008,8,"""Homalictus (Homalictus) complex""",2,1
+09GC02,GC009,2,"""Homalictus (Homalictus) complex""",1,1
+09GC03,GC009,3,"""Homalictus (Homalictus) complex""",1,1
+09GC02,GC009,6,"""Homalictus (Homalictus) complex""",2,1
+11GC01,GC011,1,"""Homalictus (Homalictus) complex""",1,1
+11GC02,GC011,2,"""Homalictus (Homalictus) complex""",1,1
+11GC04,GC011,4,"""Homalictus (Homalictus) complex""",1,1
+11GC03,GC011,7,"""Homalictus (Homalictus) complex""",2,1
+11GC04,GC011,8,"""Homalictus (Homalictus) complex""",2,1
+12GC02,GC012,6,"""Homalictus (Homalictus) complex""",2,1
+13GC03,GC013,3,"""Homalictus (Homalictus) complex""",1,1
+13GC04,GC013,4,"""Homalictus (Homalictus) complex""",1,1
+01RG01,RG001,1,"""Homalictus (Homalictus) complex""",1,1
+01RG03,RG001,3,"""Homalictus (Homalictus) complex""",1,1
+01RG04,RG001,4,"""Homalictus (Homalictus) complex""",1,1
+01RG03,RG001,7,"""Homalictus (Homalictus) complex""",2,1
+02RG01,RG002,5,"""Homalictus (Homalictus) complex""",2,1
+04RG05,RG004,5,"""Homalictus (Homalictus) complex""",2,1
+04RG03,RG004,7,"""Homalictus (Homalictus) complex""",2,1
+04RG04,RG004,8,"""Homalictus (Homalictus) complex""",2,1
+07GC04,RG007,4,"""Homalictus (Homalictus) complex""",1,1
+08RG04,RG008,4,"""Homalictus (Homalictus) complex""",1,1
+08RG03,RG008,7,"""Homalictus (Homalictus) complex""",2,1
+08RG04,RG008,8,"""Homalictus (Homalictus) complex""",2,1
+09RG03,RG009,3,"""Homalictus (Homalictus) complex""",1,1
+09RG01,RG009,5,"""Homalictus (Homalictus) complex""",2,1
+09RG03,RG009,7,"""Homalictus (Homalictus) complex""",2,1
+10RG02,RG010,6,"""Homalictus (Homalictus) complex""",2,1
+01UP02,UP001,2,"""Homalictus (Homalictus) complex""",1,1
+01UP01,UP001,3,"""Homalictus (Homalictus) complex""",2,1
+02UP02,UP002,2,"""Homalictus (Homalictus) complex""",1,1
+02UP01,UP002,3,"""Homalictus (Homalictus) complex""",2,1
+02UP02,UP002,4,"""Homalictus (Homalictus) complex""",2,1
+03UP01,UP003,1,"""Homalictus (Homalictus) complex""",1,1
+03UP02,UP003,2,"""Homalictus (Homalictus) complex""",1,1
+03UP01,UP003,3,"""Homalictus (Homalictus) complex""",2,1
+04UP01,UP004,3,"""Homalictus (Homalictus) complex""",2,1
+05UP01,UP005,1,"""Homalictus (Homalictus) complex""",1,1
+05UP02,UP005,2,"""Homalictus (Homalictus) complex""",1,1
+05UP01,UP005,3,"""Homalictus (Homalictus) complex""",2,1
+06UP02,UP006,4,"""Homalictus (Homalictus) complex""",2,1
+07UP01,UP007,1,"""Homalictus (Homalictus) complex""",1,1
+07UP02,UP007,2,"""Homalictus (Homalictus) complex""",1,1
+07UP01,UP007,3,"""Homalictus (Homalictus) complex""",2,1
+07UP02,UP007,4,"""Homalictus (Homalictus) complex""",2,1
+08UP01,UP008,1,"""Homalictus (Homalictus) complex""",1,1
+08UP02,UP008,2,"""Homalictus (Homalictus) complex""",1,1
+08UP01,UP008,3,"""Homalictus (Homalictus) complex""",2,1
+09UP02,UP009,2,"""Homalictus (Homalictus) complex""",1,1
+10UP01,UP010,1,"""Homalictus (Homalictus) complex""",1,1
+10UP02,UP010,4,"""Homalictus (Homalictus) complex""",2,1
+11UP01,UP011,1,"""Homalictus (Homalictus) complex""",1,1
+11UP02,UP011,2,"""Homalictus (Homalictus) complex""",1,1
+12UP02,UP012,4,"""Homalictus (Homalictus) complex""",2,1
+13UP01,UP013,1,"""Homalictus (Homalictus) complex""",1,1
+13UP02,UP013,2,"""Homalictus (Homalictus) complex""",1,1
+13UP02,UP013,4,"""Homalictus (Homalictus) complex""",2,1
+03GC01,GC003,1,"""Hylaeus sp 1""",1,1
+07GC04,GC007,8,"""Hylaeus sp 1""",2,1
+05UP01,UP005,1,"""Hylaeus sp 1""",1,1
+10UP02,UP010,4,"""Hylaeus sp 1""",2,1
+01GC01,GC001,1,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+02GC03,GC002,3,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+03GC01,GC003,1,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+03GC03,GC003,3,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+03GC03,GC003,7,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+03GC04,GC003,8,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+05GC01,GC005,5,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+05GC04,GC005,8,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+08GC01,GC008,5,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+08GC04,GC008,8,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+09GC04,GC009,4,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+11GC01,GC011,1,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+11GC02,GC011,2,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+11GC03,GC011,3,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+11GC01,GC011,5,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+11GC04,GC011,8,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+12GC01,GC012,5,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+13GC01,GC013,5,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+13GC02,GC013,6,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+02RG04,RG002,4,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+02RG02,RG002,6,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+04RG05,RG004,5,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+05RG05,RG005,3,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+06RG01,RG006,1,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+06RG03,RG006,3,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+06RG01,RG006,5,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+07RG02,RG007,6,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+09RG03,RG009,3,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+10RG02,RG010,2,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+10RG04,RG010,4,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+12RG03,RG012,3,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+12RG04,RG012,4,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+12RG01,RG012,5,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+12RG02,RG012,6,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+13RG03,RG013,7,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+02UP01,UP002,1,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+02UP02,UP002,2,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+02UP01,UP002,3,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+03UP01,UP003,1,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+04UP02,UP004,2,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+07UP02,UP007,2,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+08UP01,UP008,3,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+09UP01,UP009,1,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+09UP02,UP009,2,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+10UP02,UP010,4,"""Lasioglossum (Chilalictus) brunnesetum""",2,1
+12UP01,UP012,1,"""Lasioglossum (Chilalictus) brunnesetum""",1,1
+08GC04,GC008,8,"""Pachyprosopis kelleyi""",2,1
+04UP02,UP004,4,"""Pachyprosopis kelleyi""",2,1
+09UP02,UP009,4,"""Pachyprosopis kelleyi""",2,1

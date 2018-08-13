@@ -1,0 +1,1261 @@
+Native bird data from Threlfall et al Journal of Applied Ecology 'Increasing biodiversity in urban green spaces through simple vegetation interventions',,,
+For data collection methods see above paper.,,,
+spp = species. Point = green space site (n=39). Rep = plot within each green space.,,,
+spp,point,rep,occ
+"""Australian Magpie""",GC001,1,1
+"""Australian Magpie""",GC001,2,1
+"""Australian Magpie""",GC001,3,1
+"""Australian Magpie""",GC002,1,1
+"""Australian Magpie""",GC002,2,1
+"""Australian Magpie""",GC002,3,1
+"""Australian Magpie""",GC003,1,1
+"""Australian Magpie""",GC003,2,1
+"""Australian Magpie""",GC003,3,1
+"""Australian Magpie""",GC004,1,1
+"""Australian Magpie""",GC004,2,1
+"""Australian Magpie""",GC004,3,1
+"""Australian Magpie""",GC005,1,1
+"""Australian Magpie""",GC005,2,1
+"""Australian Magpie""",GC005,3,1
+"""Australian Magpie""",GC006,1,1
+"""Australian Magpie""",GC006,2,1
+"""Australian Magpie""",GC006,3,1
+"""Australian Magpie""",GC007,1,1
+"""Australian Magpie""",GC007,2,1
+"""Australian Magpie""",GC007,3,1
+"""Australian Magpie""",GC008,1,1
+"""Australian Magpie""",GC008,2,1
+"""Australian Magpie""",GC008,3,1
+"""Australian Magpie""",GC009,1,1
+"""Australian Magpie""",GC009,2,1
+"""Australian Magpie""",GC009,3,1
+"""Australian Magpie""",GC010,1,1
+"""Australian Magpie""",GC010,2,1
+"""Australian Magpie""",GC010,3,1
+"""Australian Magpie""",GC011,1,1
+"""Australian Magpie""",GC011,2,1
+"""Australian Magpie""",GC011,3,1
+"""Australian Magpie""",GC012,1,1
+"""Australian Magpie""",GC012,2,1
+"""Australian Magpie""",GC012,3,1
+"""Australian Magpie""",GC013,1,1
+"""Australian Magpie""",GC013,2,1
+"""Australian Magpie""",GC013,3,1
+"""Australian Magpie""",RG001,1,1
+"""Australian Magpie""",RG001,2,1
+"""Australian Magpie""",RG001,3,1
+"""Australian Magpie""",RG002,1,1
+"""Australian Magpie""",RG002,2,1
+"""Australian Magpie""",RG002,3,1
+"""Australian Magpie""",RG003,1,1
+"""Australian Magpie""",RG003,2,1
+"""Australian Magpie""",RG004,1,1
+"""Australian Magpie""",RG004,2,1
+"""Australian Magpie""",RG004,3,1
+"""Australian Magpie""",RG005,1,1
+"""Australian Magpie""",RG005,2,1
+"""Australian Magpie""",RG005,3,1
+"""Australian Magpie""",RG006,1,1
+"""Australian Magpie""",RG006,2,1
+"""Australian Magpie""",RG006,3,1
+"""Australian Magpie""",RG007,1,1
+"""Australian Magpie""",RG007,2,1
+"""Australian Magpie""",RG007,3,1
+"""Australian Magpie""",RG008,1,1
+"""Australian Magpie""",RG008,2,1
+"""Australian Magpie""",RG008,3,1
+"""Australian Magpie""",RG009,1,1
+"""Australian Magpie""",RG009,2,1
+"""Australian Magpie""",RG009,3,1
+"""Australian Magpie""",RG010,2,1
+"""Australian Magpie""",RG010,3,1
+"""Australian Magpie""",RG011,1,1
+"""Australian Magpie""",RG011,2,1
+"""Australian Magpie""",RG011,3,1
+"""Australian Magpie""",RG012,1,1
+"""Australian Magpie""",RG012,2,1
+"""Australian Magpie""",RG012,3,1
+"""Australian Magpie""",RG013,1,1
+"""Australian Magpie""",RG013,2,1
+"""Australian Magpie""",RG013,3,1
+"""Australian Magpie""",UP001,1,1
+"""Australian Magpie""",UP001,2,1
+"""Australian Magpie""",UP001,3,1
+"""Australian Magpie""",UP002,1,1
+"""Australian Magpie""",UP002,2,1
+"""Australian Magpie""",UP002,3,1
+"""Australian Magpie""",UP003,1,1
+"""Australian Magpie""",UP003,3,1
+"""Australian Magpie""",UP004,1,1
+"""Australian Magpie""",UP004,2,1
+"""Australian Magpie""",UP004,3,1
+"""Australian Magpie""",UP005,1,1
+"""Australian Magpie""",UP005,2,1
+"""Australian Magpie""",UP005,3,1
+"""Australian Magpie""",UP006,1,1
+"""Australian Magpie""",UP006,2,1
+"""Australian Magpie""",UP006,3,1
+"""Australian Magpie""",UP007,1,1
+"""Australian Magpie""",UP007,2,1
+"""Australian Magpie""",UP007,3,1
+"""Australian Magpie""",UP008,1,1
+"""Australian Magpie""",UP008,2,1
+"""Australian Magpie""",UP008,3,1
+"""Australian Magpie""",UP009,1,1
+"""Australian Magpie""",UP009,2,1
+"""Australian Magpie""",UP009,3,1
+"""Australian Magpie""",UP010,1,1
+"""Australian Magpie""",UP010,2,1
+"""Australian Magpie""",UP011,1,1
+"""Australian Magpie""",UP011,2,1
+"""Australian Magpie""",UP011,3,1
+"""Australian Magpie""",UP012,1,1
+"""Australian Magpie""",UP012,2,1
+"""Australian Magpie""",UP012,3,1
+"""Australian Magpie""",UP013,1,1
+"""Australian Magpie""",UP013,2,1
+"""Australian Magpie""",UP013,3,1
+"""Black-faced Cuckoo-Shrike""",GC004,2,1
+"""Black-faced Cuckoo-Shrike""",GC006,1,1
+"""Black-faced Cuckoo-Shrike""",GC007,2,1
+"""Black-faced Cuckoo-Shrike""",GC008,2,1
+"""Black-faced Cuckoo-Shrike""",GC009,3,1
+"""Black-faced Cuckoo-Shrike""",GC010,1,1
+"""Black-faced Cuckoo-Shrike""",UP004,1,1
+"""Brown Goshawk""",GC008,1,1
+"""Brown Goshawk""",UP009,1,1
+"""Brown Thornbill""",GC002,1,1
+"""Brown Thornbill""",GC002,3,1
+"""Brown Thornbill""",GC004,3,1
+"""Brown Thornbill""",GC005,1,1
+"""Brown Thornbill""",GC005,2,1
+"""Brown Thornbill""",GC005,3,1
+"""Brown Thornbill""",GC008,1,1
+"""Brown Thornbill""",GC008,2,1
+"""Brown Thornbill""",GC008,3,1
+"""Brown Thornbill""",GC009,3,1
+"""Brown Thornbill""",GC010,2,1
+"""Brown Thornbill""",GC010,3,1
+"""Brown Thornbill""",GC012,1,1
+"""Brown Thornbill""",GC012,2,1
+"""Brown Thornbill""",GC012,3,1
+"""Brown Thornbill""",RG001,1,1
+"""Brown Thornbill""",RG008,1,1
+"""Brown Thornbill""",RG009,1,1
+"""Brown Thornbill""",UP002,1,1
+"""Brown Thornbill""",UP002,3,1
+"""Brown Thornbill""",UP008,1,1
+"""Brown Thornbill""",UP008,2,1
+"""Brown Thornbill""",UP008,3,1
+"""Brown-headed Honeyeater""",GC008,2,1
+"""Brown-headed Honeyeater""",UP007,2,1
+"""Brush Bronzewing""",GC008,3,1
+"""Brush Bronzewing""",GC009,2,1
+"""Buff-rumped Thornbill""",GC008,1,1
+"""Buff-rumped Thornbill""",RG008,1,1
+"""Collared Sparrowhawk""",GC006,1,1
+"""Collared Sparrowhawk""",GC008,1,1
+"""Common Bronzewing""",GC002,2,1
+"""Common Bronzewing""",GC002,3,1
+"""Common Bronzewing""",GC003,3,1
+"""Common Bronzewing""",GC004,3,1
+"""Common Bronzewing""",GC005,3,1
+"""Common Bronzewing""",GC006,1,1
+"""Common Bronzewing""",GC007,1,1
+"""Common Bronzewing""",GC007,3,1
+"""Common Bronzewing""",GC008,3,1
+"""Common Bronzewing""",GC009,2,1
+"""Common Bronzewing""",GC009,3,1
+"""Common Bronzewing""",GC010,2,1
+"""Common Bronzewing""",GC010,3,1
+"""Common Bronzewing""",GC012,1,1
+"""Common Bronzewing""",GC013,2,1
+"""Common Bronzewing""",GC013,3,1
+"""Crested Pigeon""",GC001,1,1
+"""Crested Pigeon""",GC001,2,1
+"""Crested Pigeon""",GC001,3,1
+"""Crested Pigeon""",GC002,2,1
+"""Crested Pigeon""",GC002,3,1
+"""Crested Pigeon""",GC003,1,1
+"""Crested Pigeon""",GC003,3,1
+"""Crested Pigeon""",GC004,1,1
+"""Crested Pigeon""",GC004,2,1
+"""Crested Pigeon""",GC004,3,1
+"""Crested Pigeon""",GC005,1,1
+"""Crested Pigeon""",GC005,3,1
+"""Crested Pigeon""",GC006,1,1
+"""Crested Pigeon""",GC006,2,1
+"""Crested Pigeon""",GC006,3,1
+"""Crested Pigeon""",GC007,1,1
+"""Crested Pigeon""",GC007,2,1
+"""Crested Pigeon""",GC007,3,1
+"""Crested Pigeon""",GC008,1,1
+"""Crested Pigeon""",GC009,1,1
+"""Crested Pigeon""",GC009,2,1
+"""Crested Pigeon""",GC009,3,1
+"""Crested Pigeon""",GC010,1,1
+"""Crested Pigeon""",GC010,2,1
+"""Crested Pigeon""",GC010,3,1
+"""Crested Pigeon""",GC011,1,1
+"""Crested Pigeon""",GC011,3,1
+"""Crested Pigeon""",GC012,2,1
+"""Crested Pigeon""",GC013,1,1
+"""Crested Pigeon""",GC013,2,1
+"""Crested Pigeon""",GC013,3,1
+"""Crested Pigeon""",RG003,1,1
+"""Crested Pigeon""",RG005,1,1
+"""Crested Pigeon""",RG008,2,1
+"""Crested Pigeon""",RG012,1,1
+"""Crested Pigeon""",RG012,2,1
+"""Crested Pigeon""",RG012,3,1
+"""Crested Pigeon""",UP001,1,1
+"""Crested Pigeon""",UP001,2,1
+"""Crested Pigeon""",UP001,3,1
+"""Crested Pigeon""",UP002,1,1
+"""Crested Pigeon""",UP002,2,1
+"""Crested Pigeon""",UP002,3,1
+"""Crested Pigeon""",UP003,2,1
+"""Crested Pigeon""",UP003,3,1
+"""Crested Pigeon""",UP004,1,1
+"""Crested Pigeon""",UP004,2,1
+"""Crested Pigeon""",UP005,1,1
+"""Crested Pigeon""",UP005,2,1
+"""Crested Pigeon""",UP005,3,1
+"""Crested Pigeon""",UP006,1,1
+"""Crested Pigeon""",UP006,2,1
+"""Crested Pigeon""",UP006,3,1
+"""Crested Pigeon""",UP007,1,1
+"""Crested Pigeon""",UP007,2,1
+"""Crested Pigeon""",UP007,3,1
+"""Crested Pigeon""",UP008,1,1
+"""Crested Pigeon""",UP008,2,1
+"""Crested Pigeon""",UP008,3,1
+"""Crested Pigeon""",UP013,3,1
+"""Crimson Rosella""",GC004,1,1
+"""Crimson Rosella""",RG010,1,1
+"""Crimson Rosella""",UP010,1,1
+"""Eastern Rosella""",GC001,1,1
+"""Eastern Rosella""",GC001,2,1
+"""Eastern Rosella""",GC001,3,1
+"""Eastern Rosella""",GC002,1,1
+"""Eastern Rosella""",GC002,2,1
+"""Eastern Rosella""",GC002,3,1
+"""Eastern Rosella""",GC003,1,1
+"""Eastern Rosella""",GC003,2,1
+"""Eastern Rosella""",GC003,3,1
+"""Eastern Rosella""",GC004,1,1
+"""Eastern Rosella""",GC004,2,1
+"""Eastern Rosella""",GC004,3,1
+"""Eastern Rosella""",GC005,1,1
+"""Eastern Rosella""",GC005,3,1
+"""Eastern Rosella""",GC006,1,1
+"""Eastern Rosella""",GC006,2,1
+"""Eastern Rosella""",GC006,3,1
+"""Eastern Rosella""",GC007,1,1
+"""Eastern Rosella""",GC007,2,1
+"""Eastern Rosella""",GC007,3,1
+"""Eastern Rosella""",GC008,1,1
+"""Eastern Rosella""",GC009,1,1
+"""Eastern Rosella""",GC009,2,1
+"""Eastern Rosella""",GC009,3,1
+"""Eastern Rosella""",GC010,1,1
+"""Eastern Rosella""",GC010,2,1
+"""Eastern Rosella""",GC010,3,1
+"""Eastern Rosella""",GC011,1,1
+"""Eastern Rosella""",GC011,3,1
+"""Eastern Rosella""",GC012,1,1
+"""Eastern Rosella""",GC013,1,1
+"""Eastern Rosella""",RG002,1,1
+"""Eastern Rosella""",RG002,3,1
+"""Eastern Rosella""",RG007,1,1
+"""Eastern Rosella""",RG007,2,1
+"""Eastern Rosella""",RG008,1,1
+"""Eastern Rosella""",RG008,2,1
+"""Eastern Rosella""",RG009,1,1
+"""Eastern Rosella""",RG009,3,1
+"""Eastern Rosella""",RG010,3,1
+"""Eastern Rosella""",RG012,1,1
+"""Eastern Rosella""",UP001,1,1
+"""Eastern Rosella""",UP001,3,1
+"""Eastern Rosella""",UP002,1,1
+"""Eastern Rosella""",UP002,2,1
+"""Eastern Rosella""",UP002,3,1
+"""Eastern Rosella""",UP004,1,1
+"""Eastern Rosella""",UP004,2,1
+"""Eastern Rosella""",UP005,3,1
+"""Eastern Rosella""",UP006,3,1
+"""Eastern Rosella""",UP007,1,1
+"""Eastern Rosella""",UP007,2,1
+"""Eastern Rosella""",UP007,3,1
+"""Eastern Rosella""",UP008,1,1
+"""Eastern Rosella""",UP008,2,1
+"""Eastern Rosella""",UP008,3,1
+"""Eastern Rosella""",UP009,1,1
+"""Eastern Rosella""",UP009,2,1
+"""Eastern Rosella""",UP012,1,1
+"""Eastern Rosella""",UP012,2,1
+"""Eastern Rosella""",UP012,3,1
+"""Eastern Spinebill""",GC008,1,1
+"""Eastern Spinebill""",GC008,3,1
+"""Eastern Spinebill""",RG009,3,1
+"""Eastern Yellow Robin""",GC007,1,1
+"""Eastern Yellow Robin""",GC008,1,1
+"""Eastern Yellow Robin""",GC008,2,1
+"""Eastern Yellow Robin""",GC008,3,1
+"""Fairy Martin""",GC010,2,1
+"""Fairy Martin""",GC012,3,1
+"""Galah""",GC001,3,1
+"""Galah""",GC002,2,1
+"""Galah""",GC003,1,1
+"""Galah""",GC004,1,1
+"""Galah""",GC004,2,1
+"""Galah""",GC006,1,1
+"""Galah""",GC006,3,1
+"""Galah""",GC008,1,1
+"""Galah""",GC010,2,1
+"""Galah""",GC010,3,1
+"""Galah""",GC011,1,1
+"""Galah""",GC013,1,1
+"""Galah""",GC013,2,1
+"""Galah""",GC013,3,1
+"""Galah""",RG004,1,1
+"""Galah""",RG009,2,1
+"""Galah""",RG009,3,1
+"""Galah""",RG010,2,1
+"""Galah""",UP001,3,1
+"""Galah""",UP002,1,1
+"""Galah""",UP002,2,1
+"""Galah""",UP005,2,1
+"""Galah""",UP007,1,1
+"""Galah""",UP007,2,1
+"""Galah""",UP007,3,1
+"""Galah""",UP008,1,1
+"""Galah""",UP010,1,1
+"""Galah""",UP011,2,1
+"""Galah""",UP012,3,1
+"""Golden Whistler""",GC003,2,1
+"""Golden Whistler""",GC008,1,1
+"""Golden Whistler""",GC008,2,1
+"""Golden Whistler""",GC008,3,1
+"""Golden-headed Cisticola""",GC010,3,1
+"""Golden-headed Cisticola""",GC011,3,1
+"""Golden-headed Cisticola""",GC012,1,1
+"""Golden-headed Cisticola""",GC012,3,1
+"""Grey Butcherbird""",GC001,1,1
+"""Grey Butcherbird""",GC001,2,1
+"""Grey Butcherbird""",GC001,3,1
+"""Grey Butcherbird""",GC002,2,1
+"""Grey Butcherbird""",GC002,3,1
+"""Grey Butcherbird""",GC003,1,1
+"""Grey Butcherbird""",GC003,2,1
+"""Grey Butcherbird""",GC003,3,1
+"""Grey Butcherbird""",GC004,1,1
+"""Grey Butcherbird""",GC004,2,1
+"""Grey Butcherbird""",GC004,3,1
+"""Grey Butcherbird""",GC005,1,1
+"""Grey Butcherbird""",GC005,2,1
+"""Grey Butcherbird""",GC005,3,1
+"""Grey Butcherbird""",GC006,1,1
+"""Grey Butcherbird""",GC006,2,1
+"""Grey Butcherbird""",GC006,3,1
+"""Grey Butcherbird""",GC007,1,1
+"""Grey Butcherbird""",GC007,2,1
+"""Grey Butcherbird""",GC007,3,1
+"""Grey Butcherbird""",GC008,1,1
+"""Grey Butcherbird""",GC008,3,1
+"""Grey Butcherbird""",GC009,1,1
+"""Grey Butcherbird""",GC009,2,1
+"""Grey Butcherbird""",GC009,3,1
+"""Grey Butcherbird""",GC010,1,1
+"""Grey Butcherbird""",GC010,2,1
+"""Grey Butcherbird""",GC010,3,1
+"""Grey Butcherbird""",GC011,1,1
+"""Grey Butcherbird""",GC012,1,1
+"""Grey Butcherbird""",GC013,1,1
+"""Grey Butcherbird""",GC013,2,1
+"""Grey Butcherbird""",GC013,3,1
+"""Grey Butcherbird""",RG001,3,1
+"""Grey Butcherbird""",RG002,1,1
+"""Grey Butcherbird""",RG002,3,1
+"""Grey Butcherbird""",RG005,1,1
+"""Grey Butcherbird""",RG006,2,1
+"""Grey Butcherbird""",RG006,3,1
+"""Grey Butcherbird""",RG007,1,1
+"""Grey Butcherbird""",RG007,2,1
+"""Grey Butcherbird""",RG007,3,1
+"""Grey Butcherbird""",RG008,2,1
+"""Grey Butcherbird""",RG008,3,1
+"""Grey Butcherbird""",RG009,1,1
+"""Grey Butcherbird""",RG009,2,1
+"""Grey Butcherbird""",RG009,3,1
+"""Grey Butcherbird""",RG010,2,1
+"""Grey Butcherbird""",RG013,3,1
+"""Grey Butcherbird""",UP001,1,1
+"""Grey Butcherbird""",UP001,2,1
+"""Grey Butcherbird""",UP001,3,1
+"""Grey Butcherbird""",UP002,1,1
+"""Grey Butcherbird""",UP002,2,1
+"""Grey Butcherbird""",UP002,3,1
+"""Grey Butcherbird""",UP003,1,1
+"""Grey Butcherbird""",UP003,2,1
+"""Grey Butcherbird""",UP003,3,1
+"""Grey Butcherbird""",UP004,1,1
+"""Grey Butcherbird""",UP005,1,1
+"""Grey Butcherbird""",UP005,2,1
+"""Grey Butcherbird""",UP006,2,1
+"""Grey Butcherbird""",UP006,3,1
+"""Grey Butcherbird""",UP007,1,1
+"""Grey Butcherbird""",UP007,2,1
+"""Grey Butcherbird""",UP007,3,1
+"""Grey Butcherbird""",UP008,1,1
+"""Grey Butcherbird""",UP008,2,1
+"""Grey Butcherbird""",UP008,3,1
+"""Grey Butcherbird""",UP009,2,1
+"""Grey Butcherbird""",UP011,1,1
+"""Grey Butcherbird""",UP011,2,1
+"""Grey Butcherbird""",UP011,3,1
+"""Grey Butcherbird""",UP012,1,1
+"""Grey Butcherbird""",UP013,1,1
+"""Grey Butcherbird""",UP013,3,1
+"""Grey Fantail""",GC002,3,1
+"""Grey Fantail""",GC007,1,1
+"""Grey Fantail""",GC008,1,1
+"""Grey Fantail""",GC008,2,1
+"""Grey Fantail""",GC008,3,1
+"""Grey Fantail""",GC009,2,1
+"""Grey Fantail""",GC009,3,1
+"""Grey Fantail""",GC010,3,1
+"""Grey Fantail""",GC012,1,1
+"""Grey Fantail""",GC012,2,1
+"""Grey Fantail""",RG001,1,1
+"""Grey Shrike Thrush""",GC008,1,1
+"""Grey Shrike Thrush""",GC008,2,1
+"""Grey Shrike Thrush""",GC008,3,1
+"""Grey Shrike Thrush""",GC009,2,1
+"""Grey Shrike Thrush""",GC010,1,1
+"""Grey Shrike Thrush""",GC012,1,1
+"""Grey Shrike Thrush""",GC012,3,1
+"""Kookaburra""",GC007,2,1
+"""Kookaburra""",GC008,1,1
+"""Kookaburra""",GC013,3,1
+"""Little Corella""",GC005,3,1
+"""Little Corella""",GC006,3,1
+"""Little Corella""",GC011,3,1
+"""Little Corella""",GC012,1,1
+"""Little Corella""",GC013,2,1
+"""Little Corella""",GC013,3,1
+"""Little Corella""",RG012,3,1
+"""Little Corella""",UP006,2,1
+"""Little Corella""",UP010,2,1
+"""Little Corella""",UP011,2,1
+"""Little Grassbird""",GC010,2,1
+"""Little Grassbird""",GC011,3,1
+"""Little Lorikeet""",GC001,3,1
+"""Little Lorikeet""",UP013,2,1
+"""Little Lorikeet""",UP013,3,1
+"""Little Raven""",GC001,1,1
+"""Little Raven""",GC001,2,1
+"""Little Raven""",GC002,1,1
+"""Little Raven""",GC002,2,1
+"""Little Raven""",GC002,3,1
+"""Little Raven""",GC003,1,1
+"""Little Raven""",GC003,2,1
+"""Little Raven""",GC003,3,1
+"""Little Raven""",GC004,1,1
+"""Little Raven""",GC004,2,1
+"""Little Raven""",GC004,3,1
+"""Little Raven""",GC005,1,1
+"""Little Raven""",GC005,2,1
+"""Little Raven""",GC005,3,1
+"""Little Raven""",GC006,1,1
+"""Little Raven""",GC006,2,1
+"""Little Raven""",GC006,3,1
+"""Little Raven""",GC007,1,1
+"""Little Raven""",GC007,2,1
+"""Little Raven""",GC007,3,1
+"""Little Raven""",GC008,1,1
+"""Little Raven""",GC008,2,1
+"""Little Raven""",GC008,3,1
+"""Little Raven""",GC009,1,1
+"""Little Raven""",GC009,2,1
+"""Little Raven""",GC009,3,1
+"""Little Raven""",GC010,1,1
+"""Little Raven""",GC010,2,1
+"""Little Raven""",GC010,3,1
+"""Little Raven""",GC011,1,1
+"""Little Raven""",GC011,2,1
+"""Little Raven""",GC012,1,1
+"""Little Raven""",GC012,2,1
+"""Little Raven""",GC012,3,1
+"""Little Raven""",GC013,1,1
+"""Little Raven""",GC013,2,1
+"""Little Raven""",GC013,3,1
+"""Little Raven""",RG001,1,1
+"""Little Raven""",RG001,2,1
+"""Little Raven""",RG001,3,1
+"""Little Raven""",RG002,1,1
+"""Little Raven""",RG002,2,1
+"""Little Raven""",RG002,3,1
+"""Little Raven""",RG003,2,1
+"""Little Raven""",RG004,2,1
+"""Little Raven""",RG004,3,1
+"""Little Raven""",RG005,1,1
+"""Little Raven""",RG005,2,1
+"""Little Raven""",RG005,3,1
+"""Little Raven""",RG006,1,1
+"""Little Raven""",RG006,2,1
+"""Little Raven""",RG006,3,1
+"""Little Raven""",RG007,1,1
+"""Little Raven""",RG007,2,1
+"""Little Raven""",RG007,3,1
+"""Little Raven""",RG008,1,1
+"""Little Raven""",RG008,2,1
+"""Little Raven""",RG008,3,1
+"""Little Raven""",RG009,1,1
+"""Little Raven""",RG009,2,1
+"""Little Raven""",RG009,3,1
+"""Little Raven""",RG010,2,1
+"""Little Raven""",RG010,3,1
+"""Little Raven""",RG011,1,1
+"""Little Raven""",RG011,2,1
+"""Little Raven""",RG011,3,1
+"""Little Raven""",RG012,1,1
+"""Little Raven""",RG012,2,1
+"""Little Raven""",RG012,3,1
+"""Little Raven""",RG013,1,1
+"""Little Raven""",RG013,2,1
+"""Little Raven""",RG013,3,1
+"""Little Raven""",UP001,1,1
+"""Little Raven""",UP001,2,1
+"""Little Raven""",UP001,3,1
+"""Little Raven""",UP002,1,1
+"""Little Raven""",UP002,2,1
+"""Little Raven""",UP003,2,1
+"""Little Raven""",UP004,1,1
+"""Little Raven""",UP004,2,1
+"""Little Raven""",UP004,3,1
+"""Little Raven""",UP005,1,1
+"""Little Raven""",UP005,3,1
+"""Little Raven""",UP006,1,1
+"""Little Raven""",UP006,3,1
+"""Little Raven""",UP007,3,1
+"""Little Raven""",UP008,1,1
+"""Little Raven""",UP008,2,1
+"""Little Raven""",UP008,3,1
+"""Little Raven""",UP009,1,1
+"""Little Raven""",UP010,1,1
+"""Little Raven""",UP011,2,1
+"""Little Raven""",UP011,3,1
+"""Little Raven""",UP012,1,1
+"""Little Raven""",UP013,1,1
+"""Little Raven""",UP013,3,1
+"""Little Wattlebird""",GC002,1,1
+"""Little Wattlebird""",GC002,3,1
+"""Little Wattlebird""",GC004,1,1
+"""Little Wattlebird""",GC005,1,1
+"""Little Wattlebird""",GC006,2,1
+"""Little Wattlebird""",GC006,3,1
+"""Little Wattlebird""",GC007,1,1
+"""Little Wattlebird""",GC007,2,1
+"""Little Wattlebird""",GC008,1,1
+"""Little Wattlebird""",GC008,2,1
+"""Little Wattlebird""",GC008,3,1
+"""Little Wattlebird""",GC009,2,1
+"""Little Wattlebird""",GC009,3,1
+"""Little Wattlebird""",GC010,1,1
+"""Little Wattlebird""",GC010,2,1
+"""Little Wattlebird""",RG001,1,1
+"""Little Wattlebird""",RG001,2,1
+"""Little Wattlebird""",RG001,3,1
+"""Little Wattlebird""",RG002,1,1
+"""Little Wattlebird""",RG002,2,1
+"""Little Wattlebird""",RG002,3,1
+"""Little Wattlebird""",RG003,1,1
+"""Little Wattlebird""",RG004,1,1
+"""Little Wattlebird""",RG004,2,1
+"""Little Wattlebird""",RG004,3,1
+"""Little Wattlebird""",RG005,2,1
+"""Little Wattlebird""",RG006,1,1
+"""Little Wattlebird""",RG006,2,1
+"""Little Wattlebird""",RG006,3,1
+"""Little Wattlebird""",RG007,1,1
+"""Little Wattlebird""",RG007,2,1
+"""Little Wattlebird""",RG007,3,1
+"""Little Wattlebird""",RG008,1,1
+"""Little Wattlebird""",RG009,1,1
+"""Little Wattlebird""",RG009,2,1
+"""Little Wattlebird""",RG009,3,1
+"""Little Wattlebird""",RG010,1,1
+"""Little Wattlebird""",RG010,2,1
+"""Little Wattlebird""",RG010,3,1
+"""Little Wattlebird""",RG011,1,1
+"""Little Wattlebird""",RG012,1,1
+"""Little Wattlebird""",RG013,1,1
+"""Little Wattlebird""",RG013,2,1
+"""Little Wattlebird""",RG013,3,1
+"""Little Wattlebird""",UP004,2,1
+"""Little Wattlebird""",UP007,3,1
+"""Little Wattlebird""",UP013,1,1
+"""Little Wattlebird""",UP013,3,1
+"""Long-billed Corella""",GC009,3,1
+"""Long-billed Corella""",GC010,2,1
+"""Long-billed Corella""",GC013,3,1
+"""Long-billed Corella""",RG012,3,1
+"""Long-billed Corella""",UP006,2,1
+"""Magpie-lark""",GC001,2,1
+"""Magpie-lark""",GC001,3,1
+"""Magpie-lark""",GC002,2,1
+"""Magpie-lark""",GC002,3,1
+"""Magpie-lark""",GC003,1,1
+"""Magpie-lark""",GC003,3,1
+"""Magpie-lark""",GC004,1,1
+"""Magpie-lark""",GC004,2,1
+"""Magpie-lark""",GC004,3,1
+"""Magpie-lark""",GC005,1,1
+"""Magpie-lark""",GC005,2,1
+"""Magpie-lark""",GC005,3,1
+"""Magpie-lark""",GC006,1,1
+"""Magpie-lark""",GC006,2,1
+"""Magpie-lark""",GC006,3,1
+"""Magpie-lark""",GC007,1,1
+"""Magpie-lark""",GC007,2,1
+"""Magpie-lark""",GC007,3,1
+"""Magpie-lark""",GC008,1,1
+"""Magpie-lark""",GC008,2,1
+"""Magpie-lark""",GC008,3,1
+"""Magpie-lark""",GC009,1,1
+"""Magpie-lark""",GC009,2,1
+"""Magpie-lark""",GC009,3,1
+"""Magpie-lark""",GC010,1,1
+"""Magpie-lark""",GC010,2,1
+"""Magpie-lark""",GC010,3,1
+"""Magpie-lark""",GC011,1,1
+"""Magpie-lark""",GC011,2,1
+"""Magpie-lark""",GC011,3,1
+"""Magpie-lark""",GC012,1,1
+"""Magpie-lark""",GC012,2,1
+"""Magpie-lark""",GC012,3,1
+"""Magpie-lark""",GC013,1,1
+"""Magpie-lark""",GC013,2,1
+"""Magpie-lark""",GC013,3,1
+"""Magpie-lark""",RG002,1,1
+"""Magpie-lark""",RG002,2,1
+"""Magpie-lark""",RG002,3,1
+"""Magpie-lark""",RG003,1,1
+"""Magpie-lark""",RG003,2,1
+"""Magpie-lark""",RG004,1,1
+"""Magpie-lark""",RG004,2,1
+"""Magpie-lark""",RG004,3,1
+"""Magpie-lark""",RG005,3,1
+"""Magpie-lark""",RG006,1,1
+"""Magpie-lark""",RG006,2,1
+"""Magpie-lark""",RG007,1,1
+"""Magpie-lark""",RG007,2,1
+"""Magpie-lark""",RG008,2,1
+"""Magpie-lark""",RG009,1,1
+"""Magpie-lark""",RG009,2,1
+"""Magpie-lark""",RG009,3,1
+"""Magpie-lark""",RG010,3,1
+"""Magpie-lark""",RG011,1,1
+"""Magpie-lark""",RG011,2,1
+"""Magpie-lark""",RG011,3,1
+"""Magpie-lark""",RG012,1,1
+"""Magpie-lark""",RG012,2,1
+"""Magpie-lark""",RG012,3,1
+"""Magpie-lark""",RG013,1,1
+"""Magpie-lark""",RG013,2,1
+"""Magpie-lark""",RG013,3,1
+"""Magpie-lark""",UP001,1,1
+"""Magpie-lark""",UP001,2,1
+"""Magpie-lark""",UP001,3,1
+"""Magpie-lark""",UP002,3,1
+"""Magpie-lark""",UP003,1,1
+"""Magpie-lark""",UP003,2,1
+"""Magpie-lark""",UP005,1,1
+"""Magpie-lark""",UP005,3,1
+"""Magpie-lark""",UP007,2,1
+"""Magpie-lark""",UP007,3,1
+"""Magpie-lark""",UP008,1,1
+"""Magpie-lark""",UP008,2,1
+"""Magpie-lark""",UP008,3,1
+"""Magpie-lark""",UP010,2,1
+"""Magpie-lark""",UP011,1,1
+"""Magpie-lark""",UP012,1,1
+"""Magpie-lark""",UP012,3,1
+"""Magpie-lark""",UP013,1,1
+"""Magpie-lark""",UP013,2,1
+"""Magpie-lark""",UP013,3,1
+"""Masked Lapwing""",GC001,1,1
+"""Masked Lapwing""",GC001,2,1
+"""Masked Lapwing""",GC004,1,1
+"""Masked Lapwing""",GC004,2,1
+"""Masked Lapwing""",GC004,3,1
+"""Masked Lapwing""",GC005,3,1
+"""Masked Lapwing""",GC006,2,1
+"""Masked Lapwing""",GC006,3,1
+"""Masked Lapwing""",GC009,1,1
+"""Masked Lapwing""",GC009,2,1
+"""Masked Lapwing""",GC009,3,1
+"""Masked Lapwing""",GC010,1,1
+"""Masked Lapwing""",GC010,3,1
+"""Masked Lapwing""",GC011,1,1
+"""Masked Lapwing""",GC012,1,1
+"""Masked Lapwing""",GC012,2,1
+"""Masked Lapwing""",GC013,2,1
+"""Masked Lapwing""",GC013,3,1
+"""Masked Lapwing""",RG009,1,1
+"""Masked Lapwing""",RG012,1,1
+"""Masked Lapwing""",UP007,1,1
+"""Masked Lapwing""",UP010,1,1
+"""Masked Lapwing""",UP010,2,1
+"""Masked Lapwing""",UP010,3,1
+"""Musk Lorikeet""",GC001,3,1
+"""Musk Lorikeet""",GC002,3,1
+"""Musk Lorikeet""",GC003,3,1
+"""Musk Lorikeet""",GC004,3,1
+"""Musk Lorikeet""",GC005,1,1
+"""Musk Lorikeet""",GC005,3,1
+"""Musk Lorikeet""",GC006,2,1
+"""Musk Lorikeet""",GC006,3,1
+"""Musk Lorikeet""",GC007,2,1
+"""Musk Lorikeet""",GC007,3,1
+"""Musk Lorikeet""",GC008,3,1
+"""Musk Lorikeet""",GC009,2,1
+"""Musk Lorikeet""",GC009,3,1
+"""Musk Lorikeet""",GC010,3,1
+"""Musk Lorikeet""",GC012,3,1
+"""Musk Lorikeet""",GC013,1,1
+"""Musk Lorikeet""",GC013,3,1
+"""Musk Lorikeet""",RG002,3,1
+"""Musk Lorikeet""",RG004,3,1
+"""Musk Lorikeet""",RG005,3,1
+"""Musk Lorikeet""",RG006,3,1
+"""Musk Lorikeet""",RG008,3,1
+"""Musk Lorikeet""",RG009,3,1
+"""Musk Lorikeet""",RG012,3,1
+"""Musk Lorikeet""",RG013,3,1
+"""Musk Lorikeet""",UP001,3,1
+"""Musk Lorikeet""",UP002,3,1
+"""Musk Lorikeet""",UP003,3,1
+"""Musk Lorikeet""",UP004,3,1
+"""Musk Lorikeet""",UP005,2,1
+"""Musk Lorikeet""",UP006,3,1
+"""Musk Lorikeet""",UP007,1,1
+"""Musk Lorikeet""",UP007,2,1
+"""Musk Lorikeet""",UP007,3,1
+"""Musk Lorikeet""",UP008,3,1
+"""Musk Lorikeet""",UP009,1,1
+"""Musk Lorikeet""",UP011,3,1
+"""Musk Lorikeet""",UP013,1,1
+"""Musk Lorikeet""",UP013,2,1
+"""Musk Lorikeet""",UP013,3,1
+"""Nankeen Kestrel""",GC011,1,1
+"""Nankeen Kestrel""",GC012,2,1
+"""Nankeen Kestrel""",UP011,2,1
+"""New Holland Honeyeater""",GC005,2,1
+"""New Holland Honeyeater""",GC008,1,1
+"""New Holland Honeyeater""",GC008,2,1
+"""New Holland Honeyeater""",GC008,3,1
+"""New Holland Honeyeater""",GC012,3,1
+"""New Holland Honeyeater""",RG004,3,1
+"""New Holland Honeyeater""",RG011,3,1
+"""Noisy Miner""",GC001,1,1
+"""Noisy Miner""",GC001,2,1
+"""Noisy Miner""",GC001,3,1
+"""Noisy Miner""",GC002,1,1
+"""Noisy Miner""",GC002,2,1
+"""Noisy Miner""",GC002,3,1
+"""Noisy Miner""",GC003,1,1
+"""Noisy Miner""",GC003,2,1
+"""Noisy Miner""",GC003,3,1
+"""Noisy Miner""",GC004,1,1
+"""Noisy Miner""",GC004,2,1
+"""Noisy Miner""",GC004,3,1
+"""Noisy Miner""",GC005,1,1
+"""Noisy Miner""",GC005,2,1
+"""Noisy Miner""",GC005,3,1
+"""Noisy Miner""",GC006,1,1
+"""Noisy Miner""",GC006,2,1
+"""Noisy Miner""",GC006,3,1
+"""Noisy Miner""",GC007,1,1
+"""Noisy Miner""",GC007,2,1
+"""Noisy Miner""",GC007,3,1
+"""Noisy Miner""",GC008,1,1
+"""Noisy Miner""",GC008,3,1
+"""Noisy Miner""",GC009,1,1
+"""Noisy Miner""",GC009,2,1
+"""Noisy Miner""",GC009,3,1
+"""Noisy Miner""",GC010,1,1
+"""Noisy Miner""",GC010,2,1
+"""Noisy Miner""",GC010,3,1
+"""Noisy Miner""",GC011,1,1
+"""Noisy Miner""",GC011,2,1
+"""Noisy Miner""",GC011,3,1
+"""Noisy Miner""",GC012,2,1
+"""Noisy Miner""",GC013,1,1
+"""Noisy Miner""",GC013,2,1
+"""Noisy Miner""",GC013,3,1
+"""Noisy Miner""",RG001,1,1
+"""Noisy Miner""",RG001,3,1
+"""Noisy Miner""",RG002,1,1
+"""Noisy Miner""",RG002,2,1
+"""Noisy Miner""",RG002,3,1
+"""Noisy Miner""",RG003,1,1
+"""Noisy Miner""",RG004,2,1
+"""Noisy Miner""",RG006,2,1
+"""Noisy Miner""",RG006,3,1
+"""Noisy Miner""",RG007,1,1
+"""Noisy Miner""",RG007,2,1
+"""Noisy Miner""",RG007,3,1
+"""Noisy Miner""",RG008,1,1
+"""Noisy Miner""",RG008,2,1
+"""Noisy Miner""",RG008,3,1
+"""Noisy Miner""",RG009,1,1
+"""Noisy Miner""",RG009,2,1
+"""Noisy Miner""",RG009,3,1
+"""Noisy Miner""",RG010,1,1
+"""Noisy Miner""",RG010,2,1
+"""Noisy Miner""",RG010,3,1
+"""Noisy Miner""",RG012,1,1
+"""Noisy Miner""",RG012,2,1
+"""Noisy Miner""",RG012,3,1
+"""Noisy Miner""",RG013,3,1
+"""Noisy Miner""",UP001,1,1
+"""Noisy Miner""",UP001,2,1
+"""Noisy Miner""",UP001,3,1
+"""Noisy Miner""",UP002,1,1
+"""Noisy Miner""",UP002,2,1
+"""Noisy Miner""",UP002,3,1
+"""Noisy Miner""",UP003,1,1
+"""Noisy Miner""",UP003,2,1
+"""Noisy Miner""",UP003,3,1
+"""Noisy Miner""",UP004,1,1
+"""Noisy Miner""",UP004,2,1
+"""Noisy Miner""",UP004,3,1
+"""Noisy Miner""",UP005,1,1
+"""Noisy Miner""",UP005,2,1
+"""Noisy Miner""",UP005,3,1
+"""Noisy Miner""",UP006,1,1
+"""Noisy Miner""",UP006,2,1
+"""Noisy Miner""",UP006,3,1
+"""Noisy Miner""",UP007,1,1
+"""Noisy Miner""",UP007,2,1
+"""Noisy Miner""",UP007,3,1
+"""Noisy Miner""",UP008,1,1
+"""Noisy Miner""",UP008,2,1
+"""Noisy Miner""",UP008,3,1
+"""Noisy Miner""",UP009,1,1
+"""Noisy Miner""",UP009,2,1
+"""Noisy Miner""",UP009,3,1
+"""Noisy Miner""",UP010,1,1
+"""Noisy Miner""",UP010,2,1
+"""Noisy Miner""",UP010,3,1
+"""Noisy Miner""",UP011,1,1
+"""Noisy Miner""",UP011,2,1
+"""Noisy Miner""",UP011,3,1
+"""Noisy Miner""",UP012,1,1
+"""Noisy Miner""",UP012,2,1
+"""Noisy Miner""",UP012,3,1
+"""Noisy Miner""",UP013,1,1
+"""Noisy Miner""",UP013,2,1
+"""Noisy Miner""",UP013,3,1
+"""Pied Currawong""",GC001,1,1
+"""Pied Currawong""",RG002,3,1
+"""Pied Currawong""",UP001,3,1
+"""Rainbow Lorikeet""",GC001,1,1
+"""Rainbow Lorikeet""",GC001,2,1
+"""Rainbow Lorikeet""",GC001,3,1
+"""Rainbow Lorikeet""",GC002,1,1
+"""Rainbow Lorikeet""",GC002,2,1
+"""Rainbow Lorikeet""",GC002,3,1
+"""Rainbow Lorikeet""",GC003,1,1
+"""Rainbow Lorikeet""",GC003,2,1
+"""Rainbow Lorikeet""",GC003,3,1
+"""Rainbow Lorikeet""",GC004,1,1
+"""Rainbow Lorikeet""",GC004,2,1
+"""Rainbow Lorikeet""",GC004,3,1
+"""Rainbow Lorikeet""",GC005,1,1
+"""Rainbow Lorikeet""",GC005,2,1
+"""Rainbow Lorikeet""",GC005,3,1
+"""Rainbow Lorikeet""",GC006,1,1
+"""Rainbow Lorikeet""",GC006,2,1
+"""Rainbow Lorikeet""",GC006,3,1
+"""Rainbow Lorikeet""",GC007,1,1
+"""Rainbow Lorikeet""",GC007,2,1
+"""Rainbow Lorikeet""",GC007,3,1
+"""Rainbow Lorikeet""",GC008,1,1
+"""Rainbow Lorikeet""",GC008,2,1
+"""Rainbow Lorikeet""",GC008,3,1
+"""Rainbow Lorikeet""",GC009,1,1
+"""Rainbow Lorikeet""",GC009,2,1
+"""Rainbow Lorikeet""",GC009,3,1
+"""Rainbow Lorikeet""",GC010,1,1
+"""Rainbow Lorikeet""",GC010,2,1
+"""Rainbow Lorikeet""",GC010,3,1
+"""Rainbow Lorikeet""",GC011,1,1
+"""Rainbow Lorikeet""",GC011,2,1
+"""Rainbow Lorikeet""",GC011,3,1
+"""Rainbow Lorikeet""",GC012,1,1
+"""Rainbow Lorikeet""",GC012,2,1
+"""Rainbow Lorikeet""",GC013,1,1
+"""Rainbow Lorikeet""",GC013,2,1
+"""Rainbow Lorikeet""",GC013,3,1
+"""Rainbow Lorikeet""",RG001,1,1
+"""Rainbow Lorikeet""",RG001,2,1
+"""Rainbow Lorikeet""",RG001,3,1
+"""Rainbow Lorikeet""",RG002,1,1
+"""Rainbow Lorikeet""",RG002,2,1
+"""Rainbow Lorikeet""",RG002,3,1
+"""Rainbow Lorikeet""",RG003,1,1
+"""Rainbow Lorikeet""",RG003,2,1
+"""Rainbow Lorikeet""",RG004,1,1
+"""Rainbow Lorikeet""",RG004,2,1
+"""Rainbow Lorikeet""",RG004,3,1
+"""Rainbow Lorikeet""",RG005,2,1
+"""Rainbow Lorikeet""",RG005,3,1
+"""Rainbow Lorikeet""",RG006,1,1
+"""Rainbow Lorikeet""",RG006,2,1
+"""Rainbow Lorikeet""",RG006,3,1
+"""Rainbow Lorikeet""",RG007,1,1
+"""Rainbow Lorikeet""",RG007,2,1
+"""Rainbow Lorikeet""",RG007,3,1
+"""Rainbow Lorikeet""",RG008,1,1
+"""Rainbow Lorikeet""",RG008,2,1
+"""Rainbow Lorikeet""",RG008,3,1
+"""Rainbow Lorikeet""",RG009,1,1
+"""Rainbow Lorikeet""",RG009,2,1
+"""Rainbow Lorikeet""",RG009,3,1
+"""Rainbow Lorikeet""",RG010,1,1
+"""Rainbow Lorikeet""",RG010,2,1
+"""Rainbow Lorikeet""",RG010,3,1
+"""Rainbow Lorikeet""",RG011,1,1
+"""Rainbow Lorikeet""",RG011,3,1
+"""Rainbow Lorikeet""",RG012,1,1
+"""Rainbow Lorikeet""",RG012,2,1
+"""Rainbow Lorikeet""",RG012,3,1
+"""Rainbow Lorikeet""",RG013,1,1
+"""Rainbow Lorikeet""",RG013,2,1
+"""Rainbow Lorikeet""",RG013,3,1
+"""Rainbow Lorikeet""",UP001,1,1
+"""Rainbow Lorikeet""",UP001,2,1
+"""Rainbow Lorikeet""",UP001,3,1
+"""Rainbow Lorikeet""",UP002,1,1
+"""Rainbow Lorikeet""",UP002,2,1
+"""Rainbow Lorikeet""",UP002,3,1
+"""Rainbow Lorikeet""",UP003,1,1
+"""Rainbow Lorikeet""",UP003,2,1
+"""Rainbow Lorikeet""",UP003,3,1
+"""Rainbow Lorikeet""",UP004,1,1
+"""Rainbow Lorikeet""",UP004,2,1
+"""Rainbow Lorikeet""",UP004,3,1
+"""Rainbow Lorikeet""",UP005,1,1
+"""Rainbow Lorikeet""",UP005,2,1
+"""Rainbow Lorikeet""",UP005,3,1
+"""Rainbow Lorikeet""",UP006,1,1
+"""Rainbow Lorikeet""",UP006,2,1
+"""Rainbow Lorikeet""",UP006,3,1
+"""Rainbow Lorikeet""",UP007,1,1
+"""Rainbow Lorikeet""",UP007,2,1
+"""Rainbow Lorikeet""",UP007,3,1
+"""Rainbow Lorikeet""",UP008,1,1
+"""Rainbow Lorikeet""",UP008,2,1
+"""Rainbow Lorikeet""",UP008,3,1
+"""Rainbow Lorikeet""",UP009,1,1
+"""Rainbow Lorikeet""",UP009,2,1
+"""Rainbow Lorikeet""",UP009,3,1
+"""Rainbow Lorikeet""",UP010,1,1
+"""Rainbow Lorikeet""",UP011,1,1
+"""Rainbow Lorikeet""",UP011,2,1
+"""Rainbow Lorikeet""",UP011,3,1
+"""Rainbow Lorikeet""",UP012,3,1
+"""Rainbow Lorikeet""",UP013,1,1
+"""Rainbow Lorikeet""",UP013,2,1
+"""Rainbow Lorikeet""",UP013,3,1
+"""Red Wattlebird""",GC001,2,1
+"""Red Wattlebird""",GC001,3,1
+"""Red Wattlebird""",GC002,1,1
+"""Red Wattlebird""",GC002,2,1
+"""Red Wattlebird""",GC003,2,1
+"""Red Wattlebird""",GC004,1,1
+"""Red Wattlebird""",GC004,2,1
+"""Red Wattlebird""",GC004,3,1
+"""Red Wattlebird""",GC005,2,1
+"""Red Wattlebird""",GC005,3,1
+"""Red Wattlebird""",GC006,1,1
+"""Red Wattlebird""",GC006,2,1
+"""Red Wattlebird""",GC007,1,1
+"""Red Wattlebird""",GC007,2,1
+"""Red Wattlebird""",GC007,3,1
+"""Red Wattlebird""",GC008,1,1
+"""Red Wattlebird""",GC008,2,1
+"""Red Wattlebird""",GC008,3,1
+"""Red Wattlebird""",GC009,1,1
+"""Red Wattlebird""",GC009,2,1
+"""Red Wattlebird""",GC009,3,1
+"""Red Wattlebird""",GC010,1,1
+"""Red Wattlebird""",GC010,2,1
+"""Red Wattlebird""",GC010,3,1
+"""Red Wattlebird""",GC012,1,1
+"""Red Wattlebird""",GC012,2,1
+"""Red Wattlebird""",GC012,3,1
+"""Red Wattlebird""",GC013,2,1
+"""Red Wattlebird""",GC013,3,1
+"""Red Wattlebird""",RG001,1,1
+"""Red Wattlebird""",RG001,2,1
+"""Red Wattlebird""",RG001,3,1
+"""Red Wattlebird""",RG002,1,1
+"""Red Wattlebird""",RG002,2,1
+"""Red Wattlebird""",RG002,3,1
+"""Red Wattlebird""",RG003,1,1
+"""Red Wattlebird""",RG003,2,1
+"""Red Wattlebird""",RG004,1,1
+"""Red Wattlebird""",RG004,2,1
+"""Red Wattlebird""",RG004,3,1
+"""Red Wattlebird""",RG005,1,1
+"""Red Wattlebird""",RG005,2,1
+"""Red Wattlebird""",RG005,3,1
+"""Red Wattlebird""",RG006,1,1
+"""Red Wattlebird""",RG006,2,1
+"""Red Wattlebird""",RG006,3,1
+"""Red Wattlebird""",RG007,1,1
+"""Red Wattlebird""",RG007,2,1
+"""Red Wattlebird""",RG007,3,1
+"""Red Wattlebird""",RG008,1,1
+"""Red Wattlebird""",RG008,2,1
+"""Red Wattlebird""",RG008,3,1
+"""Red Wattlebird""",RG009,1,1
+"""Red Wattlebird""",RG009,2,1
+"""Red Wattlebird""",RG009,3,1
+"""Red Wattlebird""",RG010,1,1
+"""Red Wattlebird""",RG010,2,1
+"""Red Wattlebird""",RG010,3,1
+"""Red Wattlebird""",RG011,1,1
+"""Red Wattlebird""",RG011,2,1
+"""Red Wattlebird""",RG011,3,1
+"""Red Wattlebird""",RG012,1,1
+"""Red Wattlebird""",RG012,2,1
+"""Red Wattlebird""",RG012,3,1
+"""Red Wattlebird""",RG013,1,1
+"""Red Wattlebird""",RG013,2,1
+"""Red Wattlebird""",RG013,3,1
+"""Red Wattlebird""",UP001,1,1
+"""Red Wattlebird""",UP001,2,1
+"""Red Wattlebird""",UP001,3,1
+"""Red Wattlebird""",UP002,2,1
+"""Red Wattlebird""",UP002,3,1
+"""Red Wattlebird""",UP003,2,1
+"""Red Wattlebird""",UP004,1,1
+"""Red Wattlebird""",UP004,3,1
+"""Red Wattlebird""",UP006,3,1
+"""Red Wattlebird""",UP007,1,1
+"""Red Wattlebird""",UP007,2,1
+"""Red Wattlebird""",UP007,3,1
+"""Red Wattlebird""",UP008,1,1
+"""Red Wattlebird""",UP008,2,1
+"""Red Wattlebird""",UP009,2,1
+"""Red Wattlebird""",UP010,1,1
+"""Red Wattlebird""",UP010,2,1
+"""Red Wattlebird""",UP010,3,1
+"""Red Wattlebird""",UP011,1,1
+"""Red Wattlebird""",UP011,2,1
+"""Red Wattlebird""",UP012,2,1
+"""Red Wattlebird""",UP013,1,1
+"""Red Wattlebird""",UP013,2,1
+"""Red Wattlebird""",UP013,3,1
+"""Red-browed Finch""",GC008,2,1
+"""Red-browed Finch""",GC010,2,1
+"""Red-browed Finch""",GC012,3,1
+"""Red-rumped Parrot""",GC003,1,1
+"""Red-rumped Parrot""",GC006,1,1
+"""Red-rumped Parrot""",GC010,1,1
+"""Red-rumped Parrot""",GC010,2,1
+"""Red-rumped Parrot""",GC010,3,1
+"""Red-rumped Parrot""",GC011,1,1
+"""Red-rumped Parrot""",GC011,3,1
+"""Red-rumped Parrot""",UP012,1,1
+"""Red-rumped Parrot""",UP012,3,1
+"""Rufus Whistler""",GC008,1,1
+"""Rufus Whistler""",GC012,1,1
+"""Spotted Pardalote""",GC002,3,1
+"""Spotted Pardalote""",GC004,1,1
+"""Spotted Pardalote""",GC005,2,1
+"""Spotted Pardalote""",GC005,3,1
+"""Spotted Pardalote""",GC006,1,1
+"""Spotted Pardalote""",GC006,2,1
+"""Spotted Pardalote""",GC007,1,1
+"""Spotted Pardalote""",GC007,3,1
+"""Spotted Pardalote""",GC008,1,1
+"""Spotted Pardalote""",GC008,2,1
+"""Spotted Pardalote""",GC008,3,1
+"""Spotted Pardalote""",GC009,1,1
+"""Spotted Pardalote""",GC009,2,1
+"""Spotted Pardalote""",GC009,3,1
+"""Spotted Pardalote""",GC010,2,1
+"""Spotted Pardalote""",GC010,3,1
+"""Spotted Pardalote""",GC012,1,1
+"""Spotted Pardalote""",GC012,2,1
+"""Spotted Pardalote""",RG003,2,1
+"""Spotted Pardalote""",RG004,1,1
+"""Spotted Pardalote""",RG009,1,1
+"""Spotted Pardalote""",RG009,2,1
+"""Spotted Pardalote""",RG010,2,1
+"""Spotted Pardalote""",RG010,3,1
+"""Spotted Pardalote""",UP002,1,1
+"""Spotted Pardalote""",UP010,1,1
+"""Spotted Pardalote""",UP012,2,1
+"""Striated Pardalote""",GC007,1,1
+"""Striated Pardalote""",GC009,3,1
+"""Striated Pardalote""",GC012,2,1
+"""Striated Pardalote""",RG012,1,1
+"""Striated Pardalote""",UP012,1,1
+"""Striated Pardalote""",UP012,2,1
+"""Striated Pardalote""",UP012,3,1
+"""Sulphur Crested Cockatoo""",GC002,3,1
+"""Sulphur Crested Cockatoo""",GC003,3,1
+"""Sulphur Crested Cockatoo""",GC004,1,1
+"""Sulphur Crested Cockatoo""",GC004,2,1
+"""Sulphur Crested Cockatoo""",GC004,3,1
+"""Sulphur Crested Cockatoo""",GC005,1,1
+"""Sulphur Crested Cockatoo""",GC005,2,1
+"""Sulphur Crested Cockatoo""",GC006,2,1
+"""Sulphur Crested Cockatoo""",GC006,3,1
+"""Sulphur Crested Cockatoo""",GC008,1,1
+"""Sulphur Crested Cockatoo""",GC010,1,1
+"""Sulphur Crested Cockatoo""",GC010,2,1
+"""Sulphur Crested Cockatoo""",GC010,3,1
+"""Sulphur Crested Cockatoo""",GC011,2,1
+"""Sulphur Crested Cockatoo""",RG002,3,1
+"""Sulphur Crested Cockatoo""",RG006,1,1
+"""Sulphur Crested Cockatoo""",RG006,2,1
+"""Sulphur Crested Cockatoo""",RG010,3,1
+"""Sulphur Crested Cockatoo""",RG011,3,1
+"""Sulphur Crested Cockatoo""",RG012,3,1
+"""Sulphur Crested Cockatoo""",RG013,3,1
+"""Sulphur Crested Cockatoo""",UP010,1,1
+"""Sulphur Crested Cockatoo""",UP013,2,1
+"""Superb Fairy Wren""",GC002,1,1
+"""Superb Fairy Wren""",GC006,3,1
+"""Superb Fairy Wren""",GC008,1,1
+"""Superb Fairy Wren""",GC008,3,1
+"""Superb Fairy Wren""",GC009,2,1
+"""Superb Fairy Wren""",GC009,3,1
+"""Superb Fairy Wren""",GC010,1,1
+"""Superb Fairy Wren""",GC010,2,1
+"""Superb Fairy Wren""",GC010,3,1
+"""Superb Fairy Wren""",GC012,1,1
+"""Superb Fairy Wren""",GC012,2,1
+"""Superb Fairy Wren""",GC012,3,1
+"""Superb Fairy Wren""",RG011,3,1
+"""Tawny Frogmouth""",GC003,3,1
+"""Tawny Frogmouth""",GC008,1,1
+"""Tawny Frogmouth""",UP002,2,1
+"""Tawny Frogmouth""",UP002,3,1
+"""Tawny Frogmouth""",UP006,2,1
+"""Tawny Frogmouth""",UP007,1,1
+"""Welcome Swallow""",GC001,1,1
+"""Welcome Swallow""",GC002,2,1
+"""Welcome Swallow""",GC003,1,1
+"""Welcome Swallow""",GC003,2,1
+"""Welcome Swallow""",GC004,2,1
+"""Welcome Swallow""",GC005,1,1
+"""Welcome Swallow""",GC005,2,1
+"""Welcome Swallow""",GC007,1,1
+"""Welcome Swallow""",GC007,2,1
+"""Welcome Swallow""",GC007,3,1
+"""Welcome Swallow""",GC009,1,1
+"""Welcome Swallow""",GC009,2,1
+"""Welcome Swallow""",GC009,3,1
+"""Welcome Swallow""",GC010,1,1
+"""Welcome Swallow""",GC010,2,1
+"""Welcome Swallow""",GC010,3,1
+"""Welcome Swallow""",GC011,1,1
+"""Welcome Swallow""",GC011,2,1
+"""Welcome Swallow""",GC011,3,1
+"""Welcome Swallow""",GC012,2,1
+"""Welcome Swallow""",GC012,3,1
+"""Welcome Swallow""",GC013,2,1
+"""Welcome Swallow""",RG004,1,1
+"""Welcome Swallow""",RG006,2,1
+"""Welcome Swallow""",RG008,2,1
+"""Welcome Swallow""",RG010,2,1
+"""Welcome Swallow""",RG011,2,1
+"""Welcome Swallow""",RG012,1,1
+"""Welcome Swallow""",RG012,2,1
+"""Welcome Swallow""",RG012,3,1
+"""Welcome Swallow""",UP001,1,1
+"""Welcome Swallow""",UP002,1,1
+"""Welcome Swallow""",UP002,3,1
+"""Welcome Swallow""",UP003,1,1
+"""Welcome Swallow""",UP003,2,1
+"""Welcome Swallow""",UP004,1,1
+"""Welcome Swallow""",UP004,2,1
+"""Welcome Swallow""",UP004,3,1
+"""Welcome Swallow""",UP005,1,1
+"""Welcome Swallow""",UP005,2,1
+"""Welcome Swallow""",UP006,2,1
+"""Welcome Swallow""",UP006,3,1
+"""Welcome Swallow""",UP007,1,1
+"""Welcome Swallow""",UP007,2,1
+"""Welcome Swallow""",UP007,3,1
+"""Welcome Swallow""",UP008,1,1
+"""Welcome Swallow""",UP008,2,1
+"""Welcome Swallow""",UP008,3,1
+"""Welcome Swallow""",UP009,1,1
+"""Welcome Swallow""",UP010,1,1
+"""Welcome Swallow""",UP010,2,1
+"""Welcome Swallow""",UP010,3,1
+"""Welcome Swallow""",UP011,2,1
+"""Welcome Swallow""",UP012,2,1
+"""White Browed Scrub Wren""",GC002,1,1
+"""White Browed Scrub Wren""",GC003,2,1
+"""White Browed Scrub Wren""",GC005,2,1
+"""White Browed Scrub Wren""",GC006,3,1
+"""White Browed Scrub Wren""",GC007,1,1
+"""White Browed Scrub Wren""",GC007,3,1
+"""White Browed Scrub Wren""",GC008,1,1
+"""White Browed Scrub Wren""",GC008,3,1
+"""White Browed Scrub Wren""",GC009,2,1
+"""White Browed Scrub Wren""",GC009,3,1
+"""White Browed Scrub Wren""",GC010,1,1
+"""White Browed Scrub Wren""",GC010,2,1
+"""White Browed Scrub Wren""",GC010,3,1
+"""White Browed Scrub Wren""",GC012,1,1
+"""White Browed Scrub Wren""",GC012,2,1
+"""White Browed Scrub Wren""",GC012,3,1
+"""White-eared Honeyeater""",GC008,1,1
+"""White-eared Honeyeater""",GC012,1,1
+"""White-plumed Honeyeater""",GC005,2,1
+"""White-plumed Honeyeater""",GC006,1,1
+"""White-plumed Honeyeater""",GC010,1,1
+"""White-plumed Honeyeater""",GC010,2,1
+"""White-plumed Honeyeater""",GC010,3,1
+"""White-plumed Honeyeater""",GC012,1,1
+"""White-plumed Honeyeater""",GC012,3,1
+"""White-plumed Honeyeater""",RG004,3,1
+"""White-plumed Honeyeater""",RG006,1,1
+"""White-plumed Honeyeater""",RG006,2,1
+"""White-plumed Honeyeater""",RG006,3,1
+"""White-plumed Honeyeater""",RG010,1,1
+"""White-plumed Honeyeater""",RG011,1,1
+"""White-plumed Honeyeater""",RG011,2,1
+"""White-plumed Honeyeater""",RG011,3,1
+"""White-plumed Honeyeater""",RG013,1,1
+"""White-plumed Honeyeater""",UP010,1,1
+"""White-plumed Honeyeater""",UP010,3,1
+"""Willie Wagtail""",GC005,2,1
+"""Willie Wagtail""",GC006,1,1
+"""Willie Wagtail""",GC006,2,1
+"""Willie Wagtail""",GC009,2,1
+"""Willie Wagtail""",GC009,3,1
+"""Willie Wagtail""",GC010,1,1
+"""Willie Wagtail""",GC010,2,1
+"""Willie Wagtail""",GC010,3,1
+"""Willie Wagtail""",GC012,1,1
+"""Willie Wagtail""",GC012,2,1
+"""Willie Wagtail""",GC012,3,1
+"""Willie Wagtail""",GC013,2,1
+"""Willie Wagtail""",RG011,3,1
+"""Yellow-faced Honeyeater""",GC008,3,1
+"""Yellow-faced Honeyeater""",GC009,2,1
+"""Yellow-faced Honeyeater""",GC009,3,1
+"""Yellow-faced Honeyeater""",GC010,3,1

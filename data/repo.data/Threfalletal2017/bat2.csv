@@ -1,0 +1,590 @@
+Microbat data from Threlfall et al Journal of Applied Ecology 'Increasing biodiversity in urban green spaces through simple vegetation interventions',,,
+For data collection methods see above paper.,,,
+spp = species. Point = green space site (n=39). Rep = plot within each green space.,,,
+,,,
+spp,point,rep,occ
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC001,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC001,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC001,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC001,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC002,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC002,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC003,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC003,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC003,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC003,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC004,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC004,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC004,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC004,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC005,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC005,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC005,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC005,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC006,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC006,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC006,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC006,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC007,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC007,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC007,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC007,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC008,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC008,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC008,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC008,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC009,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC009,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC009,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC009,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC010,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC010,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC010,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC011,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC011,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC011,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC012,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC012,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC012,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC012,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC013,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC013,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC013,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",GC013,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG001,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG001,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG001,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG002,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG002,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG003,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG003,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG003,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG003,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG004,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG004,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG004,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG004,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG005,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG005,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG005,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG006,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG006,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG006,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG006,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG007,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG007,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG007,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG008,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG008,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG009,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG009,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG009,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG009,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG010,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG010,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG010,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG010,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG011,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG011,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG011,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG011,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG012,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG012,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG012,3,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG012,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG013,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG013,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",RG013,4,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP001,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP002,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP002,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP003,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP003,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP004,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP004,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP005,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP005,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP006,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP006,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP007,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP007,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP008,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP008,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP009,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP009,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP010,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP010,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP011,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP012,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP012,2,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP013,1,1
+""" Chalinolobus gouldii/Mormopterus planiceps complex""",UP013,2,1
+""" Cmorio""",GC001,1,1
+""" Cmorio""",GC001,2,1
+""" Cmorio""",GC001,3,1
+""" Cmorio""",GC001,4,1
+""" Cmorio""",GC002,3,1
+""" Cmorio""",GC002,4,1
+""" Cmorio""",GC003,1,1
+""" Cmorio""",GC003,2,1
+""" Cmorio""",GC003,3,1
+""" Cmorio""",GC003,4,1
+""" Cmorio""",GC004,1,1
+""" Cmorio""",GC004,2,1
+""" Cmorio""",GC004,3,1
+""" Cmorio""",GC004,4,1
+""" Cmorio""",GC005,1,1
+""" Cmorio""",GC005,2,1
+""" Cmorio""",GC005,3,1
+""" Cmorio""",GC005,4,1
+""" Cmorio""",GC006,1,1
+""" Cmorio""",GC006,2,1
+""" Cmorio""",GC006,3,1
+""" Cmorio""",GC007,1,1
+""" Cmorio""",GC007,2,1
+""" Cmorio""",GC007,4,1
+""" Cmorio""",GC008,1,1
+""" Cmorio""",GC008,2,1
+""" Cmorio""",GC008,3,1
+""" Cmorio""",GC008,4,1
+""" Cmorio""",GC009,1,1
+""" Cmorio""",GC009,2,1
+""" Cmorio""",GC009,3,1
+""" Cmorio""",GC009,4,1
+""" Cmorio""",GC010,1,1
+""" Cmorio""",GC010,4,1
+""" Cmorio""",GC011,1,1
+""" Cmorio""",GC011,4,1
+""" Cmorio""",GC012,1,1
+""" Cmorio""",GC012,2,1
+""" Cmorio""",GC012,3,1
+""" Cmorio""",GC012,4,1
+""" Cmorio""",GC013,1,1
+""" Cmorio""",GC013,2,1
+""" Cmorio""",GC013,3,1
+""" Cmorio""",GC013,4,1
+""" Cmorio""",RG002,2,1
+""" Cmorio""",RG002,3,1
+""" Cmorio""",RG003,1,1
+""" Cmorio""",RG003,4,1
+""" Cmorio""",RG004,1,1
+""" Cmorio""",RG004,2,1
+""" Cmorio""",RG004,3,1
+""" Cmorio""",RG004,4,1
+""" Cmorio""",RG005,1,1
+""" Cmorio""",RG005,3,1
+""" Cmorio""",RG005,4,1
+""" Cmorio""",RG006,1,1
+""" Cmorio""",RG006,2,1
+""" Cmorio""",RG008,1,1
+""" Cmorio""",RG008,4,1
+""" Cmorio""",RG009,1,1
+""" Cmorio""",RG009,2,1
+""" Cmorio""",RG009,3,1
+""" Cmorio""",RG010,3,1
+""" Cmorio""",RG012,2,1
+""" Cmorio""",RG013,1,1
+""" Cmorio""",RG013,2,1
+""" Cmorio""",RG013,3,1
+""" Cmorio""",UP001,2,1
+""" Cmorio""",UP002,1,1
+""" Cmorio""",UP002,2,1
+""" Cmorio""",UP003,2,1
+""" Cmorio""",UP004,1,1
+""" Cmorio""",UP004,2,1
+""" Cmorio""",UP005,1,1
+""" Cmorio""",UP005,2,1
+""" Cmorio""",UP006,1,1
+""" Cmorio""",UP006,2,1
+""" Cmorio""",UP007,1,1
+""" Cmorio""",UP007,2,1
+""" Cmorio""",UP008,1,1
+""" Cmorio""",UP008,2,1
+""" Cmorio""",UP009,1,1
+""" Cmorio""",UP009,2,1
+""" Cmorio""",UP011,1,1
+""" Cmorio""",UP012,1,1
+""" Cmorio""",UP013,1,1
+""" Mormopterus ridei""",GC004,2,1
+""" Mormopterus ridei""",GC004,4,1
+""" Mormopterus ridei""",GC005,1,1
+""" Mormopterus ridei""",GC005,3,1
+""" Mormopterus ridei""",GC005,4,1
+""" Mormopterus ridei""",GC006,2,1
+""" Mormopterus ridei""",GC007,2,1
+""" Mormopterus ridei""",GC007,4,1
+""" Mormopterus ridei""",GC008,2,1
+""" Mormopterus ridei""",GC008,4,1
+""" Mormopterus ridei""",GC011,1,1
+""" Mormopterus ridei""",GC013,1,1
+""" Mormopterus ridei""",RG012,1,1
+""" Mormopterus ridei""",RG012,3,1
+""" Mormopterus ridei""",UP007,1,1
+""" Mormopterus ridei""",UP008,1,1
+""" Miniopterus orianae oceanensis""",GC001,3,1
+""" Miniopterus orianae oceanensis""",GC003,1,1
+""" Miniopterus orianae oceanensis""",GC003,3,1
+""" Miniopterus orianae oceanensis""",GC003,4,1
+""" Miniopterus orianae oceanensis""",GC004,1,1
+""" Miniopterus orianae oceanensis""",GC004,3,1
+""" Miniopterus orianae oceanensis""",GC005,1,1
+""" Miniopterus orianae oceanensis""",GC005,2,1
+""" Miniopterus orianae oceanensis""",GC005,3,1
+""" Miniopterus orianae oceanensis""",GC007,1,1
+""" Miniopterus orianae oceanensis""",GC007,2,1
+""" Miniopterus orianae oceanensis""",GC009,1,1
+""" Miniopterus orianae oceanensis""",GC009,4,1
+""" Miniopterus orianae oceanensis""",GC010,4,1
+""" Miniopterus orianae oceanensis""",GC011,1,1
+""" Miniopterus orianae oceanensis""",GC011,4,1
+""" Miniopterus orianae oceanensis""",GC012,1,1
+""" Miniopterus orianae oceanensis""",GC013,1,1
+""" Miniopterus orianae oceanensis""",GC013,3,1
+""" Miniopterus orianae oceanensis""",RG003,4,1
+""" Miniopterus orianae oceanensis""",RG007,1,1
+""" Miniopterus orianae oceanensis""",RG009,2,1
+""" Miniopterus orianae oceanensis""",RG009,3,1
+""" Miniopterus orianae oceanensis""",RG012,4,1
+""" Miniopterus orianae oceanensis""",UP003,2,1
+""" Miniopterus orianae oceanensis""",UP005,2,1
+""" Miniopterus orianae oceanensis""",UP007,1,1
+""" Miniopterus orianae oceanensis""",UP007,2,1
+""" Miniopterus orianae oceanensis""",UP009,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC001,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC001,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC001,4,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC002,3,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC002,4,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC003,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC003,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC003,3,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC003,4,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC004,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC004,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC004,3,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC004,4,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC005,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC005,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC005,3,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC006,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC006,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC006,3,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC007,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC007,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC007,4,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC008,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC008,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC008,3,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC008,4,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC009,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC009,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC009,3,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC009,4,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC010,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC010,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC010,4,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC011,3,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC011,4,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC012,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC012,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC012,3,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC012,4,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC013,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC013,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC013,3,1
+""" Myotis macropus/Nyctophilus spp.  complex""",GC013,4,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG001,3,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG003,4,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG004,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG004,3,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG005,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG005,3,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG005,4,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG006,3,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG006,4,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG008,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG008,4,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG009,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG009,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG009,3,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG010,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG010,3,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG011,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG012,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG012,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG012,3,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG012,4,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG013,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",RG013,3,1
+""" Myotis macropus/Nyctophilus spp.  complex""",UP001,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",UP002,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",UP002,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",UP003,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",UP004,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",UP004,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",UP005,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",UP006,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",UP006,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",UP007,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",UP007,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",UP009,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",UP009,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",UP010,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",UP011,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",UP012,1,1
+""" Myotis macropus/Nyctophilus spp.  complex""",UP012,2,1
+""" Myotis macropus/Nyctophilus spp.  complex""",UP013,1,1
+""" Scotorepens balstoni/orion complex""",GC001,1,1
+""" Scotorepens balstoni/orion complex""",GC001,4,1
+""" Scotorepens balstoni/orion complex""",GC002,3,1
+""" Scotorepens balstoni/orion complex""",GC003,1,1
+""" Scotorepens balstoni/orion complex""",GC003,2,1
+""" Scotorepens balstoni/orion complex""",GC003,3,1
+""" Scotorepens balstoni/orion complex""",GC003,4,1
+""" Scotorepens balstoni/orion complex""",GC004,1,1
+""" Scotorepens balstoni/orion complex""",GC004,2,1
+""" Scotorepens balstoni/orion complex""",GC004,3,1
+""" Scotorepens balstoni/orion complex""",GC004,4,1
+""" Scotorepens balstoni/orion complex""",GC005,1,1
+""" Scotorepens balstoni/orion complex""",GC006,1,1
+""" Scotorepens balstoni/orion complex""",GC006,3,1
+""" Scotorepens balstoni/orion complex""",GC006,4,1
+""" Scotorepens balstoni/orion complex""",GC007,1,1
+""" Scotorepens balstoni/orion complex""",GC007,2,1
+""" Scotorepens balstoni/orion complex""",GC009,1,1
+""" Scotorepens balstoni/orion complex""",GC009,2,1
+""" Scotorepens balstoni/orion complex""",GC009,3,1
+""" Scotorepens balstoni/orion complex""",GC009,4,1
+""" Scotorepens balstoni/orion complex""",GC010,4,1
+""" Scotorepens balstoni/orion complex""",GC011,1,1
+""" Scotorepens balstoni/orion complex""",GC012,1,1
+""" Scotorepens balstoni/orion complex""",GC012,2,1
+""" Scotorepens balstoni/orion complex""",GC013,1,1
+""" Scotorepens balstoni/orion complex""",GC013,2,1
+""" Scotorepens balstoni/orion complex""",RG003,4,1
+""" Scotorepens balstoni/orion complex""",RG007,3,1
+""" Scotorepens balstoni/orion complex""",RG010,3,1
+""" Scotorepens balstoni/orion complex""",UP004,1,1
+""" Scotorepens balstoni/orion complex""",UP006,1,1
+""" Scotorepens balstoni/orion complex""",UP006,2,1
+""" Scotorepens balstoni/orion complex""",UP007,2,1
+""" Scotorepens balstoni/orion complex""",UP009,1,1
+""" Scotorepens balstoni/orion complex""",UP009,2,1
+""" Austronomous australis""",GC001,2,1
+""" Austronomous australis""",GC001,4,1
+""" Austronomous australis""",GC002,3,1
+""" Austronomous australis""",GC002,4,1
+""" Austronomous australis""",GC003,2,1
+""" Austronomous australis""",GC003,4,1
+""" Austronomous australis""",GC004,1,1
+""" Austronomous australis""",GC004,2,1
+""" Austronomous australis""",GC004,4,1
+""" Austronomous australis""",GC005,1,1
+""" Austronomous australis""",GC005,2,1
+""" Austronomous australis""",GC006,1,1
+""" Austronomous australis""",GC006,2,1
+""" Austronomous australis""",GC006,3,1
+""" Austronomous australis""",GC006,4,1
+""" Austronomous australis""",GC007,1,1
+""" Austronomous australis""",GC007,2,1
+""" Austronomous australis""",GC008,1,1
+""" Austronomous australis""",GC008,2,1
+""" Austronomous australis""",GC008,3,1
+""" Austronomous australis""",GC009,2,1
+""" Austronomous australis""",GC009,3,1
+""" Austronomous australis""",GC009,4,1
+""" Austronomous australis""",GC010,2,1
+""" Austronomous australis""",GC010,4,1
+""" Austronomous australis""",GC011,2,1
+""" Austronomous australis""",GC011,3,1
+""" Austronomous australis""",GC012,1,1
+""" Austronomous australis""",GC012,3,1
+""" Austronomous australis""",GC013,1,1
+""" Austronomous australis""",GC013,4,1
+""" Austronomous australis""",RG001,2,1
+""" Austronomous australis""",RG001,3,1
+""" Austronomous australis""",RG002,1,1
+""" Austronomous australis""",RG002,2,1
+""" Austronomous australis""",RG003,1,1
+""" Austronomous australis""",RG003,3,1
+""" Austronomous australis""",RG004,1,1
+""" Austronomous australis""",RG004,3,1
+""" Austronomous australis""",RG004,4,1
+""" Austronomous australis""",RG005,1,1
+""" Austronomous australis""",RG006,1,1
+""" Austronomous australis""",RG006,2,1
+""" Austronomous australis""",RG007,1,1
+""" Austronomous australis""",RG007,3,1
+""" Austronomous australis""",RG009,1,1
+""" Austronomous australis""",RG010,4,1
+""" Austronomous australis""",RG011,1,1
+""" Austronomous australis""",RG012,2,1
+""" Austronomous australis""",UP001,2,1
+""" Austronomous australis""",UP002,2,1
+""" Austronomous australis""",UP003,1,1
+""" Austronomous australis""",UP006,1,1
+""" Austronomous australis""",UP006,2,1
+""" Austronomous australis""",UP007,2,1
+""" Austronomous australis""",UP012,1,1
+""" Austronomous australis""",UP012,2,1
+"""Vespadelus darlingtoni""",GC003,1,1
+"""Vespadelus darlingtoni""",GC003,2,1
+"""Vespadelus darlingtoni""",GC003,4,1
+"""Vespadelus darlingtoni""",GC004,1,1
+"""Vespadelus darlingtoni""",GC004,2,1
+"""Vespadelus darlingtoni""",GC004,3,1
+"""Vespadelus darlingtoni""",GC004,4,1
+"""Vespadelus darlingtoni""",GC006,1,1
+"""Vespadelus darlingtoni""",GC006,2,1
+"""Vespadelus darlingtoni""",GC006,3,1
+"""Vespadelus darlingtoni""",GC006,4,1
+"""Vespadelus darlingtoni""",GC007,1,1
+"""Vespadelus darlingtoni""",GC008,1,1
+"""Vespadelus darlingtoni""",GC008,2,1
+"""Vespadelus darlingtoni""",GC008,3,1
+"""Vespadelus darlingtoni""",GC009,1,1
+"""Vespadelus darlingtoni""",GC009,2,1
+"""Vespadelus darlingtoni""",GC009,3,1
+"""Vespadelus darlingtoni""",GC009,4,1
+"""Vespadelus darlingtoni""",GC010,1,1
+"""Vespadelus darlingtoni""",GC010,4,1
+"""Vespadelus darlingtoni""",GC011,1,1
+"""Vespadelus darlingtoni""",GC011,4,1
+"""Vespadelus darlingtoni""",GC012,1,1
+"""Vespadelus darlingtoni""",GC012,2,1
+"""Vespadelus darlingtoni""",GC013,1,1
+"""Vespadelus darlingtoni""",GC013,2,1
+"""Vespadelus darlingtoni""",RG002,1,1
+"""Vespadelus darlingtoni""",RG009,2,1
+"""Vespadelus darlingtoni""",RG009,3,1
+"""Vespadelus darlingtoni""",RG010,3,1
+"""Vespadelus darlingtoni""",UP004,1,1
+"""Vespadelus darlingtoni""",UP006,1,1
+"""Vespadelus darlingtoni""",UP008,1,1
+"""Vespadelus darlingtoni""",UP010,1,1
+"""Vespadelus darlingtoni""",UP010,2,1
+"""Vespadelus darlingtoni""",UP012,1,1
+""" Vespadelus regulus""",GC003,1,1
+""" Vespadelus regulus""",GC003,2,1
+""" Vespadelus regulus""",GC003,4,1
+""" Vespadelus regulus""",GC004,1,1
+""" Vespadelus regulus""",GC004,2,1
+""" Vespadelus regulus""",GC004,3,1
+""" Vespadelus regulus""",GC005,2,1
+""" Vespadelus regulus""",GC006,3,1
+""" Vespadelus regulus""",GC008,1,1
+""" Vespadelus regulus""",GC008,2,1
+""" Vespadelus regulus""",GC008,3,1
+""" Vespadelus regulus""",GC009,2,1
+""" Vespadelus regulus""",GC010,1,1
+""" Vespadelus regulus""",GC011,1,1
+""" Vespadelus regulus""",GC011,4,1
+""" Vespadelus regulus""",GC012,1,1
+""" Vespadelus regulus""",GC012,2,1
+""" Vespadelus regulus""",GC013,1,1
+""" Vespadelus regulus""",GC013,2,1
+""" Vespadelus regulus""",RG004,2,1
+""" Vespadelus regulus""",RG013,2,1
+""" Vespadelus regulus""",UP007,2,1
+""" Vespadelus vulturnus""",GC001,1,1
+""" Vespadelus vulturnus""",GC001,2,1
+""" Vespadelus vulturnus""",GC001,3,1
+""" Vespadelus vulturnus""",GC001,4,1
+""" Vespadelus vulturnus""",GC002,4,1
+""" Vespadelus vulturnus""",GC003,1,1
+""" Vespadelus vulturnus""",GC003,2,1
+""" Vespadelus vulturnus""",GC003,3,1
+""" Vespadelus vulturnus""",GC003,4,1
+""" Vespadelus vulturnus""",GC004,1,1
+""" Vespadelus vulturnus""",GC004,2,1
+""" Vespadelus vulturnus""",GC004,3,1
+""" Vespadelus vulturnus""",GC004,4,1
+""" Vespadelus vulturnus""",GC005,1,1
+""" Vespadelus vulturnus""",GC005,2,1
+""" Vespadelus vulturnus""",GC005,3,1
+""" Vespadelus vulturnus""",GC006,1,1
+""" Vespadelus vulturnus""",GC006,2,1
+""" Vespadelus vulturnus""",GC006,3,1
+""" Vespadelus vulturnus""",GC006,4,1
+""" Vespadelus vulturnus""",GC007,1,1
+""" Vespadelus vulturnus""",GC007,2,1
+""" Vespadelus vulturnus""",GC007,4,1
+""" Vespadelus vulturnus""",GC008,1,1
+""" Vespadelus vulturnus""",GC008,2,1
+""" Vespadelus vulturnus""",GC008,3,1
+""" Vespadelus vulturnus""",GC008,4,1
+""" Vespadelus vulturnus""",GC009,1,1
+""" Vespadelus vulturnus""",GC009,2,1
+""" Vespadelus vulturnus""",GC009,3,1
+""" Vespadelus vulturnus""",GC009,4,1
+""" Vespadelus vulturnus""",GC010,1,1
+""" Vespadelus vulturnus""",GC010,3,1
+""" Vespadelus vulturnus""",GC010,4,1
+""" Vespadelus vulturnus""",GC011,1,1
+""" Vespadelus vulturnus""",GC011,3,1
+""" Vespadelus vulturnus""",GC011,4,1
+""" Vespadelus vulturnus""",GC012,1,1
+""" Vespadelus vulturnus""",GC012,2,1
+""" Vespadelus vulturnus""",GC012,3,1
+""" Vespadelus vulturnus""",GC012,4,1
+""" Vespadelus vulturnus""",GC013,1,1
+""" Vespadelus vulturnus""",GC013,2,1
+""" Vespadelus vulturnus""",GC013,3,1
+""" Vespadelus vulturnus""",GC013,4,1
+""" Vespadelus vulturnus""",RG001,2,1
+""" Vespadelus vulturnus""",RG002,1,1
+""" Vespadelus vulturnus""",RG002,2,1
+""" Vespadelus vulturnus""",RG002,3,1
+""" Vespadelus vulturnus""",RG003,1,1
+""" Vespadelus vulturnus""",RG003,2,1
+""" Vespadelus vulturnus""",RG003,3,1
+""" Vespadelus vulturnus""",RG003,4,1
+""" Vespadelus vulturnus""",RG004,2,1
+""" Vespadelus vulturnus""",RG004,3,1
+""" Vespadelus vulturnus""",RG004,4,1
+""" Vespadelus vulturnus""",RG005,1,1
+""" Vespadelus vulturnus""",RG005,3,1
+""" Vespadelus vulturnus""",RG005,4,1
+""" Vespadelus vulturnus""",RG006,1,1
+""" Vespadelus vulturnus""",RG006,2,1
+""" Vespadelus vulturnus""",RG006,3,1
+""" Vespadelus vulturnus""",RG006,4,1
+""" Vespadelus vulturnus""",RG007,1,1
+""" Vespadelus vulturnus""",RG007,3,1
+""" Vespadelus vulturnus""",RG007,4,1
+""" Vespadelus vulturnus""",RG008,4,1
+""" Vespadelus vulturnus""",RG009,1,1
+""" Vespadelus vulturnus""",RG009,2,1
+""" Vespadelus vulturnus""",RG009,3,1
+""" Vespadelus vulturnus""",RG009,4,1
+""" Vespadelus vulturnus""",RG010,2,1
+""" Vespadelus vulturnus""",RG012,1,1
+""" Vespadelus vulturnus""",RG012,2,1
+""" Vespadelus vulturnus""",RG012,3,1
+""" Vespadelus vulturnus""",RG013,1,1
+""" Vespadelus vulturnus""",RG013,2,1
+""" Vespadelus vulturnus""",RG013,3,1
+""" Vespadelus vulturnus""",UP001,2,1
+""" Vespadelus vulturnus""",UP002,1,1
+""" Vespadelus vulturnus""",UP002,2,1
+""" Vespadelus vulturnus""",UP003,1,1
+""" Vespadelus vulturnus""",UP003,2,1
+""" Vespadelus vulturnus""",UP004,1,1
+""" Vespadelus vulturnus""",UP004,2,1
+""" Vespadelus vulturnus""",UP005,2,1
+""" Vespadelus vulturnus""",UP006,1,1
+""" Vespadelus vulturnus""",UP006,2,1
+""" Vespadelus vulturnus""",UP007,1,1
+""" Vespadelus vulturnus""",UP007,2,1
+""" Vespadelus vulturnus""",UP008,1,1
+""" Vespadelus vulturnus""",UP008,2,1
+""" Vespadelus vulturnus""",UP009,1,1
+""" Vespadelus vulturnus""",UP009,2,1
+""" Vespadelus vulturnus""",UP010,1,1
+""" Vespadelus vulturnus""",UP010,2,1
+""" Vespadelus vulturnus""",UP011,1,1
+""" Vespadelus vulturnus""",UP011,2,1
+""" Vespadelus vulturnus""",UP012,1,1
+""" Vespadelus vulturnus""",UP012,2,1
+""" Vespadelus vulturnus""",UP013,1,1
+""" Vespadelus vulturnus""",UP013,2,1

@@ -1,0 +1,667 @@
+Heteropteran data from Threlfall et al Journal of Applied Ecology 'Increasing biodiversity in urban green spaces through simple vegetation interventions',,,,,,,,,,,,,
+For data collection methods see above paper.,,,,,,,,,,,,,
+spp = species. Point = green space site (n=39). Rep = plot within each green space.,,,,,,,,,,,,,
+"Also, see Mata et al for further details: Mata, L., Threlfall, C.G., Williams, N.S.G., Hahs, A., Malipatil, M., Stork, N. & Livesley, S.J. (in press) Conserving herbivorous and predatory insects in urban green spaces. Scientific Reports, accepted 13th Dec 2016.",,,,,,,,,,,,,
+fam,spp,fun,met,ugs2,loc,code,point,area,plot,rep,abu,ugs,occ
+"""Rhyparochromidae""","""Amorbus sp.""",h,sn,park,"""Ross Reserve""",05UP02,UP004,5,b,2,1,park,0
+"""Coreidae""","""Amorbus sp.""",h,sn,wood,"""Kingswood""",06GC03,GC006,6,c,3,2,golf,1
+"""Coreidae""","""Amorbus sp.""",h,sn,wood,"""Kingswood""",06GC04,GC006,6,d,4,3,golf,1
+"""Coreidae""","""Amorbus sp.""",h,sn,grass,"""Peninsula""",07GC05,GC007,7,e,5,1,golf,1
+"""Coreidae""","""Amorbus sp.""",h,sn,park,"""Thomas St. Reserve""",01UP01,UP001,1,a,1,8,park,1
+"""Coreidae""","""Amorbus sp.""",h,sn,park,"""Alex Wilkie Reserve""",06UP02,UP006,6,b,2,1,park,1
+"""Coreidae""","""Amorbus sp.""",h,sn,park,"""Ballam Park""",07UP01,UP007,7,a,1,6,park,1
+"""Thaumastocoridae""","""Baclozygum depressum""",h,sn,wood,"""Victoria""",02GC03,GC002,2,c,3,2,golf,1
+"""Thaumastocoridae""","""Baclozygum depressum""",h,sn,wood,"""Kingswood""",06GC03,GC006,6,c,3,1,golf,1
+"""Thaumastocoridae""","""Baclozygum depressum""",h,sn,grass,"""Kingswood""",06GC05,GC006,6,e,5,1,golf,1
+"""Thaumastocoridae""","""Baclozygum depressum""",h,sn,wood,"""Peninsula""",07GC01,GC007,7,a,1,1,golf,1
+"""Thaumastocoridae""","""Baclozygum depressum""",h,sn,grass,"""Peninsula""",07GC06,GC007,7,f,6,1,golf,1
+"""Thaumastocoridae""","""Baclozygum depressum""",h,sn,grass,"""Settlers Run""",12GC05,GC012,12,e,5,1,golf,1
+"""Rhyparochromidae""","""Brentiscerus putoni""",h,sn,grass,"""Peninsula""",07GC06,GC007,7,f,6,1,golf,1
+"""Rhyparochromidae""","""Brentiscerus putoni""",h,sn,grass,"""Sandhurst""",10GC05,GC010,10,e,5,1,golf,1
+"""Rhyparochromidae""","""Brentiscerus putoni""",h,sn,garden,"""12 French Ave.""",04RG01,RG004,4,a,1,1,garden,1
+"""Rhyparochromidae""","""Brentiscerus putoni""",h,sn,park,"""Ross Reserve""",05UP02,UP005,5,b,2,1,park,1
+"""Rhyparochromidae""","""Brentiscerus putoni""",h,sn,park,"""Beauty Park""",08UP01,UP008,8,a,1,1,park,1
+"""Pentatomidae""","""Cermatulus nasalis""",p,sn,grass,"""Frankston""",08GC08,GC008,8,h,8,1,golf,1
+"""Pentatomidae""","""Cermatulus nasalis""",p,sn,grass,"""Centenary""",09GC06,GC009,9,f,6,1,golf,1
+"""Pentatomidae""","""Cermatulus nasalis""",p,sn,grass,"""Amstel""",13GC06,GC013,13,f,6,2,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Brighton""",01GC01,GC001,1,a,1,16,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Brighton""",01GC03,GC001,1,c,3,2,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Brighton""",01GC05,GC001,1,e,5,39,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Victoria""",02GC01,GC002,2,a,1,15,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Victoria""",02GC02,GC002,2,b,2,21,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Victoria""",02GC03,GC002,2,c,3,1,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Victoria""",02GC04,GC002,2,d,4,3,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Victoria""",02GC06,GC002,2,f,6,2,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Victoria""",02GC07,GC002,2,g,7,2,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Victoria""",02GC08,GC002,2,h,8,12,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Woodlands""",03GC01,GC003,3,a,1,4,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Woodlands""",03GC02,GC003,3,b,2,10,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Woodlands""",03GC03,GC003,3,c,3,4,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Woodlands""",03GC04,GC003,3,d,4,4,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Woodlands""",03GC05,GC003,3,e,5,9,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Woodlands""",03GC06,GC003,3,f,6,13,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Rossdale""",04GC04,GC004,4,d,4,3,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Rossdale""",04GC06,GC004,4,f,6,24,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Rossdale""",04GC08,GC004,4,h,8,8,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Spring Valley""",05GC01,GC005,5,a,1,9,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Spring Valley""",05GC02,GC005,5,b,2,15,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Spring Valley""",05GC05,GC005,5,e,5,26,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Spring Valley""",05GC06,GC005,5,f,6,45,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Kingswood""",06GC03,GC006,6,c,3,1,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Kingswood""",06GC05,GC006,6,e,5,1,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Kingswood""",06GC06,GC006,6,f,6,2,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Kingswood""",06GC08,GC006,6,h,8,1,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Peninsula""",07GC01,GC007,7,a,1,5,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Peninsula""",07GC02,GC007,7,b,2,3,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Peninsula""",07GC03,GC007,7,c,3,2,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Peninsula""",07GC04,GC007,7,d,4,17,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Peninsula""",07GC05,GC007,7,e,5,12,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Peninsula""",07GC06,GC007,7,f,6,2,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Peninsula""",07GC07,GC007,7,g,7,1,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Peninsula""",07GC08,GC007,7,h,8,10,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Frankston""",08GC01,GC008,8,a,1,35,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Frankston""",08GC02,GC008,8,b,2,10,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Frankston""",08GC03,GC008,8,c,3,14,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Frankston""",08GC06,GC008,8,f,6,1,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Frankston""",08GC07,GC008,8,g,7,3,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Frankston""",08GC08,GC008,8,h,8,7,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Centenary""",09GC05,GC009,9,e,5,3,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Centenary""",09GC06,GC009,9,f,6,32,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Centenary""",09GC07,GC009,9,g,7,15,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Sandhurst""",10GC01,GC010,10,a,1,1,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Sandhurst""",10GC02,GC010,10,b,2,18,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Sandhurst""",10GC04,GC010,10,d,4,70,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Sandhurst""",10GC05,GC010,10,e,5,4,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Sandhurst""",10GC06,GC010,10,f,6,59,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Sandhurst""",10GC07,GC010,10,g,7,4,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Sandhurst""",10GC08,GC010,10,h,8,7,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Ranfurlie""",11GC03,GC011,11,c,3,6,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Ranfurlie""",11GC04,GC011,11,d,4,2,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Ranfurlie""",11GC05,GC011,11,e,5,3,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Ranfurlie""",11GC06,GC011,11,f,6,1,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Ranfurlie""",11GC07,GC011,11,g,7,1,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Ranfurlie""",11GC08,GC011,11,h,8,11,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Settlers Run""",12GC01,GC012,12,a,1,17,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Settlers Run""",12GC02,GC012,12,c,3,10,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Settlers Run""",12GC05,GC012,12,e,5,27,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Settlers Run""",12GC07,GC012,12,g,7,113,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Settlers Run""",12GC08,GC012,12,h,8,6,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Amstel""",13GC01,GC013,13,a,1,31,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Amstel""",13GC02,GC013,13,b,2,11,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Amstel""",13GC03,GC013,13,c,3,2,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,wood,"""Amstel""",13GC04,GC013,13,d,4,4,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Amstel""",13GC05,GC013,13,e,5,44,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Amstel""",13GC06,GC013,13,f,6,22,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Amstel""",13GC07,GC013,13,g,7,47,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,grass,"""Amstel""",13GC08,GC013,13,h,8,54,golf,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,garden,"""4/6 Hastings Ave.""",02RG03,RG002,2,c,3,1,garden,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,garden,"""5 Melrose St.""",03RG02,RG003,3,b,2,2,garden,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,garden,"""12 French Ave.""",04RG01,RG004,4,a,1,2,garden,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,garden,"""7 Joffre St.""",04RG03,RG004,4,c,3,8,garden,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,garden,"""36 Royal Ave.""",05RG02,RG005,5,b,2,3,garden,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,garden,"""4 Nicholas St.""",06RG03,RG006,6,c,3,1,garden,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,garden,"""13 Coprosma Ave.""",07RG01,RG007,7,a,1,1,garden,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,garden,"""22 Gweno Ave.""",08RG01,RG008,8,a,1,1,garden,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,garden,"""10/12 Warringa Rd.""",08RG03,RG008,8,c,3,1,garden,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,garden,"""72 Kars St.""",08RG04,RG008,8,d,4,1,garden,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,garden,"""25 Edwards St.""",09RG04,RG009,9,d,4,1,garden,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,garden,"""43 Cochrane St.""",13RG01,RG013,13,a,1,1,garden,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,park,"""Beaumaris Reserve""",02UP02,UP002,2,b,2,9,park,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,park,"""Ross Reserve""",05UP01,UP005,5,a,1,1,park,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,park,"""Ross Reserve""",05UP02,UP005,5,b,2,1,park,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,park,"""Alex Wilkie Reserve""",06UP01,UP006,6,a,1,10,park,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,park,"""Beauty Park""",08UP01,UP008,8,a,1,3,park,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,park,"""Polaris Reserve""",10UP02,UP010,10,b,2,2,park,1
+"""Miridae""","""Chaetedus longiceps""",h,sn,park,"""Botanical Ridge Reserve""",12UP02,UP012,12,b,2,14,park,1
+"""Berytidae""","""Chinoneides tasmaniensis""",p,sn,wood,"""Kingswood""",06GC01,GC006,6,a,1,1,golf,1
+"""Berytidae""","""Chinoneides tasmaniensis""",p,sn,wood,"""Frankston""",08GC03,GC008,8,c,3,1,golf,1
+"""Berytidae""","""Chinoneides tasmaniensis""",p,sn,wood,"""Amstel""",13GC02,GC013,13,b,2,1,golf,1
+"""Berytidae""","""Chinoneides tasmaniensis""",p,sn,garden,"""9 Bagley St.""",01RG01,RG001,1,a,1,11,garden,1
+"""Berytidae""","""Chinoneides tasmaniensis""",p,sn,garden,"""78/80 Cromer Rd.""",02RG02,RG002,2,b,2,7,garden,1
+"""Berytidae""","""Chinoneides tasmaniensis""",p,sn,garden,"""22 Margate St.""",02RG04,RG002,2,d,4,11,garden,1
+"""Berytidae""","""Chinoneides tasmaniensis""",p,sn,garden,"""44 Barkly St.""",03RG04,RG003,3,d,4,26,garden,1
+"""Berytidae""","""Chinoneides tasmaniensis""",p,sn,garden,"""36 Royal Ave.""",05RG02,RG005,5,b,2,19,garden,1
+"""Berytidae""","""Chinoneides tasmaniensis""",p,sn,garden,"""80 Albert Ave.""",05RG04,RG005,5,d,4,1,garden,1
+"""Berytidae""","""Chinoneides tasmaniensis""",p,sn,garden,"""370 Corrigan Rd.""",06RG01,RG006,6,a,1,1,garden,1
+"""Berytidae""","""Chinoneides tasmaniensis""",p,sn,garden,"""10 Putt Gr.""",06RG02,RG006,6,b,2,14,garden,1
+"""Berytidae""","""Chinoneides tasmaniensis""",p,sn,garden,"""4 Nicholas St.""",06RG03,RG006,6,c,3,11,garden,1
+"""Berytidae""","""Chinoneides tasmaniensis""",p,sn,garden,"""4 Cromwell Ct.""",06RG04,RG006,6,d,4,17,garden,1
+"""Berytidae""","""Chinoneides tasmaniensis""",p,sn,garden,"""39 Beech St.""",09RG02,RG009,9,b,2,13,garden,1
+"""Miridae""","""Coridromius sp.""",h,sn,grass,"""Brighton""",01GC08,GC001,1,h,8,1,golf,1
+"""Miridae""","""Coridromius sp.""",h,sn,grass,"""Victoria""",02GC08,GC002,2,h,8,1,golf,1
+"""Miridae""","""Coridromius sp.""",h,sn,wood,"""Woodlands""",03GC01,GC003,3,a,1,1,golf,1
+"""Miridae""","""Coridromius sp.""",h,sn,grass,"""Centenary""",09GC06,GC009,9,f,6,2,golf,1
+"""Miridae""","""Coridromius sp.""",h,sn,wood,"""Sandhurst""",10GC03,GC010,10,c,3,1,golf,1
+"""Miridae""","""Coridromius sp.""",h,sn,wood,"""Ranfurlie""",11GC03,GC011,11,c,3,2,golf,1
+"""Pentatomidae""","""Cuspicona sp. 1""",h,sn,wood,"""Victoria""",02GC01,GC002,2,a,1,2,golf,1
+"""Pentatomidae""","""Cuspicona sp. 1""",h,sn,grass,"""Victoria""",02GC08,GC002,2,h,8,6,golf,1
+"""Pentatomidae""","""Cuspicona sp. 1""",h,sn,wood,"""Woodlands""",03GC01,GC003,3,a,1,2,golf,1
+"""Pentatomidae""","""Cuspicona sp. 1""",h,sn,wood,"""Woodlands""",03GC03,GC003,3,c,3,1,golf,1
+"""Pentatomidae""","""Cuspicona sp. 1""",h,sn,grass,"""Rossdale""",04GC05,GC004,4,e,5,2,golf,1
+"""Pentatomidae""","""Cuspicona sp. 1""",h,sn,grass,"""Rossdale""",04GC07,GC004,4,g,7,1,golf,1
+"""Pentatomidae""","""Cuspicona sp. 1""",h,sn,wood,"""Spring Valley""",05GC02,GC005,5,b,2,5,golf,1
+"""Pentatomidae""","""Cuspicona sp. 1""",h,sn,grass,"""Spring Valley""",05GC06,GC005,5,f,6,1,golf,1
+"""Pentatomidae""","""Cuspicona sp. 1""",h,sn,wood,"""Centenary""",09GC03,GC009,9,c,3,1,golf,1
+"""Pentatomidae""","""Cuspicona sp. 1""",h,sn,grass,"""Centenary""",09GC07,GC009,9,g,7,15,golf,1
+"""Pentatomidae""","""Cuspicona sp. 1""",h,sn,grass,"""Amstel""",13GC08,GC013,13,h,8,2,golf,1
+"""Pentatomidae""","""Cuspicona sp. 1""",h,sn,garden,"""22 Margate St.""",02RG04,RG002,2,d,4,1,garden,1
+"""Pentatomidae""","""Cuspicona sp. 1""",h,sn,garden,"""45 Glanaire Cr.""",11RG03,RG011,11,c,3,1,garden,1
+"""Pentatomidae""","""Cuspicona sp. 2""",h,sn,wood,"""Kingswood""",06GC04,GC006,6,d,4,1,golf,1
+"""Pentatomidae""","""Cuspicona sp. 2""",h,sn,grass,"""Frankston""",08GC05,GC008,8,e,5,1,golf,1
+"""Pentatomidae""","""Cuspicona sp. 2""",h,sn,grass,"""Frankston""",08GC07,GC008,8,g,7,4,golf,1
+"""Pentatomidae""","""Cuspicona sp. 2""",h,sn,grass,"""Frankston""",08GC08,GC008,8,h,8,3,golf,1
+"""Cymidae""","""Cymodema basicornis""",h,sn,grass,"""Victoria""",02GC06,GC002,2,f,6,4,golf,1
+"""Cymidae""","""Cymodema basicornis""",h,sn,grass,"""Peninsula""",07GC05,GC007,7,e,5,1,golf,1
+"""Cymidae""","""Cymodema basicornis""",h,sn,grass,"""Sandhurst""",10GC06,GC010,10,f,6,3,golf,1
+"""Pyrrhocoridae""","""Dindymus versicolor""",h,sn,wood,"""Woodlands""",03GC03,GC003,3,c,3,1,golf,1
+"""Pyrrhocoridae""","""Dindymus versicolor""",h,sn,grass,"""Rossdale""",04GC05,GC004,4,e,5,6,golf,1
+"""Pyrrhocoridae""","""Dindymus versicolor""",h,sn,wood,"""Ranfurlie""",11GC02,GC011,11,b,2,1,golf,1
+"""Pyrrhocoridae""","""Dindymus versicolor""",h,sn,wood,"""Amstel""",13GC03,GC013,13,c,3,16,golf,1
+"""Reduviidae""","""Emesinae 1""",p,sn,wood,"""Victoria""",02GC04,GC002,2,d,4,1,golf,1
+"""Reduviidae""","""Emesinae 1""",p,sn,wood,"""Spring Valley""",05GC02,GC005,5,b,2,1,golf,1
+"""Reduviidae""","""Emesinae 1""",p,sn,wood,"""Spring Valley""",05GC03,GC005,5,c,3,1,golf,1
+"""Reduviidae""","""Emesinae 1""",p,sn,garden,"""16 Paisley Dr.""",07RG04,RG007,7,d,4,1,garden,1
+"""Reduviidae""","""Emesinae 1""",p,sn,garden,"""10/12 Warringa Rd.""",08RG03,RG008,8,c,3,1,garden,1
+"""Reduviidae""","""Emesinae 1""",p,sn,park,"""Thomas St. Reserve""",01UP02,UP001,1,b,2,1,park,1
+"""Pentatomidae""","""Eysarcoris distinctus""",h,sn,grass,"""Peninsula""",07GC05,GC007,7,e,5,5,golf,1
+"""Pentatomidae""","""Eysarcoris distinctus""",h,sn,grass,"""Peninsula""",07GC06,GC007,7,f,6,7,golf,1
+"""Pentatomidae""","""Eysarcoris distinctus""",h,sn,grass,"""Peninsula""",07GC08,GC007,7,h,8,1,golf,1
+"""Pentatomidae""","""Eysarcoris distinctus""",h,sn,grass,"""Centenary""",09GC08,GC009,9,h,8,2,golf,1
+"""Pentatomidae""","""Eysarcoris distinctus""",h,sn,grass,"""Sandhurst""",10GC06,GC010,10,f,6,1,golf,1
+"""Pentatomidae""","""Eysarcoris distinctus""",h,sn,grass,"""Settlers Run""",12GC06,GC012,12,f,6,3,golf,1
+"""Pentatomidae""","""Eysarcoris distinctus""",h,sn,grass,"""Settlers Run""",12GC07,GC012,12,g,7,3,golf,1
+"""Pentatomidae""","""Eysarcoris distinctus""",h,sn,park,"""Botanical Ridge Reserve""",12UP01,UP012,12,a,1,1,park,1
+"""Tingidae""","""Froggattia olivinia""",h,sn,wood,"""Amstel""",13GC01,GC013,13,a,1,1,golf,1
+"""Tingidae""","""Froggattia olivinia""",h,sn,park,"""Thomas St. Reserve""",01UP01,UP001,1,a,1,1,park,1
+"""Tingidae""","""Froggattia olivinia""",h,sn,park,"""Thomas St. Reserve""",01UP02,UP001,1,b,2,2,park,1
+"""Reduviidae""","""Gminatus australis""",p,sn,wood,"""Peninsula""",07GC04,GC007,7,d,4,1,golf,1
+"""Reduviidae""","""Gminatus australis""",p,sn,grass,"""Centenary""",09GC05,GC009,9,e,5,2,golf,1
+"""Reduviidae""","""Gminatus australis""",p,sn,park,"""Botany Park""",09UP02,UP009,9,b,2,1,park,1
+"""Miridae""","""Halticus minutus""",h,sn,grass,"""Woodlands""",03GC08,GC003,3,h,8,1,golf,1
+"""Miridae""","""Halticus minutus""",h,sn,grass,"""Spring Valley""",05GC06,GC005,5,f,6,1,golf,1
+"""Miridae""","""Halticus minutus""",h,sn,wood,"""Peninsula""",07GC01,GC007,7,a,1,1,golf,1
+"""Miridae""","""Halticus minutus""",h,sn,wood,"""Peninsula""",07GC02,GC007,7,b,2,1,golf,1
+"""Miridae""","""Halticus minutus""",h,sn,wood,"""Peninsula""",07GC03,GC007,7,c,3,1,golf,1
+"""Miridae""","""Halticus minutus""",h,sn,grass,"""Peninsula""",07GC05,GC007,7,e,5,1,golf,1
+"""Miridae""","""Halticus minutus""",h,sn,grass,"""Peninsula""",07GC07,GC007,7,g,7,2,golf,1
+"""Miridae""","""Halticus minutus""",h,sn,grass,"""Peninsula""",07GC08,GC007,7,h,8,3,golf,1
+"""Miridae""","""Halticus minutus""",h,sn,grass,"""Frankston""",08GC05,GC008,8,e,5,1,golf,1
+"""Miridae""","""Halticus minutus""",h,sn,grass,"""Centenary""",09GC06,GC009,9,f,6,3,golf,1
+"""Miridae""","""Halticus minutus""",h,sn,grass,"""Centenary""",09GC07,GC009,9,g,7,3,golf,1
+"""Miridae""","""Halticus minutus""",h,sn,grass,"""Centenary""",09GC08,GC009,9,h,8,4,golf,1
+"""Miridae""","""Halticus minutus""",h,sn,grass,"""Ranfurlie""",11GC07,GC011,11,g,7,2,golf,1
+"""Miridae""","""Halticus minutus""",h,sn,wood,"""Settlers Run""",12GC01,GC012,12,a,1,1,golf,1
+"""Miridae""","""Halticus minutus""",h,sn,grass,"""Settlers Run""",12GC05,GC012,12,e,5,5,golf,1
+"""Miridae""","""Halticus minutus""",h,sn,grass,"""Amstel""",13GC06,GC013,13,f,6,1,golf,1
+"""Miridae""","""Halticus minutus""",h,sn,garden,"""22 Margate St.""",02RG04,RG002,2,d,4,1,garden,1
+"""Miridae""","""Halticus minutus""",h,sn,park,"""Beaumaris Reserve""",02UP02,UP002,2,b,2,7,park,1
+"""Miridae""","""Halticus minutus""",h,sn,park,"""Ross Reserve""",05UP01,UP005,5,a,1,1,park,1
+"""Miridae""","""Halticus minutus""",h,sn,park,"""Ross Reserve""",05UP02,UP005,5,b,2,1,park,1
+"""Miridae""","""Halticus minutus""",h,sn,park,"""Alex Wilkie Reserve""",06UP01,UP006,6,a,1,1,park,1
+"""Miridae""","""Halticus minutus""",h,sn,park,"""Ballam Park""",07UP02,UP007,7,b,2,1,park,1
+"""Miridae""","""Halticus minutus""",h,sn,park,"""Monahans Rd. Reserve""",13UP01,UP013,13,a,1,1,park,1
+"""Piesmatidae""","""Mcateella sp.""",h,sn,wood,"""Rossdale""",04GC03,GC004,4,c,3,3,golf,1
+"""Piesmatidae""","""Mcateella sp.""",h,sn,wood,"""Kingswood""",06GC02,GC006,6,b,2,1,golf,1
+"""Piesmatidae""","""Mcateella sp.""",h,sn,wood,"""Frankston""",08GC01,GC008,8,a,1,1,golf,1
+"""Piesmatidae""","""Mcateella sp.""",h,sn,wood,"""Centenary""",09GC01,GC009,9,a,1,1,golf,1
+"""Piesmatidae""","""Mcateella sp.""",h,sn,wood,"""Ranfurlie""",11GC03,GC011,11,c,3,1,golf,1
+"""Piesmatidae""","""Mcateella sp.""",h,sn,grass,"""Amstel""",13GC05,GC013,13,e,5,1,golf,1
+"""Piesmatidae""","""Mcateella sp.""",h,sn,park,"""Ballam Park""",07UP01,UP007,7,a,1,2,park,1
+"""Piesmatidae""","""Mcateella sp.""",h,sn,park,"""Beauty Park""",08UP02,UP008,8,b,2,1,park,1
+"""Alydidae""","""Melanocanthus scutellaris""",h,sn,grass,"""Victoria""",02GC06,GC002,2,f,6,2,golf,1
+"""Alydidae""","""Melanocanthus scutellaris""",h,sn,grass,"""Peninsula""",07GC05,GC007,7,e,5,5,golf,1
+"""Alydidae""","""Melanocanthus scutellaris""",h,sn,grass,"""Peninsula""",07GC06,GC007,7,f,6,13,golf,1
+"""Alydidae""","""Melanocanthus scutellaris""",h,sn,grass,"""Settlers Run""",12GC05,GC012,12,e,5,2,golf,1
+"""Alydidae""","""Melanocanthus scutellaris""",h,sn,grass,"""Settlers Run""",12GC07,GC012,12,g,7,1,golf,1
+"""Alydidae""","""Melanocanthus scutellaris""",h,sn,grass,"""Amstel""",13GC06,GC013,13,f,6,4,golf,1
+"""Coreidae""","""Mictis profana""",h,sn,wood,"""Rossdale""",04GC04,GC004,4,d,4,3,golf,1
+"""Coreidae""","""Mictis profana""",h,sn,grass,"""Kingswood""",06GC05,GC006,6,e,5,1,golf,1
+"""Coreidae""","""Mictis profana""",h,sn,park,"""Beauty Park""",08UP02,UP008,8,b,2,1,park,1
+"""Miridae""","""Mirini 1""",h,sn,wood,"""Victoria""",02GC03,GC002,2,c,3,1,golf,1
+"""Miridae""","""Mirini 1""",h,sn,grass,"""Victoria""",02GC08,GC002,2,h,8,4,golf,1
+"""Miridae""","""Mirini 1""",h,sn,grass,"""Woodlands""",03GC08,GC003,3,h,8,10,golf,1
+"""Miridae""","""Mirini 1""",h,sn,grass,"""Rossdale""",04GC05,GC004,4,e,5,6,golf,1
+"""Miridae""","""Mirini 1""",h,sn,grass,"""Kingswood""",06GC08,GC006,6,h,8,1,golf,1
+"""Miridae""","""Mirini 1""",h,sn,wood,"""Frankston""",08GC02,GC008,8,b,2,1,golf,1
+"""Miridae""","""Mirini 1""",h,sn,grass,"""Centenary""",09GC05,GC009,9,e,5,1,golf,1
+"""Miridae""","""Mirini 1""",h,sn,grass,"""Centenary""",09GC06,GC009,9,f,6,1,golf,1
+"""Miridae""","""Mirini 1""",h,sn,grass,"""Centenary""",09GC08,GC009,9,h,8,2,golf,1
+"""Miridae""","""Mirini 1""",h,sn,grass,"""Sandhurst""",10GC05,GC010,10,e,5,6,golf,1
+"""Miridae""","""Mirini 1""",h,sn,grass,"""Ranfurlie""",11GC05,GC011,11,e,5,1,golf,1
+"""Miridae""","""Mirini 1""",h,sn,wood,"""Amstel""",13GC01,GC013,13,a,1,1,golf,1
+"""Miridae""","""Mirini 1""",h,sn,garden,"""82 New St.""",01RG04,RG001,1,d,4,1,garden,1
+"""Miridae""","""Mirini 1""",h,sn,garden,"""5 Melrose St.""",03RG02,RG003,3,b,2,2,garden,1
+"""Miridae""","""Mirini 1""",h,sn,garden,"""15 Deborah Ct.""",10RG04,RG010,10,d,4,11,garden,1
+"""Miridae""","""Mirini 1""",h,sn,garden,"""14 Saunton Dr.""",12RG04,RG012,12,d,4,12,garden,1
+"""Miridae""","""Mirini 5""",h,sn,wood,"""Kingswood""",06GC02,GC006,6,b,2,2,golf,1
+"""Miridae""","""Mirini 5""",h,sn,grass,"""Settlers Run""",12GC05,GC012,12,e,5,1,golf,1
+"""Miridae""","""Mirini 5""",h,sn,park,"""Polaris Reserve""",10UP02,UP010,10,b,2,1,park,1
+"""Miridae""","""Mirini 5""",h,sn,park,"""Bernborough Reserve""",11UP01,UP011,11,a,1,9,park,1
+"""Miridae""","""Mirini 5""",h,sn,park,"""Bernborough Reserve""",11UP02,UP011,11,b,2,2,park,1
+"""Miridae""","""Mirini 5""",h,sn,park,"""Monahans Rd. Reserve""",13UP02,UP013,13,b,2,1,park,1
+"""Miridae""","""Mirini 7""",h,sn,grass,"""Frankston""",08GC08,GC008,8,h,8,2,golf,1
+"""Miridae""","""Mirini 7""",h,sn,garden,"""12 French Ave.""",04RG01,RG004,4,a,1,3,garden,1
+"""Miridae""","""Mirini 7""",h,sn,garden,"""80 Albert Ave.""",05RG04,RG005,5,d,4,2,garden,1
+"""Miridae""","""Mirini 7""",h,sn,garden,"""14 Paisley Dr.""",07RG03,RG007,7,c,3,4,garden,1
+"""Miridae""","""Mirini 7""",h,sn,garden,"""25 Liddesdale Ave.""",08RG02,RG008,8,b,2,3,garden,1
+"""Miridae""","""Mirini 9""",h,sn,garden,"""9 Bagley St.""",01RG01,RG001,1,a,1,2,garden,1
+"""Miridae""","""Mirini 9""",h,sn,garden,"""1 Melrose St.""",03RG03,RG003,3,c,3,1,garden,1
+"""Miridae""","""Mirini 9""",h,sn,garden,"""44 Barkly St.""",03RG04,RG003,3,d,4,1,garden,1
+"""Miridae""","""Mirini 9""",h,sn,garden,"""10/12 Warringa Rd.""",08RG03,RG008,8,c,3,2,garden,1
+"""Miridae""","""Mirini 9""",h,sn,park,"""Polaris Reserve""",10UP02,UP010,10,b,2,1,park,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Brighton""",01GC01,GC001,1,a,1,5,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Brighton""",01GC03,GC001,1,c,3,3,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Brighton""",01GC04,GC001,1,d,4,1,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Brighton""",01GC05,GC001,1,e,5,7,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Brighton""",01GC06,GC001,1,f,6,1,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Brighton""",01GC07,GC001,1,g,7,7,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Victoria""",02GC01,GC002,2,a,1,15,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Victoria""",02GC02,GC002,2,b,2,3,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Victoria""",02GC03,GC002,2,c,3,6,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Victoria""",02GC04,GC002,2,d,4,1,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Victoria""",02GC05,GC002,2,e,5,13,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Victoria""",02GC06,GC002,2,f,6,2,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Victoria""",02GC07,GC002,2,g,7,28,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Victoria""",02GC08,GC002,2,h,8,5,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Woodlands""",03GC01,GC003,3,a,1,2,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Woodlands""",03GC02,GC003,3,b,2,5,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Woodlands""",03GC03,GC003,3,c,3,12,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Woodlands""",03GC04,GC003,3,d,4,3,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Woodlands""",03GC05,GC003,3,e,5,48,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Woodlands""",03GC06,GC003,3,f,6,150,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Woodlands""",03GC07,GC003,3,g,7,119,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Woodlands""",03GC08,GC003,3,h,8,35,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Rossdale""",04GC04,GC004,4,d,4,2,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Rossdale""",04GC05,GC004,4,e,5,2,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Rossdale""",04GC06,GC004,4,f,6,22,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Rossdale""",04GC08,GC004,4,h,8,9,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Spring Valley""",05GC02,GC005,5,b,2,6,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Spring Valley""",05GC03,GC005,5,c,3,3,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Spring Valley""",05GC04,GC005,5,d,4,7,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Spring Valley""",05GC05,GC005,5,e,5,50,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Spring Valley""",05GC06,GC005,5,f,6,23,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Spring Valley""",05GC07,GC005,5,g,7,1,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Spring Valley""",05GC08,GC005,5,h,8,113,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Kingswood""",06GC03,GC006,6,c,3,6,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Kingswood""",06GC04,GC006,6,d,4,1,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Kingswood""",06GC05,GC006,6,e,5,20,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Kingswood""",06GC06,GC006,6,f,6,18,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Kingswood""",06GC07,GC006,6,g,7,3,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Kingswood""",06GC08,GC006,6,h,8,183,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Peninsula""",07GC01,GC007,7,a,1,2,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Peninsula""",07GC02,GC007,7,b,2,1,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Peninsula""",07GC03,GC007,7,c,3,15,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Peninsula""",07GC04,GC007,7,d,4,25,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Peninsula""",07GC05,GC007,7,e,5,37,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Peninsula""",07GC06,GC007,7,f,6,159,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Peninsula""",07GC07,GC007,7,g,7,19,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Peninsula""",07GC08,GC007,7,h,8,24,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Frankston""",08GC01,GC008,8,a,1,53,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Frankston""",08GC02,GC008,8,b,2,3,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Frankston""",08GC03,GC008,8,c,3,55,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Frankston""",08GC05,GC008,8,e,5,9,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Frankston""",08GC06,GC008,8,f,6,3,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Frankston""",08GC07,GC008,8,g,7,26,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Frankston""",08GC08,GC008,8,h,8,57,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Centenary""",09GC05,GC009,9,e,5,9,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Centenary""",09GC06,GC009,9,f,6,7,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Centenary""",09GC07,GC009,9,g,7,10,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Centenary""",09GC08,GC009,9,h,8,5,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Sandhurst""",10GC02,GC010,10,b,2,14,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Sandhurst""",10GC04,GC010,10,d,4,1,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Sandhurst""",10GC05,GC010,10,e,5,20,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Sandhurst""",10GC06,GC010,10,f,6,20,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Sandhurst""",10GC07,GC010,10,g,7,7,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Sandhurst""",10GC08,GC010,10,h,8,27,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Ranfurlie""",11GC02,GC011,11,b,2,1,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Ranfurlie""",11GC03,GC011,11,c,3,4,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Ranfurlie""",11GC04,GC011,11,d,4,2,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Ranfurlie""",11GC05,GC011,11,e,5,2,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Ranfurlie""",11GC08,GC011,11,h,8,2,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Settlers Run""",12GC02,GC012,12,b,2,2,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Settlers Run""",12GC03,GC012,12,c,3,2,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Settlers Run""",12GC04,GC012,12,d,4,5,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Settlers Run""",12GC06,GC012,12,f,6,22,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Settlers Run""",12GC07,GC012,12,g,7,25,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Settlers Run""",12GC08,GC012,12,h,8,5,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Amstel""",13GC01,GC013,13,a,1,3,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,wood,"""Amstel""",13GC02,GC013,13,b,2,3,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Amstel""",13GC05,GC013,13,e,5,19,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Amstel""",13GC06,GC013,13,f,6,151,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Amstel""",13GC07,GC013,13,g,7,28,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,grass,"""Amstel""",13GC08,GC013,13,h,8,12,golf,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,garden,"""4/6 Hastings Ave.""",02RG03,RG002,2,c,3,1,garden,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,garden,"""26 Keith Ave.""",04RG02,RG004,4,b,2,2,garden,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,garden,"""7 Joffre St.""",04RG03,RG004,4,c,3,6,garden,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,garden,"""16 French Ave.""",04RG04,RG004,4,d,4,1,garden,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,garden,"""36 Royal Ave.""",05RG02,RG005,5,b,2,4,garden,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,garden,"""80 Albert Ave.""",05RG04,RG005,5,d,4,4,garden,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,garden,"""22 Gweno Ave.""",08RG01,RG008,8,a,1,29,garden,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,garden,"""10/12 Warringa Rd.""",08RG03,RG008,8,c,3,1,garden,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,park,"""Thomas St. Reserve""",01UP01,UP001,1,a,1,1,park,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,park,"""Thomas St. Reserve""",01UP02,UP001,1,b,2,1,park,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,park,"""Beaumaris Reserve""",02UP02,UP002,2,b,2,6,park,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,park,"""Gerry Green Reserve""",03UP01,UP003,3,a,1,2,park,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,park,"""Alex Wilkie Reserve""",06UP01,UP006,6,a,1,19,park,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,park,"""Beauty Park""",08UP01,UP008,8,a,1,9,park,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,park,"""Polaris Reserve""",10UP02,UP010,10,b,2,1,park,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,park,"""Botanical Ridge Reserve""",12UP01,UP012,12,a,1,1,park,1
+"""Alydidae""","""Mutusca brevicornis""",h,sn,park,"""Botanical Ridge Reserve""",12UP02,UP012,12,b,2,29,park,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Brighton""",01GC05,GC001,1,e,5,1,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,wood,"""Victoria""",02GC01,GC002,2,a,1,1,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Victoria""",02GC05,GC002,2,e,5,1,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Victoria""",02GC07,GC002,2,g,7,3,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,wood,"""Woodlands""",03GC01,GC003,3,a,1,2,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Woodlands""",03GC05,GC003,3,e,5,34,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Woodlands""",03GC06,GC003,3,f,6,21,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Woodlands""",03GC07,GC003,3,g,7,5,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Woodlands""",03GC08,GC003,3,h,8,6,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,wood,"""Rossdale""",04GC03,GC004,4,c,3,1,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Rossdale""",04GC06,GC004,4,f,6,4,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Rossdale""",04GC07,GC004,4,g,7,2,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Rossdale""",04GC08,GC004,4,h,8,1,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Spring Valley""",05GC05,GC005,5,e,5,7,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Spring Valley""",05GC06,GC005,5,f,6,8,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Spring Valley""",05GC07,GC005,5,g,7,2,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Spring Valley""",05GC08,GC005,5,h,8,2,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,wood,"""Peninsula""",07GC02,GC007,7,b,2,1,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Peninsula""",07GC05,GC007,7,e,5,28,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Peninsula""",07GC06,GC007,7,f,6,10,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Peninsula""",07GC08,GC007,7,h,8,3,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,wood,"""Frankston""",08GC03,GC008,8,c,3,1,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Centenary""",09GC06,GC009,9,f,6,11,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Centenary""",09GC07,GC009,9,g,7,1,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Centenary""",09GC08,GC009,9,h,8,2,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,wood,"""Sandhurst""",10GC03,GC010,10,c,3,1,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Sandhurst""",10GC05,GC010,10,e,5,1,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Sandhurst""",10GC06,GC010,10,f,6,5,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Sandhurst""",10GC08,GC010,10,h,8,8,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Ranfurlie""",11GC07,GC011,11,g,7,2,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Settlers Run""",12GC05,GC012,12,e,5,6,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Settlers Run""",12GC07,GC012,12,g,7,11,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Settlers Run""",12GC08,GC012,12,h,8,1,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,wood,"""Amstel""",13GC01,GC013,13,a,1,2,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Amstel""",13GC05,GC013,13,e,5,7,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Amstel""",13GC06,GC013,13,f,6,50,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Amstel""",13GC07,GC013,13,g,7,2,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,grass,"""Amstel""",13GC08,GC013,13,h,8,2,golf,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,garden,"""5 Whyte St.""",01RG02,RG001,1,b,2,1,garden,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,garden,"""12 French Ave.""",04RG01,RG004,4,a,1,1,garden,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,garden,"""10 Putt Gr.""",06RG02,RG006,6,b,2,1,garden,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,garden,"""10/12 Warringa Rd.""",08RG03,RG008,8,c,3,1,garden,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,garden,"""10 Beech St.""",09RG01,RG009,9,a,1,2,garden,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,garden,"""30 Ferndown Dr.""",12RG02,RG012,12,b,2,1,garden,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,park,"""Thomas St. Reserve""",01UP02,UP001,1,b,2,3,park,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,park,"""Ross Reserve""",05UP01,UP005,5,a,1,1,park,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,park,"""Alex Wilkie Reserve""",06UP01,UP006,6,a,1,1,park,1
+"""Nabidae""","""Nabis kinbergii""",p,sn,park,"""Botanical Ridge Reserve""",12UP02,UP012,12,b,2,4,park,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Brighton""",01GC06,GC001,1,f,6,5,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,wood,"""Victoria""",02GC03,GC002,2,c,3,4,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Victoria""",02GC05,GC002,2,e,5,4,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Victoria""",02GC06,GC002,2,f,6,4,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Victoria""",02GC08,GC002,2,h,8,7,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,wood,"""Woodlands""",03GC01,GC003,3,a,1,14,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Woodlands""",03GC05,GC003,3,e,5,1,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Woodlands""",03GC07,GC003,3,g,7,18,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Woodlands""",03GC08,GC003,3,h,8,19,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Rossdale""",04GC05,GC004,4,e,5,47,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Rossdale""",04GC07,GC004,4,g,7,2,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Spring Valley""",05GC05,GC005,5,e,5,35,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Spring Valley""",05GC06,GC005,5,f,6,1,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Kingswood""",06GC05,GC006,6,e,5,2,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Kingswood""",06GC06,GC006,6,f,6,1,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Kingswood""",06GC08,GC006,6,h,8,59,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Peninsula""",07GC05,GC007,7,e,5,70,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Peninsula""",07GC06,GC007,7,f,6,5,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Peninsula""",07GC07,GC007,7,g,7,28,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Frankston""",08GC07,GC008,8,g,7,1,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Frankston""",08GC08,GC008,8,h,8,2,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Centenary""",09GC05,GC009,9,e,5,2,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Centenary""",09GC06,GC009,9,f,6,3,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Centenary""",09GC08,GC009,9,h,8,17,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,wood,"""Sandhurst""",10GC03,GC010,10,c,3,2,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Sandhurst""",10GC05,GC010,10,e,5,122,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Ranfurlie""",11GC05,GC011,11,e,5,5,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Ranfurlie""",11GC06,GC011,11,f,6,5,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Ranfurlie""",11GC08,GC011,11,h,8,5,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,wood,"""Settlers Run""",12GC01,GC012,12,a,1,3,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Settlers Run""",12GC06,GC012,12,f,6,1,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Settlers Run""",12GC07,GC012,12,g,7,2,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Amstel""",13GC05,GC013,13,e,5,63,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Amstel""",13GC06,GC013,13,f,6,107,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Amstel""",13GC07,GC013,13,g,7,5,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,grass,"""Amstel""",13GC08,GC013,13,h,8,6,golf,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,garden,"""72 New St.""",01RG03,RG001,1,c,3,1,garden,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,garden,"""78/80 Cromer Rd.""",02RG02,RG002,2,b,2,1,garden,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,garden,"""22 Margate St.""",02RG04,RG002,2,d,4,1,garden,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,garden,"""10 Barkly St.""",03RG01,RG003,3,a,1,39,garden,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,garden,"""12 French Ave.""",04RG01,RG004,4,a,1,2,garden,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,garden,"""36 Royal Ave.""",05RG02,RG005,5,b,2,6,garden,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,garden,"""22 Gweno Ave.""",08RG01,RG008,8,a,1,1,garden,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,garden,"""10 Beech St.""",09RG01,RG009,9,a,1,4,garden,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,garden,"""62 Beech St.""",09RG03,RG009,9,c,3,24,garden,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,garden,"""25 Edwards St.""",09RG04,RG009,9,d,4,2,garden,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,garden,"""15 Deborah Ct.""",10RG04,RG010,10,d,4,3,garden,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,garden,"""20 Taplan Cr.""",11RG01,RG011,11,a,1,133,garden,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,garden,"""30 Ferndown Dr.""",12RG02,RG012,12,b,2,6,garden,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,garden,"""7 Saunton Dr.""",12RG03,RG012,12,c,3,2,garden,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,garden,"""14 Saunton Dr.""",12RG04,RG012,12,d,4,154,garden,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,garden,"""21 Lorna St.""",13RG04,RG013,13,d,4,1,garden,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,park,"""Thomas St. Reserve""",01UP02,UP001,1,b,2,3,park,1
+"""Lygaeidae""","""Nysius caledoniae""",h,sn,park,"""Bernborough Reserve""",11UP02,UP011,11,b,2,10,park,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,grass,"""Woodlands""",03GC07,GC003,3,g,7,1,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,grass,"""Woodlands""",03GC08,GC003,3,h,8,2,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,grass,"""Rossdale""",04GC05,GC004,4,e,5,14,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,grass,"""Rossdale""",04GC07,GC004,4,g,7,1,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,grass,"""Rossdale""",04GC08,GC004,4,h,8,1,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,grass,"""Spring Valley""",05GC07,GC005,5,g,7,1,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,grass,"""Spring Valley""",05GC08,GC005,5,h,8,1,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,grass,"""Kingswood""",06GC08,GC006,6,h,8,4,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,wood,"""Peninsula""",07GC04,GC007,7,d,4,1,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,grass,"""Peninsula""",07GC06,GC007,7,f,6,1,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,grass,"""Frankston""",08GC08,GC008,8,h,8,7,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,wood,"""Centenary""",09GC02,GC009,9,b,2,1,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,grass,"""Centenary""",09GC07,GC009,9,g,7,1,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,grass,"""Centenary""",09GC08,GC009,9,h,8,2,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,grass,"""Sandhurst""",10GC05,GC010,10,e,5,52,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,wood,"""Ranfurlie""",11GC04,GC011,11,d,4,1,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,grass,"""Ranfurlie""",11GC05,GC011,11,e,5,1,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,grass,"""Ranfurlie""",11GC07,GC011,11,g,7,10,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,grass,"""Settlers Run""",12GC05,GC012,12,e,5,1,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,grass,"""Amstel""",13GC05,GC013,13,e,5,25,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,grass,"""Amstel""",13GC06,GC013,13,f,6,11,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,grass,"""Amstel""",13GC07,GC013,13,g,7,2,golf,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,garden,"""10 Barkly St.""",03RG01,RG003,3,a,1,12,garden,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,garden,"""370 Corrigan Rd.""",06RG01,RG006,6,a,1,2,garden,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,garden,"""57 Brookland Greens Blvd.""",12RG01,RG012,12,a,1,1,garden,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,park,"""Alex Wilkie Reserve""",06UP01,UP006,6,a,1,1,park,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,park,"""Ballam Park""",07UP01,UP007,7,a,1,1,park,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,park,"""Beauty Park""",08UP01,UP008,8,a,1,2,park,1
+"""Lygaeidae""","""Nysius vinitor""",h,sn,park,"""Bernborough Reserve""",11UP02,UP011,11,b,2,2,park,1
+"""Pentatomidae""","""Ocirrhoe sp. 1""",h,sn,grass,"""Frankston""",08GC05,GC008,8,e,5,3,golf,1
+"""Pentatomidae""","""Ocirrhoe sp. 1""",h,sn,grass,"""Frankston""",08GC07,GC008,8,g,7,1,golf,1
+"""Pentatomidae""","""Ocirrhoe sp. 1""",h,sn,grass,"""Frankston""",08GC08,GC008,8,h,8,1,golf,1
+"""Pentatomidae""","""Ocirrhoe sp. 1""",h,sn,garden,"""12 French Ave.""",04RG01,RG004,4,a,1,6,garden,1
+"""Pentatomidae""","""Ocirrhoe sp. 3""",h,sn,wood,"""Kingswood""",06GC04,GC006,6,d,4,1,golf,1
+"""Pentatomidae""","""Ocirrhoe sp. 3""",h,sn,wood,"""Frankston""",08GC04,GC008,8,d,4,1,golf,1
+"""Pentatomidae""","""Ocirrhoe sp. 3""",h,sn,wood,"""Amstel""",13GC03,GC013,13,c,3,1,golf,1
+"""Pentatomidae""","""Ocirrhoe sp. 3""",h,sn,garden,"""12 French Ave.""",04RG01,RG004,4,a,1,1,garden,1
+"""Pentatomidae""","""Ocirrhoe sp. 3""",h,sn,park,"""Alex Wilkie Reserve""",06UP02,UP006,6,b,2,1,park,1
+"""Anthocoridae""","""Orius sp.""",p,sn,wood,"""Victoria""",02GC02,GC002,2,b,2,1,golf,1
+"""Anthocoridae""","""Orius sp.""",p,sn,grass,"""Rossdale""",04GC07,GC004,4,g,7,1,golf,1
+"""Anthocoridae""","""Orius sp.""",p,sn,grass,"""Centenary""",09GC06,GC009,9,f,6,1,golf,1
+"""Anthocoridae""","""Orius sp.""",p,sn,grass,"""Sandhurst""",10GC05,GC010,10,e,5,2,golf,1
+"""Anthocoridae""","""Orius sp.""",p,sn,grass,"""Sandhurst""",10GC07,GC010,10,g,7,1,golf,1
+"""Anthocoridae""","""Orius sp.""",p,sn,wood,"""Amstel""",13GC01,GC013,13,a,1,1,golf,1
+"""Anthocoridae""","""Orius sp.""",p,sn,grass,"""Amstel""",13GC05,GC013,13,e,5,4,golf,1
+"""Anthocoridae""","""Orius sp.""",p,sn,grass,"""Amstel""",13GC07,GC013,13,g,7,1,golf,1
+"""Anthocoridae""","""Orius sp.""",p,sn,grass,"""Amstel""",13GC08,GC013,13,h,8,2,golf,1
+"""Anthocoridae""","""Orius sp.""",p,sn,park,"""Polaris Reserve""",10UP02,UP010,10,b,2,1,park,1
+"""Pentatomidae""","""Pentatomidae 1""",h,sn,grass,"""Woodlands""",03GC05,GC003,3,e,5,1,golf,1
+"""Pentatomidae""","""Pentatomidae 1""",h,sn,grass,"""Woodlands""",03GC06,GC003,3,f,6,4,golf,1
+"""Pentatomidae""","""Pentatomidae 1""",h,sn,grass,"""Sandhurst""",10GC05,GC010,10,e,5,2,golf,1
+"""Pentatomidae""","""Pentatomidae 1""",h,sn,grass,"""Sandhurst""",10GC06,GC010,10,f,6,9,golf,1
+"""Pentatomidae""","""Pentatomidae 1""",h,sn,park,"""Botanical Ridge Reserve""",12UP02,UP012,12,b,2,4,park,1
+"""Miridae""","""Phylinae 1""",h,sn,grass,"""Rossdale""",04GC05,GC004,4,e,5,1,golf,1
+"""Miridae""","""Phylinae 1""",h,sn,grass,"""Rossdale""",04GC07,GC004,4,g,7,1,golf,1
+"""Miridae""","""Phylinae 1""",h,sn,grass,"""Amstel""",13GC06,GC013,13,f,6,2,golf,1
+"""Miridae""","""Phylinae 1""",h,sn,garden,"""10/12 Warringa Rd.""",08RG03,RG008,8,c,3,1,garden,1
+"""Miridae""","""Phylinae 1""",h,sn,garden,"""15 Deborah Ct.""",10RG04,RG010,10,d,4,1,garden,1
+"""Miridae""","""Phylinae 1""",h,sn,park,"""Monahans Rd. Reserve""",13UP02,UP013,13,b,2,1,park,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,wood,"""Brighton""",01GC01,GC001,1,a,1,1,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,wood,"""Brighton""",01GC03,GC001,1,c,3,1,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Brighton""",01GC05,GC001,1,e,5,1,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Brighton""",01GC06,GC001,1,f,6,2,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Brighton""",01GC08,GC001,1,h,8,1,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,wood,"""Victoria""",02GC02,GC002,2,b,2,3,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Victoria""",02GC06,GC002,2,f,6,103,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Victoria""",02GC08,GC002,2,h,8,5,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,wood,"""Woodlands""",03GC01,GC003,3,a,1,2,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Woodlands""",03GC05,GC003,3,e,5,10,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Woodlands""",03GC08,GC003,3,h,8,3,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,wood,"""Rossdale""",04GC03,GC004,4,c,3,1,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Rossdale""",04GC05,GC004,4,e,5,1,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Rossdale""",04GC08,GC004,4,h,8,22,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,wood,"""Spring Valley""",05GC01,GC005,5,a,1,1,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,wood,"""Spring Valley""",05GC02,GC005,5,b,2,1,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Spring Valley""",05GC05,GC005,5,e,5,7,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Spring Valley""",05GC06,GC005,5,f,6,2,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Spring Valley""",05GC08,GC005,5,h,8,7,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,wood,"""Kingswood""",06GC02,GC006,6,b,2,1,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Kingswood""",06GC06,GC006,6,f,6,2,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Peninsula""",07GC05,GC007,7,e,5,4,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Peninsula""",07GC06,GC007,7,f,6,1,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,wood,"""Frankston""",08GC01,GC008,8,a,1,2,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,wood,"""Frankston""",08GC02,GC008,8,b,2,1,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Frankston""",08GC08,GC008,8,h,8,2,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Centenary""",09GC07,GC009,9,g,7,5,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Centenary""",09GC08,GC009,9,h,8,12,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,wood,"""Sandhurst""",10GC04,GC010,10,d,4,1,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Sandhurst""",10GC05,GC010,10,e,5,2,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Sandhurst""",10GC06,GC010,10,f,6,8,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Sandhurst""",10GC07,GC010,10,g,7,1,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,wood,"""Ranfurlie""",11GC04,GC011,11,d,4,1,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Ranfurlie""",11GC06,GC011,11,f,6,3,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Ranfurlie""",11GC08,GC011,11,h,8,1,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,wood,"""Settlers Run""",12GC01,GC012,12,a,1,1,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Settlers Run""",12GC05,GC012,12,e,5,11,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Settlers Run""",12GC07,GC012,12,g,7,1,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,wood,"""Amstel""",13GC01,GC013,13,a,1,43,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Amstel""",13GC05,GC013,13,e,5,6,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Amstel""",13GC06,GC013,13,f,6,4,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Amstel""",13GC07,GC013,13,g,7,155,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,grass,"""Amstel""",13GC08,GC013,13,h,8,24,golf,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,garden,"""9 Bagley St.""",01RG01,RG001,1,a,1,1,garden,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,garden,"""5 Whyte St.""",01RG02,RG001,1,b,2,1,garden,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,garden,"""72 New St.""",01RG03,RG001,1,c,3,4,garden,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,garden,"""1 Melrose St.""",03RG03,RG003,3,c,3,1,garden,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,garden,"""12 French Ave.""",04RG01,RG004,4,a,1,24,garden,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,garden,"""26 Keith Ave.""",04RG02,RG004,4,b,2,12,garden,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,garden,"""7 Joffre St.""",04RG03,RG004,4,c,3,1,garden,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,garden,"""36 Royal Ave.""",05RG02,RG005,5,b,2,1,garden,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,garden,"""10 Putt Gr.""",06RG02,RG006,6,b,2,1,garden,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,garden,"""4 Nicholas St.""",06RG03,RG006,6,c,3,1,garden,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,garden,"""3 Kurong St.""",07RG02,RG007,7,b,2,1,garden,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,garden,"""10/12 Warringa Rd.""",08RG03,RG008,8,c,3,1,garden,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,garden,"""30 Ferndown Dr.""",12RG02,RG012,12,b,2,2,garden,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,park,"""Thomas St. Reserve""",01UP02,UP001,1,b,2,6,park,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,park,"""Ross Reserve""",05UP02,UP005,5,b,2,1,park,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,park,"""Alex Wilkie Reserve""",06UP01,UP006,6,a,1,1,park,1
+"""Rhyparochromidae""","""Remaudiereana inornata""",h,sn,park,"""Beauty Park""",08UP01,UP008,8,a,1,2,park,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,wood,"""Victoria""",02GC02,GC002,2,b,2,1,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,grass,"""Victoria""",02GC05,GC002,2,e,5,1,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,grass,"""Victoria""",02GC08,GC002,2,h,8,2,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,wood,"""Woodlands""",03GC01,GC003,3,a,1,3,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,grass,"""Rossdale""",04GC05,GC004,4,e,5,1,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,grass,"""Rossdale""",04GC07,GC004,4,g,7,1,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,wood,"""Spring Valley""",05GC02,GC005,5,b,2,2,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,grass,"""Kingswood""",06GC06,GC006,6,f,6,4,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,grass,"""Peninsula""",07GC05,GC007,7,e,5,1,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,grass,"""Frankston""",08GC08,GC008,8,h,8,6,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,wood,"""Centenary""",09GC03,GC009,9,c,3,1,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,grass,"""Centenary""",09GC05,GC009,9,e,5,1,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,grass,"""Centenary""",09GC06,GC009,9,f,6,3,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,grass,"""Centenary""",09GC07,GC009,9,g,7,4,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,grass,"""Centenary""",09GC08,GC009,9,h,8,14,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,grass,"""Sandhurst""",10GC05,GC010,10,e,5,3,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,grass,"""Sandhurst""",10GC06,GC010,10,f,6,8,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,grass,"""Ranfurlie""",11GC06,GC011,11,f,6,1,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,grass,"""Ranfurlie""",11GC08,GC011,11,h,8,2,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,grass,"""Settlers Run""",12GC05,GC012,12,e,5,9,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,wood,"""Amstel""",13GC03,GC013,13,c,3,1,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,grass,"""Amstel""",13GC05,GC013,13,e,5,2,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,grass,"""Amstel""",13GC06,GC013,13,f,6,75,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,grass,"""Amstel""",13GC07,GC013,13,g,7,25,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,grass,"""Amstel""",13GC08,GC013,13,h,8,6,golf,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,garden,"""12 French Ave.""",04RG01,RG004,4,a,1,1,garden,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,garden,"""3 Kurong St.""",07RG02,RG007,7,b,2,1,garden,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,garden,"""10 Beech St.""",09RG01,RG009,9,a,1,2,garden,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,garden,"""25 Edwards St.""",09RG04,RG009,9,d,4,1,garden,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,garden,"""3 Van Haaster Gr.""",10RG01,RG010,10,a,1,1,garden,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,garden,"""7 Van Haaster Gr.""",10RG02,RG010,10,b,2,1,garden,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,garden,"""15 Deborah Ct.""",10RG04,RG010,10,d,4,2,garden,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,garden,"""20 Taplan Cr.""",11RG01,RG011,11,a,1,1,garden,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,garden,"""45 Glanaire Cr.""",11RG03,RG011,11,c,3,1,garden,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,park,"""Beaumaris Reserve""",02UP02,UP002,2,b,2,1,park,1
+"""Miridae""","""Sidnia kinbergi""",h,sn,park,"""Alex Wilkie Reserve""",06UP01,UP006,6,a,1,1,park,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,wood,"""Victoria""",02GC02,GC002,2,b,2,1,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Victoria""",02GC05,GC002,2,e,5,12,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Victoria""",02GC06,GC002,2,f,6,2,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Victoria""",02GC07,GC002,2,g,7,110,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Victoria""",02GC08,GC002,2,h,8,2,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,wood,"""Woodlands""",03GC03,GC003,3,c,3,2,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Woodlands""",03GC05,GC003,3,e,5,24,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Woodlands""",03GC06,GC003,3,f,6,95,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Woodlands""",03GC07,GC003,3,g,7,93,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Woodlands""",03GC08,GC003,3,h,8,41,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Spring Valley""",05GC05,GC005,5,e,5,69,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Spring Valley""",05GC07,GC005,5,g,7,4,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Spring Valley""",05GC08,GC005,5,h,8,174,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Kingswood""",06GC05,GC006,6,e,5,3,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Kingswood""",06GC06,GC006,6,f,6,4,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Kingswood""",06GC07,GC006,6,g,7,2,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Kingswood""",06GC08,GC006,6,h,8,76,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,wood,"""Peninsula""",07GC03,GC007,7,c,3,1,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Peninsula""",07GC05,GC007,7,e,5,16,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Peninsula""",07GC06,GC007,7,f,6,338,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Peninsula""",07GC07,GC007,7,g,7,18,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Peninsula""",07GC08,GC007,7,h,8,3,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,wood,"""Frankston""",08GC01,GC008,8,a,1,10,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Frankston""",08GC05,GC008,8,e,5,22,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Frankston""",08GC07,GC008,8,g,7,18,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Frankston""",08GC08,GC008,8,h,8,14,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Centenary""",09GC05,GC009,9,e,5,2,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Sandhurst""",10GC05,GC010,10,e,5,22,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Sandhurst""",10GC06,GC010,10,f,6,2,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Sandhurst""",10GC07,GC010,10,g,7,64,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Sandhurst""",10GC08,GC010,10,h,8,53,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,wood,"""Ranfurlie""",11GC02,GC011,11,b,2,5,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,wood,"""Ranfurlie""",11GC03,GC011,11,c,3,1,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Ranfurlie""",11GC05,GC011,11,e,5,7,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Ranfurlie""",11GC07,GC011,11,g,7,37,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Ranfurlie""",11GC08,GC011,11,h,8,4,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,wood,"""Settlers Run""",12GC01,GC012,12,a,1,3,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,wood,"""Settlers Run""",12GC03,GC012,12,c,3,1,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Settlers Run""",12GC05,GC012,12,e,5,4,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Settlers Run""",12GC06,GC012,12,f,6,41,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Settlers Run""",12GC07,GC012,12,g,7,79,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Settlers Run""",12GC08,GC012,12,h,8,1,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Amstel""",13GC06,GC013,13,f,6,77,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Amstel""",13GC07,GC013,13,g,7,3,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,grass,"""Amstel""",13GC08,GC013,13,h,8,6,golf,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,garden,"""80 Albert Ave.""",05RG04,RG005,5,d,4,1,garden,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,park,"""Botanical Ridge Reserve""",12UP01,UP012,12,a,1,4,park,1
+"""Pachygronthidae""","""Stenophyella macreta""",h,sn,park,"""Botanical Ridge Reserve""",12UP02,UP012,12,b,2,7,park,1
+"""Tingidae""","""Stephanitis pyroides""",h,sn,garden,"""9 Bagley St.""",01RG01,RG001,1,a,1,3,garden,1
+"""Tingidae""","""Stephanitis pyroides""",h,sn,garden,"""78/80 Cromer Rd.""",02RG02,RG002,2,b,2,2,garden,1
+"""Tingidae""","""Stephanitis pyroides""",h,sn,garden,"""36 Royal Ave.""",05RG02,RG005,5,b,2,8,garden,1
+"""Tingidae""","""Stephanitis pyroides""",h,sn,garden,"""80 Albert Ave.""",05RG04,RG005,5,d,4,1,garden,1
+"""Tingidae""","""Stephanitis pyroides""",h,sn,garden,"""25 Liddesdale Ave.""",08RG02,RG008,8,b,2,1,garden,1
+"""Tingidae""","""Stephanitis pyroides""",h,sn,garden,"""25 Edwards St.""",09RG04,RG009,9,d,4,17,garden,1
+"""Tingidae""","""Stephanitis pyroides""",h,sn,garden,"""17 Mundaring Dr.""",13RG03,RG013,13,c,3,1,garden,1
+"""Tingidae""","""Tingidae 1""",h,sn,wood,"""Brighton""",01GC01,GC001,1,a,1,1,golf,1
+"""Tingidae""","""Tingidae 1""",h,sn,wood,"""Centenary""",09GC04,GC009,9,d,4,2,golf,1
+"""Tingidae""","""Tingidae 1""",h,sn,grass,"""Amstel""",13GC08,GC013,13,h,8,1,golf,1
+"""Tingidae""","""Tingidae 1""",h,sn,garden,"""36 Royal Ave.""",05RG02,RG005,5,b,2,1,garden,1
+"""Tingidae""","""Tingidae 1""",h,sn,garden,"""4 Cromwell Ct.""",06RG04,RG006,6,d,4,1,garden,1
+"""Tingidae""","""Tingidae 1""",h,sn,garden,"""10/12 Warringa Rd.""",08RG03,RG008,8,c,3,2,garden,1

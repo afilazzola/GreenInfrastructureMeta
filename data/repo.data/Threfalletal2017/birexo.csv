@@ -1,0 +1,361 @@
+Exotic bird data from Threlfall et al Journal of Applied Ecology 'Increasing biodiversity in urban green spaces through simple vegetation interventions',,,
+For data collection methods see above paper.,,,
+spp = species. Point = green space site (n=39). Rep = plot within each green space.,,,
+,,,
+spp,point,rep,occ
+"""Common Blackbird""",GC002,2,1
+"""Common Blackbird""",GC002,3,1
+"""Common Blackbird""",GC004,2,1
+"""Common Blackbird""",GC005,1,1
+"""Common Blackbird""",GC005,2,1
+"""Common Blackbird""",GC006,2,1
+"""Common Blackbird""",GC006,3,1
+"""Common Blackbird""",GC007,1,1
+"""Common Blackbird""",GC007,2,1
+"""Common Blackbird""",GC007,3,1
+"""Common Blackbird""",GC008,1,1
+"""Common Blackbird""",GC008,2,1
+"""Common Blackbird""",GC008,3,1
+"""Common Blackbird""",GC009,2,1
+"""Common Blackbird""",GC009,3,1
+"""Common Blackbird""",GC010,1,1
+"""Common Blackbird""",GC010,2,1
+"""Common Blackbird""",GC010,3,1
+"""Common Blackbird""",GC012,1,1
+"""Common Blackbird""",GC012,2,1
+"""Common Blackbird""",GC012,3,1
+"""Common Blackbird""",GC013,2,1
+"""Common Blackbird""",GC013,3,1
+"""Common Blackbird""",RG001,1,1
+"""Common Blackbird""",RG001,2,1
+"""Common Blackbird""",RG001,3,1
+"""Common Blackbird""",RG002,2,1
+"""Common Blackbird""",RG002,3,1
+"""Common Blackbird""",RG003,1,1
+"""Common Blackbird""",RG003,2,1
+"""Common Blackbird""",RG004,1,1
+"""Common Blackbird""",RG004,2,1
+"""Common Blackbird""",RG004,3,1
+"""Common Blackbird""",RG005,1,1
+"""Common Blackbird""",RG005,2,1
+"""Common Blackbird""",RG005,3,1
+"""Common Blackbird""",RG006,1,1
+"""Common Blackbird""",RG006,2,1
+"""Common Blackbird""",RG006,3,1
+"""Common Blackbird""",RG007,1,1
+"""Common Blackbird""",RG007,2,1
+"""Common Blackbird""",RG007,3,1
+"""Common Blackbird""",RG008,1,1
+"""Common Blackbird""",RG008,2,1
+"""Common Blackbird""",RG008,3,1
+"""Common Blackbird""",RG009,1,1
+"""Common Blackbird""",RG009,2,1
+"""Common Blackbird""",RG009,3,1
+"""Common Blackbird""",RG010,1,1
+"""Common Blackbird""",RG010,2,1
+"""Common Blackbird""",RG011,1,1
+"""Common Blackbird""",RG011,2,1
+"""Common Blackbird""",RG011,3,1
+"""Common Blackbird""",RG012,1,1
+"""Common Blackbird""",RG012,2,1
+"""Common Blackbird""",RG012,3,1
+"""Common Blackbird""",RG013,1,1
+"""Common Blackbird""",RG013,2,1
+"""Common Blackbird""",RG013,3,1
+"""Common Blackbird""",UP002,2,1
+"""Common Blackbird""",UP002,3,1
+"""Common Blackbird""",UP004,1,1
+"""Common Blackbird""",UP007,2,1
+"""Common Blackbird""",UP007,3,1
+"""Common Blackbird""",UP008,2,1
+"""Common Blackbird""",UP010,3,1
+"""Common Blackbird""",UP013,1,1
+"""Common Blackbird""",UP013,2,1
+"""Common Blackbird""",UP013,3,1
+"""Common Myna""",GC004,1,1
+"""Common Myna""",GC004,2,1
+"""Common Myna""",GC004,3,1
+"""Common Myna""",GC005,1,1
+"""Common Myna""",GC005,2,1
+"""Common Myna""",GC005,3,1
+"""Common Myna""",GC006,2,1
+"""Common Myna""",GC007,1,1
+"""Common Myna""",GC007,2,1
+"""Common Myna""",GC007,3,1
+"""Common Myna""",GC008,3,1
+"""Common Myna""",GC009,2,1
+"""Common Myna""",GC009,3,1
+"""Common Myna""",GC010,1,1
+"""Common Myna""",GC010,2,1
+"""Common Myna""",GC010,3,1
+"""Common Myna""",GC011,1,1
+"""Common Myna""",GC011,2,1
+"""Common Myna""",GC011,3,1
+"""Common Myna""",GC012,1,1
+"""Common Myna""",GC012,2,1
+"""Common Myna""",GC012,3,1
+"""Common Myna""",GC013,2,1
+"""Common Myna""",GC013,3,1
+"""Common Myna""",RG001,1,1
+"""Common Myna""",RG001,2,1
+"""Common Myna""",RG001,3,1
+"""Common Myna""",RG002,1,1
+"""Common Myna""",RG002,3,1
+"""Common Myna""",RG003,1,1
+"""Common Myna""",RG003,2,1
+"""Common Myna""",RG004,1,1
+"""Common Myna""",RG004,2,1
+"""Common Myna""",RG004,3,1
+"""Common Myna""",RG005,1,1
+"""Common Myna""",RG005,2,1
+"""Common Myna""",RG005,3,1
+"""Common Myna""",RG006,1,1
+"""Common Myna""",RG006,2,1
+"""Common Myna""",RG006,3,1
+"""Common Myna""",RG007,1,1
+"""Common Myna""",RG007,2,1
+"""Common Myna""",RG007,3,1
+"""Common Myna""",RG008,1,1
+"""Common Myna""",RG008,2,1
+"""Common Myna""",RG008,3,1
+"""Common Myna""",RG009,1,1
+"""Common Myna""",RG009,2,1
+"""Common Myna""",RG009,3,1
+"""Common Myna""",RG010,1,1
+"""Common Myna""",RG010,2,1
+"""Common Myna""",RG010,3,1
+"""Common Myna""",RG011,1,1
+"""Common Myna""",RG011,2,1
+"""Common Myna""",RG011,3,1
+"""Common Myna""",RG012,1,1
+"""Common Myna""",RG012,2,1
+"""Common Myna""",RG012,3,1
+"""Common Myna""",RG013,1,1
+"""Common Myna""",RG013,2,1
+"""Common Myna""",RG013,3,1
+"""Common Myna""",UP001,2,1
+"""Common Myna""",UP002,2,1
+"""Common Myna""",UP002,3,1
+"""Common Myna""",UP003,3,1
+"""Common Myna""",UP004,1,1
+"""Common Myna""",UP006,3,1
+"""Common Myna""",UP007,2,1
+"""Common Myna""",UP008,2,1
+"""Common Myna""",UP010,1,1
+"""Common Myna""",UP010,2,1
+"""Common Myna""",UP010,3,1
+"""Common Myna""",UP011,1,1
+"""Common Myna""",UP011,2,1
+"""Common Myna""",UP011,3,1
+"""Common Myna""",UP012,1,1
+"""Common Myna""",UP012,2,1
+"""Common Myna""",UP013,1,1
+"""Common Myna""",UP013,2,1
+"""Common Myna""",UP013,3,1
+"""Common Starling""",GC002,1,1
+"""Common Starling""",GC005,2,1
+"""Common Starling""",GC006,2,1
+"""Common Starling""",GC007,1,1
+"""Common Starling""",GC007,2,1
+"""Common Starling""",GC010,1,1
+"""Common Starling""",GC010,2,1
+"""Common Starling""",GC010,3,1
+"""Common Starling""",GC011,1,1
+"""Common Starling""",GC011,2,1
+"""Common Starling""",GC012,1,1
+"""Common Starling""",GC012,2,1
+"""Common Starling""",GC012,3,1
+"""Common Starling""",GC013,1,1
+"""Common Starling""",GC013,3,1
+"""Common Starling""",RG001,2,1
+"""Common Starling""",RG002,2,1
+"""Common Starling""",RG003,1,1
+"""Common Starling""",RG003,2,1
+"""Common Starling""",RG004,1,1
+"""Common Starling""",RG004,2,1
+"""Common Starling""",RG004,3,1
+"""Common Starling""",RG005,1,1
+"""Common Starling""",RG005,2,1
+"""Common Starling""",RG005,3,1
+"""Common Starling""",RG006,1,1
+"""Common Starling""",RG006,2,1
+"""Common Starling""",RG006,3,1
+"""Common Starling""",RG007,1,1
+"""Common Starling""",RG007,2,1
+"""Common Starling""",RG007,3,1
+"""Common Starling""",RG008,1,1
+"""Common Starling""",RG008,2,1
+"""Common Starling""",RG009,1,1
+"""Common Starling""",RG009,2,1
+"""Common Starling""",RG009,3,1
+"""Common Starling""",RG010,1,1
+"""Common Starling""",RG010,2,1
+"""Common Starling""",RG010,3,1
+"""Common Starling""",RG011,1,1
+"""Common Starling""",RG011,2,1
+"""Common Starling""",RG011,3,1
+"""Common Starling""",RG012,1,1
+"""Common Starling""",RG012,2,1
+"""Common Starling""",RG012,3,1
+"""Common Starling""",RG013,1,1
+"""Common Starling""",RG013,2,1
+"""Common Starling""",RG013,3,1
+"""Common Starling""",UP002,1,1
+"""Common Starling""",UP002,3,1
+"""Common Starling""",UP003,1,1
+"""Common Starling""",UP003,3,1
+"""Common Starling""",UP004,2,1
+"""Common Starling""",UP005,1,1
+"""Common Starling""",UP005,2,1
+"""Common Starling""",UP005,3,1
+"""Common Starling""",UP006,2,1
+"""Common Starling""",UP007,2,1
+"""Common Starling""",UP007,3,1
+"""Common Starling""",UP009,2,1
+"""Common Starling""",UP010,1,1
+"""Common Starling""",UP010,3,1
+"""Common Starling""",UP011,1,1
+"""Common Starling""",UP011,2,1
+"""Common Starling""",UP012,1,1
+"""Common Starling""",UP012,2,1
+"""Common Starling""",UP012,3,1
+"""Common Starling""",UP013,2,1
+"""Common Starling""",UP013,3,1
+"""European Goldfinch""",GC011,1,1
+"""European Goldfinch""",GC012,2,1
+"""European Goldfinch""",RG011,2,1
+"""House Sparrow""",GC010,2,1
+"""House Sparrow""",GC010,3,1
+"""House Sparrow""",RG003,1,1
+"""House Sparrow""",RG004,1,1
+"""House Sparrow""",RG004,2,1
+"""House Sparrow""",RG004,3,1
+"""House Sparrow""",RG005,1,1
+"""House Sparrow""",RG005,2,1
+"""House Sparrow""",RG005,3,1
+"""House Sparrow""",RG006,1,1
+"""House Sparrow""",RG006,2,1
+"""House Sparrow""",RG006,3,1
+"""House Sparrow""",RG009,3,1
+"""House Sparrow""",RG010,1,1
+"""House Sparrow""",RG010,2,1
+"""House Sparrow""",RG010,3,1
+"""House Sparrow""",RG011,1,1
+"""House Sparrow""",RG011,2,1
+"""House Sparrow""",RG011,3,1
+"""House Sparrow""",RG012,1,1
+"""House Sparrow""",RG012,2,1
+"""House Sparrow""",RG012,3,1
+"""House Sparrow""",RG013,1,1
+"""House Sparrow""",RG013,2,1
+"""House Sparrow""",RG013,3,1
+"""House Sparrow""",UP010,3,1
+"""Rock Dove""",GC013,2,1
+"""Rock Dove""",RG001,1,1
+"""Rock Dove""",RG003,1,1
+"""Rock Dove""",RG004,2,1
+"""Rock Dove""",RG004,3,1
+"""Rock Dove""",RG005,1,1
+"""Rock Dove""",RG005,3,1
+"""Rock Dove""",RG008,2,1
+"""Rock Dove""",RG011,2,1
+"""Rock Dove""",UP005,2,1
+"""Rock Dove""",UP005,3,1
+"""Rock Dove""",UP006,2,1
+"""Rock Dove""",UP006,3,1
+"""Rock Dove""",UP008,1,1
+"""Rock Dove""",UP008,2,1
+"""Rock Dove""",UP009,1,1
+"""Rock Dove""",UP009,2,1
+"""Rock Dove""",UP010,1,1
+"""Rock Dove""",UP013,1,1
+"""Spotted Turtle Dove""",GC001,1,1
+"""Spotted Turtle Dove""",GC001,2,1
+"""Spotted Turtle Dove""",GC001,3,1
+"""Spotted Turtle Dove""",GC002,1,1
+"""Spotted Turtle Dove""",GC002,2,1
+"""Spotted Turtle Dove""",GC002,3,1
+"""Spotted Turtle Dove""",GC003,1,1
+"""Spotted Turtle Dove""",GC003,2,1
+"""Spotted Turtle Dove""",GC004,1,1
+"""Spotted Turtle Dove""",GC004,2,1
+"""Spotted Turtle Dove""",GC004,3,1
+"""Spotted Turtle Dove""",GC005,2,1
+"""Spotted Turtle Dove""",GC006,2,1
+"""Spotted Turtle Dove""",GC006,3,1
+"""Spotted Turtle Dove""",GC007,1,1
+"""Spotted Turtle Dove""",GC007,2,1
+"""Spotted Turtle Dove""",GC007,3,1
+"""Spotted Turtle Dove""",GC008,1,1
+"""Spotted Turtle Dove""",GC008,2,1
+"""Spotted Turtle Dove""",GC008,3,1
+"""Spotted Turtle Dove""",GC009,2,1
+"""Spotted Turtle Dove""",GC010,1,1
+"""Spotted Turtle Dove""",GC010,2,1
+"""Spotted Turtle Dove""",GC010,3,1
+"""Spotted Turtle Dove""",GC011,2,1
+"""Spotted Turtle Dove""",GC012,1,1
+"""Spotted Turtle Dove""",GC012,2,1
+"""Spotted Turtle Dove""",GC012,3,1
+"""Spotted Turtle Dove""",RG001,1,1
+"""Spotted Turtle Dove""",RG001,2,1
+"""Spotted Turtle Dove""",RG001,3,1
+"""Spotted Turtle Dove""",RG002,1,1
+"""Spotted Turtle Dove""",RG002,2,1
+"""Spotted Turtle Dove""",RG002,3,1
+"""Spotted Turtle Dove""",RG003,1,1
+"""Spotted Turtle Dove""",RG003,2,1
+"""Spotted Turtle Dove""",RG004,1,1
+"""Spotted Turtle Dove""",RG004,2,1
+"""Spotted Turtle Dove""",RG004,3,1
+"""Spotted Turtle Dove""",RG005,1,1
+"""Spotted Turtle Dove""",RG005,2,1
+"""Spotted Turtle Dove""",RG005,3,1
+"""Spotted Turtle Dove""",RG006,1,1
+"""Spotted Turtle Dove""",RG006,2,1
+"""Spotted Turtle Dove""",RG006,3,1
+"""Spotted Turtle Dove""",RG007,1,1
+"""Spotted Turtle Dove""",RG007,2,1
+"""Spotted Turtle Dove""",RG007,3,1
+"""Spotted Turtle Dove""",RG008,1,1
+"""Spotted Turtle Dove""",RG008,2,1
+"""Spotted Turtle Dove""",RG008,3,1
+"""Spotted Turtle Dove""",RG009,1,1
+"""Spotted Turtle Dove""",RG009,2,1
+"""Spotted Turtle Dove""",RG009,3,1
+"""Spotted Turtle Dove""",RG010,1,1
+"""Spotted Turtle Dove""",RG010,2,1
+"""Spotted Turtle Dove""",RG010,3,1
+"""Spotted Turtle Dove""",RG011,1,1
+"""Spotted Turtle Dove""",RG011,2,1
+"""Spotted Turtle Dove""",RG011,3,1
+"""Spotted Turtle Dove""",RG012,1,1
+"""Spotted Turtle Dove""",RG012,2,1
+"""Spotted Turtle Dove""",RG012,3,1
+"""Spotted Turtle Dove""",RG013,1,1
+"""Spotted Turtle Dove""",RG013,2,1
+"""Spotted Turtle Dove""",RG013,3,1
+"""Spotted Turtle Dove""",UP001,1,1
+"""Spotted Turtle Dove""",UP001,2,1
+"""Spotted Turtle Dove""",UP002,1,1
+"""Spotted Turtle Dove""",UP002,2,1
+"""Spotted Turtle Dove""",UP002,3,1
+"""Spotted Turtle Dove""",UP003,3,1
+"""Spotted Turtle Dove""",UP004,1,1
+"""Spotted Turtle Dove""",UP004,2,1
+"""Spotted Turtle Dove""",UP004,3,1
+"""Spotted Turtle Dove""",UP006,1,1
+"""Spotted Turtle Dove""",UP007,1,1
+"""Spotted Turtle Dove""",UP007,2,1
+"""Spotted Turtle Dove""",UP007,3,1
+"""Spotted Turtle Dove""",UP008,1,1
+"""Spotted Turtle Dove""",UP008,2,1
+"""Spotted Turtle Dove""",UP008,3,1
+"""Spotted Turtle Dove""",UP009,3,1
+"""Spotted Turtle Dove""",UP011,2,1
+"""Spotted Turtle Dove""",UP011,3,1
+"""Spotted Turtle Dove""",UP012,1,1
+"""Spotted Turtle Dove""",UP012,2,1
+"""Spotted Turtle Dove""",UP013,1,1
+"""Spotted Turtle Dove""",UP013,2,1
+"""Spotted Turtle Dove""",UP013,3,1
