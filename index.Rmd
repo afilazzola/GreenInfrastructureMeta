@@ -200,3 +200,17 @@ mp
 
 ```
 
+
+### Green infrastructure Mapping
+```{r}
+gf.data <- read.csv("data//GI.data//GreenRoofGeocoded.csv")
+gf.data[,"GF.Area"] <- log(as.numeric(gf.data$GREEN_ROOF_AREA))+1
+
+## interactive map
+library(leaflet)
+
+m <- leaflet() %>%
+  addTiles() %>%  
+  addCircleMarkers(gf.data$lon, gf.data$lat, radius = gf.data$GF.Area*.6)
+m
+```
