@@ -36,3 +36,33 @@ for(i in missing)
 write.csv(data, "data//GI.data//GreenRoofGeocoded.csv", row.names=FALSE)
 
 
+
+
+## Convert lat/lon for allotment and community gardens
+
+data2 <- read.csv("data//GI.data//GardenData.csv", stringsAsFactors = FALSE)
+
+
+# Loop through the addresses to get the latitude and longitude of each address and add it to the
+# origAddress data frame in new columns lat and lon
+for(i in 1:nrow(data2))
+{
+  # Print("Working...")
+  result <- geocode(data2$Address[i], output = "latlona", source = "google")
+  data2$lon[i] <- as.numeric(result[1])
+  data2$lat[i] <- as.numeric(result[2])
+}
+
+## Reiterate loop to get all missing NAs as a result of not using Google API (i.e. Over query limit)
+missing <- which(is.na(data2$lat))
+for(i in missing)
+{
+  # Print("Working...")
+  result <- geocode(data2$Address[i], output = "latlona", source = "google")
+  data2$lon[i] <- as.numeric(result[1])
+  data2$lat[i] <- as.numeric(result[2])
+}
+
+# Write a CSV file containing origAddress to the working directory
+write.csv(data2, "data//GI.data//GardenGeocoded.csv", row.names=FALSE)
+
