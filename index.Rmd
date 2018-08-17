@@ -204,13 +204,22 @@ mp
 ### Green infrastructure Mapping
 ```{r}
 gf.data <- read.csv("data//GI.data//GreenRoofGeocoded.csv")
-gf.data[,"GF.Area"] <- log(as.numeric(gf.data$GREEN_ROOF_AREA))+1
+garden.data <- read.csv("data//GI.data//ComGardensdata.csv")
+
+## Extract coordinates only for GI
+gf.data <- gf.data[,c("lon","lat")]
+garden.data <- garden.data[,c("lon","lat")]
+
+## combine into single dataset
+GI.data <- rbind(gf.data,garden.data)
+## add column for data type
+GI.data[,"GI.type"] <- c(rep("Green Roof",nrow(gf.data)),rep("Community Garden",nrow(garden.data)))
 
 ## interactive map
 library(leaflet)
 
-m <- leaflet() %>%
+m <- leaflet(data=GI.data) %>%
   addTiles() %>%  
-  addCircleMarkers(gf.data$lon, gf.data$lat, radius = gf.data$GF.Area*.6)
+   addMarkers(~lon, ~lat)
 m
 ```
