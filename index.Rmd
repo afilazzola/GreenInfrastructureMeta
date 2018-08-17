@@ -220,6 +220,6 @@ library(leaflet)
 
 m <- leaflet(data=GI.data) %>%
   addTiles() %>%  
-   addMarkers(~lon, ~lat)
+   addCircleMarkers(~lon, ~lat, color =  ifelse(GI.data$GI.type == "Green Roof", 'blue', 'red'), radius=5)
 m
 ```
