@@ -1,0 +1,56 @@
+lat,lon,elevation,city,country,human.population,human.density,Area (m2),Depth (m),Volume (m3),Detention,SiteID,habitat,,upstream
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,concrete channel,"Annelida, Nematoda, Flatworms (?worms?)",3
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,concrete channel,Gastropoda (water snails),5
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,concrete channel,"Copepoda, Ostracoda, Cladocera*(microcustaceans)",3
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,concrete channel,"Acarina*(water mites,spiders)",3
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,concrete channel,Epiproctophora* (dragon?ies),5
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,concrete channel,Zygoptera (damsel?ies),1
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,concrete channel,Ephemeroptera (may?ies),1
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,concrete channel,"Hemiptera* (water bugs, water boatmen, striders)",1
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,concrete channel,"Diptera (?ies, mosquitoes)",2
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,concrete channel,Coleoptera*(water beetles),1
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,concrete channel,Trichoptera (caddis ?ies),0
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,retention pond,"Annelida, Nematoda, Flatworms (?worms?)",6
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,retention pond,Gastropoda (water snails),8
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,retention pond,"Copepoda, Ostracoda, Cladocera*(microcustaceans)",5
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,retention pond,"Acarina*(water mites,spiders)",5
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,retention pond,Epiproctophora* (dragon?ies),11
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,retention pond,Zygoptera (damsel?ies),5
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,retention pond,Ephemeroptera (may?ies),1
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,retention pond,"Hemiptera* (water bugs, water boatmen, striders)",6
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,retention pond,"Diptera (?ies, mosquitoes)",3
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,retention pond,Coleoptera*(water beetles),4
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,retention pond,Trichoptera (caddis ?ies),1
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,natural pond,"Annelida, Nematoda, Flatworms (?worms?)",6
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,natural pond,Gastropoda (water snails),8
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,natural pond,"Copepoda, Ostracoda, Cladocera*(microcustaceans)",4
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,natural pond,"Acarina*(water mites,spiders)",1
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,natural pond,Epiproctophora* (dragon?ies),5
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,natural pond,Zygoptera (damsel?ies),5
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,natural pond,Ephemeroptera (may?ies),1
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,natural pond,"Hemiptera* (water bugs, water boatmen, striders)",2
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,natural pond,"Diptera (?ies, mosquitoes)",2
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,natural pond,Coleoptera*(water beetles),4
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,2600,1.2,1300,3-16 h,Golden Pond,natural pond,Trichoptera (caddis ?ies),1
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,concrete channel,"Annelida, Nematoda, Flatworms (?worms?)",3
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,concrete channel,Gastropoda (water snails),4
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,concrete channel,"Copepoda, Ostracoda, Cladocera*(microcustaceans)",1
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,concrete channel,"Acarina*(water mites,spiders)",0
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,concrete channel,Epiproctophora* (dragon?ies),6
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,concrete channel,Zygoptera (damsel?ies),1
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,concrete channel,Ephemeroptera (may?ies),1
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,concrete channel,"Hemiptera* (water bugs, water boatmen, striders)",2
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,concrete channel,"Diptera (?ies, mosquitoes)",6
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,concrete channel,Coleoptera*(water beetles),3
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,concrete channel,Trichoptera (caddis ?ies),0
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,retention pond,"Annelida, Nematoda, Flatworms (?worms?)",9
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,retention pond,Gastropoda (water snails),5
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,retention pond,"Copepoda, Ostracoda, Cladocera*(microcustaceans)",8
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,retention pond,"Acarina*(water mites,spiders)",6
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,retention pond,Epiproctophora* (dragon?ies),6
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,retention pond,Zygoptera (damsel?ies),5
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,retention pond,Ephemeroptera (may?ies),1
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,retention pond,"Hemiptera* (water bugs, water boatmen, striders)",15
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,retention pond,"Diptera (?ies, mosquitoes)",10
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,retention pond,Coleoptera*(water beetles),19
+-27.466667,153.033333,8,Brisbane,Australia,2.408233,0.148,7000,1.5,4000,36 h - 6 days,Bridgewater Creek,retention pond,Trichoptera (caddis ?ies),2

@@ -1,0 +1,28 @@
+lat,lon,elevation,city,country,urban.gradient,GI type,estimates,stat,value
+41.482222,-81.669722,199,Cleveland,USA,urban,urban tree canopy,Trees (#/ha),mean,"2,857"
+41.482222,-81.669722,199,Cleveland,USA,urban,urban tree canopy,Total leaf area (m^2/ha),mean,"30,552"
+41.482222,-81.669722,199,Cleveland,USA,urban,urban tree canopy,Total leaf biomass (kg/ha),mean,"2,011"
+41.482222,-81.669722,199,Cleveland,USA,urban,urban tree canopy,Tree cover (%),mean,34.6
+41.482222,-81.669722,199,Cleveland,USA,urban,urban tree canopy,Richness,sum,26
+41.482222,-81.669722,199,Cleveland,USA,urban,urban tree canopy,Trees (#/ha),SE,33.3
+41.482222,-81.669722,199,Cleveland,USA,urban,urban tree canopy,Total leaf area (m^2/ha),SE,3937
+41.482222,-81.669722,199,Cleveland,USA,urban,urban tree canopy,Total leaf biomass (kg/ha),SE,237
+41.482222,-81.669722,199,Cleveland,USA,urban,urban tree canopy,Tree cover (%),SE,2.7
+41.482222,-81.669722,199,Cleveland,USA,intermediate,urban tree canopy,Trees (#/ha),mean,93.6
+41.482222,-81.669722,199,Cleveland,USA,intermediate,urban tree canopy,Total leaf area (m^2/ha),mean,"12,613"
+41.482222,-81.669722,199,Cleveland,USA,intermediate,urban tree canopy,Total leaf biomass (kg/ha),mean,937
+41.482222,-81.669722,199,Cleveland,USA,intermediate,urban tree canopy,Tree cover (%),mean,23.1
+41.482222,-81.669722,199,Cleveland,USA,intermediate,urban tree canopy,Richness,sum,35
+41.482222,-81.669722,199,Cleveland,USA,intermediate,urban tree canopy,Trees (#/ha),SE,17.5
+41.482222,-81.669722,199,Cleveland,USA,intermediate,urban tree canopy,Total leaf area (m^2/ha),SE,"2,545"
+41.482222,-81.669722,199,Cleveland,USA,intermediate,urban tree canopy,Total leaf biomass (kg/ha),SE,184
+41.482222,-81.669722,199,Cleveland,USA,intermediate,urban tree canopy,Tree cover (%),SE,3.1
+41.482222,-81.669722,199,Cleveland,USA,rural,urban tree canopy,Trees (#/ha),mean,83.5
+41.482222,-81.669722,199,Cleveland,USA,rural,urban tree canopy,Total leaf area (m^2/ha),mean,"12,792"
+41.482222,-81.669722,199,Cleveland,USA,rural,urban tree canopy,Total leaf biomass (kg/ha),mean,994
+41.482222,-81.669722,199,Cleveland,USA,rural,urban tree canopy,Tree cover (%),mean,25.9
+41.482222,-81.669722,199,Cleveland,USA,rural,urban tree canopy,Richness,sum,34
+41.482222,-81.669722,199,Cleveland,USA,rural,urban tree canopy,Trees (#/ha),SE,14.4
+41.482222,-81.669722,199,Cleveland,USA,rural,urban tree canopy,Total leaf area (m^2/ha),SE,"1,829"
+41.482222,-81.669722,199,Cleveland,USA,rural,urban tree canopy,Total leaf biomass (kg/ha),SE,151
+41.482222,-81.669722,199,Cleveland,USA,rural,urban tree canopy,Tree cover (%),SE,2.2

@@ -1,0 +1,33 @@
+Gi.type,Estimate,Stat,Value
+stormwater ponds,Artificial area (ha)KW,Mean,9.14
+stormwater ponds,Woodland area (m2)KW,Mean,24.65
+stormwater ponds,Salinity (mg NaCl/L)KW,Mean,0.45
+stormwater ponds,Conductivity (mS/cm)KW,Mean,0.96
+stormwater ponds,NO3ÿ(mg/L)KW,Mean,4.23
+stormwater ponds,NO2ÿ(mg/L)KW,Mean,0.08
+stormwater ponds,PO4ÿ(mg/L)KW,Mean,0.59
+stormwater ponds,Pond perimeter (m)KW,Mean,163
+stormwater ponds,Artificial area (ha)KW,SE,2.13
+stormwater ponds,Woodland area (m2)KW,SE,0.47
+stormwater ponds,Salinity (mg NaCl/L)KW,SE,0.3
+stormwater ponds,Conductivity (mS/cm)KW,SE,0.05
+stormwater ponds,NO3ÿ(mg/L)KW,SE,1.24
+stormwater ponds,NO2ÿ(mg/L)KW,SE,0.03
+stormwater ponds,PO4ÿ(mg/L)KW,SE,0.13
+stormwater ponds,Pond perimeter (m)KW,SE,17
+natural ponds,Artificial area (ha)KW,Mean,3.19
+natural ponds,Woodland area (m2)KW,Mean,42
+natural ponds,Salinity (mg NaCl/L)KW,Mean,0.09
+natural ponds,Conductivity (mS/cm)KW,Mean,0.18
+natural ponds,NO3ÿ(mg/L)KW,Mean,1.27
+natural ponds,NO2ÿ(mg/L)KW,Mean,0.02
+natural ponds,PO4ÿ(mg/L)KW,Mean,0.77
+natural ponds,Pond perimeter (m)KW,Mean,208
+natural ponds,Artificial area (ha)KW,SE,1.48
+natural ponds,Woodland area (m2)KW,SE,6.7
+natural ponds,Salinity (mg NaCl/L)KW,SE,0.01
+natural ponds,Conductivity (mS/cm)KW,SE,0.02
+natural ponds,NO3ÿ(mg/L)KW,SE,0.35
+natural ponds,NO2ÿ(mg/L)KW,SE,0.01
+natural ponds,PO4ÿ(mg/L)KW,SE,0.21
+natural ponds,Pond perimeter (m)KW,SE,31

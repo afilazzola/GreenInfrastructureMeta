@@ -1,0 +1,67 @@
+lat,lon,elevation,city,country,human.population,human.density,Habitat,Measure,Stat,Value
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,Plant biomass (g),mean,202.55
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,Gravel (kg),mean,1.32
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,pH,mean,6.91
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,EC (?S/cm),mean,273.25
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,Tall-stratum vegetation (%),mean,8.54
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,Mid-stratum vegetation (%),mean,38.7
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,Low-stratum vegetation (%),mean,31.9
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,Number of plants in flower,mean,0.96
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,Number of plant taxa,mean,1.57
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,Leaf litter depth (cm),mean,1.57
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,Lateral slope,mean,-0.11
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,Plant biomass (g),SD,221.77
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,Gravel (kg),SD,2.83
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,pH,SD,0.28
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,EC (?S/cm),SD,101.02
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,Tall-stratum vegetation (%),SD,9.11
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,Mid-stratum vegetation (%),SD,30.84
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,Low-stratum vegetation (%),SD,35.39
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,Number of plants in flower,SD,0.71
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,Number of plant taxa,SD,0.58
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,Leaf litter depth (cm),SD,1.49
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Bioswale,Lateral slope,SD,0.04
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,Plant biomass (g),mean,58.7
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,Gravel (kg),mean,0
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,pH,mean,7.27
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,EC (?S/cm),mean,353.75
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,Tall-stratum vegetation (%),mean,7.67
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,Mid-stratum vegetation (%),mean,16.48
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,Low-stratum vegetation (%),mean,19.22
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,Number of plants in flower,mean,0.41
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,Number of plant taxa,mean,0.93
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,Leaf litter depth (cm),mean,0.5
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,Lateral slope,mean,0.04
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,Plant biomass (g),SD,8.07
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,Gravel (kg),SD,0
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,pH,SD,0.24
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,EC (?S/cm),SD,125.9
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,Tall-stratum vegetation (%),SD,8.95
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,Mid-stratum vegetation (%),SD,2.56
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,Low-stratum vegetation (%),SD,29.99
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,Number of plants in flower,SD,0.13
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,Number of plant taxa,SD,0.28
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,Leaf litter depth (cm),SD,0.54
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,public/community gardens,Lateral slope,SD,0.04
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,Plant biomass (g),mean,57.95
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,Gravel (kg),mean,0
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,pH,mean,7.75
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,EC (?S/cm),mean,622.33
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,Tall-stratum vegetation (%),mean,8.89
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,Mid-stratum vegetation (%),mean,0
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,Low-stratum vegetation (%),mean,72.96
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,Number of plants in flower,mean,0.04
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,Number of plant taxa,mean,1.2
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,Leaf litter depth (cm),mean,0.27
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,Lateral slope,mean,0.04
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,Plant biomass (g),SD,19.45
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,Gravel (kg),SD,0
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,pH,SD,0.3
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,EC (?S/cm),SD,126.88
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,Tall-stratum vegetation (%),SD,6.99
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,Mid-stratum vegetation (%),SD,0
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,Low-stratum vegetation (%),SD,8.56
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,Number of plants in flower,SD,0.09
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,Number of plant taxa,SD,0.16
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,Leaf litter depth (cm),SD,0.06
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,yards/home gardens,Lateral slope,SD,0.07

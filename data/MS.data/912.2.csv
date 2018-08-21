@@ -1,0 +1,45 @@
+Habitat,Variables,Stat,Value
+Retention Ponds,Artificial area (m2)b,mean,"14,142"
+Retention Ponds,Woodland area (m2)b,mean,"191,941"
+Retention Ponds,Agricultural area (m2)b,mean,"458,718"
+Retention Ponds,pH,mean,7.96
+Retention Ponds,Salinity (mgÿNaCl/L)b,mean,0.44
+Retention Ponds,Conductivity (mS/cm)b,mean,0.95
+Retention Ponds,NO2ÿ(mg/L)b,mean,0.06
+Retention Ponds,NO3ÿ(mg/L)b,mean,3.95
+Retention Ponds,PO4ÿ(mg/L)b,mean,0.47
+Retention Ponds,Pond perimeter (m)b,mean,137
+Retention Ponds,Depth (cm)b,mean,58
+Retention Ponds,Artificial area (m2)b,SE,4194
+Retention Ponds,Woodland area (m2)b,SE,25192
+Retention Ponds,Agricultural area (m2)b,SE,33990
+Retention Ponds,pH,SE,0.14
+Retention Ponds,Salinity (mgÿNaCl/L)b,SE,0.4
+Retention Ponds,Conductivity (mS/cm)b,SE,0.07
+Retention Ponds,NO2ÿ(mg/L)b,SE,0.02
+Retention Ponds,NO3ÿ(mg/L)b,SE,0.83
+Retention Ponds,PO4ÿ(mg/L)b,SE,0.09
+Retention Ponds,Pond perimeter (m)b,SE,10
+Retention Ponds,Depth (cm)b,SE,3
+natural pond,Artificial area (m2)b,mean,118
+natural pond,Woodland area (m2)b,mean,"415,209"
+natural pond,Agricultural area (m2)b,mean,"291,288"
+natural pond,pH,mean,6.84
+natural pond,Salinity (mgÿNaCl/L)b,mean,0.11
+natural pond,Conductivity (mS/cm)b,mean,0.22
+natural pond,NO2ÿ(mg/L)b,mean,0.02
+natural pond,NO3ÿ(mg/L)b,mean,2.38
+natural pond,PO4ÿ(mg/L)b,mean,0.87
+natural pond,Pond perimeter (m)b,mean,146
+natural pond,Depth (cm)b,mean,46
+natural pond,Artificial area (m2)b,SE,83
+natural pond,Woodland area (m2)b,SE,42257
+natural pond,Agricultural area (m2)b,SE,45528
+natural pond,pH,SE,0.19
+natural pond,Salinity (mgÿNaCl/L)b,SE,0.01
+natural pond,Conductivity (mS/cm)b,SE,0.02
+natural pond,NO2ÿ(mg/L)b,SE,0.01
+natural pond,NO3ÿ(mg/L)b,SE,0.76
+natural pond,PO4ÿ(mg/L)b,SE,0.17
+natural pond,Pond perimeter (m)b,SE,17
+natural pond,Depth (cm)b,SE,3

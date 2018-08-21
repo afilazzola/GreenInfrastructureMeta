@@ -1,0 +1,25 @@
+Site,Age (years),Area (m2),Height (m),Substrate depth (cm),Substrate contents
+"BVB Bus garage Rank, lower roof level",3,370,6,10.6,Sandy gravel (grain size 0-30 mm) with Crushed tiles and compost
+"BVB Bus garage Rank, upper roof level",3,1540,7.5,3.6,Lava-pumice
+BVB Tram depot Wiesenplatz,2,6220,8,7.4,"Crushed tiles, lava-pumice, compost"
+BVB Tram depot Wiesenplatz,2,930,6.5,10.6,"Crushed tiles, lava-pumice, compost"
+Erlenmatt lower roof level,4,480,10,14.6,"Sandy gravel (grain size 0-30 mm), compost, lava-pumice"
+Erlenmatt upper roof level,4,1350,22,13.6,"Sandy gravel (grain size 0-30 mm), compost, lava-pumice"
+"Exhibition hall 1, higher substrate level area with added wood ",14,11200,15,6.4,"Lava-pumice, compost, wood"
+"Exhibition hall 1, part mixed with fotovoltaic panels",14,11200,15,10,Lava-pumice
+"Exhibition hall 1, shallow substrate area",14,11200,15,6,Lava-pumice
+"Felix Platter Hospital, lower roof level",3,1260,3.5,7.8,"Crushed tiles, lava-pumice, compost and straw"
+"Jacob Burckhardt-Haus, Roof part east",6,5350,18.5,11.4,"Lava-pumice, topsoil, sandy gravel (grain size 0-200 mm)"
+"Jacob Burckhardt-Haus, Roof part north",6,5350,18.5,4.2,Lava-pumice
+"Jacob Burckhardt-Haus, Roof part west",6,5350,18.5,16,"Lava-pumice, sand, compost, sandy gravel (grain size 0-200 mm)"
+Migros Eglisee,17,860,5,7.8,Lava-pumice
+"Nordtangente, gravel part",14,7050,2,16.6,Sandy gravel (grain size 0-200 mm)
+"Nordtangente, soil part",14,7050,2,48,"Sandy gravel (grain size 0-200 mm), topped with topsoil"
+Pirelli,1,650,11,8.3,"Sandy gravel (grain size 0-30 mm), compost, lava-pumice, straw"
+Rhypark,26,830,2,11.2,"Sandy gravel (grain size 0-30 mm), topsoil"
+Rossetti-Building,15,1300,14,13.4,Loamy gravel (grain size 0-200 mm)
+"StÅcki Shopping Center, gravel part",4,11960,13,9.6,Sandy-loamy gravel (grain size 0-30 mm)
+"StÅcki Shopping Center, meadow part",4,11960,13,24.8,"Sandy-loamy gravel (grain size 0-30 mm), topsoil"
+University Hospital for children,14,4280,16,9,"Sandy gravel (grain size 0-30 mm), compost, lava-pumice"
+"University Hospital Klinikum 2, original substrate level 12 - 20 cm",10,3000,18,19.2,"Sandy topsoil, topsoil"
+"University Hospital Klinikum 2, original substrate level 8 - 12 cm",10,3000,18,7.8,Sandy topsoil

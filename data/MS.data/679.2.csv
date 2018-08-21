@@ -1,0 +1,1536 @@
+Family,Species,Stat,Value
+Anthicidae,Anthicus antherinus,Abundance,45
+Anthicidae,Anthicus antherinus,Maximum,39
+Anthicidae,Anthicus antherinus,Mean,1.9
+Anthicidae,Anthicus antherinus,Minimum,0
+Anthicidae,Anthicus antherinus,Occurrences,4
+Anthicidae,Hirticomus hispidus,Abundance,1
+Anthicidae,Hirticomus hispidus,Maximum,1
+Anthicidae,Hirticomus hispidus,Mean,0
+Anthicidae,Hirticomus hispidus,Minimum,0
+Anthicidae,Hirticomus hispidus,Occurrences,1
+Anthicidae,Omonadus floralis,Abundance,1
+Anthicidae,Omonadus floralis,Maximum,1
+Anthicidae,Omonadus floralis,Mean,0
+Anthicidae,Omonadus floralis,Minimum,0
+Anthicidae,Omonadus floralis,Occurrences,1
+Anthribidae,Anthribus albinus,Abundance,1
+Anthribidae,Anthribus albinus,Maximum,1
+Anthribidae,Anthribus albinus,Mean,0
+Anthribidae,Anthribus albinus,Minimum,0
+Anthribidae,Anthribus albinus,Occurrences,1
+Anthribidae,Plathyrinus resinosus,Abundance,1
+Anthribidae,Plathyrinus resinosus,Maximum,1
+Anthribidae,Plathyrinus resinosus,Mean,0
+Anthribidae,Plathyrinus resinosus,Minimum,0
+Anthribidae,Plathyrinus resinosus,Occurrences,1
+Apionidae,Ceratapion onopordi,Abundance,1
+Apionidae,Ceratapion onopordi,Maximum,1
+Apionidae,Ceratapion onopordi,Mean,0
+Apionidae,Ceratapion onopordi,Minimum,0
+Apionidae,Ceratapion onopordi,Occurrences,1
+Apionidae,Cyanapion columbinum,Abundance,0
+Apionidae,Cyanapion columbinum,Maximum,0
+Apionidae,Cyanapion columbinum,Mean,0
+Apionidae,Cyanapion columbinum,Minimum,0
+Apionidae,Cyanapion columbinum,Occurrences,0
+Apionidae,Cyanapion spencii,Abundance,1
+Apionidae,Cyanapion spencii,Maximum,1
+Apionidae,Cyanapion spencii,Mean,0
+Apionidae,Cyanapion spencii,Minimum,0
+Apionidae,Cyanapion spencii,Occurrences,1
+Apionidae,Eutrichapion punctigerum,Abundance,1
+Apionidae,Eutrichapion punctigerum,Maximum,1
+Apionidae,Eutrichapion punctigerum,Mean,0
+Apionidae,Eutrichapion punctigerum,Minimum,0
+Apionidae,Eutrichapion punctigerum,Occurrences,1
+Apionidae,Hemitrichapion lanigerum,Abundance,0
+Apionidae,Hemitrichapion lanigerum,Maximum,0
+Apionidae,Hemitrichapion lanigerum,Mean,0
+Apionidae,Hemitrichapion lanigerum,Minimum,0
+Apionidae,Hemitrichapion lanigerum,Occurrences,0
+Apionidae,Hemitrichapion pavidum,Abundance,0
+Apionidae,Hemitrichapion pavidum,Maximum,0
+Apionidae,Hemitrichapion pavidum,Mean,0
+Apionidae,Hemitrichapion pavidum,Minimum,0
+Apionidae,Hemitrichapion pavidum,Occurrences,0
+Apionidae,Holotrichapion pisi,Abundance,1
+Apionidae,Holotrichapion pisi,Maximum,1
+Apionidae,Holotrichapion pisi,Mean,0
+Apionidae,Holotrichapion pisi,Minimum,0
+Apionidae,Holotrichapion pisi,Occurrences,1
+Apionidae,Ischnopterapion virens,Abundance,0
+Apionidae,Ischnopterapion virens,Maximum,0
+Apionidae,Ischnopterapion virens,Mean,0
+Apionidae,Ischnopterapion virens,Minimum,0
+Apionidae,Ischnopterapion virens,Occurrences,0
+Apionidae,Oxystoma craccae,Abundance,0
+Apionidae,Oxystoma craccae,Maximum,0
+Apionidae,Oxystoma craccae,Mean,0
+Apionidae,Oxystoma craccae,Minimum,0
+Apionidae,Oxystoma craccae,Occurrences,0
+Apionidae,Protapion filirostre,Abundance,3
+Apionidae,Protapion filirostre,Maximum,2
+Apionidae,Protapion filirostre,Mean,0.1
+Apionidae,Protapion filirostre,Minimum,0
+Apionidae,Protapion filirostre,Occurrences,2
+Apionidae,Protapion fulvipes,Abundance,22
+Apionidae,Protapion fulvipes,Maximum,5
+Apionidae,Protapion fulvipes,Mean,0.9
+Apionidae,Protapion fulvipes,Minimum,0
+Apionidae,Protapion fulvipes,Occurrences,11
+Apionidae,Protapion nigritarse,Abundance,2
+Apionidae,Protapion nigritarse,Maximum,1
+Apionidae,Protapion nigritarse,Mean,0.1
+Apionidae,Protapion nigritarse,Minimum,0
+Apionidae,Protapion nigritarse,Occurrences,2
+Apionidae,Protapion trifolii,Abundance,4
+Apionidae,Protapion trifolii,Maximum,2
+Apionidae,Protapion trifolii,Mean,0.2
+Apionidae,Protapion trifolii,Minimum,0
+Apionidae,Protapion trifolii,Occurrences,3
+Apionidae,Stenopterapion tenue,Abundance,2
+Apionidae,Stenopterapion tenue,Maximum,1
+Apionidae,Stenopterapion tenue,Mean,0.1
+Apionidae,Stenopterapion tenue,Minimum,0
+Apionidae,Stenopterapion tenue,Occurrences,2
+Byrrhidae,Byrrhus fasciatus,Abundance,5
+Byrrhidae,Byrrhus fasciatus,Maximum,3
+Byrrhidae,Byrrhus fasciatus,Mean,0.2
+Byrrhidae,Byrrhus fasciatus,Minimum,0
+Byrrhidae,Byrrhus fasciatus,Occurrences,2
+Byrrhidae,Cytilus sericeus,Abundance,47
+Byrrhidae,Cytilus sericeus,Maximum,9
+Byrrhidae,Cytilus sericeus,Mean,2
+Byrrhidae,Cytilus sericeus,Minimum,0
+Byrrhidae,Cytilus sericeus,Occurrences,10
+Byrrhidae,Simplocaria semistriata,Abundance,4
+Byrrhidae,Simplocaria semistriata,Maximum,1
+Byrrhidae,Simplocaria semistriata,Mean,0.2
+Byrrhidae,Simplocaria semistriata,Minimum,0
+Byrrhidae,Simplocaria semistriata,Occurrences,4
+Cantharidae,Cantharis rustica,Abundance,1
+Cantharidae,Cantharis rustica,Maximum,1
+Cantharidae,Cantharis rustica,Mean,0
+Cantharidae,Cantharis rustica,Minimum,0
+Cantharidae,Cantharis rustica,Occurrences,1
+Carabidae,Acupalpus flavicollis,Abundance,5
+Carabidae,Acupalpus flavicollis,Maximum,3
+Carabidae,Acupalpus flavicollis,Mean,0.2
+Carabidae,Acupalpus flavicollis,Minimum,0
+Carabidae,Acupalpus flavicollis,Occurrences,2
+Carabidae,Agonum muelleri,Abundance,0
+Carabidae,Agonum muelleri,Maximum,0
+Carabidae,Agonum muelleri,Mean,0
+Carabidae,Agonum muelleri,Minimum,0
+Carabidae,Agonum muelleri,Occurrences,0
+Carabidae,Agonum sexpunctatum,Abundance,0
+Carabidae,Agonum sexpunctatum,Maximum,0
+Carabidae,Agonum sexpunctatum,Mean,0
+Carabidae,Agonum sexpunctatum,Minimum,0
+Carabidae,Agonum sexpunctatum,Occurrences,0
+Carabidae,Amara aenea,Abundance,377
+Carabidae,Amara aenea,Maximum,101
+Carabidae,Amara aenea,Mean,15.7
+Carabidae,Amara aenea,Minimum,0
+Carabidae,Amara aenea,Occurrences,14
+Carabidae,Amara bifrons,Abundance,2
+Carabidae,Amara bifrons,Maximum,1
+Carabidae,Amara bifrons,Mean,0.1
+Carabidae,Amara bifrons,Minimum,0
+Carabidae,Amara bifrons,Occurrences,2
+Carabidae,Amara convexior,Abundance,19
+Carabidae,Amara convexior,Maximum,13
+Carabidae,Amara convexior,Mean,0.8
+Carabidae,Amara convexior,Minimum,0
+Carabidae,Amara convexior,Occurrences,4
+Carabidae,Amara cursitans,Abundance,0
+Carabidae,Amara cursitans,Maximum,0
+Carabidae,Amara cursitans,Mean,0
+Carabidae,Amara cursitans,Minimum,0
+Carabidae,Amara cursitans,Occurrences,0
+Carabidae,Amara eurynota,Abundance,0
+Carabidae,Amara eurynota,Maximum,0
+Carabidae,Amara eurynota,Mean,0
+Carabidae,Amara eurynota,Minimum,0
+Carabidae,Amara eurynota,Occurrences,0
+Carabidae,Amara familiaris,Abundance,5
+Carabidae,Amara familiaris,Maximum,2
+Carabidae,Amara familiaris,Mean,0.2
+Carabidae,Amara familiaris,Minimum,0
+Carabidae,Amara familiaris,Occurrences,4
+Carabidae,Amara fulvipes,Abundance,1
+Carabidae,Amara fulvipes,Maximum,1
+Carabidae,Amara fulvipes,Mean,0
+Carabidae,Amara fulvipes,Minimum,0
+Carabidae,Amara fulvipes,Occurrences,1
+Carabidae,Amara montivaga,Abundance,0
+Carabidae,Amara montivaga,Maximum,0
+Carabidae,Amara montivaga,Mean,0
+Carabidae,Amara montivaga,Minimum,0
+Carabidae,Amara montivaga,Occurrences,0
+Carabidae,Amara ovata,Abundance,8
+Carabidae,Amara ovata,Maximum,6
+Carabidae,Amara ovata,Mean,0.3
+Carabidae,Amara ovata,Minimum,0
+Carabidae,Amara ovata,Occurrences,3
+Carabidae,Amara plebeja,Abundance,1
+Carabidae,Amara plebeja,Maximum,1
+Carabidae,Amara plebeja,Mean,0
+Carabidae,Amara plebeja,Minimum,0
+Carabidae,Amara plebeja,Occurrences,1
+Carabidae,Amara similata,Abundance,2
+Carabidae,Amara similata,Maximum,2
+Carabidae,Amara similata,Mean,0.1
+Carabidae,Amara similata,Minimum,0
+Carabidae,Amara similata,Occurrences,1
+Carabidae,Amara tibialis,Abundance,180
+Carabidae,Amara tibialis,Maximum,41
+Carabidae,Amara tibialis,Mean,7.5
+Carabidae,Amara tibialis,Minimum,0
+Carabidae,Amara tibialis,Occurrences,14
+Carabidae,Anisodactylus binotatus,Abundance,53
+Carabidae,Anisodactylus binotatus,Maximum,16
+Carabidae,Anisodactylus binotatus,Mean,2.2
+Carabidae,Anisodactylus binotatus,Minimum,0
+Carabidae,Anisodactylus binotatus,Occurrences,8
+Carabidae,Anisodactylus signatus,Abundance,1
+Carabidae,Anisodactylus signatus,Maximum,1
+Carabidae,Anisodactylus signatus,Mean,0
+Carabidae,Anisodactylus signatus,Minimum,0
+Carabidae,Anisodactylus signatus,Occurrences,1
+Carabidae,Badister bullatus,Abundance,8
+Carabidae,Badister bullatus,Maximum,3
+Carabidae,Badister bullatus,Mean,0.3
+Carabidae,Badister bullatus,Minimum,0
+Carabidae,Badister bullatus,Occurrences,4
+Carabidae,Bembidion femoratum,Abundance,0
+Carabidae,Bembidion femoratum,Maximum,0
+Carabidae,Bembidion femoratum,Mean,0
+Carabidae,Bembidion femoratum,Minimum,0
+Carabidae,Bembidion femoratum,Occurrences,0
+Carabidae,Bembidion lampros,Abundance,13
+Carabidae,Bembidion lampros,Maximum,4
+Carabidae,Bembidion lampros,Mean,0.5
+Carabidae,Bembidion lampros,Minimum,0
+Carabidae,Bembidion lampros,Occurrences,5
+Carabidae,Bembidion quadrimaculatum,Abundance,151
+Carabidae,Bembidion quadrimaculatum,Maximum,60
+Carabidae,Bembidion quadrimaculatum,Mean,6.3
+Carabidae,Bembidion quadrimaculatum,Minimum,0
+Carabidae,Bembidion quadrimaculatum,Occurrences,15
+Carabidae,Bembidion tetracolum,Abundance,0
+Carabidae,Bembidion tetracolum,Maximum,0
+Carabidae,Bembidion tetracolum,Mean,0
+Carabidae,Bembidion tetracolum,Minimum,0
+Carabidae,Bembidion tetracolum,Occurrences,0
+Carabidae,Bradycellus csikii,Abundance,0
+Carabidae,Bradycellus csikii,Maximum,0
+Carabidae,Bradycellus csikii,Mean,0
+Carabidae,Bradycellus csikii,Minimum,0
+Carabidae,Bradycellus csikii,Occurrences,0
+Carabidae,Bradycellus harpalinus,Abundance,5
+Carabidae,Bradycellus harpalinus,Maximum,2
+Carabidae,Bradycellus harpalinus,Mean,0.2
+Carabidae,Bradycellus harpalinus,Minimum,0
+Carabidae,Bradycellus harpalinus,Occurrences,4
+Carabidae,Calathus melanocephalus,Abundance,33
+Carabidae,Calathus melanocephalus,Maximum,15
+Carabidae,Calathus melanocephalus,Mean,1.4
+Carabidae,Calathus melanocephalus,Minimum,0
+Carabidae,Calathus melanocephalus,Occurrences,5
+Carabidae,Calathus mollis,Abundance,0
+Carabidae,Calathus mollis,Maximum,0
+Carabidae,Calathus mollis,Mean,0
+Carabidae,Calathus mollis,Minimum,0
+Carabidae,Calathus mollis,Occurrences,0
+Carabidae,Elaphropus parvulus,Abundance,390
+Carabidae,Elaphropus parvulus,Maximum,104
+Carabidae,Elaphropus parvulus,Mean,16.3
+Carabidae,Elaphropus parvulus,Minimum,0
+Carabidae,Elaphropus parvulus,Occurrences,16
+Carabidae,Elaphropus quadrisignatus,Abundance,51
+Carabidae,Elaphropus quadrisignatus,Maximum,24
+Carabidae,Elaphropus quadrisignatus,Mean,2.1
+Carabidae,Elaphropus quadrisignatus,Minimum,0
+Carabidae,Elaphropus quadrisignatus,Occurrences,3
+Carabidae,Harpalus affinis,Abundance,588
+Carabidae,Harpalus affinis,Maximum,99
+Carabidae,Harpalus affinis,Mean,24.5
+Carabidae,Harpalus affinis,Minimum,0
+Carabidae,Harpalus affinis,Occurrences,14
+Carabidae,Harpalus anxius,Abundance,127
+Carabidae,Harpalus anxius,Maximum,76
+Carabidae,Harpalus anxius,Mean,5.3
+Carabidae,Harpalus anxius,Minimum,0
+Carabidae,Harpalus anxius,Occurrences,9
+Carabidae,Harpalus atratus,Abundance,3
+Carabidae,Harpalus atratus,Maximum,3
+Carabidae,Harpalus atratus,Mean,0.1
+Carabidae,Harpalus atratus,Minimum,0
+Carabidae,Harpalus atratus,Occurrences,1
+Carabidae,Harpalus attenuatus,Abundance,194
+Carabidae,Harpalus attenuatus,Maximum,126
+Carabidae,Harpalus attenuatus,Mean,8.1
+Carabidae,Harpalus attenuatus,Minimum,0
+Carabidae,Harpalus attenuatus,Occurrences,9
+Carabidae,Harpalus dimidiatus,Abundance,185
+Carabidae,Harpalus dimidiatus,Maximum,165
+Carabidae,Harpalus dimidiatus,Mean,7.7
+Carabidae,Harpalus dimidiatus,Minimum,0
+Carabidae,Harpalus dimidiatus,Occurrences,1
+Carabidae,Harpalus distinguendus,Abundance,8
+Carabidae,Harpalus distinguendus,Maximum,6
+Carabidae,Harpalus distinguendus,Mean,0.3
+Carabidae,Harpalus distinguendus,Minimum,0
+Carabidae,Harpalus distinguendus,Occurrences,2
+Carabidae,Harpalus honestus,Abundance,0
+Carabidae,Harpalus honestus,Maximum,0
+Carabidae,Harpalus honestus,Mean,0
+Carabidae,Harpalus honestus,Minimum,0
+Carabidae,Harpalus honestus,Occurrences,0
+Carabidae,Harpalus latus,Abundance,0
+Carabidae,Harpalus latus,Maximum,0
+Carabidae,Harpalus latus,Mean,0
+Carabidae,Harpalus latus,Minimum,0
+Carabidae,Harpalus latus,Occurrences,0
+Carabidae,Harpalus luteicornis,Abundance,0
+Carabidae,Harpalus luteicornis,Maximum,0
+Carabidae,Harpalus luteicornis,Mean,0
+Carabidae,Harpalus luteicornis,Minimum,0
+Carabidae,Harpalus luteicornis,Occurrences,0
+Carabidae,Harpalus progrediens,Abundance,44
+Carabidae,Harpalus progrediens,Abundance,0
+Carabidae,Harpalus progrediens,Maximum,25
+Carabidae,Harpalus progrediens,Maximum,3
+Carabidae,Harpalus progrediens,Mean,1.8
+Carabidae,Harpalus progrediens,Mean,0
+Carabidae,Harpalus progrediens,Minimum,0
+Carabidae,Harpalus progrediens,Minimum,0
+Carabidae,Harpalus progrediens,Occurrences,4
+Carabidae,Harpalus progrediens,Occurrences,2
+Carabidae,Harpalus pumilus,Abundance,3
+Carabidae,Harpalus pumilus,Maximum,3
+Carabidae,Harpalus pumilus,Mean,0.1
+Carabidae,Harpalus pumilus,Minimum,0
+Carabidae,Harpalus pumilus,Occurrences,1
+Carabidae,Harpalus rubripes,Abundance,971
+Carabidae,Harpalus rubripes,Maximum,203
+Carabidae,Harpalus rubripes,Mean,40.5
+Carabidae,Harpalus rubripes,Minimum,0
+Carabidae,Harpalus rubripes,Occurrences,15
+Carabidae,Harpalus rufipes,Abundance,0
+Carabidae,Harpalus rufipes,Maximum,0
+Carabidae,Harpalus rufipes,Mean,0
+Carabidae,Harpalus rufipes,Minimum,0
+Carabidae,Harpalus rufipes,Occurrences,0
+Carabidae,Harpalus serripes,Abundance,11
+Carabidae,Harpalus serripes,Maximum,5
+Carabidae,Harpalus serripes,Mean,0.5
+Carabidae,Harpalus serripes,Minimum,0
+Carabidae,Harpalus serripes,Occurrences,4
+Carabidae,Harpalus signaticornis,Abundance,5
+Carabidae,Harpalus signaticornis,Maximum,3
+Carabidae,Harpalus signaticornis,Mean,0.2
+Carabidae,Harpalus signaticornis,Minimum,0
+Carabidae,Harpalus signaticornis,Occurrences,3
+Carabidae,Harpalus tardus,Abundance,132
+Carabidae,Harpalus tardus,Maximum,48
+Carabidae,Harpalus tardus,Mean,5.5
+Carabidae,Harpalus tardus,Minimum,0
+Carabidae,Harpalus tardus,Occurrences,6
+Carabidae,Lionychus quadrillum,Abundance,0
+Carabidae,Lionychus quadrillum,Maximum,0
+Carabidae,Lionychus quadrillum,Mean,0
+Carabidae,Lionychus quadrillum,Minimum,0
+Carabidae,Lionychus quadrillum,Occurrences,0
+Carabidae,Loricera pilicornis,Abundance,0
+Carabidae,Loricera pilicornis,Maximum,0
+Carabidae,Loricera pilicornis,Mean,0
+Carabidae,Loricera pilicornis,Minimum,0
+Carabidae,Loricera pilicornis,Occurrences,0
+Carabidae,Microlestes minutulus,Abundance,209
+Carabidae,Microlestes minutulus,Maximum,165
+Carabidae,Microlestes minutulus,Mean,8.7
+Carabidae,Microlestes minutulus,Minimum,0
+Carabidae,Microlestes minutulus,Occurrences,9
+Carabidae,Nebria brevicollis,Abundance,1
+Carabidae,Nebria brevicollis,Maximum,1
+Carabidae,Nebria brevicollis,Mean,0
+Carabidae,Nebria brevicollis,Minimum,0
+Carabidae,Nebria brevicollis,Occurrences,1
+Carabidae,Nebria salina,Abundance,3
+Carabidae,Nebria salina,Maximum,2
+Carabidae,Nebria salina,Mean,0.1
+Carabidae,Nebria salina,Minimum,0
+Carabidae,Nebria salina,Occurrences,2
+Carabidae,Ophonus azureus,Abundance,25
+Carabidae,Ophonus azureus,Maximum,14
+Carabidae,Ophonus azureus,Mean,1
+Carabidae,Ophonus azureus,Minimum,0
+Carabidae,Ophonus azureus,Occurrences,3
+Carabidae,Ophonus puncticeps,Abundance,1
+Carabidae,Ophonus puncticeps,Maximum,1
+Carabidae,Ophonus puncticeps,Mean,0
+Carabidae,Ophonus puncticeps,Minimum,0
+Carabidae,Ophonus puncticeps,Occurrences,1
+Carabidae,Parophonus maculicornis,Abundance,23
+Carabidae,Parophonus maculicornis,Maximum,6
+Carabidae,Parophonus maculicornis,Mean,1
+Carabidae,Parophonus maculicornis,Minimum,0
+Carabidae,Parophonus maculicornis,Occurrences,7
+Carabidae,Poecilus cupreus,Abundance,32
+Carabidae,Poecilus cupreus,Maximum,12
+Carabidae,Poecilus cupreus,Mean,1.3
+Carabidae,Poecilus cupreus,Minimum,0
+Carabidae,Poecilus cupreus,Occurrences,8
+Carabidae,Pseudoophonus griseus,Abundance,18
+Carabidae,Pseudoophonus griseus,Maximum,12
+Carabidae,Pseudoophonus griseus,Mean,0.8
+Carabidae,Pseudoophonus griseus,Minimum,0
+Carabidae,Pseudoophonus griseus,Occurrences,3
+Carabidae,Pseudoophonus rufipes,Abundance,24
+Carabidae,Pseudoophonus rufipes,Maximum,7
+Carabidae,Pseudoophonus rufipes,Mean,1
+Carabidae,Pseudoophonus rufipes,Minimum,0
+Carabidae,Pseudoophonus rufipes,Occurrences,7
+Carabidae,Pterostichus nigrita,Abundance,0
+Carabidae,Pterostichus nigrita,Maximum,0
+Carabidae,Pterostichus nigrita,Mean,0
+Carabidae,Pterostichus nigrita,Minimum,0
+Carabidae,Pterostichus nigrita,Occurrences,0
+Carabidae,Pterostichus vernalis,Abundance,25
+Carabidae,Pterostichus vernalis,Maximum,11
+Carabidae,Pterostichus vernalis,Mean,1
+Carabidae,Pterostichus vernalis,Minimum,0
+Carabidae,Pterostichus vernalis,Occurrences,8
+Carabidae,Stenolophus teutonus,Abundance,10
+Carabidae,Stenolophus teutonus,Maximum,6
+Carabidae,Stenolophus teutonus,Mean,0.4
+Carabidae,Stenolophus teutonus,Minimum,0
+Carabidae,Stenolophus teutonus,Occurrences,4
+Carabidae,Syntomus foveatus,Abundance,114
+Carabidae,Syntomus foveatus,Maximum,60
+Carabidae,Syntomus foveatus,Mean,4.8
+Carabidae,Syntomus foveatus,Minimum,0
+Carabidae,Syntomus foveatus,Occurrences,8
+Carabidae,Syntomus truncatellus,Abundance,3
+Carabidae,Syntomus truncatellus,Maximum,1
+Carabidae,Syntomus truncatellus,Mean,0.1
+Carabidae,Syntomus truncatellus,Minimum,0
+Carabidae,Syntomus truncatellus,Occurrences,3
+Carabidae,Trechus quadristriatus,Abundance,10
+Carabidae,Trechus quadristriatus,Maximum,3
+Carabidae,Trechus quadristriatus,Mean,0.4
+Carabidae,Trechus quadristriatus,Minimum,0
+Carabidae,Trechus quadristriatus,Occurrences,7
+Chrysomelidae,Altica oleracea,Abundance,2
+Chrysomelidae,Altica oleracea,Maximum,1
+Chrysomelidae,Altica oleracea,Mean,0.1
+Chrysomelidae,Altica oleracea,Minimum,0
+Chrysomelidae,Altica oleracea,Occurrences,2
+Chrysomelidae,Asiorestia ferruginea,Abundance,0
+Chrysomelidae,Asiorestia ferruginea,Maximum,0
+Chrysomelidae,Asiorestia ferruginea,Mean,0
+Chrysomelidae,Asiorestia ferruginea,Minimum,0
+Chrysomelidae,Asiorestia ferruginea,Occurrences,0
+Chrysomelidae,Asiorestia transversa,Abundance,0
+Chrysomelidae,Asiorestia transversa,Maximum,0
+Chrysomelidae,Asiorestia transversa,Mean,0
+Chrysomelidae,Asiorestia transversa,Minimum,0
+Chrysomelidae,Asiorestia transversa,Occurrences,0
+Chrysomelidae,Bruchus luteicornis,Abundance,2
+Chrysomelidae,Bruchus luteicornis,Maximum,1
+Chrysomelidae,Bruchus luteicornis,Mean,0.1
+Chrysomelidae,Bruchus luteicornis,Minimum,0
+Chrysomelidae,Bruchus luteicornis,Occurrences,2
+Chrysomelidae,Cassida nobilis,Abundance,1
+Chrysomelidae,Cassida nobilis,Maximum,1
+Chrysomelidae,Cassida nobilis,Mean,0
+Chrysomelidae,Cassida nobilis,Minimum,0
+Chrysomelidae,Cassida nobilis,Occurrences,1
+Chrysomelidae,Chaetocnema concinna,Abundance,21
+Chrysomelidae,Chaetocnema concinna,Maximum,14
+Chrysomelidae,Chaetocnema concinna,Mean,0.9
+Chrysomelidae,Chaetocnema concinna,Minimum,0
+Chrysomelidae,Chaetocnema concinna,Occurrences,6
+Chrysomelidae,Chaetocnema hortensis,Abundance,779
+Chrysomelidae,Chaetocnema hortensis,Maximum,142
+Chrysomelidae,Chaetocnema hortensis,Mean,32.5
+Chrysomelidae,Chaetocnema hortensis,Minimum,1
+Chrysomelidae,Chaetocnema hortensis,Occurrences,17
+Chrysomelidae,Chrysolina hyperici,Abundance,0
+Chrysomelidae,Chrysolina hyperici,Maximum,0
+Chrysomelidae,Chrysolina hyperici,Mean,0
+Chrysomelidae,Chrysolina hyperici,Minimum,0
+Chrysomelidae,Chrysolina hyperici,Occurrences,0
+Chrysomelidae,Cryptocephalus moraei,Abundance,0
+Chrysomelidae,Cryptocephalus moraei,Maximum,0
+Chrysomelidae,Cryptocephalus moraei,Mean,0
+Chrysomelidae,Cryptocephalus moraei,Minimum,0
+Chrysomelidae,Cryptocephalus moraei,Occurrences,0
+Chrysomelidae,Cryptocephalus pygmaeus,Abundance,0
+Chrysomelidae,Cryptocephalus pygmaeus,Maximum,0
+Chrysomelidae,Cryptocephalus pygmaeus,Mean,0
+Chrysomelidae,Cryptocephalus pygmaeus,Minimum,0
+Chrysomelidae,Cryptocephalus pygmaeus,Occurrences,0
+Chrysomelidae,Cryptocephalus sericeus,Abundance,0
+Chrysomelidae,Cryptocephalus sericeus,Maximum,0
+Chrysomelidae,Cryptocephalus sericeus,Mean,0
+Chrysomelidae,Cryptocephalus sericeus,Minimum,0
+Chrysomelidae,Cryptocephalus sericeus,Occurrences,0
+Chrysomelidae,Cryptophagus lycoperdi,Abundance,1
+Chrysomelidae,Cryptophagus lycoperdi,Maximum,1
+Chrysomelidae,Cryptophagus lycoperdi,Mean,0
+Chrysomelidae,Cryptophagus lycoperdi,Minimum,0
+Chrysomelidae,Cryptophagus lycoperdi,Occurrences,1
+Chrysomelidae,Cryptopleurum minutum,Abundance,2
+Chrysomelidae,Cryptopleurum minutum,Maximum,1
+Chrysomelidae,Cryptopleurum minutum,Mean,0.1
+Chrysomelidae,Cryptopleurum minutum,Minimum,0
+Chrysomelidae,Cryptopleurum minutum,Occurrences,1
+Chrysomelidae,Diabolia cynoglossi,Abundance,1
+Chrysomelidae,Diabolia cynoglossi,Maximum,1
+Chrysomelidae,Diabolia cynoglossi,Mean,0
+Chrysomelidae,Diabolia cynoglossi,Minimum,0
+Chrysomelidae,Diabolia cynoglossi,Occurrences,1
+Chrysomelidae,Diabolia femoralis,Abundance,1
+Chrysomelidae,Diabolia femoralis,Maximum,1
+Chrysomelidae,Diabolia femoralis,Mean,0
+Chrysomelidae,Diabolia femoralis,Minimum,0
+Chrysomelidae,Diabolia femoralis,Occurrences,1
+Chrysomelidae,Galeruca pomonae,Abundance,3
+Chrysomelidae,Galeruca pomonae,Maximum,3
+Chrysomelidae,Galeruca pomonae,Mean,0.1
+Chrysomelidae,Galeruca pomonae,Minimum,0
+Chrysomelidae,Galeruca pomonae,Occurrences,1
+Chrysomelidae,Galeruca tanaceti,Abundance,5
+Chrysomelidae,Galeruca tanaceti,Maximum,4
+Chrysomelidae,Galeruca tanaceti,Mean,0.2
+Chrysomelidae,Galeruca tanaceti,Minimum,0
+Chrysomelidae,Galeruca tanaceti,Occurrences,2
+Chrysomelidae,Gastrophysa viridula,Abundance,0
+Chrysomelidae,Gastrophysa viridula,Maximum,0
+Chrysomelidae,Gastrophysa viridula,Mean,0
+Chrysomelidae,Gastrophysa viridula,Minimum,0
+Chrysomelidae,Gastrophysa viridula,Occurrences,0
+Chrysomelidae,Hispa atra,Abundance,12
+Chrysomelidae,Hispa atra,Maximum,12
+Chrysomelidae,Hispa atra,Mean,0.5
+Chrysomelidae,Hispa atra,Minimum,0
+Chrysomelidae,Hispa atra,Occurrences,1
+Chrysomelidae,Longitarsus anchusae,Abundance,1
+Chrysomelidae,Longitarsus anchusae,Maximum,1
+Chrysomelidae,Longitarsus anchusae,Mean,0
+Chrysomelidae,Longitarsus anchusae,Minimum,0
+Chrysomelidae,Longitarsus anchusae,Occurrences,1
+Chrysomelidae,Longitarsus atricillus,Abundance,0
+Chrysomelidae,Longitarsus atricillus,Maximum,0
+Chrysomelidae,Longitarsus atricillus,Mean,0
+Chrysomelidae,Longitarsus atricillus,Minimum,0
+Chrysomelidae,Longitarsus atricillus,Occurrences,0
+Chrysomelidae,Longitarsus exoletus,Abundance,5
+Chrysomelidae,Longitarsus exoletus,Maximum,4
+Chrysomelidae,Longitarsus exoletus,Mean,0.2
+Chrysomelidae,Longitarsus exoletus,Minimum,0
+Chrysomelidae,Longitarsus exoletus,Occurrences,2
+Chrysomelidae,Longitarsus holsaticus,Abundance,3
+Chrysomelidae,Longitarsus holsaticus,Maximum,1
+Chrysomelidae,Longitarsus holsaticus,Mean,0.1
+Chrysomelidae,Longitarsus holsaticus,Minimum,0
+Chrysomelidae,Longitarsus holsaticus,Occurrences,3
+Chrysomelidae,Longitarsus luridus,Abundance,2
+Chrysomelidae,Longitarsus luridus,Maximum,2
+Chrysomelidae,Longitarsus luridus,Mean,0.1
+Chrysomelidae,Longitarsus luridus,Minimum,0
+Chrysomelidae,Longitarsus luridus,Occurrences,1
+Chrysomelidae,Longitarsus melanocephalus,Abundance,42
+Chrysomelidae,Longitarsus melanocephalus,Maximum,15
+Chrysomelidae,Longitarsus melanocephalus,Mean,1.8
+Chrysomelidae,Longitarsus melanocephalus,Minimum,0
+Chrysomelidae,Longitarsus melanocephalus,Occurrences,9
+Chrysomelidae,Longitarsus nasturtii,Abundance,13
+Chrysomelidae,Longitarsus nasturtii,Maximum,6
+Chrysomelidae,Longitarsus nasturtii,Mean,0.5
+Chrysomelidae,Longitarsus nasturtii,Minimum,0
+Chrysomelidae,Longitarsus nasturtii,Occurrences,8
+Chrysomelidae,Longitarsus ochroleucus,Abundance,7
+Chrysomelidae,Longitarsus ochroleucus,Maximum,3
+Chrysomelidae,Longitarsus ochroleucus,Mean,0.3
+Chrysomelidae,Longitarsus ochroleucus,Minimum,0
+Chrysomelidae,Longitarsus ochroleucus,Occurrences,4
+Chrysomelidae,Longitarsus pellucidus,Abundance,0
+Chrysomelidae,Longitarsus pellucidus,Maximum,0
+Chrysomelidae,Longitarsus pellucidus,Mean,0
+Chrysomelidae,Longitarsus pellucidus,Minimum,0
+Chrysomelidae,Longitarsus pellucidus,Occurrences,0
+Chrysomelidae,Longitarsus pratensis,Abundance,75
+Chrysomelidae,Longitarsus pratensis,Maximum,11
+Chrysomelidae,Longitarsus pratensis,Mean,3.1
+Chrysomelidae,Longitarsus pratensis,Minimum,0
+Chrysomelidae,Longitarsus pratensis,Occurrences,12
+Chrysomelidae,Longitarsus rubiginosus,Abundance,0
+Chrysomelidae,Longitarsus rubiginosus,Maximum,0
+Chrysomelidae,Longitarsus rubiginosus,Mean,0
+Chrysomelidae,Longitarsus rubiginosus,Minimum,0
+Chrysomelidae,Longitarsus rubiginosus,Occurrences,0
+Chrysomelidae,Longitarsus suturellus,Abundance,0
+Chrysomelidae,Longitarsus suturellus,Maximum,0
+Chrysomelidae,Longitarsus suturellus,Mean,0
+Chrysomelidae,Longitarsus suturellus,Minimum,0
+Chrysomelidae,Longitarsus suturellus,Occurrences,0
+Chrysomelidae,Oulema melanopus,Abundance,2
+Chrysomelidae,Oulema melanopus,Maximum,1
+Chrysomelidae,Oulema melanopus,Mean,0.1
+Chrysomelidae,Oulema melanopus,Minimum,0
+Chrysomelidae,Oulema melanopus,Occurrences,2
+Chrysomelidae,Phyllotreta atra,Abundance,7
+Chrysomelidae,Phyllotreta atra,Maximum,4
+Chrysomelidae,Phyllotreta atra,Mean,0.3
+Chrysomelidae,Phyllotreta atra,Minimum,0
+Chrysomelidae,Phyllotreta atra,Occurrences,2
+Chrysomelidae,Phyllotreta cruciferae,Abundance,1
+Chrysomelidae,Phyllotreta cruciferae,Maximum,1
+Chrysomelidae,Phyllotreta cruciferae,Mean,0
+Chrysomelidae,Phyllotreta cruciferae,Minimum,0
+Chrysomelidae,Phyllotreta cruciferae,Occurrences,1
+Chrysomelidae,Phyllotreta nomorum,Abundance,2
+Chrysomelidae,Phyllotreta nomorum,Maximum,2
+Chrysomelidae,Phyllotreta nomorum,Mean,0.1
+Chrysomelidae,Phyllotreta nomorum,Minimum,0
+Chrysomelidae,Phyllotreta nomorum,Occurrences,1
+Chrysomelidae,Phyllotreta striolata,Abundance,172
+Chrysomelidae,Phyllotreta striolata,Maximum,99
+Chrysomelidae,Phyllotreta striolata,Mean,7.2
+Chrysomelidae,Phyllotreta striolata,Minimum,0
+Chrysomelidae,Phyllotreta striolata,Occurrences,9
+Chrysomelidae,Psylliodes chrysocephala,Abundance,0
+Chrysomelidae,Psylliodes chrysocephala,Maximum,0
+Chrysomelidae,Psylliodes chrysocephala,Mean,0
+Chrysomelidae,Psylliodes chrysocephala,Minimum,0
+Chrysomelidae,Psylliodes chrysocephala,Occurrences,0
+Chrysomelidae,Psylliodes napi,Abundance,0
+Chrysomelidae,Psylliodes napi,Maximum,0
+Chrysomelidae,Psylliodes napi,Mean,0
+Chrysomelidae,Psylliodes napi,Minimum,0
+Chrysomelidae,Psylliodes napi,Occurrences,0
+Chrysomelidae,Timarcha goettingensis,Abundance,0
+Chrysomelidae,Timarcha goettingensis,Maximum,0
+Chrysomelidae,Timarcha goettingensis,Mean,0
+Chrysomelidae,Timarcha goettingensis,Minimum,0
+Chrysomelidae,Timarcha goettingensis,Occurrences,0
+Ciidae,Cis boleti,Abundance,1
+Ciidae,Cis boleti,Maximum,1
+Ciidae,Cis boleti,Mean,0
+Ciidae,Cis boleti,Minimum,0
+Ciidae,Cis boleti,Occurrences,1
+Ciidae,Ennearthron pruinosulum,Abundance,1
+Ciidae,Ennearthron pruinosulum,Maximum,1
+Ciidae,Ennearthron pruinosulum,Mean,0
+Ciidae,Ennearthron pruinosulum,Minimum,0
+Ciidae,Ennearthron pruinosulum,Occurrences,1
+Coccinellidae,Coccinella septempunctata,Abundance,41
+Coccinellidae,Coccinella septempunctata,Maximum,9
+Coccinellidae,Coccinella septempunctata,Mean,1.7
+Coccinellidae,Coccinella septempunctata,Minimum,0
+Coccinellidae,Coccinella septempunctata,Occurrences,9
+Coccinellidae,Cynegetis impunctata,Abundance,0
+Coccinellidae,Cynegetis impunctata,Maximum,0
+Coccinellidae,Cynegetis impunctata,Mean,0
+Coccinellidae,Cynegetis impunctata,Minimum,0
+Coccinellidae,Cynegetis impunctata,Occurrences,0
+Coccinellidae,Halyzia sedecimpunctata,Abundance,0
+Coccinellidae,Halyzia sedecimpunctata,Maximum,0
+Coccinellidae,Halyzia sedecimpunctata,Mean,0
+Coccinellidae,Halyzia sedecimpunctata,Minimum,0
+Coccinellidae,Halyzia sedecimpunctata,Occurrences,0
+Coccinellidae,Harmonia axiridis,Abundance,2
+Coccinellidae,Harmonia axiridis,Maximum,1
+Coccinellidae,Harmonia axiridis,Mean,0.1
+Coccinellidae,Harmonia axiridis,Minimum,0
+Coccinellidae,Harmonia axiridis,Occurrences,2
+Coccinellidae,Hippodamia variegata,Abundance,11
+Coccinellidae,Hippodamia variegata,Maximum,3
+Coccinellidae,Hippodamia variegata,Mean,0.5
+Coccinellidae,Hippodamia variegata,Minimum,0
+Coccinellidae,Hippodamia variegata,Occurrences,6
+Coccinellidae,Platynaspis luteorubra,Abundance,0
+Coccinellidae,Platynaspis luteorubra,Maximum,0
+Coccinellidae,Platynaspis luteorubra,Mean,0
+Coccinellidae,Platynaspis luteorubra,Minimum,0
+Coccinellidae,Platynaspis luteorubra,Occurrences,0
+Coccinellidae,Propylea quatuordecimpunctata,Abundance,4
+Coccinellidae,Propylea quatuordecimpunctata,Maximum,2
+Coccinellidae,Propylea quatuordecimpunctata,Mean,0.2
+Coccinellidae,Propylea quatuordecimpunctata,Minimum,0
+Coccinellidae,Propylea quatuordecimpunctata,Occurrences,3
+Coccinellidae,Psyllobora vigintiduopunctata,Abundance,0
+Coccinellidae,Psyllobora vigintiduopunctata,Maximum,0
+Coccinellidae,Psyllobora vigintiduopunctata,Mean,0
+Coccinellidae,Psyllobora vigintiduopunctata,Minimum,0
+Coccinellidae,Psyllobora vigintiduopunctata,Occurrences,0
+Coccinellidae,Rhyzobius chrysomeloides,Abundance,0
+Coccinellidae,Rhyzobius chrysomeloides,Maximum,0
+Coccinellidae,Rhyzobius chrysomeloides,Mean,0
+Coccinellidae,Rhyzobius chrysomeloides,Minimum,0
+Coccinellidae,Rhyzobius chrysomeloides,Occurrences,0
+Coccinellidae,Tytthaspis sedecimpunctata,Abundance,32
+Coccinellidae,Tytthaspis sedecimpunctata,Maximum,17
+Coccinellidae,Tytthaspis sedecimpunctata,Mean,1.3
+Coccinellidae,Tytthaspis sedecimpunctata,Minimum,0
+Coccinellidae,Tytthaspis sedecimpunctata,Occurrences,7
+Corylophidae,Arthrolips obscurus,Abundance,1
+Corylophidae,Arthrolips obscurus,Maximum,1
+Corylophidae,Arthrolips obscurus,Mean,0
+Corylophidae,Arthrolips obscurus,Minimum,0
+Corylophidae,Arthrolips obscurus,Occurrences,1
+Cryptophagidae,Atomaria fuscata,Abundance,3
+Cryptophagidae,Atomaria fuscata,Maximum,3
+Cryptophagidae,Atomaria fuscata,Mean,0.1
+Cryptophagidae,Atomaria fuscata,Minimum,0
+Cryptophagidae,Atomaria fuscata,Occurrences,1
+Cryptophagidae,Atomaria lewisi,Abundance,1
+Cryptophagidae,Atomaria lewisi,Maximum,1
+Cryptophagidae,Atomaria lewisi,Mean,0
+Cryptophagidae,Atomaria lewisi,Minimum,0
+Cryptophagidae,Atomaria lewisi,Occurrences,1
+Cryptophagidae,Atomaria linearis,Abundance,1
+Cryptophagidae,Atomaria linearis,Maximum,1
+Cryptophagidae,Atomaria linearis,Mean,0
+Cryptophagidae,Atomaria linearis,Minimum,0
+Cryptophagidae,Atomaria linearis,Occurrences,1
+Cryptophagidae,Ephistemus globulus,Abundance,2
+Cryptophagidae,Ephistemus globulus,Maximum,2
+Cryptophagidae,Ephistemus globulus,Mean,0.1
+Cryptophagidae,Ephistemus globulus,Minimum,0
+Cryptophagidae,Ephistemus globulus,Occurrences,1
+Curculionidae,Baris coerulescens,Abundance,0
+Curculionidae,Baris coerulescens,Maximum,0
+Curculionidae,Baris coerulescens,Mean,0
+Curculionidae,Baris coerulescens,Minimum,0
+Curculionidae,Baris coerulescens,Occurrences,0
+Curculionidae,Brachypera zoilus,Abundance,6
+Curculionidae,Brachypera zoilus,Maximum,1
+Curculionidae,Brachypera zoilus,Mean,0.3
+Curculionidae,Brachypera zoilus,Minimum,0
+Curculionidae,Brachypera zoilus,Occurrences,4
+Curculionidae,Ceutorhynchus contractus,Abundance,1
+Curculionidae,Ceutorhynchus contractus,Maximum,1
+Curculionidae,Ceutorhynchus contractus,Mean,0
+Curculionidae,Ceutorhynchus contractus,Minimum,0
+Curculionidae,Ceutorhynchus contractus,Occurrences,1
+Curculionidae,Ceutorhynchus erysimi,Abundance,2
+Curculionidae,Ceutorhynchus erysimi,Maximum,1
+Curculionidae,Ceutorhynchus erysimi,Mean,0.1
+Curculionidae,Ceutorhynchus erysimi,Minimum,0
+Curculionidae,Ceutorhynchus erysimi,Occurrences,2
+Curculionidae,Gymnetron veronicae,Abundance,1
+Curculionidae,Gymnetron veronicae,Maximum,1
+Curculionidae,Gymnetron veronicae,Mean,0
+Curculionidae,Gymnetron veronicae,Minimum,0
+Curculionidae,Gymnetron veronicae,Occurrences,1
+Curculionidae,Hypera meles,Abundance,17
+Curculionidae,Hypera meles,Maximum,5
+Curculionidae,Hypera meles,Mean,0.7
+Curculionidae,Hypera meles,Minimum,0
+Curculionidae,Hypera meles,Occurrences,7
+Curculionidae,Hypera miles,Abundance,58
+Curculionidae,Hypera miles,Maximum,24
+Curculionidae,Hypera miles,Mean,2.4
+Curculionidae,Hypera miles,Minimum,0
+Curculionidae,Hypera miles,Occurrences,9
+Curculionidae,Hypera nigrirostris,Abundance,5
+Curculionidae,Hypera nigrirostris,Maximum,2
+Curculionidae,Hypera nigrirostris,Mean,0.2
+Curculionidae,Hypera nigrirostris,Minimum,0
+Curculionidae,Hypera nigrirostris,Occurrences,4
+Curculionidae,Hypera postica,Abundance,1
+Curculionidae,Hypera postica,Maximum,1
+Curculionidae,Hypera postica,Mean,0
+Curculionidae,Hypera postica,Minimum,0
+Curculionidae,Hypera postica,Occurrences,1
+Curculionidae,Hypera striata,Abundance,1
+Curculionidae,Hypera striata,Maximum,1
+Curculionidae,Hypera striata,Mean,0
+Curculionidae,Hypera striata,Minimum,0
+Curculionidae,Hypera striata,Occurrences,1
+Curculionidae,Mecinus pyraster,Abundance,1
+Curculionidae,Mecinus pyraster,Maximum,1
+Curculionidae,Mecinus pyraster,Mean,0
+Curculionidae,Mecinus pyraster,Minimum,0
+Curculionidae,Mecinus pyraster,Occurrences,1
+Curculionidae,Orchestes fagi,Abundance,12
+Curculionidae,Orchestes fagi,Maximum,2
+Curculionidae,Orchestes fagi,Mean,0.5
+Curculionidae,Orchestes fagi,Minimum,0
+Curculionidae,Orchestes fagi,Occurrences,7
+Curculionidae,Otiorhynchus sulcatus,Abundance,27
+Curculionidae,Otiorhynchus sulcatus,Maximum,14
+Curculionidae,Otiorhynchus sulcatus,Mean,1.1
+Curculionidae,Otiorhynchus sulcatus,Minimum,0
+Curculionidae,Otiorhynchus sulcatus,Occurrences,2
+Curculionidae,Pityogenes chalcographus,Abundance,0
+Curculionidae,Pityogenes chalcographus,Maximum,0
+Curculionidae,Pityogenes chalcographus,Mean,0
+Curculionidae,Pityogenes chalcographus,Minimum,0
+Curculionidae,Pityogenes chalcographus,Occurrences,0
+Curculionidae,Rhinusa antirrhini,Abundance,1
+Curculionidae,Rhinusa antirrhini,Maximum,1
+Curculionidae,Rhinusa antirrhini,Mean,0
+Curculionidae,Rhinusa antirrhini,Minimum,0
+Curculionidae,Rhinusa antirrhini,Occurrences,1
+Curculionidae,Sibinia viscariae,Abundance,5
+Curculionidae,Sibinia viscariae,Maximum,5
+Curculionidae,Sibinia viscariae,Mean,0.2
+Curculionidae,Sibinia viscariae,Minimum,0
+Curculionidae,Sibinia viscariae,Occurrences,1
+Curculionidae,Sitona ambiguus,Abundance,1
+Curculionidae,Sitona ambiguus,Maximum,1
+Curculionidae,Sitona ambiguus,Mean,0
+Curculionidae,Sitona ambiguus,Minimum,0
+Curculionidae,Sitona ambiguus,Occurrences,1
+Curculionidae,Sitona cylindricolis,Abundance,38
+Curculionidae,Sitona cylindricolis,Maximum,7
+Curculionidae,Sitona cylindricolis,Mean,1.6
+Curculionidae,Sitona cylindricolis,Minimum,0
+Curculionidae,Sitona cylindricolis,Occurrences,11
+Curculionidae,Sitona hispidulus,Abundance,4
+Curculionidae,Sitona hispidulus,Maximum,2
+Curculionidae,Sitona hispidulus,Mean,0.2
+Curculionidae,Sitona hispidulus,Minimum,0
+Curculionidae,Sitona hispidulus,Occurrences,3
+Curculionidae,Sitona humeralis,Abundance,20
+Curculionidae,Sitona humeralis,Maximum,5
+Curculionidae,Sitona humeralis,Mean,0.8
+Curculionidae,Sitona humeralis,Minimum,0
+Curculionidae,Sitona humeralis,Occurrences,10
+Curculionidae,Sitona inops,Abundance,1
+Curculionidae,Sitona inops,Maximum,1
+Curculionidae,Sitona inops,Mean,0
+Curculionidae,Sitona inops,Minimum,0
+Curculionidae,Sitona inops,Occurrences,1
+Curculionidae,Sitona languidus,Abundance,5
+Curculionidae,Sitona languidus,Maximum,2
+Curculionidae,Sitona languidus,Mean,0.2
+Curculionidae,Sitona languidus,Minimum,0
+Curculionidae,Sitona languidus,Occurrences,4
+Curculionidae,Sitona lepidus,Abundance,8
+Curculionidae,Sitona lepidus,Maximum,2
+Curculionidae,Sitona lepidus,Mean,0.3
+Curculionidae,Sitona lepidus,Minimum,0
+Curculionidae,Sitona lepidus,Occurrences,5
+Curculionidae,Sitona lineatus,Abundance,3
+Curculionidae,Sitona lineatus,Maximum,2
+Curculionidae,Sitona lineatus,Mean,0.1
+Curculionidae,Sitona lineatus,Minimum,0
+Curculionidae,Sitona lineatus,Occurrences,2
+Curculionidae,Sitona puncticollis,Abundance,0
+Curculionidae,Sitona puncticollis,Maximum,0
+Curculionidae,Sitona puncticollis,Mean,0
+Curculionidae,Sitona puncticollis,Minimum,0
+Curculionidae,Sitona puncticollis,Occurrences,0
+Curculionidae,Sitona striatellus,Abundance,1
+Curculionidae,Sitona striatellus,Maximum,1
+Curculionidae,Sitona striatellus,Mean,0
+Curculionidae,Sitona striatellus,Minimum,0
+Curculionidae,Sitona striatellus,Occurrences,1
+Curculionidae,Stenocarus ruficornis,Abundance,1
+Curculionidae,Stenocarus ruficornis,Maximum,1
+Curculionidae,Stenocarus ruficornis,Mean,0
+Curculionidae,Stenocarus ruficornis,Minimum,0
+Curculionidae,Stenocarus ruficornis,Occurrences,1
+Curculionidae,Teretriorhynchites cineraceum,Abundance,0
+Curculionidae,Teretriorhynchites cineraceum,Maximum,0
+Curculionidae,Teretriorhynchites cineraceum,Mean,0
+Curculionidae,Teretriorhynchites cineraceum,Minimum,0
+Curculionidae,Teretriorhynchites cineraceum,Occurrences,0
+Curculionidae,Trichopterapion holosericeum,Abundance,1
+Curculionidae,Trichopterapion holosericeum,Maximum,1
+Curculionidae,Trichopterapion holosericeum,Mean,0
+Curculionidae,Trichopterapion holosericeum,Minimum,0
+Curculionidae,Trichopterapion holosericeum,Occurrences,1
+Curculionidae,Trichosirocalus troglodytes,Abundance,5
+Curculionidae,Trichosirocalus troglodytes,Maximum,3
+Curculionidae,Trichosirocalus troglodytes,Mean,0.2
+Curculionidae,Trichosirocalus troglodytes,Minimum,0
+Curculionidae,Trichosirocalus troglodytes,Occurrences,2
+Curculionidae,Tychius breviusculus,Abundance,1
+Curculionidae,Tychius breviusculus,Maximum,1
+Curculionidae,Tychius breviusculus,Mean,0
+Curculionidae,Tychius breviusculus,Minimum,0
+Curculionidae,Tychius breviusculus,Occurrences,1
+Curculionidae,Tychius picirostris,Abundance,17
+Curculionidae,Tychius picirostris,Maximum,9
+Curculionidae,Tychius picirostris,Mean,0.7
+Curculionidae,Tychius picirostris,Minimum,0
+Curculionidae,Tychius picirostris,Occurrences,5
+Curculionidae,Tychius squamulatus,Abundance,1
+Curculionidae,Tychius squamulatus,Maximum,1
+Curculionidae,Tychius squamulatus,Mean,0
+Curculionidae,Tychius squamulatus,Minimum,0
+Curculionidae,Tychius squamulatus,Occurrences,1
+Curculionidae,Xyleborus saxeseni,Abundance,1
+Curculionidae,Xyleborus saxeseni,Maximum,1
+Curculionidae,Xyleborus saxeseni,Mean,0
+Curculionidae,Xyleborus saxeseni,Minimum,0
+Curculionidae,Xyleborus saxeseni,Occurrences,1
+Curculionidae,Zacladus exiguus,Abundance,4
+Curculionidae,Zacladus exiguus,Maximum,4
+Curculionidae,Zacladus exiguus,Mean,0.2
+Curculionidae,Zacladus exiguus,Minimum,0
+Curculionidae,Zacladus exiguus,Occurrences,1
+Dermestidae,Anthrenus pimpinellae,Abundance,0
+Dermestidae,Anthrenus pimpinellae,Maximum,0
+Dermestidae,Anthrenus pimpinellae,Mean,0
+Dermestidae,Anthrenus pimpinellae,Minimum,0
+Dermestidae,Anthrenus pimpinellae,Occurrences,0
+Dryopidae,Dryops ernesti,Abundance,4
+Dryopidae,Dryops ernesti,Maximum,4
+Dryopidae,Dryops ernesti,Mean,0.2
+Dryopidae,Dryops ernesti,Minimum,0
+Dryopidae,Dryops ernesti,Occurrences,1
+Elateridae,Agriotes lineatus,Abundance,5
+Elateridae,Agriotes lineatus,Maximum,3
+Elateridae,Agriotes lineatus,Mean,0.2
+Elateridae,Agriotes lineatus,Minimum,0
+Elateridae,Agriotes lineatus,Occurrences,3
+Elateridae,Agriotes sputator,Abundance,55
+Elateridae,Agriotes sputator,Maximum,51
+Elateridae,Agriotes sputator,Mean,2.3
+Elateridae,Agriotes sputator,Minimum,0
+Elateridae,Agriotes sputator,Occurrences,4
+Elateridae,Agriotes ustulatus,Abundance,1
+Elateridae,Agriotes ustulatus,Maximum,1
+Elateridae,Agriotes ustulatus,Mean,0
+Elateridae,Agriotes ustulatus,Minimum,0
+Elateridae,Agriotes ustulatus,Occurrences,1
+Elateridae,Agrypnus murina,Abundance,2
+Elateridae,Agrypnus murina,Maximum,1
+Elateridae,Agrypnus murina,Mean,0.1
+Elateridae,Agrypnus murina,Minimum,0
+Elateridae,Agrypnus murina,Occurrences,2
+Elateridae,Cidnopus pilosus,Abundance,2
+Elateridae,Cidnopus pilosus,Maximum,1
+Elateridae,Cidnopus pilosus,Mean,0.1
+Elateridae,Cidnopus pilosus,Minimum,0
+Elateridae,Cidnopus pilosus,Occurrences,2
+Elateridae,Zorochros meridionalis,Abundance,93
+Elateridae,Zorochros meridionalis,Maximum,36
+Elateridae,Zorochros meridionalis,Mean,3.9
+Elateridae,Zorochros meridionalis,Minimum,0
+Elateridae,Zorochros meridionalis,Occurrences,4
+Erotylidae,Tritoma bipustulata,Abundance,4
+Erotylidae,Tritoma bipustulata,Maximum,3
+Erotylidae,Tritoma bipustulata,Mean,0.2
+Erotylidae,Tritoma bipustulata,Minimum,0
+Erotylidae,Tritoma bipustulata,Occurrences,1
+Eucinetidae,Eucinetus haemorrhoidalis,Abundance,35
+Eucinetidae,Eucinetus haemorrhoidalis,Maximum,11
+Eucinetidae,Eucinetus haemorrhoidalis,Mean,1.5
+Eucinetidae,Eucinetus haemorrhoidalis,Minimum,0
+Eucinetidae,Eucinetus haemorrhoidalis,Occurrences,5
+Helophoridae,Helophorus nubilus,Abundance,2
+Helophoridae,Helophorus nubilus,Maximum,2
+Helophoridae,Helophorus nubilus,Mean,0.1
+Helophoridae,Helophorus nubilus,Minimum,0
+Helophoridae,Helophorus nubilus,Occurrences,1
+Histeridae,Hister quadrimaculatus,Abundance,26
+Histeridae,Hister quadrimaculatus,Maximum,22
+Histeridae,Hister quadrimaculatus,Mean,1.1
+Histeridae,Hister quadrimaculatus,Minimum,0
+Histeridae,Hister quadrimaculatus,Occurrences,4
+Histeridae,Margarinotus neglectus,Abundance,0
+Histeridae,Margarinotus neglectus,Maximum,0
+Histeridae,Margarinotus neglectus,Mean,0
+Histeridae,Margarinotus neglectus,Minimum,0
+Histeridae,Margarinotus neglectus,Occurrences,0
+Histeridae,Margarinotus purpurascens,Abundance,4
+Histeridae,Margarinotus purpurascens,Maximum,2
+Histeridae,Margarinotus purpurascens,Mean,0.2
+Histeridae,Margarinotus purpurascens,Minimum,0
+Histeridae,Margarinotus purpurascens,Occurrences,2
+Hydrophilidae,Anacaena globulus,Abundance,0
+Hydrophilidae,Anacaena globulus,Maximum,0
+Hydrophilidae,Anacaena globulus,Mean,0
+Hydrophilidae,Anacaena globulus,Minimum,0
+Hydrophilidae,Anacaena globulus,Occurrences,0
+Hydrophilidae,Cercyon convexiusculus,Abundance,1
+Hydrophilidae,Cercyon convexiusculus,Maximum,1
+Hydrophilidae,Cercyon convexiusculus,Mean,0
+Hydrophilidae,Cercyon convexiusculus,Minimum,0
+Hydrophilidae,Cercyon convexiusculus,Occurrences,1
+Hydrophilidae,Megasternum obscurum,Abundance,1
+Hydrophilidae,Megasternum obscurum,Maximum,1
+Hydrophilidae,Megasternum obscurum,Mean,0
+Hydrophilidae,Megasternum obscurum,Minimum,0
+Hydrophilidae,Megasternum obscurum,Occurrences,1
+Hyperidae,Brachypera zoilus,Abundance,0
+Hyperidae,Brachypera zoilus,Maximum,0
+Hyperidae,Brachypera zoilus,Mean,0
+Hyperidae,Brachypera zoilus,Minimum,0
+Hyperidae,Brachypera zoilus,Occurrences,0
+Lathridiidae,Cartodere constricta,Abundance,1
+Lathridiidae,Cartodere constricta,Maximum,1
+Lathridiidae,Cartodere constricta,Mean,0
+Lathridiidae,Cartodere constricta,Minimum,0
+Lathridiidae,Cartodere constricta,Occurrences,1
+Lathridiidae,Corticaria elongata,Abundance,1
+Lathridiidae,Corticaria elongata,Maximum,1
+Lathridiidae,Corticaria elongata,Mean,0
+Lathridiidae,Corticaria elongata,Minimum,0
+Lathridiidae,Corticaria elongata,Occurrences,1
+Lathridiidae,Corticarina fuscula,Abundance,0
+Lathridiidae,Corticarina fuscula,Maximum,0
+Lathridiidae,Corticarina fuscula,Mean,0
+Lathridiidae,Corticarina fuscula,Minimum,0
+Lathridiidae,Corticarina fuscula,Occurrences,0
+Lathridiidae,Corticarina truncatella,Abundance,27
+Lathridiidae,Corticarina truncatella,Maximum,6
+Lathridiidae,Corticarina truncatella,Mean,1.1
+Lathridiidae,Corticarina truncatella,Minimum,0
+Lathridiidae,Corticarina truncatella,Occurrences,10
+Lathridiidae,Cortinicara gibbosa,Abundance,2
+Lathridiidae,Cortinicara gibbosa,Abundance,0
+Lathridiidae,Cortinicara gibbosa,Maximum,1
+Lathridiidae,Cortinicara gibbosa,Maximum,0
+Lathridiidae,Cortinicara gibbosa,Mean,0.1
+Lathridiidae,Cortinicara gibbosa,Mean,0
+Lathridiidae,Cortinicara gibbosa,Minimum,0
+Lathridiidae,Cortinicara gibbosa,Minimum,0
+Lathridiidae,Cortinicara gibbosa,Occurrences,2
+Lathridiidae,Cortinicara gibbosa,Occurrences,0
+Lathridiidae,Enicmus transversus,Abundance,3
+Lathridiidae,Enicmus transversus,Maximum,1
+Lathridiidae,Enicmus transversus,Mean,0.1
+Lathridiidae,Enicmus transversus,Minimum,0
+Lathridiidae,Enicmus transversus,Occurrences,3
+Lathridiidae,Melanophthalma curticollis,Abundance,1
+Lathridiidae,Melanophthalma curticollis,Maximum,1
+Lathridiidae,Melanophthalma curticollis,Mean,0
+Lathridiidae,Melanophthalma curticollis,Minimum,0
+Lathridiidae,Melanophthalma curticollis,Occurrences,1
+Lathridiidae,Melanophthalma distinguenda,Abundance,92
+Lathridiidae,Melanophthalma distinguenda,Maximum,23
+Lathridiidae,Melanophthalma distinguenda,Mean,3.8
+Lathridiidae,Melanophthalma distinguenda,Minimum,0
+Lathridiidae,Melanophthalma distinguenda,Occurrences,11
+Lucanidae,Dorcus parallelipipedus,Abundance,3
+Lucanidae,Dorcus parallelipipedus,Maximum,1
+Lucanidae,Dorcus parallelipipedus,Mean,0.1
+Lucanidae,Dorcus parallelipipedus,Minimum,0
+Lucanidae,Dorcus parallelipipedus,Occurrences,1
+Malachiidae,Clanoptilus elegans,Abundance,1
+Malachiidae,Clanoptilus elegans,Maximum,1
+Malachiidae,Clanoptilus elegans,Mean,0
+Malachiidae,Clanoptilus elegans,Minimum,0
+Malachiidae,Clanoptilus elegans,Occurrences,1
+Melyridae,Dolichosoma lineare,Abundance,4
+Melyridae,Dolichosoma lineare,Maximum,1
+Melyridae,Dolichosoma lineare,Mean,0.2
+Melyridae,Dolichosoma lineare,Minimum,0
+Melyridae,Dolichosoma lineare,Occurrences,4
+Monotomidae,Monotoma brevicollis,Abundance,1
+Monotomidae,Monotoma brevicollis,Maximum,1
+Monotomidae,Monotoma brevicollis,Mean,0
+Monotomidae,Monotoma brevicollis,Minimum,0
+Monotomidae,Monotoma brevicollis,Occurrences,1
+Monotomidae,Monotoma picipes,Abundance,1
+Monotomidae,Monotoma picipes,Maximum,1
+Monotomidae,Monotoma picipes,Mean,0
+Monotomidae,Monotoma picipes,Minimum,0
+Monotomidae,Monotoma picipes,Occurrences,1
+Mordellidae,Curtimorda maculosa,Abundance,1
+Mordellidae,Curtimorda maculosa,Maximum,1
+Mordellidae,Curtimorda maculosa,Mean,0
+Mordellidae,Curtimorda maculosa,Minimum,0
+Mordellidae,Curtimorda maculosa,Occurrences,1
+Mordellidae,Variimorda villosa,Abundance,1
+Mordellidae,Variimorda villosa,Maximum,1
+Mordellidae,Variimorda villosa,Mean,0
+Mordellidae,Variimorda villosa,Minimum,0
+Mordellidae,Variimorda villosa,Occurrences,1
+Nitidulidae,Epuraea melanocephala,Abundance,2
+Nitidulidae,Epuraea melanocephala,Maximum,1
+Nitidulidae,Epuraea melanocephala,Mean,0.1
+Nitidulidae,Epuraea melanocephala,Minimum,0
+Nitidulidae,Epuraea melanocephala,Occurrences,2
+Nitidulidae,Epuraea unicolor,Abundance,1
+Nitidulidae,Epuraea unicolor,Maximum,1
+Nitidulidae,Epuraea unicolor,Mean,0
+Nitidulidae,Epuraea unicolor,Minimum,0
+Nitidulidae,Epuraea unicolor,Occurrences,1
+Nitidulidae,Stelidota geminata,Abundance,7
+Nitidulidae,Stelidota geminata,Maximum,3
+Nitidulidae,Stelidota geminata,Mean,0.3
+Nitidulidae,Stelidota geminata,Minimum,0
+Nitidulidae,Stelidota geminata,Occurrences,3
+Oedemeridae,Oedemera lurida,Abundance,0
+Oedemeridae,Oedemera lurida,Maximum,0
+Oedemeridae,Oedemera lurida,Mean,0
+Oedemeridae,Oedemera lurida,Minimum,0
+Oedemeridae,Oedemera lurida,Occurrences,0
+Oedemeridae,Oedemera virescens,Abundance,8
+Oedemeridae,Oedemera virescens,Maximum,5
+Oedemeridae,Oedemera virescens,Mean,0.3
+Oedemeridae,Oedemera virescens,Minimum,0
+Oedemeridae,Oedemera virescens,Occurrences,3
+Phalacridae,Olibrus corticalis,Abundance,2
+Phalacridae,Olibrus corticalis,Maximum,2
+Phalacridae,Olibrus corticalis,Mean,0.1
+Phalacridae,Olibrus corticalis,Minimum,0
+Phalacridae,Olibrus corticalis,Occurrences,1
+Ptinidae,Stegobium paniceum,Abundance,2
+Ptinidae,Stegobium paniceum,Maximum,1
+Ptinidae,Stegobium paniceum,Mean,0.1
+Ptinidae,Stegobium paniceum,Minimum,0
+Ptinidae,Stegobium paniceum,Occurrences,1
+Scarabaeidae,Amphimallon ochraceum,Abundance,0
+Scarabaeidae,Amphimallon ochraceum,Maximum,0
+Scarabaeidae,Amphimallon ochraceum,Mean,0
+Scarabaeidae,Amphimallon ochraceum,Minimum,0
+Scarabaeidae,Amphimallon ochraceum,Occurrences,0
+Scarabaeidae,Amphimallon sostitiale,Abundance,0
+Scarabaeidae,Amphimallon sostitiale,Maximum,0
+Scarabaeidae,Amphimallon sostitiale,Mean,0
+Scarabaeidae,Amphimallon sostitiale,Minimum,0
+Scarabaeidae,Amphimallon sostitiale,Occurrences,0
+Scarabaeidae,Aphodius niger,Abundance,1
+Scarabaeidae,Aphodius niger,Maximum,1
+Scarabaeidae,Aphodius niger,Mean,0
+Scarabaeidae,Aphodius niger,Minimum,0
+Scarabaeidae,Aphodius niger,Occurrences,1
+Scarabaeidae,Hoplia philanthus,Abundance,1
+Scarabaeidae,Hoplia philanthus,Maximum,1
+Scarabaeidae,Hoplia philanthus,Mean,0
+Scarabaeidae,Hoplia philanthus,Minimum,0
+Scarabaeidae,Hoplia philanthus,Occurrences,1
+Scarabaeidae,Onthophagus coenobita,Abundance,1
+Scarabaeidae,Onthophagus coenobita,Maximum,1
+Scarabaeidae,Onthophagus coenobita,Mean,0
+Scarabaeidae,Onthophagus coenobita,Minimum,0
+Scarabaeidae,Onthophagus coenobita,Occurrences,1
+Scarabaeidae,Onthophagus joannae,Abundance,0
+Scarabaeidae,Onthophagus joannae,Maximum,0
+Scarabaeidae,Onthophagus joannae,Mean,0
+Scarabaeidae,Onthophagus joannae,Minimum,0
+Scarabaeidae,Onthophagus joannae,Occurrences,0
+Scarabaeidae,Oxyomus sylvestris,Abundance,0
+Scarabaeidae,Oxyomus sylvestris,Maximum,0
+Scarabaeidae,Oxyomus sylvestris,Mean,0
+Scarabaeidae,Oxyomus sylvestris,Minimum,0
+Scarabaeidae,Oxyomus sylvestris,Occurrences,0
+Scarabaeidae,Psammodius asper,Abundance,1
+Scarabaeidae,Psammodius asper,Maximum,1
+Scarabaeidae,Psammodius asper,Mean,0
+Scarabaeidae,Psammodius asper,Minimum,0
+Scarabaeidae,Psammodius asper,Occurrences,1
+Scarabaeidae,Valgus hemipterus,Abundance,9
+Scarabaeidae,Valgus hemipterus,Maximum,7
+Scarabaeidae,Valgus hemipterus,Mean,0.4
+Scarabaeidae,Valgus hemipterus,Minimum,0
+Scarabaeidae,Valgus hemipterus,Occurrences,2
+Scraptiidae,Anaspis brunnipes,Abundance,1
+Scraptiidae,Anaspis brunnipes,Maximum,1
+Scraptiidae,Anaspis brunnipes,Mean,0
+Scraptiidae,Anaspis brunnipes,Minimum,0
+Scraptiidae,Anaspis brunnipes,Occurrences,1
+Silphidae,Ablattaria laevigata,Abundance,21
+Silphidae,Ablattaria laevigata,Maximum,12
+Silphidae,Ablattaria laevigata,Mean,0.9
+Silphidae,Ablattaria laevigata,Minimum,0
+Silphidae,Ablattaria laevigata,Occurrences,5
+Silphidae,Necrophorus investigator,Abundance,0
+Silphidae,Necrophorus investigator,Maximum,0
+Silphidae,Necrophorus investigator,Mean,0
+Silphidae,Necrophorus investigator,Minimum,0
+Silphidae,Necrophorus investigator,Occurrences,0
+Staphylinidae ,Acrotona consanguinea,Abundance,1
+Staphylinidae ,Acrotona consanguinea,Maximum,1
+Staphylinidae ,Acrotona consanguinea,Mean,0
+Staphylinidae ,Acrotona consanguinea,Minimum,0
+Staphylinidae ,Acrotona consanguinea,Occurrences,1
+Staphylinidae ,Aleochara bilineata,Abundance,0
+Staphylinidae ,Aleochara bilineata,Maximum,0
+Staphylinidae ,Aleochara bilineata,Mean,0
+Staphylinidae ,Aleochara bilineata,Minimum,0
+Staphylinidae ,Aleochara bilineata,Occurrences,0
+Staphylinidae ,Aleochara bipustulata,Abundance,35
+Staphylinidae ,Aleochara bipustulata,Maximum,16
+Staphylinidae ,Aleochara bipustulata,Mean,1.5
+Staphylinidae ,Aleochara bipustulata,Minimum,0
+Staphylinidae ,Aleochara bipustulata,Occurrences,8
+Staphylinidae ,Aleochara haematodes,Abundance,4
+Staphylinidae ,Aleochara haematodes,Maximum,3
+Staphylinidae ,Aleochara haematodes,Mean,0.2
+Staphylinidae ,Aleochara haematodes,Minimum,0
+Staphylinidae ,Aleochara haematodes,Occurrences,2
+Staphylinidae ,Aleochara lanuginosa,Abundance,1
+Staphylinidae ,Aleochara lanuginosa,Maximum,1
+Staphylinidae ,Aleochara lanuginosa,Mean,0
+Staphylinidae ,Aleochara lanuginosa,Minimum,0
+Staphylinidae ,Aleochara lanuginosa,Occurrences,1
+Staphylinidae ,Aloconota gregaria,Abundance,1
+Staphylinidae ,Aloconota gregaria,Maximum,1
+Staphylinidae ,Aloconota gregaria,Mean,0
+Staphylinidae ,Aloconota gregaria,Minimum,0
+Staphylinidae ,Aloconota gregaria,Occurrences,1
+Staphylinidae ,Amarochara umbrosa,Abundance,1
+Staphylinidae ,Amarochara umbrosa,Maximum,1
+Staphylinidae ,Amarochara umbrosa,Mean,0
+Staphylinidae ,Amarochara umbrosa,Minimum,0
+Staphylinidae ,Amarochara umbrosa,Occurrences,1
+Staphylinidae ,Amischa analis,Abundance,10
+Staphylinidae ,Amischa analis,Maximum,4
+Staphylinidae ,Amischa analis,Mean,0.4
+Staphylinidae ,Amischa analis,Minimum,0
+Staphylinidae ,Amischa analis,Occurrences,5
+Staphylinidae ,Amischa decipiens,Abundance,64
+Staphylinidae ,Amischa decipiens,Maximum,12
+Staphylinidae ,Amischa decipiens,Mean,2.7
+Staphylinidae ,Amischa decipiens,Minimum,0
+Staphylinidae ,Amischa decipiens,Occurrences,15
+Staphylinidae ,Anotylus tetracarinatus,Abundance,7
+Staphylinidae ,Anotylus tetracarinatus,Maximum,3
+Staphylinidae ,Anotylus tetracarinatus,Mean,0.3
+Staphylinidae ,Anotylus tetracarinatus,Minimum,0
+Staphylinidae ,Anotylus tetracarinatus,Occurrences,4
+Staphylinidae ,Arpedium quadrum,Abundance,2
+Staphylinidae ,Arpedium quadrum,Maximum,1
+Staphylinidae ,Arpedium quadrum,Mean,0.1
+Staphylinidae ,Arpedium quadrum,Minimum,0
+Staphylinidae ,Arpedium quadrum,Occurrences,1
+Staphylinidae ,Astenus gracilis,Abundance,3
+Staphylinidae ,Astenus gracilis,Maximum,2
+Staphylinidae ,Astenus gracilis,Mean,0.1
+Staphylinidae ,Astenus gracilis,Minimum,0
+Staphylinidae ,Astenus gracilis,Occurrences,2
+Staphylinidae ,Atheta britanniae,Abundance,1
+Staphylinidae ,Atheta britanniae,Maximum,1
+Staphylinidae ,Atheta britanniae,Mean,0
+Staphylinidae ,Atheta britanniae,Minimum,0
+Staphylinidae ,Atheta britanniae,Occurrences,1
+Staphylinidae ,Atheta coriaria,Abundance,1
+Staphylinidae ,Atheta coriaria,Maximum,1
+Staphylinidae ,Atheta coriaria,Mean,0
+Staphylinidae ,Atheta coriaria,Minimum,0
+Staphylinidae ,Atheta coriaria,Occurrences,1
+Staphylinidae ,Atheta crassicornis,Abundance,1
+Staphylinidae ,Atheta crassicornis,Maximum,1
+Staphylinidae ,Atheta crassicornis,Mean,0
+Staphylinidae ,Atheta crassicornis,Minimum,0
+Staphylinidae ,Atheta crassicornis,Occurrences,1
+Staphylinidae ,Atheta flavipes,Abundance,2
+Staphylinidae ,Atheta flavipes,Maximum,2
+Staphylinidae ,Atheta flavipes,Mean,0.1
+Staphylinidae ,Atheta flavipes,Minimum,0
+Staphylinidae ,Atheta flavipes,Occurrences,1
+Staphylinidae ,Atheta fungi,Abundance,42
+Staphylinidae ,Atheta fungi,Maximum,9
+Staphylinidae ,Atheta fungi,Mean,1.8
+Staphylinidae ,Atheta fungi,Minimum,0
+Staphylinidae ,Atheta fungi,Occurrences,14
+Staphylinidae ,Atheta glivicollis,Abundance,15
+Staphylinidae ,Atheta glivicollis,Maximum,5
+Staphylinidae ,Atheta glivicollis,Mean,0.6
+Staphylinidae ,Atheta glivicollis,Minimum,0
+Staphylinidae ,Atheta glivicollis,Occurrences,7
+Staphylinidae ,Bledius erraticus,Abundance,4
+Staphylinidae ,Bledius erraticus,Maximum,3
+Staphylinidae ,Bledius erraticus,Mean,0.2
+Staphylinidae ,Bledius erraticus,Minimum,0
+Staphylinidae ,Bledius erraticus,Occurrences,1
+Staphylinidae ,Bledius fontinalis,Abundance,0
+Staphylinidae ,Bledius fontinalis,Maximum,0
+Staphylinidae ,Bledius fontinalis,Mean,0
+Staphylinidae ,Bledius fontinalis,Minimum,0
+Staphylinidae ,Bledius fontinalis,Occurrences,0
+Staphylinidae ,Carpelimus corticinus,Abundance,77
+Staphylinidae ,Carpelimus corticinus,Maximum,20
+Staphylinidae ,Carpelimus corticinus,Mean,3.2
+Staphylinidae ,Carpelimus corticinus,Minimum,0
+Staphylinidae ,Carpelimus corticinus,Occurrences,12
+Staphylinidae ,Carpelimus punctatellus,Abundance,4
+Staphylinidae ,Carpelimus punctatellus,Maximum,1
+Staphylinidae ,Carpelimus punctatellus,Mean,0.2
+Staphylinidae ,Carpelimus punctatellus,Minimum,0
+Staphylinidae ,Carpelimus punctatellus,Occurrences,3
+Staphylinidae ,Dinaraea angustula,Abundance,32
+Staphylinidae ,Dinaraea angustula,Maximum,29
+Staphylinidae ,Dinaraea angustula,Mean,1.3
+Staphylinidae ,Dinaraea angustula,Minimum,0
+Staphylinidae ,Dinaraea angustula,Occurrences,3
+Staphylinidae ,Gabrius breviventer,Abundance,11
+Staphylinidae ,Gabrius breviventer,Maximum,3
+Staphylinidae ,Gabrius breviventer,Mean,0.5
+Staphylinidae ,Gabrius breviventer,Minimum,0
+Staphylinidae ,Gabrius breviventer,Occurrences,7
+Staphylinidae ,Gabrius coxalus,Abundance,0
+Staphylinidae ,Gabrius coxalus,Maximum,0
+Staphylinidae ,Gabrius coxalus,Mean,0
+Staphylinidae ,Gabrius coxalus,Minimum,0
+Staphylinidae ,Gabrius coxalus,Occurrences,0
+Staphylinidae ,Gabrius nigritulus,Abundance,5
+Staphylinidae ,Gabrius nigritulus,Maximum,1
+Staphylinidae ,Gabrius nigritulus,Mean,0.2
+Staphylinidae ,Gabrius nigritulus,Minimum,0
+Staphylinidae ,Gabrius nigritulus,Occurrences,5
+Staphylinidae ,Gauropterus fulgidus,Abundance,8
+Staphylinidae ,Gauropterus fulgidus,Maximum,5
+Staphylinidae ,Gauropterus fulgidus,Mean,0.3
+Staphylinidae ,Gauropterus fulgidus,Minimum,0
+Staphylinidae ,Gauropterus fulgidus,Occurrences,4
+Staphylinidae ,Gyrohypnus angustatus,Abundance,30
+Staphylinidae ,Gyrohypnus angustatus,Maximum,28
+Staphylinidae ,Gyrohypnus angustatus,Mean,1.3
+Staphylinidae ,Gyrohypnus angustatus,Minimum,0
+Staphylinidae ,Gyrohypnus angustatus,Occurrences,2
+Staphylinidae ,Ischnosoma splendidus,Abundance,10
+Staphylinidae ,Ischnosoma splendidus,Maximum,3
+Staphylinidae ,Ischnosoma splendidus,Mean,0.4
+Staphylinidae ,Ischnosoma splendidus,Minimum,0
+Staphylinidae ,Ischnosoma splendidus,Occurrences,5
+Staphylinidae ,Lithocharis nigriceps,Abundance,1
+Staphylinidae ,Lithocharis nigriceps,Maximum,1
+Staphylinidae ,Lithocharis nigriceps,Mean,0
+Staphylinidae ,Lithocharis nigriceps,Minimum,0
+Staphylinidae ,Lithocharis nigriceps,Occurrences,1
+Staphylinidae ,Metopsia clypeata,Abundance,1
+Staphylinidae ,Metopsia clypeata,Maximum,1
+Staphylinidae ,Metopsia clypeata,Mean,0
+Staphylinidae ,Metopsia clypeata,Minimum,0
+Staphylinidae ,Metopsia clypeata,Occurrences,1
+Staphylinidae ,Mycetoporus longulus,Abundance,0
+Staphylinidae ,Mycetoporus longulus,Maximum,0
+Staphylinidae ,Mycetoporus longulus,Mean,0
+Staphylinidae ,Mycetoporus longulus,Minimum,0
+Staphylinidae ,Mycetoporus longulus,Occurrences,0
+Staphylinidae ,Neobisnius villosulus,Abundance,1
+Staphylinidae ,Neobisnius villosulus,Maximum,1
+Staphylinidae ,Neobisnius villosulus,Mean,0
+Staphylinidae ,Neobisnius villosulus,Minimum,0
+Staphylinidae ,Neobisnius villosulus,Occurrences,1
+Staphylinidae ,Ocypus olens,Abundance,48
+Staphylinidae ,Ocypus olens,Maximum,31
+Staphylinidae ,Ocypus olens,Mean,2
+Staphylinidae ,Ocypus olens,Minimum,0
+Staphylinidae ,Ocypus olens,Occurrences,4
+Staphylinidae ,Ocypus ophthalmicus,Abundance,132
+Staphylinidae ,Ocypus ophthalmicus,Maximum,109
+Staphylinidae ,Ocypus ophthalmicus,Mean,5.5
+Staphylinidae ,Ocypus ophthalmicus,Minimum,0
+Staphylinidae ,Ocypus ophthalmicus,Occurrences,2
+Staphylinidae ,Ocyusa nigrata,Abundance,12
+Staphylinidae ,Ocyusa nigrata,Maximum,3
+Staphylinidae ,Ocyusa nigrata,Mean,0.5
+Staphylinidae ,Ocyusa nigrata,Minimum,0
+Staphylinidae ,Ocyusa nigrata,Occurrences,7
+Staphylinidae ,Omalium caesum,Abundance,0
+Staphylinidae ,Omalium caesum,Maximum,0
+Staphylinidae ,Omalium caesum,Mean,0
+Staphylinidae ,Omalium caesum,Minimum,0
+Staphylinidae ,Omalium caesum,Occurrences,0
+Staphylinidae ,Othius laeviusculus,Abundance,0
+Staphylinidae ,Othius laeviusculus,Maximum,0
+Staphylinidae ,Othius laeviusculus,Mean,0
+Staphylinidae ,Othius laeviusculus,Minimum,0
+Staphylinidae ,Othius laeviusculus,Occurrences,0
+Staphylinidae ,Othius subuliformis,Abundance,9
+Staphylinidae ,Othius subuliformis,Maximum,2
+Staphylinidae ,Othius subuliformis,Mean,0.4
+Staphylinidae ,Othius subuliformis,Minimum,0
+Staphylinidae ,Othius subuliformis,Occurrences,6
+Staphylinidae ,Oxypoda praecox,Abundance,34
+Staphylinidae ,Oxypoda praecox,Maximum,14
+Staphylinidae ,Oxypoda praecox,Mean,1.4
+Staphylinidae ,Oxypoda praecox,Minimum,0
+Staphylinidae ,Oxypoda praecox,Occurrences,7
+Staphylinidae ,Parocyusa rubicunda,Abundance,2
+Staphylinidae ,Parocyusa rubicunda,Maximum,1
+Staphylinidae ,Parocyusa rubicunda,Mean,0.1
+Staphylinidae ,Parocyusa rubicunda,Minimum,0
+Staphylinidae ,Parocyusa rubicunda,Occurrences,2
+Staphylinidae ,Philonthus carbonarius,Abundance,54
+Staphylinidae ,Philonthus carbonarius,Maximum,12
+Staphylinidae ,Philonthus carbonarius,Mean,2.3
+Staphylinidae ,Philonthus carbonarius,Minimum,0
+Staphylinidae ,Philonthus carbonarius,Occurrences,12
+Staphylinidae ,Philonthus cognatus,Abundance,6
+Staphylinidae ,Philonthus cognatus,Maximum,3
+Staphylinidae ,Philonthus cognatus,Mean,0.3
+Staphylinidae ,Philonthus cognatus,Minimum,0
+Staphylinidae ,Philonthus cognatus,Occurrences,4
+Staphylinidae ,Philonthus quisquiliarius,Abundance,16
+Staphylinidae ,Philonthus quisquiliarius,Maximum,8
+Staphylinidae ,Philonthus quisquiliarius,Mean,0.7
+Staphylinidae ,Philonthus quisquiliarius,Minimum,0
+Staphylinidae ,Philonthus quisquiliarius,Occurrences,6
+Staphylinidae ,Philonthus tenuicornis,Abundance,1
+Staphylinidae ,Philonthus tenuicornis,Maximum,1
+Staphylinidae ,Philonthus tenuicornis,Mean,0
+Staphylinidae ,Philonthus tenuicornis,Minimum,0
+Staphylinidae ,Philonthus tenuicornis,Occurrences,1
+Staphylinidae ,Philonthus varians,Abundance,0
+Staphylinidae ,Philonthus varians,Maximum,0
+Staphylinidae ,Philonthus varians,Mean,0
+Staphylinidae ,Philonthus varians,Minimum,0
+Staphylinidae ,Philonthus varians,Occurrences,0
+Staphylinidae ,Platydracus latebricola,Abundance,0
+Staphylinidae ,Platydracus latebricola,Maximum,0
+Staphylinidae ,Platydracus latebricola,Mean,0
+Staphylinidae ,Platydracus latebricola,Minimum,0
+Staphylinidae ,Platydracus latebricola,Occurrences,0
+Staphylinidae ,Platydracus stercorarius,Abundance,89
+Staphylinidae ,Platydracus stercorarius,Maximum,43
+Staphylinidae ,Platydracus stercorarius,Mean,3.7
+Staphylinidae ,Platydracus stercorarius,Minimum,0
+Staphylinidae ,Platydracus stercorarius,Occurrences,6
+Staphylinidae ,Platystethus alutaceus,Abundance,2
+Staphylinidae ,Platystethus alutaceus,Maximum,1
+Staphylinidae ,Platystethus alutaceus,Mean,0.1
+Staphylinidae ,Platystethus alutaceus,Minimum,0
+Staphylinidae ,Platystethus alutaceus,Occurrences,2
+Staphylinidae ,Platystethus capito,Abundance,3
+Staphylinidae ,Platystethus capito,Maximum,2
+Staphylinidae ,Platystethus capito,Mean,0.1
+Staphylinidae ,Platystethus capito,Minimum,0
+Staphylinidae ,Platystethus capito,Occurrences,2
+Staphylinidae ,Platystethus nitens,Abundance,6
+Staphylinidae ,Platystethus nitens,Maximum,3
+Staphylinidae ,Platystethus nitens,Mean,0.3
+Staphylinidae ,Platystethus nitens,Minimum,0
+Staphylinidae ,Platystethus nitens,Occurrences,4
+Staphylinidae ,Proteinus laevigatus,Abundance,0
+Staphylinidae ,Proteinus laevigatus,Maximum,0
+Staphylinidae ,Proteinus laevigatus,Mean,0
+Staphylinidae ,Proteinus laevigatus,Minimum,0
+Staphylinidae ,Proteinus laevigatus,Occurrences,0
+Staphylinidae ,Quedius boops,Abundance,11
+Staphylinidae ,Quedius boops,Maximum,4
+Staphylinidae ,Quedius boops,Mean,0.5
+Staphylinidae ,Quedius boops,Minimum,0
+Staphylinidae ,Quedius boops,Occurrences,5
+Staphylinidae ,Quedius fuliginosus,Abundance,0
+Staphylinidae ,Quedius fuliginosus,Maximum,0
+Staphylinidae ,Quedius fuliginosus,Mean,0
+Staphylinidae ,Quedius fuliginosus,Minimum,0
+Staphylinidae ,Quedius fuliginosus,Occurrences,0
+Staphylinidae ,Quedius levicollis,Abundance,52
+Staphylinidae ,Quedius levicollis,Maximum,17
+Staphylinidae ,Quedius levicollis,Mean,2.2
+Staphylinidae ,Quedius levicollis,Minimum,0
+Staphylinidae ,Quedius levicollis,Occurrences,9
+Staphylinidae ,Quedius nitipennis,Abundance,49
+Staphylinidae ,Quedius nitipennis,Maximum,8
+Staphylinidae ,Quedius nitipennis,Mean,2
+Staphylinidae ,Quedius nitipennis,Minimum,0
+Staphylinidae ,Quedius nitipennis,Occurrences,16
+Staphylinidae ,Quedius semiaeneus,Abundance,6
+Staphylinidae ,Quedius semiaeneus,Maximum,2
+Staphylinidae ,Quedius semiaeneus,Mean,0.3
+Staphylinidae ,Quedius semiaeneus,Minimum,0
+Staphylinidae ,Quedius semiaeneus,Occurrences,5
+Staphylinidae ,Rabigus pullus,Abundance,50
+Staphylinidae ,Rabigus pullus,Maximum,11
+Staphylinidae ,Rabigus pullus,Mean,2.1
+Staphylinidae ,Rabigus pullus,Minimum,0
+Staphylinidae ,Rabigus pullus,Occurrences,8
+Staphylinidae ,Scopaeus laevigatus,Abundance,92
+Staphylinidae ,Scopaeus laevigatus,Maximum,12
+Staphylinidae ,Scopaeus laevigatus,Mean,3.8
+Staphylinidae ,Scopaeus laevigatus,Minimum,0
+Staphylinidae ,Scopaeus laevigatus,Occurrences,15
+Staphylinidae ,Scopaeus minutus,Abundance,7
+Staphylinidae ,Scopaeus minutus,Maximum,3
+Staphylinidae ,Scopaeus minutus,Mean,0.3
+Staphylinidae ,Scopaeus minutus,Minimum,0
+Staphylinidae ,Scopaeus minutus,Occurrences,4
+Staphylinidae ,Sepedophilus pedicularis,Abundance,2
+Staphylinidae ,Sepedophilus pedicularis,Maximum,1
+Staphylinidae ,Sepedophilus pedicularis,Mean,0.1
+Staphylinidae ,Sepedophilus pedicularis,Minimum,0
+Staphylinidae ,Sepedophilus pedicularis,Occurrences,2
+Staphylinidae ,Stenus ater,Abundance,21
+Staphylinidae ,Stenus ater,Maximum,12
+Staphylinidae ,Stenus ater,Mean,0.9
+Staphylinidae ,Stenus ater,Minimum,0
+Staphylinidae ,Stenus ater,Occurrences,7
+Staphylinidae ,Stenus atratulus,Abundance,32
+Staphylinidae ,Stenus atratulus,Maximum,15
+Staphylinidae ,Stenus atratulus,Mean,1.3
+Staphylinidae ,Stenus atratulus,Minimum,0
+Staphylinidae ,Stenus atratulus,Occurrences,9
+Staphylinidae ,Stenus juno,Abundance,0
+Staphylinidae ,Stenus juno,Maximum,0
+Staphylinidae ,Stenus juno,Mean,0
+Staphylinidae ,Stenus juno,Minimum,0
+Staphylinidae ,Stenus juno,Occurrences,0
+Staphylinidae ,Tachyporus chrysomelinus,Abundance,6
+Staphylinidae ,Tachyporus chrysomelinus,Maximum,4
+Staphylinidae ,Tachyporus chrysomelinus,Mean,0.3
+Staphylinidae ,Tachyporus chrysomelinus,Minimum,0
+Staphylinidae ,Tachyporus chrysomelinus,Occurrences,3
+Staphylinidae ,Tachyporus hypnorum,Abundance,10
+Staphylinidae ,Tachyporus hypnorum,Maximum,3
+Staphylinidae ,Tachyporus hypnorum,Mean,0.4
+Staphylinidae ,Tachyporus hypnorum,Minimum,0
+Staphylinidae ,Tachyporus hypnorum,Occurrences,5
+Staphylinidae ,Tachyporus nitidulus,Abundance,14
+Staphylinidae ,Tachyporus nitidulus,Maximum,8
+Staphylinidae ,Tachyporus nitidulus,Mean,0.6
+Staphylinidae ,Tachyporus nitidulus,Minimum,0
+Staphylinidae ,Tachyporus nitidulus,Occurrences,5
+Staphylinidae ,Tachyporus obtusus,Abundance,2
+Staphylinidae ,Tachyporus obtusus,Maximum,1
+Staphylinidae ,Tachyporus obtusus,Mean,0.1
+Staphylinidae ,Tachyporus obtusus,Minimum,0
+Staphylinidae ,Tachyporus obtusus,Occurrences,2
+Staphylinidae ,Tachyporus pusillus,Abundance,30
+Staphylinidae ,Tachyporus pusillus,Maximum,6
+Staphylinidae ,Tachyporus pusillus,Mean,1.3
+Staphylinidae ,Tachyporus pusillus,Minimum,0
+Staphylinidae ,Tachyporus pusillus,Occurrences,11
+Staphylinidae ,Tasgius ater,Abundance,1
+Staphylinidae ,Tasgius ater,Maximum,1
+Staphylinidae ,Tasgius ater,Mean,0
+Staphylinidae ,Tasgius ater,Minimum,0
+Staphylinidae ,Tasgius ater,Occurrences,1
+Staphylinidae ,Tasgius melanarius,Abundance,0
+Staphylinidae ,Tasgius melanarius,Maximum,0
+Staphylinidae ,Tasgius melanarius,Mean,0
+Staphylinidae ,Tasgius melanarius,Minimum,0
+Staphylinidae ,Tasgius melanarius,Occurrences,0
+Staphylinidae ,Thanatophilus sinuatus,Abundance,0
+Staphylinidae ,Thanatophilus sinuatus,Maximum,0
+Staphylinidae ,Thanatophilus sinuatus,Mean,0
+Staphylinidae ,Thanatophilus sinuatus,Minimum,0
+Staphylinidae ,Thanatophilus sinuatus,Occurrences,0
+Staphylinidae ,Tinotus morion,Abundance,1
+Staphylinidae ,Tinotus morion,Maximum,1
+Staphylinidae ,Tinotus morion,Mean,0
+Staphylinidae ,Tinotus morion,Minimum,0
+Staphylinidae ,Tinotus morion,Occurrences,1
+Staphylinidae ,Xantholinus linearis,Abundance,60
+Staphylinidae ,Xantholinus linearis,Maximum,11
+Staphylinidae ,Xantholinus linearis,Mean,2.5
+Staphylinidae ,Xantholinus linearis,Minimum,0
+Staphylinidae ,Xantholinus linearis,Occurrences,11
+Staphylinidae ,Xantholinus semirufus,Abundance,23
+Staphylinidae ,Xantholinus semirufus,Maximum,12
+Staphylinidae ,Xantholinus semirufus,Mean,1
+Staphylinidae ,Xantholinus semirufus,Minimum,0
+Staphylinidae ,Xantholinus semirufus,Occurrences,2
+Staphylinidae ,Zoosetha procidua,Abundance,15
+Staphylinidae ,Zoosetha procidua,Maximum,6
+Staphylinidae ,Zoosetha procidua,Mean,0.6
+Staphylinidae ,Zoosetha procidua,Minimum,0
+Staphylinidae ,Zoosetha procidua,Occurrences,2
+Tenebrionidae,Cteniopus flavus,Abundance,0
+Tenebrionidae,Cteniopus flavus,Maximum,0
+Tenebrionidae,Cteniopus flavus,Mean,0
+Tenebrionidae,Cteniopus flavus,Minimum,0
+Tenebrionidae,Cteniopus flavus,Occurrences,0
+Zopheridae,Bitoma crenata,Abundance,1
+Zopheridae,Bitoma crenata,Maximum,1
+Zopheridae,Bitoma crenata,Mean,0
+Zopheridae,Bitoma crenata,Minimum,0
+Zopheridae,Bitoma crenata,Occurrences,1

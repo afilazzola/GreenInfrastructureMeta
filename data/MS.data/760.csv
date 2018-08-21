@@ -1,0 +1,13 @@
+lat,lon,elevation,city,country,human.population,human.density,GI.type,urban.gradient,siteID,mean number of trees,tree richness
+13.511667,2.125278,207,Niamey,Niger,0.239,0.00054,yards/home gardens,urban,Zongo,1.04,6
+13.511667,2.125278,207,Niamey,Niger,0.239,0.00054,yards/home gardens,urban,Yantala Bas,0.96,8
+13.511667,2.125278,207,Niamey,Niger,0.239,0.00054,yards/home gardens,urban,Yantala Bas,1.08,9
+13.511667,2.125278,207,Niamey,Niger,0.239,0.00054,yards/home gardens,intermediate,Sonuci,2.2,14
+13.511667,2.125278,207,Niamey,Niger,0.239,0.00054,yards/home gardens,intermediate,Pays Bas,1.28,8
+13.511667,2.125278,207,Niamey,Niger,0.239,0.00054,yards/home gardens,intermediate,Niamey 2000,1.48,13
+13.511667,2.125278,207,Niamey,Niger,0.239,0.00054,yards/home gardens,intermediate,Goudel,2.2,14
+13.511667,2.125278,207,Niamey,Niger,0.239,0.00054,yards/home gardens,intermediate,Talladje,2,19
+13.511667,2.125278,207,Niamey,Niger,0.239,0.00054,yards/home gardens,rural,Madina,2.4,16
+13.511667,2.125278,207,Niamey,Niger,0.239,0.00054,yards/home gardens,rural,Lacouroussou,1.2,11
+13.511667,2.125278,207,Niamey,Niger,0.239,0.00054,yards/home gardens,rural,Dar es Salaam,1.96,15
+13.511667,2.125278,207,Niamey,Niger,0.239,0.00054,yards/home gardens,rural,Cite Caisse,1.68,10

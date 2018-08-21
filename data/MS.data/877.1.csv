@@ -1,0 +1,17 @@
+Family,Gi.type,Stat,Value
+Coleoptera,stormwater ponds,MeanRichness,3.52
+Heteroptera,stormwater ponds,MeanRichness,4.12
+Odonata,stormwater ponds,MeanRichness,3.12
+Gastropoda,stormwater ponds,MeanRichness,3.08
+Coleoptera,natural ponds,MeanRichness,3.11
+Heteroptera,natural ponds,MeanRichness,4.56
+Odonata,natural ponds,MeanRichness,3.06
+Gastropoda,natural ponds,MeanRichness,1.78
+Coleoptera,stormwater ponds,SE,0.33
+Heteroptera,stormwater ponds,SE,0.44
+Odonata,stormwater ponds,SE,0.22
+Gastropoda,stormwater ponds,SE,0.26
+Coleoptera,natural ponds,SE,0.46
+Heteroptera,natural ponds,SE,0.35
+Odonata,natural ponds,SE,0.26
+Gastropoda,natural ponds,SE,0.31

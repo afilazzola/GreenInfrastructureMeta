@@ -1,0 +1,21 @@
+lat,lon,elevation,city,country,human.population,human.density,GI type,infrastructure,estimate,stat,value
+32.221667,-110.926389,756,Tuscon,USA,0.520116,0.002204,roadsides,grey,Density of nematodes,mean,0.8
+32.221667,-110.926389,756,Tuscon,USA,0.520116,0.002204,roadsides,grey,Bacterivore (relative abd %),mean,84.4
+32.221667,-110.926389,756,Tuscon,USA,0.520116,0.002204,roadsides,grey,Fungivore (relative abd %),mean,3.1
+32.221667,-110.926389,756,Tuscon,USA,0.520116,0.002204,roadsides,grey,Omnivore (relative abd %),mean,12.5
+32.221667,-110.926389,756,Tuscon,USA,0.520116,0.002204,roadsides,grey,Carnivore (relative abd %),mean,0
+32.221667,-110.926389,756,Tuscon,USA,0.520116,0.002204,roadsides,grey,Density of nematodes,SE,0.2
+32.221667,-110.926389,756,Tuscon,USA,0.520116,0.002204,roadsides,grey,Bacterivore (relative abd %),SE,4.7
+32.221667,-110.926389,756,Tuscon,USA,0.520116,0.002204,roadsides,grey,Fungivore (relative abd %),SE,1.6
+32.221667,-110.926389,756,Tuscon,USA,0.520116,0.002204,roadsides,grey,Omnivore (relative abd %),SE,3.6
+32.221667,-110.926389,756,Tuscon,USA,0.520116,0.002204,roadsides,grey,Carnivore (relative abd %),SE,0
+32.221667,-110.926389,756,Tuscon,USA,0.520116,0.002204,roadsides,green,Density of nematodes,mean,8.5
+32.221667,-110.926389,756,Tuscon,USA,0.520116,0.002204,roadsides,green,Bacterivore (relative abd %),mean,64.6
+32.221667,-110.926389,756,Tuscon,USA,0.520116,0.002204,roadsides,green,Fungivore (relative abd %),mean,14.8
+32.221667,-110.926389,756,Tuscon,USA,0.520116,0.002204,roadsides,green,Omnivore (relative abd %),mean,3.5
+32.221667,-110.926389,756,Tuscon,USA,0.520116,0.002204,roadsides,green,Carnivore (relative abd %),mean,17
+32.221667,-110.926389,756,Tuscon,USA,0.520116,0.002204,roadsides,green,Density of nematodes,SE,0.9
+32.221667,-110.926389,756,Tuscon,USA,0.520116,0.002204,roadsides,green,Bacterivore (relative abd %),SE,3.9
+32.221667,-110.926389,756,Tuscon,USA,0.520116,0.002204,roadsides,green,Fungivore (relative abd %),SE,5.4
+32.221667,-110.926389,756,Tuscon,USA,0.520116,0.002204,roadsides,green,Omnivore (relative abd %),SE,3.5
+32.221667,-110.926389,756,Tuscon,USA,0.520116,0.002204,roadsides,green,Carnivore (relative abd %),SE,7.5

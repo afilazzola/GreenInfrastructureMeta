@@ -1,0 +1,28 @@
+lat,lon,elevation,city,country,human.population,human.density,Status,Species,Abundance
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Native,Acacia parramattensis,4
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Native,Acacia fimbriata,9
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Native,Bursaria spinosa,3
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Native,Pittosporum undulatum,6
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Native,Casuarina glauca,359
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Native,Melia azedarach,2
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Native,Acacia falcata,20
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Native,Eucalyptus robusta,1
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Native,Eucalyptus spp. Sect. Adnatia (Box Group),1
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Native,Acacia parvipinnula,3
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Native,Syncarpia glomulifera,1
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Native,Polyscias sambucifolia,1
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Native,Acacia saligna,52
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Native,Grevillea robusta,1
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Native,Eucalyptus spp.,7
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Native,Corymbia Citriodora,29
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Native,Eucalyptus spp,7
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Non-native,Ligustrum sinese,4
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Non-native,Cinn. camphora,34
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Non-native,Phoenix canariensis,4
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Non-native,Ligustrum lucidum,245
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Non-native,Cotoneaster glaucophyllus,42
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Non-native,Olea europaea,70
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Non-native,Pyracantha crenulata,42
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Non-native,Ceratonia siliqua,4
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Non-native,Rondeletia amoena,35
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Non-native,Eriobotrya japonica,1

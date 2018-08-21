@@ -1,0 +1,33 @@
+lat,lon,elevation,City,country,human.population,human.density,Biofilter Site ID,Root mass density (g/m2),Root length denisty (m/m2),richness,Shannon Diversity,Number of Functional Groups,Functional Diversity,Mean Annual Rainfall (mm),Age (yrs.),Area (m2)
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Alleyne Ave 1,419,152,1,0,1,0,633,9,76
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Alleyne Ave 2,345,455,2,0.64,1,0.6,613,3,12
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Avoca Crescent,365,58,1,0,1,0.6,511,10,13
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Clifton Hill,287,437,10,1.45,3,4.33,558,7,100
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Cremorne St,489,16,1,0,1,0.09,619,12,15
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Edinburgh Gardens,1080,60,5,1.52,3,6.62,516,3,700
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Fernhill Rd,587,157,1,0,1,0.29,1041,2,10
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Hereford Rd,289,206,5,1.24,3,4.01,1196,4,100
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Morrison Reserve,372,310,8,1.48,3,4.61,1042,2,500
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Parker St,405,112,1,0,1,0.6,511,10,22
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Spring St,72,202,12,2.03,3,2.61,983,2,25
+-37.81361,144.963056,31,Melbourne,Australia,4.9,0.00049,Stringybark Blvd N,370,142,6,0.51,1,0.29,983,2,25
+-31.95222,115.85899,,Perth,Australia,2.022044,0.000315,Alcock St,35,740,2,0.11,2,3.6,804,4,135
+-31.95222,115.85899,,Perth,Australia,2.022044,0.000315,Barlee St,946,452,7,1.53,2,0.6,644,5,75
+-31.95222,115.85899,,Perth,Australia,2.022044,0.000315,Calder Nook,591,1232,4,0.58,3,0.6,672,6,240
+-31.95222,115.85899,,Perth,Australia,2.022044,0.000315,Channel View,446,759,5,1,3,5.19,674,9,200
+-31.95222,115.85899,,Perth,Australia,2.022044,0.000315,Kirkland Way,654,273,4,0.64,3,3.6,737,3,350
+-31.95222,115.85899,,Perth,Australia,2.022044,0.000315,Mead St,436,213,8,1.47,3,2.3,935,1,1000
+-31.95222,115.85899,,Perth,Australia,2.022044,0.000315,Parkfield Lake,2077,101,3,1.04,1,1.8,803,2,2000
+-31.95222,115.85899,,Perth,Australia,2.022044,0.000315,Sotheby Dr,318,552,3,0.92,2,3.6,735,6,150
+-31.95222,115.85899,,Perth,Australia,2.022044,0.000315,Splendid Gardens,301,132,7,1.29,3,5.19,735,6,300
+-31.95222,115.85899,,Perth,Australia,2.022044,0.000315,Strelly St,1429,32,6,1.57,3,2.3,644,5,105
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Welcome Meander,967,252,5,0.61,3,3.18,735,6,150
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Bay St,407,109,6,1.14,2,4.43,1207,5,120
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Birubi Ave,163,505,4,0.24,1,0.7,1411,5,18
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Dawson Ave,728,64,6,1.44,3,6.02,1123,2,200
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Karuah Rd,229,88,4,0.66,2,0.29,1430,7,17
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Kooloona Cr,1384,10,7,0.67,2,3.6,1450,6,24
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Marriott St,260,190,5,1.3,2,5.19,1311,3,130
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Normurra Ave,810,220,4,0.82,3,4.2,1364,8,1.5
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Wolseley Grove,629,14,3,0.06,1,0.09,1236,14,107
+-33.865,151.209444,63,Sydney,Australia,5.131,0.00415,Young St,82,314,6,1.49,2,3.18,1311,3,42

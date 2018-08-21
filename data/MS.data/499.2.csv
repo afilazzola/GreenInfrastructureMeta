@@ -1,0 +1,7 @@
+lat,lon,elevation,city,country,UrbanLevel,HG size (m2),Mean plant spp. no. per HG (range),No. of ornamental spp./HG,No. of total plant individuals per 100ÿm2,No. of ornamental individuals/100ÿm2,Replicate
+-6.5966,106.7972,265,Bogor,Indonesia,Rural,530,36,14,63,29,30
+-6.5966,106.7972,265,Bogor,Indonesia,Intermediate,380,49,25,72,40,21
+-6.5966,106.7972,265,Bogor,Indonesia,Intermediate,190,32,14,107,59,10
+-6.5966,106.7972,265,Bogor,Indonesia,Intermediate,130,20,11,58,34,20
+-6.5966,106.7972,265,Bogor,Indonesia,Urban,70,34,24,280,233,10
+-6.5966,106.7972,265,Bogor,Indonesia,Urban,90,37,26,240,201,24

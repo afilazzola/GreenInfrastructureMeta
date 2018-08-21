@@ -1,0 +1,381 @@
+lat,lon,elevation,city,country,human.population,human.density,Species,Mean Tree density (per 200 m)
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Acer buergerianumMiq.,0.7
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Agathis robustaÿ(C. Moore ex F. Muell.) F.M. Bailey,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Bauhinia forficateJ.H.F. Link,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Betula pendulaÿRoth.,1.5
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Bignoniaceaesp.,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Brachychiton populneus(Schott & Endl.) R.Br.,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Cedrus deodara(Roxb. ex Lambert) G. Son,0.2
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Celtis africana*Burm. f.,0.3
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Celtis sinensisÿPers.,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Ceratonia siliqueÿL.,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Cotoneaster glaucophyllusFranch,0.1
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Delonix regia(Bojer) Raf.,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Erythrina caffra*Thunb.,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Fraxinus americanaMarsh.,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Fraxinus velutinaLingelsh.,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Fraxinusÿsp.,0.6
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Grevillea robustaÿA. Cunn. ex R.Br.,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Hakea salicifolia(Vent.) B.L. Burtt,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Harpephyllum caffrum* Bernh. ex Krauss,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Ligustrum lucidumÿAit.,0.1
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Ligustrum ovalifoliumHort ex Decne.,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Melia azedarachÿL.,0.1
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Morus japonicaSiebold.,1.9
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Musa paradisiacaÿL.,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Olea africana*(Mill.) P.S. Green,0.1
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Pinus halepensisMill.,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Pinusÿsp.,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Platanus acerifolia(Aiton) Willd.,1.2
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Robinia pseudoacaciaL.,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Schinus molleL.,0.1
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Schinus terebinthfoliusRaddi.,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Searsia lancea*ÿ(L.f.) F.A. Barkley,0.9
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Sophora japonicaÿL.,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Tamarix gallicaÿSieber ex Nyman.,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Thuja occidentalisL.,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Tremaÿsp.,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Ulmus parvifoliaJacq.,0
+-30.342222,28.806111,1485,Matatiele,South Africa,0.012466,0.001153,Unknown,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Acer buergerianumMiq.,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Agathis robustaÿ(C. Moore ex F. Muell.) F.M. Bailey,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Bauhinia forficateJ.H.F. Link,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Betula pendulaÿRoth.,0.5
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Bignoniaceaesp.,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Brachychiton populneus(Schott & Endl.) R.Br.,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Cedrus deodara(Roxb. ex Lambert) G. Son,0.3
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Celtis africana*Burm. f.,1.1
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Celtis sinensisÿPers.,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Ceratonia siliqueÿL.,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Cotoneaster glaucophyllusFranch,0.4
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Delonix regia(Bojer) Raf.,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Erythrina caffra*Thunb.,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Fraxinus americanaMarsh.,1.4
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Fraxinus velutinaLingelsh.,5.6
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Fraxinusÿsp.,0.4
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Grevillea robustaÿA. Cunn. ex R.Br.,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Hakea salicifolia(Vent.) B.L. Burtt,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Harpephyllum caffrum* Bernh. ex Krauss,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Ligustrum lucidumÿAit.,0.3
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Ligustrum ovalifoliumHort ex Decne.,0.1
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Melia azedarachÿL.,0.5
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Morus japonicaSiebold.,0.1
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Musa paradisiacaÿL.,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Olea africana*(Mill.) P.S. Green,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Pinus halepensisMill.,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Pinusÿsp.,0.1
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Platanus acerifolia(Aiton) Willd.,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Robinia pseudoacaciaL.,2.1
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Schinus molleL.,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Schinus terebinthfoliusRaddi.,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Searsia lancea*ÿ(L.f.) F.A. Barkley,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Sophora japonicaÿL.,0.5
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Tamarix gallicaÿSieber ex Nyman.,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Thuja occidentalisL.,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Tremaÿsp.,0
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Ulmus parvifoliaJacq.,0.5
+-30.992222,26.324722,1405,Burgersdorp,South Africa,0.01599,0.000533,Unknown,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Acer buergerianumMiq.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Agathis robustaÿ(C. Moore ex F. Muell.) F.M. Bailey,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Bauhinia forficateJ.H.F. Link,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Betula pendulaÿRoth.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Bignoniaceaesp.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Brachychiton populneus(Schott & Endl.) R.Br.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Cedrus deodara(Roxb. ex Lambert) G. Son,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Celtis africana*Burm. f.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Celtis sinensisÿPers.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Ceratonia siliqueÿL.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Cotoneaster glaucophyllusFranch,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Delonix regia(Bojer) Raf.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Erythrina caffra*Thunb.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Fraxinus americanaMarsh.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Fraxinus velutinaLingelsh.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Fraxinusÿsp.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Grevillea robustaÿA. Cunn. ex R.Br.,0.4
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Hakea salicifolia(Vent.) B.L. Burtt,0.8
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Harpephyllum caffrum* Bernh. ex Krauss,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Ligustrum lucidumÿAit.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Ligustrum ovalifoliumHort ex Decne.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Melia azedarachÿL.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Morus japonicaSiebold.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Musa paradisiacaÿL.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Olea africana*(Mill.) P.S. Green,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Pinus halepensisMill.,0.4
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Pinusÿsp.,0.2
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Platanus acerifolia(Aiton) Willd.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Robinia pseudoacaciaL.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Schinus molleL.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Schinus terebinthfoliusRaddi.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Searsia lancea*ÿ(L.f.) F.A. Barkley,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Sophora japonicaÿL.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Tamarix gallicaÿSieber ex Nyman.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Thuja occidentalisL.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Tremaÿsp.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Ulmus parvifoliaJacq.,0
+-31.316667,28.75,9,Tsolo,South Africa,0.007794,0.000169,Unknown,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Acer buergerianumMiq.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Agathis robustaÿ(C. Moore ex F. Muell.) F.M. Bailey,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Bauhinia forficateJ.H.F. Link,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Betula pendulaÿRoth.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Bignoniaceaesp.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Brachychiton populneus(Schott & Endl.) R.Br.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Cedrus deodara(Roxb. ex Lambert) G. Son,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Celtis africana*Burm. f.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Celtis sinensisÿPers.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Ceratonia siliqueÿL.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Cotoneaster glaucophyllusFranch,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Delonix regia(Bojer) Raf.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Erythrina caffra*Thunb.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Fraxinus americanaMarsh.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Fraxinus velutinaLingelsh.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Fraxinusÿsp.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Grevillea robustaÿA. Cunn. ex R.Br.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Hakea salicifolia(Vent.) B.L. Burtt,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Harpephyllum caffrum* Bernh. ex Krauss,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Ligustrum lucidumÿAit.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Ligustrum ovalifoliumHort ex Decne.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Melia azedarachÿL.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Morus japonicaSiebold.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Musa paradisiacaÿL.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Olea africana*(Mill.) P.S. Green,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Pinus halepensisMill.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Pinusÿsp.,0.3
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Platanus acerifolia(Aiton) Willd.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Robinia pseudoacaciaL.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Schinus molleL.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Schinus terebinthfoliusRaddi.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Searsia lancea*ÿ(L.f.) F.A. Barkley,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Sophora japonicaÿL.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Tamarix gallicaÿSieber ex Nyman.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Thuja occidentalisL.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Tremaÿsp.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Ulmus parvifoliaJacq.,0
+-31.53333,29.016667,770,Libode,South Africa,0.00456,0.001152,Unknown,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Acer buergerianumMiq.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Agathis robustaÿ(C. Moore ex F. Muell.) F.M. Bailey,0.5
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Bauhinia forficateJ.H.F. Link,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Betula pendulaÿRoth.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Bignoniaceaesp.,0.8
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Brachychiton populneus(Schott & Endl.) R.Br.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Cedrus deodara(Roxb. ex Lambert) G. Son,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Celtis africana*Burm. f.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Celtis sinensisÿPers.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Ceratonia siliqueÿL.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Cotoneaster glaucophyllusFranch,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Delonix regia(Bojer) Raf.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Erythrina caffra*Thunb.,0.5
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Fraxinus americanaMarsh.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Fraxinus velutinaLingelsh.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Fraxinusÿsp.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Grevillea robustaÿA. Cunn. ex R.Br.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Hakea salicifolia(Vent.) B.L. Burtt,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Harpephyllum caffrum* Bernh. ex Krauss,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Ligustrum lucidumÿAit.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Ligustrum ovalifoliumHort ex Decne.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Melia azedarachÿL.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Morus japonicaSiebold.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Musa paradisiacaÿL.,0.5
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Olea africana*(Mill.) P.S. Green,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Pinus halepensisMill.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Pinusÿsp.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Platanus acerifolia(Aiton) Willd.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Robinia pseudoacaciaL.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Schinus molleL.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Schinus terebinthfoliusRaddi.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Searsia lancea*ÿ(L.f.) F.A. Barkley,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Sophora japonicaÿL.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Tamarix gallicaÿSieber ex Nyman.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Thuja occidentalisL.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Tremaÿsp.,0.5
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Ulmus parvifoliaJacq.,0
+-31.6288,29.5369,99,Port St John's,South Africa,0.006441,0.000805,Unknown,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Acer buergerianumMiq.,1.3
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Agathis robustaÿ(C. Moore ex F. Muell.) F.M. Bailey,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Bauhinia forficateJ.H.F. Link,0.5
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Betula pendulaÿRoth.,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Bignoniaceaesp.,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Brachychiton populneus(Schott & Endl.) R.Br.,0.4
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Cedrus deodara(Roxb. ex Lambert) G. Son,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Celtis africana*Burm. f.,2.4
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Celtis sinensisÿPers.,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Ceratonia siliqueÿL.,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Cotoneaster glaucophyllusFranch,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Delonix regia(Bojer) Raf.,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Erythrina caffra*Thunb.,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Fraxinus americanaMarsh.,1.5
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Fraxinus velutinaLingelsh.,2.9
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Fraxinusÿsp.,1.1
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Grevillea robustaÿA. Cunn. ex R.Br.,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Hakea salicifolia(Vent.) B.L. Burtt,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Harpephyllum caffrum* Bernh. ex Krauss,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Ligustrum lucidumÿAit.,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Ligustrum ovalifoliumHort ex Decne.,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Melia azedarachÿL.,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Morus japonicaSiebold.,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Musa paradisiacaÿL.,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Olea africana*(Mill.) P.S. Green,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Pinus halepensisMill.,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Pinusÿsp.,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Platanus acerifolia(Aiton) Willd.,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Robinia pseudoacaciaL.,0.1
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Schinus molleL.,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Schinus terebinthfoliusRaddi.,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Searsia lancea*ÿ(L.f.) F.A. Barkley,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Sophora japonicaÿL.,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Tamarix gallicaÿSieber ex Nyman.,1
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Thuja occidentalisL.,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Tremaÿsp.,0
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Ulmus parvifoliaJacq.,3.5
+-31.9,26.88333,1082,Queenstown,South Africa,0.068872,0.0097,Unknown,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Acer buergerianumMiq.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Agathis robustaÿ(C. Moore ex F. Muell.) F.M. Bailey,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Bauhinia forficateJ.H.F. Link,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Betula pendulaÿRoth.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Bignoniaceaesp.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Brachychiton populneus(Schott & Endl.) R.Br.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Cedrus deodara(Roxb. ex Lambert) G. Son,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Celtis africana*Burm. f.,0.4
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Celtis sinensisÿPers.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Ceratonia siliqueÿL.,0.4
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Cotoneaster glaucophyllusFranch,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Delonix regia(Bojer) Raf.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Erythrina caffra*Thunb.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Fraxinus americanaMarsh.,0.1
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Fraxinus velutinaLingelsh.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Fraxinusÿsp.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Grevillea robustaÿA. Cunn. ex R.Br.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Hakea salicifolia(Vent.) B.L. Burtt,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Harpephyllum caffrum* Bernh. ex Krauss,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Ligustrum lucidumÿAit.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Ligustrum ovalifoliumHort ex Decne.,0.3
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Melia azedarachÿL.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Morus japonicaSiebold.,0.6
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Musa paradisiacaÿL.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Olea africana*(Mill.) P.S. Green,2.1
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Pinus halepensisMill.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Pinusÿsp.,2.1
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Platanus acerifolia(Aiton) Willd.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Robinia pseudoacaciaL.,0.4
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Schinus molleL.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Schinus terebinthfoliusRaddi.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Searsia lancea*ÿ(L.f.) F.A. Barkley,0.7
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Sophora japonicaÿL.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Tamarix gallicaÿSieber ex Nyman.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Thuja occidentalisL.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Tremaÿsp.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Ulmus parvifoliaJacq.,0
+-32.170556,25.616667,880,Cradock,South Africa,0.03667,0.000293,Unknown,0.4
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Acer buergerianumMiq.,0
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Agathis robustaÿ(C. Moore ex F. Muell.) F.M. Bailey,0
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Bauhinia forficateJ.H.F. Link,0
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Betula pendulaÿRoth.,0
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Bignoniaceaesp.,0
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Brachychiton populneus(Schott & Endl.) R.Br.,1
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Cedrus deodara(Roxb. ex Lambert) G. Son,0
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Celtis africana*Burm. f.,1.2
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Celtis sinensisÿPers.,1.1
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Ceratonia siliqueÿL.,1.9
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Cotoneaster glaucophyllusFranch,0
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Delonix regia(Bojer) Raf.,0.9
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Erythrina caffra*Thunb.,0
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Fraxinus americanaMarsh.,4.3
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Fraxinus velutinaLingelsh.,3
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Fraxinusÿsp.,0.2
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Grevillea robustaÿA. Cunn. ex R.Br.,0.5
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Hakea salicifolia(Vent.) B.L. Burtt,0
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Harpephyllum caffrum* Bernh. ex Krauss,0.8
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Ligustrum lucidumÿAit.,0
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Ligustrum ovalifoliumHort ex Decne.,0
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Melia azedarachÿL.,0.3
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Morus japonicaSiebold.,0
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Musa paradisiacaÿL.,0
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Olea africana*(Mill.) P.S. Green,0.4
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Pinus halepensisMill.,0
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Pinusÿsp.,2.2
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Platanus acerifolia(Aiton) Willd.,0
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Robinia pseudoacaciaL.,0.2
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Schinus molleL.,0.4
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Schinus terebinthfoliusRaddi.,0.4
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Searsia lancea*ÿ(L.f.) F.A. Barkley,0.1
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Sophora japonicaÿL.,0
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Tamarix gallicaÿSieber ex Nyman.,0
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Thuja occidentalisL.,1
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Tremaÿsp.,0
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Ulmus parvifoliaJacq.,0
+-32.252222,24.540556,750,Graaff-Reinet,South Africa,0.035672,0.000706,Unknown,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Acer buergerianumMiq.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Agathis robustaÿ(C. Moore ex F. Muell.) F.M. Bailey,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Bauhinia forficateJ.H.F. Link,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Betula pendulaÿRoth.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Bignoniaceaesp.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Brachychiton populneus(Schott & Endl.) R.Br.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Cedrus deodara(Roxb. ex Lambert) G. Son,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Celtis africana*Burm. f.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Celtis sinensisÿPers.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Ceratonia siliqueÿL.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Cotoneaster glaucophyllusFranch,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Delonix regia(Bojer) Raf.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Erythrina caffra*Thunb.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Fraxinus americanaMarsh.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Fraxinus velutinaLingelsh.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Fraxinusÿsp.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Grevillea robustaÿA. Cunn. ex R.Br.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Hakea salicifolia(Vent.) B.L. Burtt,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Harpephyllum caffrum* Bernh. ex Krauss,2.7
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Ligustrum lucidumÿAit.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Ligustrum ovalifoliumHort ex Decne.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Melia azedarachÿL.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Morus japonicaSiebold.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Musa paradisiacaÿL.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Olea africana*(Mill.) P.S. Green,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Pinus halepensisMill.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Pinusÿsp.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Platanus acerifolia(Aiton) Willd.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Robinia pseudoacaciaL.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Schinus molleL.,1.3
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Schinus terebinthfoliusRaddi.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Searsia lancea*ÿ(L.f.) F.A. Barkley,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Sophora japonicaÿL.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Tamarix gallicaÿSieber ex Nyman.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Thuja occidentalisL.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Tremaÿsp.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Ulmus parvifoliaJacq.,0
+-33.196,27.116,302,Peddie,South Africa,0.004658,0.00126,Unknown,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Acer buergerianumMiq.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Agathis robustaÿ(C. Moore ex F. Muell.) F.M. Bailey,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Bauhinia forficateJ.H.F. Link,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Betula pendulaÿRoth.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Bignoniaceaesp.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Brachychiton populneus(Schott & Endl.) R.Br.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Cedrus deodara(Roxb. ex Lambert) G. Son,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Celtis africana*Burm. f.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Celtis sinensisÿPers.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Ceratonia siliqueÿL.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Cotoneaster glaucophyllusFranch,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Delonix regia(Bojer) Raf.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Erythrina caffra*Thunb.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Fraxinus americanaMarsh.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Fraxinus velutinaLingelsh.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Fraxinusÿsp.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Grevillea robustaÿA. Cunn. ex R.Br.,1.9
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Hakea salicifolia(Vent.) B.L. Burtt,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Harpephyllum caffrum* Bernh. ex Krauss,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Ligustrum lucidumÿAit.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Ligustrum ovalifoliumHort ex Decne.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Melia azedarachÿL.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Morus japonicaSiebold.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Musa paradisiacaÿL.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Olea africana*(Mill.) P.S. Green,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Pinus halepensisMill.,4.3
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Pinusÿsp.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Platanus acerifolia(Aiton) Willd.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Robinia pseudoacaciaL.,2
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Schinus molleL.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Schinus terebinthfoliusRaddi.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Searsia lancea*ÿ(L.f.) F.A. Barkley,3.3
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Sophora japonicaÿL.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Tamarix gallicaÿSieber ex Nyman.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Thuja occidentalisL.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Tremaÿsp.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Ulmus parvifoliaJacq.,0
+-33.283333,23.483333,820,Willowmore,South Africa,0.007678,0.000366,Unknown,0

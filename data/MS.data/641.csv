@@ -1,0 +1,31 @@
+GI.type,Sites,Bird abundance,Bird richness,Bird diversity,Evenness
+park,Peace Park,295,19,1.95,0.37
+park,San-min Park,87,14,2.143,0.6091
+park,Da-an Forest Park,547,31,2.481,0.3855
+public/community gardens,Chiang Kai-shek Memorial Hall,504,26,2.484,0.461
+park,Zhong-yuan Park,11,6,1.72,0.9309
+park,Mei-shu Park,56,10,1.535,0.4643
+public/community gardens,National Taiwan University,388,33,2.364,0.5934
+park,Four Four South Village,59,9,1.687,0.6002
+park,Si-wei Park,15,4,1.27,0.8902
+park,Min-aheng Park,95,11,1.623,0.4606
+park,Min-quan Park,72,14,2.148,0.6118
+park,Yu-cheng Park,151,20,1.695,0.2724
+park,Yu-quan Park,45,11,1.805,0.5527
+park,Xi-song Park,23,8,1.69,0.6772
+park,Song-shan Cultural Creative Park,151,18,2.128,0.4666
+park,Song-de Park,37,9,1.579,0.5391
+park,Lin-sen Park,85,11,1.287,0.3294
+park,Yuan-shan Park,175,12,1.469,0.3621
+park,Qing-mian Park,162,19,2.195,0.4727
+park,Jian-cheng Park,116,9,0.9214,0.2792
+public/community gardens,Dr. Sun Yat-sen Memorial Hall,224,29,2.735,0.5315
+park,Kang-le Park,137,12,1.701,0.4567
+park,Zhao-yang Tea Park,21,6,1.524,0.7653
+public/community gardens,Taipei Botanic Garden,273,30,2.489,0.4015
+park,Hua-shan Park,299,17,2.101,0.4811
+park,Ta-cheng Park,4,4,1.386,1
+park,Xin-sheng Park,233,17,1.748,0.3379
+park,Xin-xi Park,13,4,1.266,0.8865
+park,Rong-xing Park,281,20,1.875,0.3261
+park,Meng-jia Park,116,12,1.303,0.3068
