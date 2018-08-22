@@ -1,0 +1,9 @@
+lat,lon,elevation,city,country,human.population,human.density,GI type,Area,infrastructure,Habitat,Total.count,Mean.abundance,SE,Rep,Mean.vegetation.area (m2),SE.vegetation.area,wall.height.mean (m)
+53.0109,-2.2278,124,Newcastle-under-Lyme,UK,0.128264,0.00608,green walls,Vicinity,green,walls,68,2.4,0.76,27,19.9,2.75,3.76
+53.0109,-2.2278,124,Newcastle-under-Lyme,UK,0.128264,0.00608,green walls,Vicinity,grey,walls,15,0.53,0.3,27,0,0,3.76
+53.0109,-2.2278,124,Newcastle-under-Lyme,UK,0.128264,0.00608,green walls,Surface of wall ,green,walls,38,1.41,0.53,27,19.9,2.75,3.76
+53.0109,-2.2278,124,Newcastle-under-Lyme,UK,0.128264,0.00608,green walls,Surface of wall ,grey,walls,0,0,0,27,0,0,3.76
+53.0109,-2.2278,124,Newcastle-under-Lyme,UK,0.128264,0.00608,green walls,Roof,green,walls,18,0.667,0.27,27,19.9,2.75,3.76
+53.0109,-2.2278,124,Newcastle-under-Lyme,UK,0.128264,0.00608,green walls,Roof,grey,walls,15,0.556,0.31,27,0,0,3.76
+53.0109,-2.2278,124,Newcastle-under-Lyme,UK,0.128264,0.00608,green walls,Surrounding vegetation,green,walls,12,0.445,0.23,27,19.9,2.75,3.76
+53.0109,-2.2278,124,Newcastle-under-Lyme,UK,0.128264,0.00608,green walls,Surrounding vegetation,grey,walls,0,0,0,27,0,0,3.76

@@ -1,0 +1,19 @@
+Body size category,Habitat,Stat,Value
+Small,Ground,Count,175
+Medium,Ground,Count,16
+Large,Ground,Count,90
+Small,Ground,Mean,40
+Medium,Ground,Mean,4
+Large,Ground,Mean,22
+Small,Ground,SE,7
+Medium,Ground,SE,2
+Large,Ground,SE,2
+Small,Green Roof,Count,77
+Medium,Green Roof,Count,28
+Large,Green Roof,Count,28
+Small,Green Roof,Mean,19
+Medium,Green Roof,Mean,7
+Large,Green Roof,Mean,7
+Small,Green Roof,SE,9
+Medium,Green Roof,SE,3
+Large,Green Roof,SE,3

@@ -1,0 +1,55 @@
+Habitat,Species,Stat,Value,Rep
+ground,Allium cernuum,PLVsÿ,11.36,70
+ground,Amorpha canescens,PLVsÿ,0,22
+ground,Aquilegia canadensis,PLVsÿ,0,55
+ground,Baptisia albaa,PLVsÿ,0,49
+ground,Baptisia australis,PLVsÿ,30.92,34
+ground,Dalea purpurea,PLVsÿ,0,22
+ground,Monarda fistulosa,PLVsÿ,0,70
+ground,Penstemon digitalis,PLVsÿ,13.32,68
+ground,Zizia aurea,PLVsÿ,25.76,59
+green roof,Allium cernuum,PLVsÿ,30.77,63
+green roof,Amorpha canescens,PLVsÿ,2.24,47
+green roof,Aquilegia canadensis,PLVsÿ,0,44
+green roof,Baptisia albaa,PLVsÿ,0,7
+green roof,Baptisia australis,PLVsÿ,81.96,22
+green roof,Dalea purpurea,PLVsÿ,0,64
+green roof,Monarda fistulosa,PLVsÿ,7.87,46
+green roof,Penstemon digitalis,PLVsÿ,0,44
+green roof,Zizia aurea,PLVsÿ,0,13
+ground,Allium cernuum,Mean PMWs,59.29,70
+ground,Amorpha canescens,Mean PMWs,47.19,23
+ground,Aquilegia canadensis,Mean PMWs,70.72,58
+ground,Baptisia albaa,Mean PMWs,57.98,34
+ground,Baptisia australis,Mean PMWs,79.21,33
+ground,Dalea purpurea,Mean PMWs,57.62,24
+ground,Monarda fistulosa,Mean PMWs,44.74,77
+ground,Penstemon digitalis,Mean PMWs,41.32,51
+ground,Zizia aurea,Mean PMWs,41.81,49
+green roof,Allium cernuum,Mean PMWs,70.68,67
+green roof,Amorpha canescens,Mean PMWs,64.78,50
+green roof,Aquilegia canadensis,Mean PMWs,60.23,48
+green roof,Baptisia albaa,Mean PMWs,41.12,3
+green roof,Baptisia australis,Mean PMWs,86.03,9
+green roof,Dalea purpurea,Mean PMWs,70.58,75
+green roof,Monarda fistulosa,Mean PMWs,57.72,50
+green roof,Penstemon digitalis,Mean PMWs,46.07,33
+green roof,Zizia aurea,Mean PMWs,55.79,18
+ground,Allium cernuum,MeanÿSE ,1.62,
+ground,Amorpha canescens,MeanÿSE ,1.7,
+ground,Aquilegia canadensis,MeanÿSE ,1.48,
+ground,Baptisia albaa,MeanÿSE ,3.31,
+ground,Baptisia australis,MeanÿSE ,1.91,
+ground,Dalea purpurea,MeanÿSE ,2.53,
+ground,Monarda fistulosa,MeanÿSE ,1.31,
+ground,Penstemon digitalis,MeanÿSE ,2.17,
+ground,Zizia aurea,MeanÿSE ,1.45,
+green roof,Allium cernuum,MeanÿSE ,1.62,
+green roof,Amorpha canescens,MeanÿSE ,1.95,
+green roof,Aquilegia canadensis,MeanÿSE ,2.04,
+green roof,Baptisia albaa,MeanÿSE ,29.45,
+green roof,Baptisia australis,MeanÿSE ,4.3,
+green roof,Dalea purpurea,MeanÿSE ,1.38,
+green roof,Monarda fistulosa,MeanÿSE ,2.06,
+green roof,Penstemon digitalis,MeanÿSE ,3.41,
+green roof,Zizia aurea,MeanÿSE ,4.93,

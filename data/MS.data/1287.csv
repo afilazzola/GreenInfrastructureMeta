@@ -1,0 +1,11 @@
+lat,lon,elevation,city,country,human.population,human.density,GI type,area (m2),Year,Breeding Pairs,Hatchlings,Taxa
+47.166667,8.516667,415,Zug,Switzerland,0.02984,0.001421,green roof,3200,2005,2,4,Birds
+47.083333,8,260,Aargau,Switzerland,0.663462,0.00473,green roof,97447,2005,1,4,Birds
+47.366667,8.55,392,Zurich,Switzerland,0.407,0.004655,green roof,2000,2005,3,9,Birds
+47.05,8.3,422,Lucerne,Switzerland,0.081592,0.002814,green roof,2000,2005,0,0,Birds
+46.95,7.45,481,Bern,Switzerland,0.133,0.002608,green roof,8346,2005,1,0,Birds
+47.166667,8.516667,415,Zug,Switzerland,0.02984,0.001421,green roof,3200,2006,1,4,Birds
+47.083333,8,260,Aargau,Switzerland,0.663462,0.00473,green roof,97447,2006,1,4,Birds
+47.366667,8.55,392,Zurich,Switzerland,0.407,0.004655,green roof,2000,2006,NA,NA,Birds
+47.05,8.3,422,Lucerne,Switzerland,0.081592,0.002814,green roof,2000,2006,0,0,Birds
+46.95,7.45,481,Bern,Switzerland,0.133,0.002608,green roof,8346,2006,1,0,Birds
