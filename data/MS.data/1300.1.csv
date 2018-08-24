@@ -1,0 +1,29 @@
+Location,Lat,lon,Soil characteristics,"Soil
+Depth","Area
+(m2)","Height
+above","Distance to
+nearest",Measure,Stat,Value
+Wellesley College Botanic Gardens (WT),42.2942,-71.3039,Low organic content,15,55,1,0,vegetation cover,mean,41
+Massachusetts College of Art and Design (MA),42.3369,-71.0985,High organic content,30,149,60,16,vegetation cover,mean,49
+Four Seasons Hotel Boston (FS),42.3521,-71.068,High organic content,7.5,326,10,50,vegetation cover,mean,99
+Boston City Hall (CH),42.3606,-71.0581,High organic content,15,17,30,63,vegetation cover,mean,93
+"Campus Center, Wellesley College (CC)",42.2945,-71.3087,High organic content,75,66,18,10,vegetation cover,mean,67
+"Alumnae Hall, Wellesley College",42.2947,-71.3104,High organic content,12,37,0.7,0,vegetation cover,mean,54
+Wellesley College Botanic Gardens (WT),42.2942,-71.3039,Low organic content,15,55,1,0,vegetation cover,SE,11
+Massachusetts College of Art and Design (MA),42.3369,-71.0985,High organic content,30,149,60,16,vegetation cover,SE,14
+Four Seasons Hotel Boston (FS),42.3521,-71.068,High organic content,7.5,326,10,50,vegetation cover,SE,3
+Boston City Hall (CH),42.3606,-71.0581,High organic content,15,17,30,63,vegetation cover,SE,15
+"Campus Center, Wellesley College (CC)",42.2945,-71.3087,High organic content,75,66,18,10,vegetation cover,SE,11
+"Alumnae Hall, Wellesley College",42.2947,-71.3104,High organic content,12,37,0.7,0,vegetation cover,SE,13
+Wellesley College Botanic Gardens (WT),42.2942,-71.3039,Low organic content,15,55,1,0,richness,mean,4.9
+Massachusetts College of Art and Design (MA),42.3369,-71.0985,High organic content,30,149,60,16,richness,mean,7.4
+Four Seasons Hotel Boston (FS),42.3521,-71.068,High organic content,7.5,326,10,50,richness,mean,5.8
+Boston City Hall (CH),42.3606,-71.0581,High organic content,15,17,30,63,richness,mean,5.8
+"Campus Center, Wellesley College (CC)",42.2945,-71.3087,High organic content,75,66,18,10,richness,mean,4.2
+"Alumnae Hall, Wellesley College",42.2947,-71.3104,High organic content,12,37,0.7,0,richness,mean,2.6
+Wellesley College Botanic Gardens (WT),42.2942,-71.3039,Low organic content,15,55,1,0,richness,SE,1.2
+Massachusetts College of Art and Design (MA),42.3369,-71.0985,High organic content,30,149,60,16,richness,SE,0.9
+Four Seasons Hotel Boston (FS),42.3521,-71.068,High organic content,7.5,326,10,50,richness,SE,1.3
+Boston City Hall (CH),42.3606,-71.0581,High organic content,15,17,30,63,richness,SE,1.9
+"Campus Center, Wellesley College (CC)",42.2945,-71.3087,High organic content,75,66,18,10,richness,SE,1.6
+"Alumnae Hall, Wellesley College",42.2947,-71.3104,High organic content,12,37,0.7,0,richness,SE,0.5

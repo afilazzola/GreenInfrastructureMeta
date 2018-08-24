@@ -1,0 +1,161 @@
+Estimate,type of green roof,rep,stat,value
+pH,young,1,mean,6.49
+Corg (%),young,1,mean,3.4
+Nt (%),young,1,mean,0.22
+DHA (?g TPF g?1 d?1),young,1,mean,2032
+Soil water content (%),young,1,mean,28.6
+Collembola (103 ind. m?2),young,1,mean,87.5
+Shannon–Weaver,young,1,mean,1.16
+Evenness,young,1,mean,0.42
+pH,old,1,mean,5.76
+Corg (%),old,1,mean,4.2
+Nt (%),old,1,mean,0.25
+DHA (mg TPF g?1 d?1),old,1,mean,1991
+Soil water content (%),old,1,mean,18.8
+Collembola (103 ind. m?2),old,1,mean,76.4
+Shannon–Weaver,old,1,mean,0.87
+Evenness,old,1,mean,0.32
+pH,young,1,SE,0.18
+Corg (%),young,1,SE,1.4
+Nt (%),young,1,SE,0.03
+DHA (?g TPF g?1 d?1),young,1,SE,962
+Soil water content (%),young,1,SE,27.8
+Collembola (103 ind. m?2),young,1,SE,11.7
+Shannon–Weaver,young,1,SE,
+Evenness,young,1,SE,
+pH,old,1,SE,0.3
+Corg (%),old,1,SE,1.6
+Nt (%),old,1,SE,0.11
+DHA (mg TPF g?1 d?1),old,1,SE,171
+Soil water content (%),old,1,SE,17.7
+Collembola (103 ind. m?2),old,1,SE,12.1
+Shannon–Weaver,old,1,SE,
+Evenness,old,1,SE,
+pH,young,2,mean,6.51
+Corg (%),young,2,mean,1.2
+Nt (%),young,2,mean,0.16
+DHA (?g TPF g?1 d?1),young,2,mean,451
+Soil water content (%),young,2,mean,15.5
+Collembola (103 ind. m?2),young,2,mean,22.9
+Shannon–Weaver,young,2,mean,0.81
+Evenness,young,2,mean,0.31
+pH,old,2,mean,5.77
+Corg (%),old,2,mean,1.6
+Nt (%),old,2,mean,0.34
+DHA (mg TPF g?1 d?1),old,2,mean,3938
+Soil water content (%),old,2,mean,19
+Collembola (103 ind. m?2),old,2,mean,67
+Shannon–Weaver,old,2,mean,1.03
+Evenness,old,2,mean,0.4
+pH,young,2,SE,0.21
+Corg (%),young,2,SE,0.6
+Nt (%),young,2,SE,0.06
+DHA (?g TPF g?1 d?1),young,2,SE,75
+Soil water content (%),young,2,SE,15.2
+Collembola (103 ind. m?2),young,2,SE,8.6
+Shannon–Weaver,young,2,SE,
+Evenness,young,2,SE,
+pH,old,2,SE,0.24
+Corg (%),old,2,SE,0.9
+Nt (%),old,2,SE,0.2
+DHA (mg TPF g?1 d?1),old,2,SE,2059
+Soil water content (%),old,2,SE,17.9
+Collembola (103 ind. m?2),old,2,SE,24.1
+Shannon–Weaver,old,2,SE,
+Evenness,old,2,SE,
+pH,young,3,mean,6.76
+Corg (%),young,3,mean,2
+Nt (%),young,3,mean,0.26
+DHA (?g TPF g?1 d?1),young,3,mean,1382
+Soil water content (%),young,3,mean,21.4
+Collembola (103 ind. m?2),young,3,mean,41.1
+Shannon–Weaver,young,3,mean,0.75
+Evenness,young,3,mean,0.25
+pH,old,3,mean,5.91
+Corg (%),old,3,mean,4
+Nt (%),old,3,mean,0.32
+DHA (mg TPF g?1 d?1),old,3,mean,1983
+Soil water content (%),old,3,mean,26.6
+Collembola (103 ind. m?2),old,3,mean,19.8
+Shannon–Weaver,old,3,mean,0.81
+Evenness,old,3,mean,0.26
+pH,young,3,SE,0.13
+Corg (%),young,3,SE,2.3
+Nt (%),young,3,SE,0.13
+DHA (?g TPF g?1 d?1),young,3,SE,876
+Soil water content (%),young,3,SE,19.89
+Collembola (103 ind. m?2),young,3,SE,22.9
+Shannon–Weaver,young,3,SE,
+Evenness,young,3,SE,
+pH,old,3,SE,0.2
+Corg (%),old,3,SE,1.8
+Nt (%),old,3,SE,0.16
+DHA (mg TPF g?1 d?1),old,3,SE,1632
+Soil water content (%),old,3,SE,25.7
+Collembola (103 ind. m?2),old,3,SE,12.9
+Shannon–Weaver,old,3,SE,
+Evenness,old,3,SE,
+pH,young,4,mean,6.23
+Corg (%),young,4,mean,1.1
+Nt (%),young,4,mean,0.35
+DHA (?g TPF g?1 d?1),young,4,mean,2697
+Soil water content (%),young,4,mean,22.8
+Collembola (103 ind. m?2),young,4,mean,68.6
+Shannon–Weaver,young,4,mean,0.92
+Evenness,young,4,mean,0.33
+pH,old,4,mean,6.47
+Corg (%),old,4,mean,4.5
+Nt (%),old,4,mean,0.48
+DHA (mg TPF g?1 d?1),old,4,mean,4530
+Soil water content (%),old,4,mean,25.9
+Collembola (103 ind. m?2),old,4,mean,41.3
+Shannon–Weaver,old,4,mean,0.77
+Evenness,old,4,mean,0.26
+pH,young,4,SE,0.44
+Corg (%),young,4,SE,0.6
+Nt (%),young,4,SE,0.22
+DHA (?g TPF g?1 d?1),young,4,SE,32
+Soil water content (%),young,4,SE,21.5
+Collembola (103 ind. m?2),young,4,SE,11.9
+Shannon–Weaver,young,4,SE,
+Evenness,young,4,SE,
+pH,old,4,SE,0.16
+Corg (%),old,4,SE,2.1
+Nt (%),old,4,SE,0.12
+DHA (mg TPF g?1 d?1),old,4,SE,1316
+Soil water content (%),old,4,SE,23.4
+Collembola (103 ind. m?2),old,4,SE,23.2
+Shannon–Weaver,old,4,SE,
+Evenness,old,4,SE,
+pH,young,4,mean,6.52
+Corg (%),young,4,mean,1.4
+Nt (%),young,4,mean,0.24
+DHA (?g TPF g?1 d?1),young,4,mean,2898
+Soil water content (%),young,4,mean,24.8
+Collembola (103 ind. m?2),young,4,mean,55.2
+Shannon–Weaver,young,4,mean,0.78
+Evenness,young,4,mean,0.26
+pH,old,4,mean,5.33
+Corg (%),old,4,mean,8.4
+Nt (%),old,4,mean,0.3
+DHA (mg TPF g?1 d?1),old,4,mean,1928
+Soil water content (%),old,4,mean,23.9
+Collembola (103 ind. m?2),old,4,mean,80.2
+Shannon–Weaver,old,4,mean,1.7
+Evenness,old,4,mean,0.61
+pH,young,4,SE,0.19
+Corg (%),young,4,SE,0.4
+Nt (%),young,4,SE,0.01
+DHA (?g TPF g?1 d?1),young,4,SE,27
+Soil water content (%),young,4,SE,23.4
+Collembola (103 ind. m?2),young,4,SE,4
+Shannon–Weaver,young,4,SE,
+Evenness,young,4,SE,
+pH,old,4,SE,0.53
+Corg (%),old,4,SE,2.5
+Nt (%),old,4,SE,0.02
+DHA (mg TPF g?1 d?1),old,4,SE,842
+Soil water content (%),old,4,SE,23.2
+Collembola (103 ind. m?2),old,4,SE,46.1
+Shannon–Weaver,old,4,SE,
+Evenness,old,4,SE,
