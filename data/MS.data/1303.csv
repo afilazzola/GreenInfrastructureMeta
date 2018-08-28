@@ -1,0 +1,163 @@
+Taxa,Rep,Method,Estimate,Stat,Abundance
+Beetles,61,Litter,Abundance,Count,254
+Slugs,61,Litter,Abundance,Count,60
+Snails,61,Litter,Abundance,Count,581
+Spiders,61,Litter,Abundance,Count,224
+Harvestmen,61,Litter,Abundance,Count,50
+Pseudoscorpions,61,Litter,Abundance,Count,16
+Centipedes,61,Litter,Abundance,Count,89
+Millipedes,61,Litter,Abundance,Count,249
+Woodlice,61,Litter,Abundance,Count,3941
+Beetles,60,Pitfall traps,Abundance,Count,4329
+Slugs,60,Pitfall traps,Abundance,Count,3416
+Snails,60,Pitfall traps,Abundance,Count,436
+Spiders,60,Pitfall traps,Abundance,Count,842
+Harvestmen,60,Pitfall traps,Abundance,Count,413
+Pseudoscorpions,60,Pitfall traps,Abundance,Count,1
+Centipedes,60,Pitfall traps,Abundance,Count,40
+Millipedes,60,Pitfall traps,Abundance,Count,87
+Woodlice,60,Pitfall traps,Abundance,Count,7903
+Beetles,16,Malaise traps,Abundance,Count,672
+Spiders,16,Malaise traps,Abundance,Count,338
+Harvestmen,16,Malaise traps,Abundance,Count,56
+Bumblebees,16,Malaise traps,Abundance,Count,1131
+Saw?ies,16,Malaise traps,Abundance,Count,372
+Crane?ies,16,Malaise traps,Abundance,Count,645
+True bugs,16,Malaise traps,Abundance,Count,1223
+Solitary bees,16,Malaise traps,Abundance,Count,80
+Solitary wasps,16,Malaise traps,Abundance,Count,61
+Beetles,61,Litter,Abundance,Mean,4.16
+Slugs,61,Litter,Abundance,Mean,0.98
+Snails,61,Litter,Abundance,Mean,9.52
+Spiders,61,Litter,Abundance,Mean,3.67
+Harvestmen,61,Litter,Abundance,Mean,0.82
+Pseudoscorpions,61,Litter,Abundance,Mean,0.26
+Centipedes,61,Litter,Abundance,Mean,1.46
+Millipedes,61,Litter,Abundance,Mean,4.08
+Woodlice,61,Litter,Abundance,Mean,64.61
+Beetles,60,Pitfall traps,Abundance,Mean,72.15
+Slugs,60,Pitfall traps,Abundance,Mean,56.93
+Snails,60,Pitfall traps,Abundance,Mean,7.27
+Spiders,60,Pitfall traps,Abundance,Mean,14.03
+Harvestmen,60,Pitfall traps,Abundance,Mean,6.88
+Pseudoscorpions,60,Pitfall traps,Abundance,Mean,0.02
+Centipedes,60,Pitfall traps,Abundance,Mean,0.67
+Millipedes,60,Pitfall traps,Abundance,Mean,1.45
+Woodlice,60,Pitfall traps,Abundance,Mean,131.72
+Beetles,16,Malaise traps,Abundance,Mean,42
+Spiders,16,Malaise traps,Abundance,Mean,21.13
+Harvestmen,16,Malaise traps,Abundance,Mean,3.5
+Bumblebees,16,Malaise traps,Abundance,Mean,70.69
+Saw?ies,16,Malaise traps,Abundance,Mean,23.25
+Crane?ies,16,Malaise traps,Abundance,Mean,40.31
+True bugs,16,Malaise traps,Abundance,Mean,76.44
+Solitary bees,16,Malaise traps,Abundance,Mean,5
+Solitary wasps,16,Malaise traps,Abundance,Mean,3.81
+Beetles,61,Litter,Richness,Count,62
+Slugs,61,Litter,Richness,Count,4
+Snails,61,Litter,Richness,Count,17
+Spiders,61,Litter,Richness,Count,20
+Harvestmen,61,Litter,Richness,Count,7
+Pseudoscorpions,61,Litter,Richness,Count,3
+Centipedes,61,Litter,Richness,Count,6
+Millipedes,61,Litter,Richness,Count,10
+Woodlice,61,Litter,Richness,Count,8
+Beetles,60,Pitfall traps,Richness,Count,139
+Slugs,60,Pitfall traps,Richness,Count,13
+Snails,60,Pitfall traps,Richness,Count,13
+Spiders,60,Pitfall traps,Richness,Count,57
+Harvestmen,60,Pitfall traps,Richness,Count,14
+Pseudoscorpions,60,Pitfall traps,Richness,Count,1
+Centipedes,60,Pitfall traps,Richness,Count,5
+Millipedes,60,Pitfall traps,Richness,Count,9
+Woodlice,60,Pitfall traps,Richness,Count,8
+Beetles,16,Malaise traps,Richness,Count,147
+Spiders,16,Malaise traps,Richness,Count,39
+Harvestmen,16,Malaise traps,Richness,Count,4
+Bumblebees,16,Malaise traps,Richness,Count,9
+Saw?ies,16,Malaise traps,Richness,Count,37
+Crane?ies,16,Malaise traps,Richness,Count,47
+True bugs,16,Malaise traps,Richness,Count,81
+Solitary bees,16,Malaise traps,Richness,Count,21
+Solitary wasps,16,Malaise traps,Richness,Count,20
+Beetles,61,Litter,Richness,Mean,2.4
+Slugs,61,Litter,Richness,Mean,0.7
+Snails,61,Litter,Richness,Mean,2.8
+Spiders,61,Litter,Richness,Mean,0.77
+Harvestmen,61,Litter,Richness,Mean,0.44
+Pseudoscorpions,61,Litter,Richness,Mean,0.23
+Centipedes,61,Litter,Richness,Mean,0.8
+Millipedes,61,Litter,Richness,Mean,1.3
+Woodlice,61,Litter,Richness,Mean,2.6
+Beetles,60,Pitfall traps,Richness,Mean,9.4
+Slugs,60,Pitfall traps,Richness,Mean,4.9
+Snails,60,Pitfall traps,Richness,Mean,4.2
+Spiders,60,Pitfall traps,Richness,Mean,5.1
+Harvestmen,60,Pitfall traps,Richness,Mean,1.6
+Pseudoscorpions,60,Pitfall traps,Richness,Mean,0.02
+Centipedes,60,Pitfall traps,Richness,Mean,1.2
+Millipedes,60,Pitfall traps,Richness,Mean,1.9
+Woodlice,60,Pitfall traps,Richness,Mean,3.4
+Beetles,16,Malaise traps,Richness,Mean,19.9
+Spiders,16,Malaise traps,Richness,Mean,6.1
+Harvestmen,16,Malaise traps,Richness,Mean,1
+Bumblebees,16,Malaise traps,Richness,Mean,6
+Saw?ies,16,Malaise traps,Richness,Mean,7.8
+Crane?ies,16,Malaise traps,Richness,Mean,10.3
+True bugs,16,Malaise traps,Richness,Mean,13.9
+Solitary bees,16,Malaise traps,Richness,Mean,2.8
+Solitary wasps,16,Malaise traps,Richness,Mean,2.4
+Beetles,61,Litter,Richness,Min,0
+Slugs,61,Litter,Richness,Min,0
+Snails,61,Litter,Richness,Min,0
+Spiders,61,Litter,Richness,Min,0
+Harvestmen,61,Litter,Richness,Min,0
+Pseudoscorpions,61,Litter,Richness,Min,0
+Centipedes,61,Litter,Richness,Min,0
+Millipedes,61,Litter,Richness,Min,0
+Woodlice,61,Litter,Richness,Min,0
+Beetles,60,Pitfall traps,Richness,Min,2
+Slugs,60,Pitfall traps,Richness,Min,1
+Snails,60,Pitfall traps,Richness,Min,0
+Spiders,60,Pitfall traps,Richness,Min,1
+Harvestmen,60,Pitfall traps,Richness,Min,0
+Pseudoscorpions,60,Pitfall traps,Richness,Min,0
+Centipedes,60,Pitfall traps,Richness,Min,0
+Millipedes,60,Pitfall traps,Richness,Min,0
+Woodlice,60,Pitfall traps,Richness,Min,1
+Beetles,16,Malaise traps,Richness,Min,11
+Spiders,16,Malaise traps,Richness,Min,2
+Harvestmen,16,Malaise traps,Richness,Min,0
+Bumblebees,16,Malaise traps,Richness,Min,4
+Saw?ies,16,Malaise traps,Richness,Min,3
+Crane?ies,16,Malaise traps,Richness,Min,4
+True bugs,16,Malaise traps,Richness,Min,9
+Solitary bees,16,Malaise traps,Richness,Min,0
+Solitary wasps,16,Malaise traps,Richness,Min,0
+Beetles,61,Litter,Richness,Max,8
+Slugs,61,Litter,Richness,Max,3
+Snails,61,Litter,Richness,Max,8
+Spiders,61,Litter,Richness,Max,3
+Harvestmen,61,Litter,Richness,Max,2
+Pseudoscorpions,61,Litter,Richness,Max,2
+Centipedes,61,Litter,Richness,Max,3
+Millipedes,61,Litter,Richness,Max,4
+Woodlice,61,Litter,Richness,Max,5
+Beetles,60,Pitfall traps,Richness,Max,20
+Slugs,60,Pitfall traps,Richness,Max,7
+Snails,60,Pitfall traps,Richness,Max,10
+Spiders,60,Pitfall traps,Richness,Max,15
+Harvestmen,60,Pitfall traps,Richness,Max,4
+Pseudoscorpions,60,Pitfall traps,Richness,Max,1
+Centipedes,60,Pitfall traps,Richness,Max,3
+Millipedes,60,Pitfall traps,Richness,Max,6
+Woodlice,60,Pitfall traps,Richness,Max,6
+Beetles,16,Malaise traps,Richness,Max,45
+Spiders,16,Malaise traps,Richness,Max,11
+Harvestmen,16,Malaise traps,Richness,Max,3
+Bumblebees,16,Malaise traps,Richness,Max,8
+Saw?ies,16,Malaise traps,Richness,Max,17
+Crane?ies,16,Malaise traps,Richness,Max,17
+True bugs,16,Malaise traps,Richness,Max,20
+Solitary bees,16,Malaise traps,Richness,Max,11
+Solitary wasps,16,Malaise traps,Richness,Max,10

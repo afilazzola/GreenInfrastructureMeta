@@ -1,0 +1,25 @@
+Factor,Estimate,Amphibians,Stat,Value
+Shade,Mean percentage of shoreline,yes,mean,0
+Waterfowl,Number of ponds with waterfowl,yes,mean,3
+Fish,Number of ponds with fish,yes,mean,1
+Pond Density,Mean ponds per km2,yes,mean,2.4
+Macrophyte cover,water surface covered,yes,mean,58
+Macrophyte species,richness,yes,mean,9.6
+Shade,Mean percentage of shoreline,no,mean,0
+Waterfowl,Number of ponds with waterfowl,no,mean,1
+Fish,Number of ponds with fish,no,mean,0
+Pond Density,Mean ponds per km2,no,mean,2.4
+Macrophyte cover,water surface covered,no,mean,23
+Macrophyte species,richness,no,mean,1.5
+Shade,Mean percentage of shoreline,yes,SE,0
+Waterfowl,Number of ponds with waterfowl,yes,SE,38
+Fish,Number of ponds with fish,yes,SE,13
+Pond Density,Mean ponds per km2,yes,SE,0.9
+Macrophyte cover,water surface covered,yes,SE,35
+Macrophyte species,richness,yes,SE,5
+Shade,Mean percentage of shoreline,no,SE,0
+Waterfowl,Number of ponds with waterfowl,no,SE,8
+Fish,Number of ponds with fish,no,SE,0
+Pond Density,Mean ponds per km2,no,SE,1
+Macrophyte cover,water surface covered,no,SE,32
+Macrophyte species,richness,no,SE,1.3

@@ -1,0 +1,61 @@
+urban.gradient,Species,GI.type,Life-stage,Occurrence
+urban,Rana sylvatica,retention pond,Adult,0.44
+urban,Bufo americanus,retention pond,Adult,0.25
+urban,Pseudacris crucifer,retention pond,Adult,0.5
+urban,Hyla chrysoscelis,retention pond,Adult,0.31
+urban,Rana clamitans,retention pond,Adult,0.3
+urban,Rana palustris,retention pond,Adult,0.19
+urban,Rana sylvatica,retention pond,larvae,0.2
+urban,Bufo americanus,retention pond,larvae,0.44
+urban,Pseudacris crucifer,retention pond,larvae,0.19
+urban,Hyla chrysoscelis,retention pond,larvae,0.25
+urban,Rana clamitans,retention pond,larvae,0.6
+urban,Rana palustris,retention pond,larvae,0.19
+urban,Rana sylvatica,artificial,Adult,0.24
+urban,Bufo americanus,artificial,Adult,0.14
+urban,Pseudacris crucifer,artificial,Adult,0.38
+urban,Hyla chrysoscelis,artificial,Adult,0.19
+urban,Rana clamitans,artificial,Adult,0
+urban,Rana palustris,artificial,Adult,0
+urban,Rana sylvatica,artificial,larvae,0.1
+urban,Bufo americanus,artificial,larvae,0.05
+urban,Pseudacris crucifer,artificial,larvae,0.1
+urban,Hyla chrysoscelis,artificial,larvae,0.1
+urban,Rana clamitans,artificial,larvae,0
+urban,Rana palustris,artificial,larvae,0
+urban,Rana sylvatica,natural pond,Adult,0
+urban,Bufo americanus,natural pond,Adult,0
+urban,Pseudacris crucifer,natural pond,Adult,0
+urban,Hyla chrysoscelis,natural pond,Adult,0.13
+urban,Rana clamitans,natural pond,Adult,0
+urban,Rana palustris,natural pond,Adult,0
+urban,Rana sylvatica,natural pond,larvae,0
+urban,Bufo americanus,natural pond,larvae,0
+urban,Pseudacris crucifer,natural pond,larvae,0
+urban,Hyla chrysoscelis,natural pond,larvae,0
+urban,Rana clamitans,natural pond,larvae,0
+urban,Rana palustris,natural pond,larvae,0
+forest,Rana sylvatica,artificial,Adult,0.2
+forest,Bufo americanus,artificial,Adult,0.2
+forest,Pseudacris crucifer,artificial,Adult,0.2
+forest,Hyla chrysoscelis,artificial,Adult,0.2
+forest,Rana clamitans,artificial,Adult,0.2
+forest,Rana palustris,artificial,Adult,0.2
+forest,Rana sylvatica,artificial,larvae,0.2
+forest,Bufo americanus,artificial,larvae,0.2
+forest,Pseudacris crucifer,artificial,larvae,0.2
+forest,Hyla chrysoscelis,artificial,larvae,0
+forest,Rana clamitans,artificial,larvae,0
+forest,Rana palustris,artificial,larvae,0
+forest,Rana sylvatica,natural pond,Adult,0
+forest,Bufo americanus,natural pond,Adult,0
+forest,Pseudacris crucifer,natural pond,Adult,0
+forest,Hyla chrysoscelis,natural pond,Adult,0
+forest,Rana clamitans,natural pond,Adult,0
+forest,Rana palustris,natural pond,Adult,0
+forest,Rana sylvatica,natural pond,larvae,0
+forest,Bufo americanus,natural pond,larvae,0
+forest,Pseudacris crucifer,natural pond,larvae,0
+forest,Hyla chrysoscelis,natural pond,larvae,0
+forest,Rana clamitans,natural pond,larvae,0
+forest,Rana palustris,natural pond,larvae,0

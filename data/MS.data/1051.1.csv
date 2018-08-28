@@ -1,0 +1,172 @@
+Estimate,Wetland,Stat,Value
+Area (m2),Upland,Mean,870
+H2O depth,Upland,Mean,42
+% NATVE,Upland,Mean,37
+% WET,Upland,Mean,12
+% AGRIC,Upland,Mean,0
+% IMPERV,Upland,Mean,5
+SAV,Upland,Mean,40
+EMERG,Upland,Mean,2.75
+TN (?g/L),Upland,Mean,395
+TP (?g/L),Upland,Mean,530
+Cond (?S/cm),Upland,Mean,735
+pH,Upland,Mean,8.42
+Chl-a (?g/L),Upland,Mean,31.4
+As (?g/L),Upland,Mean,2.3
+Cr (?g/L),Upland,Mean,0.2
+Cu (?g/L),Upland,Mean,0.7
+Pb (?g/L),Upland,Mean,0.4
+Se (?g/L),Upland,Mean,0.6
+Zn (?g/L),Upland,Mean,20.2
+Area (m2),River valley,Mean,457
+H2O depth,River valley,Mean,86
+% NATVE,River valley,Mean,95
+% WET,River valley,Mean,4
+% AGRIC,River valley,Mean,15
+% IMPERV,River valley,Mean,0
+SAV,River valley,Mean,52
+EMERG,River valley,Mean,2
+TN (?g/L),River valley,Mean,982
+TP (?g/L),River valley,Mean,29
+Cond (?S/cm),River valley,Mean,708
+pH,River valley,Mean,8.71
+Chl-a (?g/L),River valley,Mean,4.11
+As (?g/L),River valley,Mean,2.76
+Cr (?g/L),River valley,Mean,0.26
+Cu (?g/L),River valley,Mean,1.35
+Pb (?g/L),River valley,Mean,0.28
+Se (?g/L),River valley,Mean,0
+Zn (?g/L),River valley,Mean,23.5
+Area (m2),Stormwater,Mean,17246
+H2O depth,Stormwater,Mean,220
+% NATVE,Stormwater,Mean,3
+% WET,Stormwater,Mean,13
+% AGRIC,Stormwater,Mean,0
+% IMPERV,Stormwater,Mean,11
+SAV,Stormwater,Mean,16
+EMERG,Stormwater,Mean,2
+TN (?g/L),Stormwater,Mean,830
+TP (?g/L),Stormwater,Mean,61
+Cond (?S/cm),Stormwater,Mean,717
+pH,Stormwater,Mean,8.23
+Chl-a (?g/L),Stormwater,Mean,13.3
+As (?g/L),Stormwater,Mean,1.85
+Cr (?g/L),Stormwater,Mean,0.2
+Cu (?g/L),Stormwater,Mean,1.43
+Pb (?g/L),Stormwater,Mean,0.11
+Se (?g/L),Stormwater,Mean,0.5
+Zn (?g/L),Stormwater,Mean,11.5
+Area (m2),Upland,Low.CI,531
+H2O depth,Upland,Low.CI,18
+% NATVE,Upland,Low.CI,11
+% WET,Upland,Low.CI,5
+% AGRIC,Upland,Low.CI,0
+% IMPERV,Upland,Low.CI,0
+SAV,Upland,Low.CI,9
+EMERG,Upland,Low.CI,0
+TN (?g/L),Upland,Low.CI,509
+TP (?g/L),Upland,Low.CI,61
+Cond (?S/cm),Upland,Low.CI,266
+pH,Upland,Low.CI,7.6
+Chl-a (?g/L),Upland,Low.CI,1.4
+As (?g/L),Upland,Low.CI,0.004
+Cr (?g/L),Upland,Low.CI,0
+Cu (?g/L),Upland,Low.CI,0
+Pb (?g/L),Upland,Low.CI,0
+Se (?g/L),Upland,Low.CI,0
+Zn (?g/L),Upland,Low.CI,0.01
+Area (m2),River valley,Low.CI,223
+H2O depth,River valley,Low.CI,45
+% NATVE,River valley,Low.CI,6
+% WET,River valley,Low.CI,1
+% AGRIC,River valley,Low.CI,0
+% IMPERV,River valley,Low.CI,0
+SAV,River valley,Low.CI,0
+EMERG,River valley,Low.CI,1
+TN (?g/L),River valley,Low.CI,908
+TP (?g/L),River valley,Low.CI,27
+Cond (?S/cm),River valley,Low.CI,676
+pH,River valley,Low.CI,7.8
+Chl-a (?g/L),River valley,Low.CI,0.46
+As (?g/L),River valley,Low.CI,1.08
+Cr (?g/L),River valley,Low.CI,0.1
+Cu (?g/L),River valley,Low.CI,0.81
+Pb (?g/L),River valley,Low.CI,0.09
+Se (?g/L),River valley,Low.CI,0
+Zn (?g/L),River valley,Low.CI,2.8
+Area (m2),Stormwater,Low.CI,49
+H2O depth,Stormwater,Low.CI,0
+% NATVE,Stormwater,Low.CI,0
+% WET,Stormwater,Low.CI,1
+% AGRIC,Stormwater,Low.CI,0
+% IMPERV,Stormwater,Low.CI,1
+SAV,Stormwater,Low.CI,0
+EMERG,Stormwater,Low.CI,0
+TN (?g/L),Stormwater,Low.CI,436
+TP (?g/L),Stormwater,Low.CI,25
+Cond (?S/cm),Stormwater,Low.CI,197
+pH,Stormwater,Low.CI,7.1
+Chl-a (?g/L),Stormwater,Low.CI,0.46
+As (?g/L),Stormwater,Low.CI,0.001
+Cr (?g/L),Stormwater,Low.CI,0
+Cu (?g/L),Stormwater,Low.CI,0
+Pb (?g/L),Stormwater,Low.CI,0.0002
+Se (?g/L),Stormwater,Low.CI,0
+Zn (?g/L),Stormwater,Low.CI,0.006
+Area (m2),Upland,High.CI,480
+H2O depth,Upland,High.CI,117
+% NATVE,Upland,High.CI,62
+% WET,Upland,High.CI,20
+% AGRIC,Upland,High.CI,0
+% IMPERV,Upland,High.CI,40
+SAV,Upland,High.CI,100
+EMERG,Upland,High.CI,5
+TN (?g/L),Upland,High.CI,100
+TP (?g/L),Upland,High.CI,5712
+Cond (?S/cm),Upland,High.CI,3870
+pH,Upland,High.CI,9.1
+Chl-a (?g/L),Upland,High.CI,137.4
+As (?g/L),Upland,High.CI,10.1
+Cr (?g/L),Upland,High.CI,4.5
+Cu (?g/L),Upland,High.CI,10.1
+Pb (?g/L),Upland,High.CI,0.6
+Se (?g/L),Upland,High.CI,9.5
+Zn (?g/L),Upland,High.CI,70.9
+Area (m2),River valley,High.CI,2665
+H2O depth,River valley,High.CI,100
+% NATVE,River valley,High.CI,97
+% WET,River valley,High.CI,15
+% AGRIC,River valley,High.CI,26
+% IMPERV,River valley,High.CI,19
+SAV,River valley,High.CI,70
+EMERG,River valley,High.CI,3
+TN (?g/L),River valley,High.CI,1720
+TP (?g/L),River valley,High.CI,477
+Cond (?S/cm),River valley,High.CI,1508
+pH,River valley,High.CI,9.47
+Chl-a (?g/L),River valley,High.CI,48
+As (?g/L),River valley,High.CI,10
+Cr (?g/L),River valley,High.CI,0.47
+Cu (?g/L),River valley,High.CI,5.58
+Pb (?g/L),River valley,High.CI,0.29
+Se (?g/L),River valley,High.CI,0.7
+Zn (?g/L),River valley,High.CI,33.9
+Area (m2),Stormwater,High.CI,770
+H2O depth,Stormwater,High.CI,220
+% NATVE,Stormwater,High.CI,65
+% WET,Stormwater,High.CI,32
+% AGRIC,Stormwater,High.CI,42
+% IMPERV,Stormwater,High.CI,24
+SAV,Stormwater,High.CI,88
+EMERG,Stormwater,High.CI,4.75
+TN (?g/L),Stormwater,High.CI,2040
+TP (?g/L),Stormwater,High.CI,415
+Cond (?S/cm),Stormwater,High.CI,1860
+pH,Stormwater,High.CI,9.9
+Chl-a (?g/L),Stormwater,High.CI,87.4
+As (?g/L),Stormwater,High.CI,4.9
+Cr (?g/L),Stormwater,High.CI,1.4
+Cu (?g/L),Stormwater,High.CI,5.7
+Pb (?g/L),Stormwater,High.CI,0.5
+Se (?g/L),Stormwater,High.CI,1.3
+Zn (?g/L),Stormwater,High.CI,52.4

@@ -1,0 +1,19 @@
+GI.type,estimate,stat,value
+AllotmentGarden,impervious.surface.area (%),mean,0.26875
+AllotmentGarden,impervious.surface.area (%),se,0.148421416
+Cemetery,impervious.surface.area (%),mean,0.35725
+Cemetery,impervious.surface.area (%),se,0.270841128
+Park,impervious.surface.area (%),mean,9.86025
+Park,impervious.surface.area (%),se,18.69360258
+AllotmentGarden,Size (ha),mean,3.88
+AllotmentGarden,Size (ha),se,2.250748024
+Cemetery,Size (ha),mean,5.6025
+Cemetery,Size (ha),se,2.697905051
+Park,Size (ha),mean,7.3875
+Park,Size (ha),se,3.333100409
+AllotmentGarden,Size (m2),mean,38800
+AllotmentGarden,Size (m2),se,22507.48024
+Cemetery,Size (m2),mean,56025
+Cemetery,Size (m2),se,26979.05051
+Park,Size (m2),mean,73875
+Park,Size (m2),se,33331.00409

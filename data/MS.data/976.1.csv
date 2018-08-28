@@ -1,0 +1,113 @@
+ID,Name,year,Species,Rana temporaria,pH,"Ammonia as N
+mg/L","Nitrite as N
+mg/L","Nitrate as N
+mg/L","o-Phos as P
+mg/L",Chloride mg/L
+SN,SNH pond,2010,Rana temporaria,4,8.95,0.33,0.003,0.054,0.135,445
+RO,Robertson?s pond,2010,Rana temporaria,10,7.77,0.005,0.002,0.144,0.018,119
+BA,Briargrove A,2010,Rana temporaria,64,7.59,0.047,0.002,0.947,0.017,168
+BB,Briargrove B,2010,Rana temporaria,22,7.4,0.136,0.002,0.407,0.016,169
+WO,Woodgrove,2010,Rana temporaria,2,7.89,0.136,0.002,2.12,0.032,195
+DR,Druid Road,2010,Rana temporaria,0,7.67,0.036,0.022,0.253,0.588,18
+FA,Fairways,2010,Rana temporaria,0,7.87,0.572,0.074,0.252,0.295,35
+DV,Duke?s View,2010,Rana temporaria,0,8.14,0.056,0.022,0.845,0.038,287
+MS,Morningfield Drive S,2010,Rana temporaria,0,7.39,0.077,0.078,0.523,0.636,140
+MN,Morningfield Drive N,2010,Rana temporaria,0,8.21,0.028,0.009,0.159,0.031,56
+SA,Sandalwood,2010,Rana temporaria,2,8.19,0.169,0.002,1.22,0.023,103
+GR,Greenwood,2010,Rana temporaria,15,7.59,0.03,0.045,1.54,0.239,53
+SN,SNH pond,2011,Rana temporaria,20,8.95,0.33,0.003,0.054,0.135,445
+RO,Robertson?s pond,2011,Rana temporaria,36,7.77,0.005,0.002,0.144,0.018,119
+BA,Briargrove A,2011,Rana temporaria,59,7.59,0.047,0.002,0.947,0.017,168
+BB,Briargrove B,2011,Rana temporaria,28,7.4,0.136,0.002,0.407,0.016,169
+WO,Woodgrove,2011,Rana temporaria,8,7.89,0.136,0.002,2.12,0.032,195
+DR,Druid Road,2011,Rana temporaria,0,7.67,0.036,0.022,0.253,0.588,18
+FA,Fairways,2011,Rana temporaria,0,7.87,0.572,0.074,0.252,0.295,35
+DV,Duke?s View,2011,Rana temporaria,3,8.14,0.056,0.022,0.845,0.038,287
+MS,Morningfield Drive S,2011,Rana temporaria,0,7.39,0.077,0.078,0.523,0.636,140
+MN,Morningfield Drive N,2011,Rana temporaria,0,8.21,0.028,0.009,0.159,0.031,56
+SA,Sandalwood,2011,Rana temporaria,1,8.19,0.169,0.002,1.22,0.023,103
+GR,Greenwood,2011,Rana temporaria,7,7.59,0.03,0.045,1.54,0.239,53
+SN,SNH pond,2012,Rana temporaria,0,8.95,0.33,0.003,0.054,0.135,445
+RO,Robertson?s pond,2012,Rana temporaria,37,7.77,0.005,0.002,0.144,0.018,119
+BA,Briargrove A,2012,Rana temporaria,230,7.59,0.047,0.002,0.947,0.017,168
+BB,Briargrove B,2012,Rana temporaria,16,7.4,0.136,0.002,0.407,0.016,169
+WO,Woodgrove,2012,Rana temporaria,2,7.89,0.136,0.002,2.12,0.032,195
+DR,Druid Road,2012,Rana temporaria,0,7.67,0.036,0.022,0.253,0.588,18
+FA,Fairways,2012,Rana temporaria,0,7.87,0.572,0.074,0.252,0.295,35
+DV,Duke?s View,2012,Rana temporaria,2,8.14,0.056,0.022,0.845,0.038,287
+MS,Morningfield Drive S,2012,Rana temporaria,0,7.39,0.077,0.078,0.523,0.636,140
+MN,Morningfield Drive N,2012,Rana temporaria,0,8.21,0.028,0.009,0.159,0.031,56
+SA,Sandalwood,2012,Rana temporaria,7,8.19,0.169,0.002,1.22,0.023,103
+GR,Greenwood,2012,Rana temporaria,1,7.59,0.03,0.045,1.54,0.239,53
+SN,SNH pond,2010,Bufo bufo,6,8.95,0.33,0.003,0.054,0.135,445
+RO,Robertson?s pond,2010,Bufo bufo,2,7.77,0.005,0.002,0.144,0.018,119
+BA,Briargrove A,2010,Bufo bufo,0,7.59,0.047,0.002,0.947,0.017,168
+BB,Briargrove B,2010,Bufo bufo,0,7.4,0.136,0.002,0.407,0.016,169
+WO,Woodgrove,2010,Bufo bufo,0,7.89,0.136,0.002,2.12,0.032,195
+DR,Druid Road,2010,Bufo bufo,0,7.67,0.036,0.022,0.253,0.588,18
+FA,Fairways,2010,Bufo bufo,0,7.87,0.572,0.074,0.252,0.295,35
+DV,Duke?s View,2010,Bufo bufo,0,8.14,0.056,0.022,0.845,0.038,287
+MS,Morningfield Drive S,2010,Bufo bufo,0,7.39,0.077,0.078,0.523,0.636,140
+MN,Morningfield Drive N,2010,Bufo bufo,0,8.21,0.028,0.009,0.159,0.031,56
+SA,Sandalwood,2010,Bufo bufo,0,8.19,0.169,0.002,1.22,0.023,103
+GR,Greenwood,2010,Bufo bufo,0,7.59,0.03,0.045,1.54,0.239,53
+SN,SNH pond,2011,Bufo bufo,25,8.95,0.33,0.003,0.054,0.135,445
+RO,Robertson?s pond,2011,Bufo bufo,4,7.77,0.005,0.002,0.144,0.018,119
+BA,Briargrove A,2011,Bufo bufo,0,7.59,0.047,0.002,0.947,0.017,168
+BB,Briargrove B,2011,Bufo bufo,0,7.4,0.136,0.002,0.407,0.016,169
+WO,Woodgrove,2011,Bufo bufo,0,7.89,0.136,0.002,2.12,0.032,195
+DR,Druid Road,2011,Bufo bufo,0,7.67,0.036,0.022,0.253,0.588,18
+FA,Fairways,2011,Bufo bufo,0,7.87,0.572,0.074,0.252,0.295,35
+DV,Duke?s View,2011,Bufo bufo,0,8.14,0.056,0.022,0.845,0.038,287
+MS,Morningfield Drive S,2011,Bufo bufo,0,7.39,0.077,0.078,0.523,0.636,140
+MN,Morningfield Drive N,2011,Bufo bufo,0,8.21,0.028,0.009,0.159,0.031,56
+SA,Sandalwood,2011,Bufo bufo,0,8.19,0.169,0.002,1.22,0.023,103
+GR,Greenwood,2011,Bufo bufo,0,7.59,0.03,0.045,1.54,0.239,53
+SN,SNH pond,2012,Bufo bufo,7,8.95,0.33,0.003,0.054,0.135,445
+RO,Robertson?s pond,2012,Bufo bufo,2,7.77,0.005,0.002,0.144,0.018,119
+BA,Briargrove A,2012,Bufo bufo,0,7.59,0.047,0.002,0.947,0.017,168
+BB,Briargrove B,2012,Bufo bufo,0,7.4,0.136,0.002,0.407,0.016,169
+WO,Woodgrove,2012,Bufo bufo,0,7.89,0.136,0.002,2.12,0.032,195
+DR,Druid Road,2012,Bufo bufo,0,7.67,0.036,0.022,0.253,0.588,18
+FA,Fairways,2012,Bufo bufo,0,7.87,0.572,0.074,0.252,0.295,35
+DV,Duke?s View,2012,Bufo bufo,0,8.14,0.056,0.022,0.845,0.038,287
+MS,Morningfield Drive S,2012,Bufo bufo,0,7.39,0.077,0.078,0.523,0.636,140
+MN,Morningfield Drive N,2012,Bufo bufo,0,8.21,0.028,0.009,0.159,0.031,56
+SA,Sandalwood,2012,Bufo bufo,0,8.19,0.169,0.002,1.22,0.023,103
+GR,Greenwood,2012,Lissotriton helveticus,0,7.59,0.03,0.045,1.54,0.239,53
+SN,SNH pond,2010,Lissotriton helveticus,0,8.95,0.33,0.003,0.054,0.135,445
+RO,Robertson?s pond,2010,Lissotriton helveticus,0,7.77,0.005,0.002,0.144,0.018,119
+BA,Briargrove A,2010,Lissotriton helveticus,0,7.59,0.047,0.002,0.947,0.017,168
+BB,Briargrove B,2010,Lissotriton helveticus,0,7.4,0.136,0.002,0.407,0.016,169
+WO,Woodgrove,2010,Lissotriton helveticus,0,7.89,0.136,0.002,2.12,0.032,195
+DR,Druid Road,2010,Lissotriton helveticus,0,7.67,0.036,0.022,0.253,0.588,18
+FA,Fairways,2010,Lissotriton helveticus,0,7.87,0.572,0.074,0.252,0.295,35
+DV,Duke?s View,2010,Lissotriton helveticus,0,8.14,0.056,0.022,0.845,0.038,287
+MS,Morningfield Drive S,2010,Lissotriton helveticus,0,7.39,0.077,0.078,0.523,0.636,140
+MN,Morningfield Drive N,2010,Lissotriton helveticus,0,8.21,0.028,0.009,0.159,0.031,56
+SA,Sandalwood,2010,Lissotriton helveticus,0,8.19,0.169,0.002,1.22,0.023,103
+GR,Greenwood,2010,Lissotriton helveticus,0,7.59,0.03,0.045,1.54,0.239,53
+SN,SNH pond,2011,Lissotriton helveticus,0,8.95,0.33,0.003,0.054,0.135,445
+RO,Robertson?s pond,2011,Lissotriton helveticus,0,7.77,0.005,0.002,0.144,0.018,119
+BA,Briargrove A,2011,Lissotriton helveticus,0,7.59,0.047,0.002,0.947,0.017,168
+BB,Briargrove B,2011,Lissotriton helveticus,0,7.4,0.136,0.002,0.407,0.016,169
+WO,Woodgrove,2011,Lissotriton helveticus,0,7.89,0.136,0.002,2.12,0.032,195
+DR,Druid Road,2011,Lissotriton helveticus,0,7.67,0.036,0.022,0.253,0.588,18
+FA,Fairways,2011,Lissotriton helveticus,0,7.87,0.572,0.074,0.252,0.295,35
+DV,Duke?s View,2011,Lissotriton helveticus,0,8.14,0.056,0.022,0.845,0.038,287
+MS,Morningfield Drive S,2011,Lissotriton helveticus,0,7.39,0.077,0.078,0.523,0.636,140
+MN,Morningfield Drive N,2011,Lissotriton helveticus,0,8.21,0.028,0.009,0.159,0.031,56
+SA,Sandalwood,2011,Lissotriton helveticus,0,8.19,0.169,0.002,1.22,0.023,103
+GR,Greenwood,2011,Lissotriton helveticus,0,7.59,0.03,0.045,1.54,0.239,53
+SN,SNH pond,2012,Lissotriton helveticus,1,8.95,0.33,0.003,0.054,0.135,445
+RO,Robertson?s pond,2012,Lissotriton helveticus,0,7.77,0.005,0.002,0.144,0.018,119
+BA,Briargrove A,2012,Lissotriton helveticus,0,7.59,0.047,0.002,0.947,0.017,168
+BB,Briargrove B,2012,Lissotriton helveticus,0,7.4,0.136,0.002,0.407,0.016,169
+WO,Woodgrove,2012,Lissotriton helveticus,0,7.89,0.136,0.002,2.12,0.032,195
+DR,Druid Road,2012,Lissotriton helveticus,0,7.67,0.036,0.022,0.253,0.588,18
+FA,Fairways,2012,Lissotriton helveticus,0,7.87,0.572,0.074,0.252,0.295,35
+DV,Duke?s View,2012,Lissotriton helveticus,0,8.14,0.056,0.022,0.845,0.038,287
+MS,Morningfield Drive S,2012,Lissotriton helveticus,0,7.39,0.077,0.078,0.523,0.636,140
+MN,Morningfield Drive N,2012,Lissotriton helveticus,0,8.21,0.028,0.009,0.159,0.031,56
+SA,Sandalwood,2012,Lissotriton helveticus,0,8.19,0.169,0.002,1.22,0.023,103
+GR,Greenwood,2012,Lissotriton helveticus,1,7.59,0.03,0.045,1.54,0.239,53
