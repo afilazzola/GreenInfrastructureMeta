@@ -192,6 +192,8 @@ mp <- ggplot() +   mapWorld
 ## colorblind-friendly palette
 cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7","#000000")
 
+meta <- read.csv("data//evidence.csv")
+meta <- subset(meta, GI.type!="")
 
 ## plot points on top
 mp <- mp+ geom_point(data=meta , aes(x=lon, y=lat, color=GI.type), size=2) + scale_colour_manual(values=cbPalette)+
@@ -205,21 +207,43 @@ mp
 ```{r}
 gf.data <- read.csv("data//GI.data//GreenRoofGeocoded.csv")
 garden.data <- read.csv("data//GI.data//ComGardensdata.csv")
+pond.data <- read.csv("data//GI.data//RetentionPondsGPS.csv")
 
 ## Extract coordinates only for GI
 gf.data <- gf.data[,c("lon","lat")]
 garden.data <- garden.data[,c("lon","lat")]
+pond.data <- pond.data[,c("lon","lat")]
 
 ## combine into single dataset
-GI.data <- rbind(gf.data,garden.data)
+GI.data <- rbind(gf.data,garden.data, pond.data)
 ## add column for data type
-GI.data[,"GI.type"] <- c(rep("Green Roof",nrow(gf.data)),rep("Community Garden",nrow(garden.data)))
+GI.data[,"GI.type"] <- c(rep("Green Roof",nrow(gf.data)),rep("Community Garden",nrow(garden.data)),rep("Retention Pond", nrow(pond.data)))
 
 ## interactive map
 library(leaflet)
 
 m <- leaflet(data=GI.data) %>%
   addTiles() %>%  
-   addCircleMarkers(~lon, ~lat, color =  ifelse(GI.data$GI.type == "Green Roof", 'blue', 'red'), radius=5)
+   addCircleMarkers(~lon, ~lat, color =  ifelse(GI.data$GI.type == "Retention Pond", 'blue', 'red'), radius=5)
+m
+```
+
+
+### Flora and Fauna Surveys
+```{r}
+fauna <- read.csv("data//SurveyData//FaunaData.csv")
+flora <- read.csv("data//SurveyData//FloraData.csv")
+
+fauna <- fauna[,c("lon","lat")]
+flora <- flora[,c("lon","lat")]
+
+## combine into single dataset
+species.occ <- rbind(fauna,flora)
+## add column for data type
+species.occ[,"type"] <- c(rep("fauna",nrow(fauna)),rep("flora",nrow(flora)))
+
+m <- leaflet(data=species.occ) %>%
+  addTiles() %>%  
+   addCircleMarkers(~lon, ~lat, color =  ifelse(species.occ$type == "flora", 'green', 'red'), radius=2)
 m
 ```
