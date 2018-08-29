@@ -1,0 +1,13 @@
+Habitat,Taxa,Estimate,stat,value
+Golf Courses,Bees,richness,mean,1.88
+Golf Courses,Bees,richness,se,0.18
+Golf Courses,Bees,abundance,mean,4.83
+Golf Courses,Bees,abundance,se,0.66
+yards/home gardens,Bees,richness,mean,1.85
+yards/home gardens,Bees,richness,se,0.19
+yards/home gardens,Bees,abundance,mean,3.94
+yards/home gardens,Bees,abundance,se,0.63
+parks,Bees,richness,mean,2.62
+parks,Bees,richness,se,0.22
+parks,Bees,abundance,mean,10.96
+parks,Bees,abundance,se,2.53
