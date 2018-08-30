@@ -1,0 +1,17 @@
+Habitat,Study site,Region,Elevation,estimate,cover
+Forest,F1,Bundaberg,23,vegetation cover,96.36
+Forest,F2,Bundaberg,27,vegetation cover,89.79
+Forest,F3,Sunshine Coast / Brisbane,51,vegetation cover,97.52
+Forest,F4,Sunshine Coast / Brisbane,83,vegetation cover,75.06
+Plantation,P1,Bundaberg,25,vegetation cover,94.73
+Plantation,P2,Bundaberg,27,vegetation cover,92.04
+Plantation,P3,Bundaberg,26,vegetation cover,93.21
+Plantation,P4,Sunshine Coast / Brisbane,55,vegetation cover,80.08
+Garden,G1 - location A,Bundaberg,7,vegetation cover,88.2
+Garden,G1 - location B,Bundaberg,19,vegetation cover,87.7
+Garden,G2 - location A,Sunshine Coast / Brisbane,15,vegetation cover,98.46
+Garden,G2 - location B,Sunshine Coast / Brisbane,3,vegetation cover,76.99
+Garden,G3 - location A,Sunshine Coast / Brisbane,18,vegetation cover,98.21
+Garden,G3 - location B,Sunshine Coast / Brisbane,17,vegetation cover,82.23
+Garden,G4 - location A,Sunshine Coast / Brisbane,31,vegetation cover,82.06
+Garden,G4 - location B,Sunshine Coast / Brisbane,45,vegetation cover,78.23
