@@ -1,0 +1,129 @@
+Species,Habitat,SiteID,Year,Density (per meter),Estimate,stat,value
+Epipactis helleborine,roadsides,A1,2011,0.28,plant.height (cm),mean,84.79
+Epipactis helleborine,roadsides,A2,2011,0.93,plant.height (cm),mean,54.08
+Epipactis helleborine,roadsides,A3,2011,0.9,plant.height (cm),mean,56.29
+Epipactis helleborine,roadsides,A4,2011,0.4,plant.height (cm),mean,41.98
+Epipactis helleborine,roadsides,A1,2012,0.38,plant.height (cm),mean,87.65
+Epipactis helleborine,roadsides,A2,2012,0.77,plant.height (cm),mean,64.3
+Epipactis helleborine,roadsides,A3,2012,2.39,plant.height (cm),mean,56
+Epipactis helleborine,roadsides,A4,2012,0.33,plant.height (cm),mean,40.24
+Epipactis helleborine,natural forest,N1,2011,0.83,plant.height (cm),mean,61.96
+Epipactis helleborine,natural forest,N2,2011,0.77,plant.height (cm),mean,57.36
+Epipactis helleborine,natural forest,N3,2011,0.21,plant.height (cm),mean,34.53
+Epipactis helleborine,natural forest,N4,2011,0.88,plant.height (cm),mean,48.36
+Epipactis helleborine,natural forest,N1,2012,1.24,plant.height (cm),mean,66.67
+Epipactis helleborine,natural forest,N2,2012,0.97,plant.height (cm),mean,62.15
+Epipactis helleborine,natural forest,N3,2012,0.22,plant.height (cm),mean,55.22
+Epipactis helleborine,natural forest,N4,2012,0.81,plant.height (cm),mean,46.07
+Epipactis helleborine,roadsides,A1,2011,0.28,plant.height (cm),se,24.04
+Epipactis helleborine,roadsides,A2,2011,0.93,plant.height (cm),se,15.84
+Epipactis helleborine,roadsides,A3,2011,0.9,plant.height (cm),se,11.8
+Epipactis helleborine,roadsides,A4,2011,0.4,plant.height (cm),se,12.64
+Epipactis helleborine,roadsides,A1,2012,0.38,plant.height (cm),se,22.48
+Epipactis helleborine,roadsides,A2,2012,0.77,plant.height (cm),se,19.51
+Epipactis helleborine,roadsides,A3,2012,2.39,plant.height (cm),se,19.07
+Epipactis helleborine,roadsides,A4,2012,0.33,plant.height (cm),se,15.97
+Epipactis helleborine,natural forest,N1,2011,0.83,plant.height (cm),se,17.91
+Epipactis helleborine,natural forest,N2,2011,0.77,plant.height (cm),se,15.99
+Epipactis helleborine,natural forest,N3,2011,0.21,plant.height (cm),se,15.27
+Epipactis helleborine,natural forest,N4,2011,0.88,plant.height (cm),se,23.6
+Epipactis helleborine,natural forest,N1,2012,1.24,plant.height (cm),se,13.6
+Epipactis helleborine,natural forest,N2,2012,0.97,plant.height (cm),se,16.58
+Epipactis helleborine,natural forest,N3,2012,0.22,plant.height (cm),se,20.32
+Epipactis helleborine,natural forest,N4,2012,0.81,plant.height (cm),se,23.91
+Epipactis helleborine,roadsides,A1,2011,0.28,flower.abundance,mean,20
+Epipactis helleborine,roadsides,A2,2011,0.93,flower.abundance,mean,19
+Epipactis helleborine,roadsides,A3,2011,0.9,flower.abundance,mean,12
+Epipactis helleborine,roadsides,A4,2011,0.4,flower.abundance,mean,9
+Epipactis helleborine,roadsides,A1,2012,0.38,flower.abundance,mean,19
+Epipactis helleborine,roadsides,A2,2012,0.77,flower.abundance,mean,20
+Epipactis helleborine,roadsides,A3,2012,2.39,flower.abundance,mean,6
+Epipactis helleborine,roadsides,A4,2012,0.33,flower.abundance,mean,9
+Epipactis helleborine,natural forest,N1,2011,0.83,flower.abundance,mean,18
+Epipactis helleborine,natural forest,N2,2011,0.77,flower.abundance,mean,18
+Epipactis helleborine,natural forest,N3,2011,0.21,flower.abundance,mean,18
+Epipactis helleborine,natural forest,N4,2011,0.88,flower.abundance,mean,24
+Epipactis helleborine,natural forest,N1,2012,1.24,flower.abundance,mean,20
+Epipactis helleborine,natural forest,N2,2012,0.97,flower.abundance,mean,19
+Epipactis helleborine,natural forest,N3,2012,0.22,flower.abundance,mean,24
+Epipactis helleborine,natural forest,N4,2012,0.81,flower.abundance,mean,25
+Epipactis helleborine,roadsides,A1,2011,0.28,flower.abundance,se,9.2
+Epipactis helleborine,roadsides,A2,2011,0.93,flower.abundance,se,8.63
+Epipactis helleborine,roadsides,A3,2011,0.9,flower.abundance,se,6.2
+Epipactis helleborine,roadsides,A4,2011,0.4,flower.abundance,se,9.25
+Epipactis helleborine,roadsides,A1,2012,0.38,flower.abundance,se,8.37
+Epipactis helleborine,roadsides,A2,2012,0.77,flower.abundance,se,14.1
+Epipactis helleborine,roadsides,A3,2012,2.39,flower.abundance,se,6.2
+Epipactis helleborine,roadsides,A4,2012,0.33,flower.abundance,se,8.73
+Epipactis helleborine,natural forest,N1,2011,0.83,flower.abundance,se,11.8
+Epipactis helleborine,natural forest,N2,2011,0.77,flower.abundance,se,10.8
+Epipactis helleborine,natural forest,N3,2011,0.21,flower.abundance,se,12.5
+Epipactis helleborine,natural forest,N4,2011,0.88,flower.abundance,se,14.8
+Epipactis helleborine,natural forest,N1,2012,1.24,flower.abundance,se,6.34
+Epipactis helleborine,natural forest,N2,2012,0.97,flower.abundance,se,11.4
+Epipactis helleborine,natural forest,N3,2012,0.22,flower.abundance,se,13.4
+Epipactis helleborine,natural forest,N4,2012,0.81,flower.abundance,se,14.3
+Epipactis helleborine,roadsides,A1,2011,0.28,fruit.abundance,mean,19
+Epipactis helleborine,roadsides,A2,2011,0.93,fruit.abundance,mean,16
+Epipactis helleborine,roadsides,A3,2011,0.9,fruit.abundance,mean,10
+Epipactis helleborine,roadsides,A4,2011,0.4,fruit.abundance,mean,7
+Epipactis helleborine,roadsides,A1,2012,0.38,fruit.abundance,mean,18
+Epipactis helleborine,roadsides,A2,2012,0.77,fruit.abundance,mean,20
+Epipactis helleborine,roadsides,A3,2012,2.39,fruit.abundance,mean,5
+Epipactis helleborine,roadsides,A4,2012,0.33,fruit.abundance,mean,7
+Epipactis helleborine,natural forest,N1,2011,0.83,fruit.abundance,mean,8
+Epipactis helleborine,natural forest,N2,2011,0.77,fruit.abundance,mean,13
+Epipactis helleborine,natural forest,N3,2011,0.21,fruit.abundance,mean,14
+Epipactis helleborine,natural forest,N4,2011,0.88,fruit.abundance,mean,20
+Epipactis helleborine,natural forest,N1,2012,1.24,fruit.abundance,mean,17
+Epipactis helleborine,natural forest,N2,2012,0.97,fruit.abundance,mean,14
+Epipactis helleborine,natural forest,N3,2012,0.22,fruit.abundance,mean,15
+Epipactis helleborine,natural forest,N4,2012,0.81,fruit.abundance,mean,20
+Epipactis helleborine,roadsides,A1,2011,0.28,fruit.abundance,se,9.48
+Epipactis helleborine,roadsides,A2,2011,0.93,fruit.abundance,se,7.83
+Epipactis helleborine,roadsides,A3,2011,0.9,fruit.abundance,se,5.92
+Epipactis helleborine,roadsides,A4,2011,0.4,fruit.abundance,se,9.21
+Epipactis helleborine,roadsides,A1,2012,0.38,fruit.abundance,se,8.28
+Epipactis helleborine,roadsides,A2,2012,0.77,fruit.abundance,se,13.87
+Epipactis helleborine,roadsides,A3,2012,2.39,fruit.abundance,se,5.81
+Epipactis helleborine,roadsides,A4,2012,0.33,fruit.abundance,se,8.66
+Epipactis helleborine,natural forest,N1,2011,0.83,fruit.abundance,se,7.8
+Epipactis helleborine,natural forest,N2,2011,0.77,fruit.abundance,se,8.36
+Epipactis helleborine,natural forest,N3,2011,0.21,fruit.abundance,se,11.99
+Epipactis helleborine,natural forest,N4,2011,0.88,fruit.abundance,se,13.15
+Epipactis helleborine,natural forest,N1,2012,1.24,fruit.abundance,se,5.19
+Epipactis helleborine,natural forest,N2,2012,0.97,fruit.abundance,se,10
+Epipactis helleborine,natural forest,N3,2012,0.22,fruit.abundance,se,10.45
+Epipactis helleborine,natural forest,N4,2012,0.81,fruit.abundance,se,14
+Epipactis helleborine,roadsides,A1,2011,0.28,reproductive.success,mean,95
+Epipactis helleborine,roadsides,A2,2011,0.93,reproductive.success,mean,84.2
+Epipactis helleborine,roadsides,A3,2011,0.9,reproductive.success,mean,83.3
+Epipactis helleborine,roadsides,A4,2011,0.4,reproductive.success,mean,77.8
+Epipactis helleborine,roadsides,A1,2012,0.38,reproductive.success,mean,94.7
+Epipactis helleborine,roadsides,A2,2012,0.77,reproductive.success,mean,100
+Epipactis helleborine,roadsides,A3,2012,2.39,reproductive.success,mean,83.3
+Epipactis helleborine,roadsides,A4,2012,0.33,reproductive.success,mean,77.8
+Epipactis helleborine,natural forest,N1,2011,0.83,reproductive.success,mean,44.4
+Epipactis helleborine,natural forest,N2,2011,0.77,reproductive.success,mean,72.2
+Epipactis helleborine,natural forest,N3,2011,0.21,reproductive.success,mean,77.8
+Epipactis helleborine,natural forest,N4,2011,0.88,reproductive.success,mean,83.3
+Epipactis helleborine,natural forest,N1,2012,1.24,reproductive.success,mean,85
+Epipactis helleborine,natural forest,N2,2012,0.97,reproductive.success,mean,73.7
+Epipactis helleborine,natural forest,N3,2012,0.22,reproductive.success,mean,62.5
+Epipactis helleborine,natural forest,N4,2012,0.81,reproductive.success,mean,80
+Epipactis helleborine,roadsides,A1,2011,0.28,reproductive.success,se,7.2
+Epipactis helleborine,roadsides,A2,2011,0.93,reproductive.success,se,8.3
+Epipactis helleborine,roadsides,A3,2011,0.9,reproductive.success,se,10.4
+Epipactis helleborine,roadsides,A4,2011,0.4,reproductive.success,se,12.34
+Epipactis helleborine,roadsides,A1,2012,0.38,reproductive.success,se,6.54
+Epipactis helleborine,roadsides,A2,2012,0.77,reproductive.success,se,10.3
+Epipactis helleborine,roadsides,A3,2012,2.39,reproductive.success,se,8.56
+Epipactis helleborine,roadsides,A4,2012,0.33,reproductive.success,se,8.34
+Epipactis helleborine,natural forest,N1,2011,0.83,reproductive.success,se,5.13
+Epipactis helleborine,natural forest,N2,2011,0.77,reproductive.success,se,8.78
+Epipactis helleborine,natural forest,N3,2011,0.21,reproductive.success,se,9.54
+Epipactis helleborine,natural forest,N4,2011,0.88,reproductive.success,se,11.4
+Epipactis helleborine,natural forest,N1,2012,1.24,reproductive.success,se,7.45
+Epipactis helleborine,natural forest,N2,2012,0.97,reproductive.success,se,6.78
+Epipactis helleborine,natural forest,N3,2012,0.22,reproductive.success,se,5.45
+Epipactis helleborine,natural forest,N4,2012,0.81,reproductive.success,se,9.45

@@ -1,0 +1,115 @@
+Habtiat,Genus,Species,PlantSpecies,Occurrence
+Urban Tree Canopy,Andrena,alfkenella,4,1
+Urban Tree Canopy,Andrena,argentata,4,0
+Urban Tree Canopy,Andrena,carantonica,4,1
+Urban Tree Canopy,Andrena,dorsata,4,1
+Urban Tree Canopy,Andrena,flavipes,4,0
+Urban Tree Canopy,Andrena,fulva,4,1
+Urban Tree Canopy,Andrena,gravida,4,1
+Urban Tree Canopy,Andrena,haemerrhoa,4,1
+Urban Tree Canopy,Andrena,helvola,4,1
+Urban Tree Canopy,Andrena,labiata,4,0
+Urban Tree Canopy,Andrena,lathyri,4,1
+Urban Tree Canopy,Andrena,nitida,4,1
+Urban Tree Canopy,Andrena,pilipes,4,1
+Urban Tree Canopy,Andrena,tibialis,4,1
+Urban Tree Canopy,Andrena,vaga,4,1
+Urban Tree Canopy,Andrena,ventralis,4,1
+Urban Tree Canopy,Andrena,wilkella,4,0
+Urban Tree Canopy,Anthophora,plumipes,4,1
+Urban Tree Canopy,Bombus,hortorum,4,1
+Urban Tree Canopy,Bombus,hypnorum,4,1
+Urban Tree Canopy,Bombus,lapidarius,4,1
+Urban Tree Canopy,Bombus,pascuorum,4,1
+Urban Tree Canopy,Bombus,pratorum,4,1
+Urban Tree Canopy,Bombus,rupestris,4,1
+Urban Tree Canopy,Bombus,terrestris,4,1
+Urban Tree Canopy,Colletes,cunicularius,4,1
+Urban Tree Canopy,Halictus,confusus,4,0
+Urban Tree Canopy,Halictus,rubicundus,4,1
+Urban Tree Canopy,Halictus,tumulorum,4,1
+Urban Tree Canopy,Hylaeus,communis,4,1
+Urban Tree Canopy,Hylaeus,hyalinthus,4,0
+Urban Tree Canopy,Hylaeus,punctatus,4,0
+Urban Tree Canopy,Hylaeus,styriacus,4,1
+Urban Tree Canopy,Lasioglossum,calceatum,4,1
+Urban Tree Canopy,Lasioglossum,laticeps,4,1
+Urban Tree Canopy,Lasioglossum,leucozonium,4,0
+Urban Tree Canopy,Lasioglossum,minutissimum,4,0
+Urban Tree Canopy,Lasioglossum,morio,4,1
+Urban Tree Canopy,Lasioglossum,intermedium,4,0
+Urban Tree Canopy,Lasioglossum,pauxillum,4,1
+Urban Tree Canopy,Lasioglossum,quadrinota-tutum,4,1
+Urban Tree Canopy,Lasioglossum,sexstrigatum,4,1
+Urban Tree Canopy,Macropis,fulvipes,4,1
+Urban Tree Canopy,Megachile,centuncularis,4,1
+Urban Tree Canopy,Megachile,rotundata,4,1
+Urban Tree Canopy,Megachile,willughbiella,4,1
+Urban Tree Canopy,Nomada,fabriciana,4,1
+Urban Tree Canopy,Nomada,flavoguttata,4,1
+Urban Tree Canopy,Nomada,panzeri,4,1
+Urban Tree Canopy,Nomada,zonata,4,1
+Urban Tree Canopy,Osmia,bicornis,4,1
+Urban Tree Canopy,Osmia,caerulescens,4,1
+Urban Tree Canopy,Osmia,mustelina,4,1
+Urban Tree Canopy,Osmia,truncorum,4,0
+Urban Tree Canopy,Sphecodes,ferruginatus,4,0
+Urban Tree Canopy,Sphecodes,miniatus,4,0
+Urban Tree Canopy,Sphecodes,puncticeps,4,1
+Grey,Andrena,alfkenella,4,0
+Grey,Andrena,argentata,4,1
+Grey,Andrena,carantonica,4,1
+Grey,Andrena,dorsata,4,1
+Grey,Andrena,flavipes,4,1
+Grey,Andrena,fulva,4,1
+Grey,Andrena,gravida,4,1
+Grey,Andrena,haemerrhoa,4,1
+Grey,Andrena,helvola,4,1
+Grey,Andrena,labiata,4,1
+Grey,Andrena,lathyri,4,0
+Grey,Andrena,nitida,4,0
+Grey,Andrena,pilipes,4,0
+Grey,Andrena,tibialis,4,1
+Grey,Andrena,vaga,4,1
+Grey,Andrena,ventralis,4,1
+Grey,Andrena,wilkella,4,1
+Grey,Anthophora,plumipes,4,1
+Grey,Bombus,hortorum,4,1
+Grey,Bombus,hypnorum,4,1
+Grey,Bombus,lapidarius,4,1
+Grey,Bombus,pascuorum,4,1
+Grey,Bombus,pratorum,4,1
+Grey,Bombus,rupestris,4,1
+Grey,Bombus,terrestris,4,1
+Grey,Colletes,cunicularius,4,1
+Grey,Halictus,confusus,4,1
+Grey,Halictus,rubicundus,4,1
+Grey,Halictus,tumulorum,4,0
+Grey,Hylaeus,communis,4,1
+Grey,Hylaeus,hyalinthus,4,1
+Grey,Hylaeus,punctatus,4,1
+Grey,Hylaeus,styriacus,4,0
+Grey,Lasioglossum,calceatum,4,1
+Grey,Lasioglossum,laticeps,4,1
+Grey,Lasioglossum,leucozonium,4,1
+Grey,Lasioglossum,minutissimum,4,1
+Grey,Lasioglossum,morio,4,1
+Grey,Lasioglossum,intermedium,4,1
+Grey,Lasioglossum,pauxillum,4,1
+Grey,Lasioglossum,quadrinota-tutum,4,0
+Grey,Lasioglossum,sexstrigatum,4,1
+Grey,Macropis,fulvipes,4,0
+Grey,Megachile,centuncularis,4,0
+Grey,Megachile,rotundata,4,0
+Grey,Megachile,willughbiella,4,1
+Grey,Nomada,fabriciana,4,0
+Grey,Nomada,flavoguttata,4,0
+Grey,Nomada,panzeri,4,0
+Grey,Nomada,zonata,4,0
+Grey,Osmia,bicornis,4,1
+Grey,Osmia,caerulescens,4,0
+Grey,Osmia,mustelina,4,0
+Grey,Osmia,truncorum,4,1
+Grey,Sphecodes,ferruginatus,4,1
+Grey,Sphecodes,miniatus,4,1
+Grey,Sphecodes,puncticeps,4,0

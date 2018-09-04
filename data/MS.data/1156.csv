@@ -1,0 +1,25 @@
+Genus,Species,Habitat,UrbanGardens,Rep,Size.mean (m2),Size.SE (m2)
+Bombus,terrestris,UrbanGardens,386.1,26,10212.5,3396
+Bombus,lapidarius,UrbanGardens,124.15,26,10212.5,3396
+Bombus,lucorum,UrbanGardens,53.95,26,10212.5,3396
+Bombus,pascuorum,UrbanGardens,31.2,26,10212.5,3396
+Bombus,hypnorum,UrbanGardens,29.25,26,10212.5,3396
+Bombus,hortorum,UrbanGardens,14.95,26,10212.5,3396
+Bombus,pratorum,UrbanGardens,5.2,26,10212.5,3396
+Bombus,soroeùensis,UrbanGardens,1.95,26,10212.5,3396
+Bombus,rupestris,UrbanGardens,1.95,26,10212.5,3396
+Bombus,bohemicus,UrbanGardens,0,26,10212.5,3396
+Bombus,campestris,UrbanGardens,1.3,26,10212.5,3396
+Bombus,sylvarum,UrbanGardens,1.3,26,10212.5,3396
+Bombus,terrestris,NaturalGarden,185.107,26,8077,5287
+Bombus,lapidarius,NaturalGarden,87.087,26,8077,5287
+Bombus,lucorum,NaturalGarden,41.847,26,8077,5287
+Bombus,pascuorum,NaturalGarden,27.144,26,8077,5287
+Bombus,hypnorum,NaturalGarden,19.981,26,8077,5287
+Bombus,hortorum,NaturalGarden,10.933,26,8077,5287
+Bombus,pratorum,NaturalGarden,4.147,26,8077,5287
+Bombus,soroeùensis,NaturalGarden,0,26,8077,5287
+Bombus,rupestris,NaturalGarden,0,26,8077,5287
+Bombus,bohemicus,NaturalGarden,1.131,26,8077,5287
+Bombus,campestris,NaturalGarden,0,26,8077,5287
+Bombus,sylvarum,NaturalGarden,0,26,8077,5287
