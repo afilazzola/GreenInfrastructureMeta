@@ -202,8 +202,16 @@ mp
 
 ```
 
+```{r}
 
-### Green infrastructure Mapping
+## Number of studies extracted from online data
+occurdat<-list.files("data//MS.data",pattern=".csv$",full=T)
+length(occurdat)
+
+## 70 Studies found with usable data for synthesis
+```
+
+### Case Study - 4. Green infrastructure Mapping
 ```{r}
 gf.data <- read.csv("data//GI.data//GreenRoofGeocoded.csv")
 garden.data <- read.csv("data//GI.data//ComGardensdata.csv")
@@ -228,22 +236,3 @@ m <- leaflet(data=GI.data) %>%
 m
 ```
 
-
-### Flora and Fauna Surveys
-```{r}
-fauna <- read.csv("data//SurveyData//FaunaData.csv")
-flora <- read.csv("data//SurveyData//FloraData.csv")
-
-fauna <- fauna[,c("lon","lat")]
-flora <- flora[,c("lon","lat")]
-
-## combine into single dataset
-species.occ <- rbind(fauna,flora)
-## add column for data type
-species.occ[,"type"] <- c(rep("fauna",nrow(fauna)),rep("flora",nrow(flora)))
-
-m <- leaflet(data=species.occ) %>%
-  addTiles() %>%  
-   addCircleMarkers(~lon, ~lat, color =  ifelse(species.occ$type == "flora", 'green', 'red'), radius=2)
-m
-```
