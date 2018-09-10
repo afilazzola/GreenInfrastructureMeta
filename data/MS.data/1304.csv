@@ -1,0 +1,401 @@
+Taxa,Genus,Species,Site,Estimate,Stat,Value,year,height,area
+arthropod,Andrena,bicolor,Europe,abundance,count,,1996,15,400
+arthropod,Andrena,bicolor,HEAD,abundance,count,,2010,15,400
+arthropod,Andrena,bicolor,HUG,abundance,count,1,1993,15,400
+arthropod,Andrena,bicolor,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Andrena,bicolor,La Praille,abundance,count,,2002,15,400
+arthropod,Andrena,bicolor,La Seymaz,abundance,count,,2007,15,400
+arthropod,Andrena,bicolor,Les Huttins,abundance,count,,2007,5,400
+arthropod,Andrena,bicolor,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Andrena,bicolor,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Andrena,bicolor,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Andrena,chrysosceles,Europe,abundance,count,,1996,15,400
+arthropod,Andrena,chrysosceles,HEAD,abundance,count,,2010,15,400
+arthropod,Andrena,chrysosceles,HUG,abundance,count,,1993,15,400
+arthropod,Andrena,chrysosceles,L?Horlogerie,abundance,count,1,1982,5,400
+arthropod,Andrena,chrysosceles,La Praille,abundance,count,,2002,15,400
+arthropod,Andrena,chrysosceles,La Seymaz,abundance,count,,2007,15,400
+arthropod,Andrena,chrysosceles,Les Huttins,abundance,count,,2007,5,400
+arthropod,Andrena,chrysosceles,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Andrena,chrysosceles,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Andrena,chrysosceles,ZÅrich assurance,abundance,count,1,1973,5,400
+arthropod,Andrena,cineraria,Europe,abundance,count,,1996,15,400
+arthropod,Andrena,cineraria,HEAD,abundance,count,,2010,15,400
+arthropod,Andrena,cineraria,HUG,abundance,count,,1993,15,400
+arthropod,Andrena,cineraria,L?Horlogerie,abundance,count,1,1982,5,400
+arthropod,Andrena,cineraria,La Praille,abundance,count,,2002,15,400
+arthropod,Andrena,cineraria,La Seymaz,abundance,count,,2007,15,400
+arthropod,Andrena,cineraria,Les Huttins,abundance,count,,2007,5,400
+arthropod,Andrena,cineraria,Les Pommiers,abundance,count,1,2012,15,400
+arthropod,Andrena,cineraria,Pavillon de l?enfance,abundance,count,2,2011,5,400
+arthropod,Andrena,cineraria,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Andrena,dorsata,Europe,abundance,count,,1996,15,400
+arthropod,Andrena,dorsata,HEAD,abundance,count,,2010,15,400
+arthropod,Andrena,dorsata,HUG,abundance,count,,1993,15,400
+arthropod,Andrena,dorsata,L?Horlogerie,abundance,count,1,1982,5,400
+arthropod,Andrena,dorsata,La Praille,abundance,count,,2002,15,400
+arthropod,Andrena,dorsata,La Seymaz,abundance,count,,2007,15,400
+arthropod,Andrena,dorsata,Les Huttins,abundance,count,,2007,5,400
+arthropod,Andrena,dorsata,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Andrena,dorsata,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Andrena,dorsata,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Andrena,florea,Europe,abundance,count,,1996,15,400
+arthropod,Andrena,florea,HEAD,abundance,count,,2010,15,400
+arthropod,Andrena,florea,HUG,abundance,count,,1993,15,400
+arthropod,Andrena,florea,L?Horlogerie,abundance,count,1,1982,5,400
+arthropod,Andrena,florea,La Praille,abundance,count,,2002,15,400
+arthropod,Andrena,florea,La Seymaz,abundance,count,,2007,15,400
+arthropod,Andrena,florea,Les Huttins,abundance,count,,2007,5,400
+arthropod,Andrena,florea,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Andrena,florea,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Andrena,florea,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Andrena,fulva,Europe,abundance,count,,1996,15,400
+arthropod,Andrena,fulva,HEAD,abundance,count,1,2010,15,400
+arthropod,Andrena,fulva,HUG,abundance,count,,1993,15,400
+arthropod,Andrena,fulva,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Andrena,fulva,La Praille,abundance,count,,2002,15,400
+arthropod,Andrena,fulva,La Seymaz,abundance,count,,2007,15,400
+arthropod,Andrena,fulva,Les Huttins,abundance,count,,2007,5,400
+arthropod,Andrena,fulva,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Andrena,fulva,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Andrena,fulva,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Andrena,gravida,Europe,abundance,count,,1996,15,400
+arthropod,Andrena,gravida,HEAD,abundance,count,,2010,15,400
+arthropod,Andrena,gravida,HUG,abundance,count,,1993,15,400
+arthropod,Andrena,gravida,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Andrena,gravida,La Praille,abundance,count,,2002,15,400
+arthropod,Andrena,gravida,La Seymaz,abundance,count,1,2007,15,400
+arthropod,Andrena,gravida,Les Huttins,abundance,count,,2007,5,400
+arthropod,Andrena,gravida,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Andrena,gravida,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Andrena,gravida,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Andrena,haemorrhoa,Europe,abundance,count,,1996,15,400
+arthropod,Andrena,haemorrhoa,HEAD,abundance,count,,2010,15,400
+arthropod,Andrena,haemorrhoa,HUG,abundance,count,,1993,15,400
+arthropod,Andrena,haemorrhoa,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Andrena,haemorrhoa,La Praille,abundance,count,,2002,15,400
+arthropod,Andrena,haemorrhoa,La Seymaz,abundance,count,,2007,15,400
+arthropod,Andrena,haemorrhoa,Les Huttins,abundance,count,1,2007,5,400
+arthropod,Andrena,haemorrhoa,Les Pommiers,abundance,count,1,2012,15,400
+arthropod,Andrena,haemorrhoa,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Andrena,haemorrhoa,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Andrena,labialis,Europe,abundance,count,,1996,15,400
+arthropod,Andrena,labialis,HEAD,abundance,count,,2010,15,400
+arthropod,Andrena,labialis,HUG,abundance,count,,1993,15,400
+arthropod,Andrena,labialis,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Andrena,labialis,La Praille,abundance,count,,2002,15,400
+arthropod,Andrena,labialis,La Seymaz,abundance,count,,2007,15,400
+arthropod,Andrena,labialis,Les Huttins,abundance,count,,2007,5,400
+arthropod,Andrena,labialis,Les Pommiers,abundance,count,1,2012,15,400
+arthropod,Andrena,labialis,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Andrena,labialis,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Andrena,nigroaenea,Europe,abundance,count,3,1996,15,400
+arthropod,Andrena,nigroaenea,HEAD,abundance,count,3,2010,15,400
+arthropod,Andrena,nigroaenea,HUG,abundance,count,6,1993,15,400
+arthropod,Andrena,nigroaenea,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Andrena,nigroaenea,La Praille,abundance,count,,2002,15,400
+arthropod,Andrena,nigroaenea,La Seymaz,abundance,count,1,2007,15,400
+arthropod,Andrena,nigroaenea,Les Huttins,abundance,count,1,2007,5,400
+arthropod,Andrena,nigroaenea,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Andrena,nigroaenea,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Andrena,nigroaenea,ZÅrich assurance,abundance,count,1,1973,5,400
+arthropod,Andrena,nitida,Europe,abundance,count,,1996,15,400
+arthropod,Andrena,nitida,HEAD,abundance,count,1,2010,15,400
+arthropod,Andrena,nitida,HUG,abundance,count,,1993,15,400
+arthropod,Andrena,nitida,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Andrena,nitida,La Praille,abundance,count,,2002,15,400
+arthropod,Andrena,nitida,La Seymaz,abundance,count,,2007,15,400
+arthropod,Andrena,nitida,Les Huttins,abundance,count,,2007,5,400
+arthropod,Andrena,nitida,Les Pommiers,abundance,count,1,2012,15,400
+arthropod,Andrena,nitida,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Andrena,nitida,ZÅrich assurance,abundance,count,3,1973,5,400
+arthropod,Andrena,tibialis,Europe,abundance,count,,1996,15,400
+arthropod,Andrena,tibialis,HEAD,abundance,count,,2010,15,400
+arthropod,Andrena,tibialis,HUG,abundance,count,,1993,15,400
+arthropod,Andrena,tibialis,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Andrena,tibialis,La Praille,abundance,count,1,2002,15,400
+arthropod,Andrena,tibialis,La Seymaz,abundance,count,,2007,15,400
+arthropod,Andrena,tibialis,Les Huttins,abundance,count,,2007,5,400
+arthropod,Andrena,tibialis,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Andrena,tibialis,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Andrena,tibialis,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Andrena,vaga,Europe,abundance,count,,1996,15,400
+arthropod,Andrena,vaga,HEAD,abundance,count,,2010,15,400
+arthropod,Andrena,vaga,HUG,abundance,count,,1993,15,400
+arthropod,Andrena,vaga,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Andrena,vaga,La Praille,abundance,count,,2002,15,400
+arthropod,Andrena,vaga,La Seymaz,abundance,count,,2007,15,400
+arthropod,Andrena,vaga,Les Huttins,abundance,count,1,2007,5,400
+arthropod,Andrena,vaga,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Andrena,vaga,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Andrena,vaga,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Apis,mellifera,Europe,abundance,count,25,1996,15,400
+arthropod,Apis,mellifera,HEAD,abundance,count,17,2010,15,400
+arthropod,Apis,mellifera,HUG,abundance,count,42,1993,15,400
+arthropod,Apis,mellifera,L?Horlogerie,abundance,count,204,1982,5,400
+arthropod,Apis,mellifera,La Praille,abundance,count,17,2002,15,400
+arthropod,Apis,mellifera,La Seymaz,abundance,count,30,2007,15,400
+arthropod,Apis,mellifera,Les Huttins,abundance,count,45,2007,5,400
+arthropod,Apis,mellifera,Les Pommiers,abundance,count,37,2012,15,400
+arthropod,Apis,mellifera,Pavillon de l?enfance,abundance,count,21,2011,5,400
+arthropod,Apis,mellifera,ZÅrich assurance,abundance,count,34,1973,5,400
+arthropod,Bombus,lapidarius,Europe,abundance,count,,1996,15,400
+arthropod,Bombus,lapidarius,HEAD,abundance,count,1,2010,15,400
+arthropod,Bombus,lapidarius,HUG,abundance,count,,1993,15,400
+arthropod,Bombus,lapidarius,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Bombus,lapidarius,La Praille,abundance,count,,2002,15,400
+arthropod,Bombus,lapidarius,La Seymaz,abundance,count,,2007,15,400
+arthropod,Bombus,lapidarius,Les Huttins,abundance,count,,2007,5,400
+arthropod,Bombus,lapidarius,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Bombus,lapidarius,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Bombus,lapidarius,ZÅrich assurance,abundance,count,1,1973,5,400
+arthropod,Bombus,pascuorum,Europe,abundance,count,,1996,15,400
+arthropod,Bombus,pascuorum,HEAD,abundance,count,,2010,15,400
+arthropod,Bombus,pascuorum,HUG,abundance,count,2,1993,15,400
+arthropod,Bombus,pascuorum,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Bombus,pascuorum,La Praille,abundance,count,,2002,15,400
+arthropod,Bombus,pascuorum,La Seymaz,abundance,count,,2007,15,400
+arthropod,Bombus,pascuorum,Les Huttins,abundance,count,,2007,5,400
+arthropod,Bombus,pascuorum,Les Pommiers,abundance,count,1,2012,15,400
+arthropod,Bombus,pascuorum,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Bombus,pascuorum,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Bombus,ruderatus,Europe,abundance,count,,1996,15,400
+arthropod,Bombus,ruderatus,HEAD,abundance,count,,2010,15,400
+arthropod,Bombus,ruderatus,HUG,abundance,count,,1993,15,400
+arthropod,Bombus,ruderatus,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Bombus,ruderatus,La Praille,abundance,count,,2002,15,400
+arthropod,Bombus,ruderatus,La Seymaz,abundance,count,,2007,15,400
+arthropod,Bombus,ruderatus,Les Huttins,abundance,count,,2007,5,400
+arthropod,Bombus,ruderatus,Les Pommiers,abundance,count,1,2012,15,400
+arthropod,Bombus,ruderatus,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Bombus,ruderatus,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Bombus,rupestris,Europe,abundance,count,,1996,15,400
+arthropod,Bombus,rupestris,HEAD,abundance,count,1,2010,15,400
+arthropod,Bombus,rupestris,HUG,abundance,count,,1993,15,400
+arthropod,Bombus,rupestris,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Bombus,rupestris,La Praille,abundance,count,,2002,15,400
+arthropod,Bombus,rupestris,La Seymaz,abundance,count,,2007,15,400
+arthropod,Bombus,rupestris,Les Huttins,abundance,count,,2007,5,400
+arthropod,Bombus,rupestris,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Bombus,rupestris,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Bombus,rupestris,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Bombus,sylvarum,Europe,abundance,count,,1996,15,400
+arthropod,Bombus,sylvarum,HEAD,abundance,count,,2010,15,400
+arthropod,Bombus,sylvarum,HUG,abundance,count,,1993,15,400
+arthropod,Bombus,sylvarum,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Bombus,sylvarum,La Praille,abundance,count,,2002,15,400
+arthropod,Bombus,sylvarum,La Seymaz,abundance,count,1,2007,15,400
+arthropod,Bombus,sylvarum,Les Huttins,abundance,count,,2007,5,400
+arthropod,Bombus,sylvarum,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Bombus,sylvarum,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Bombus,sylvarum,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Bombus,terrestris,Europe,abundance,count,5,1996,15,400
+arthropod,Bombus,terrestris,HEAD,abundance,count,7,2010,15,400
+arthropod,Bombus,terrestris,HUG,abundance,count,4,1993,15,400
+arthropod,Bombus,terrestris,L?Horlogerie,abundance,count,7,1982,5,400
+arthropod,Bombus,terrestris,La Praille,abundance,count,1,2002,15,400
+arthropod,Bombus,terrestris,La Seymaz,abundance,count,,2007,15,400
+arthropod,Bombus,terrestris,Les Huttins,abundance,count,3,2007,5,400
+arthropod,Bombus,terrestris,Les Pommiers,abundance,count,10,2012,15,400
+arthropod,Bombus,terrestris,Pavillon de l?enfance,abundance,count,7,2011,5,400
+arthropod,Bombus,terrestris,ZÅrich assurance,abundance,count,3,1973,5,400
+arthropod,Colletes,cunicularius,Europe,abundance,count,,1996,15,400
+arthropod,Colletes,cunicularius,HEAD,abundance,count,,2010,15,400
+arthropod,Colletes,cunicularius,HUG,abundance,count,,1993,15,400
+arthropod,Colletes,cunicularius,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Colletes,cunicularius,La Praille,abundance,count,,2002,15,400
+arthropod,Colletes,cunicularius,La Seymaz,abundance,count,,2007,15,400
+arthropod,Colletes,cunicularius,Les Huttins,abundance,count,,2007,5,400
+arthropod,Colletes,cunicularius,Les Pommiers,abundance,count,1,2012,15,400
+arthropod,Colletes,cunicularius,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Colletes,cunicularius,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Halictus,scabiosae,Europe,abundance,count,,1996,15,400
+arthropod,Halictus,scabiosae,HEAD,abundance,count,1,2010,15,400
+arthropod,Halictus,scabiosae,HUG,abundance,count,2,1993,15,400
+arthropod,Halictus,scabiosae,L?Horlogerie,abundance,count,1,1982,5,400
+arthropod,Halictus,scabiosae,La Praille,abundance,count,1,2002,15,400
+arthropod,Halictus,scabiosae,La Seymaz,abundance,count,7,2007,15,400
+arthropod,Halictus,scabiosae,Les Huttins,abundance,count,2,2007,5,400
+arthropod,Halictus,scabiosae,Les Pommiers,abundance,count,4,2012,15,400
+arthropod,Halictus,scabiosae,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Halictus,scabiosae,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Halictus,simplex,Europe,abundance,count,,1996,15,400
+arthropod,Halictus,simplex,HEAD,abundance,count,,2010,15,400
+arthropod,Halictus,simplex,HUG,abundance,count,2,1993,15,400
+arthropod,Halictus,simplex,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Halictus,simplex,La Praille,abundance,count,,2002,15,400
+arthropod,Halictus,simplex,La Seymaz,abundance,count,,2007,15,400
+arthropod,Halictus,simplex,Les Huttins,abundance,count,1,2007,5,400
+arthropod,Halictus,simplex,Les Pommiers,abundance,count,1,2012,15,400
+arthropod,Halictus,simplex,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Halictus,simplex,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Hylaeus,hyalinatus,Europe,abundance,count,,1996,15,400
+arthropod,Hylaeus,hyalinatus,HEAD,abundance,count,,2010,15,400
+arthropod,Hylaeus,hyalinatus,HUG,abundance,count,1,1993,15,400
+arthropod,Hylaeus,hyalinatus,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Hylaeus,hyalinatus,La Praille,abundance,count,,2002,15,400
+arthropod,Hylaeus,hyalinatus,La Seymaz,abundance,count,,2007,15,400
+arthropod,Hylaeus,hyalinatus,Les Huttins,abundance,count,,2007,5,400
+arthropod,Hylaeus,hyalinatus,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Hylaeus,hyalinatus,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Hylaeus,hyalinatus,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Hylaeus,sinuatus,Europe,abundance,count,,1996,15,400
+arthropod,Hylaeus,sinuatus,HEAD,abundance,count,,2010,15,400
+arthropod,Hylaeus,sinuatus,HUG,abundance,count,1,1993,15,400
+arthropod,Hylaeus,sinuatus,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Hylaeus,sinuatus,La Praille,abundance,count,,2002,15,400
+arthropod,Hylaeus,sinuatus,La Seymaz,abundance,count,,2007,15,400
+arthropod,Hylaeus,sinuatus,Les Huttins,abundance,count,,2007,5,400
+arthropod,Hylaeus,sinuatus,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Hylaeus,sinuatus,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Hylaeus,sinuatus,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Lasioglossum,calceatum,Europe,abundance,count,,1996,15,400
+arthropod,Lasioglossum,calceatum,HEAD,abundance,count,,2010,15,400
+arthropod,Lasioglossum,calceatum,HUG,abundance,count,,1993,15,400
+arthropod,Lasioglossum,calceatum,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Lasioglossum,calceatum,La Praille,abundance,count,1,2002,15,400
+arthropod,Lasioglossum,calceatum,La Seymaz,abundance,count,,2007,15,400
+arthropod,Lasioglossum,calceatum,Les Huttins,abundance,count,,2007,5,400
+arthropod,Lasioglossum,calceatum,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Lasioglossum,calceatum,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Lasioglossum,calceatum,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Lasioglossum,laticeps,Europe,abundance,count,1,1996,15,400
+arthropod,Lasioglossum,laticeps,HEAD,abundance,count,1,2010,15,400
+arthropod,Lasioglossum,laticeps,HUG,abundance,count,5,1993,15,400
+arthropod,Lasioglossum,laticeps,L?Horlogerie,abundance,count,6,1982,5,400
+arthropod,Lasioglossum,laticeps,La Praille,abundance,count,1,2002,15,400
+arthropod,Lasioglossum,laticeps,La Seymaz,abundance,count,1,2007,15,400
+arthropod,Lasioglossum,laticeps,Les Huttins,abundance,count,1,2007,5,400
+arthropod,Lasioglossum,laticeps,Les Pommiers,abundance,count,7,2012,15,400
+arthropod,Lasioglossum,laticeps,Pavillon de l?enfance,abundance,count,1,2011,5,400
+arthropod,Lasioglossum,laticeps,ZÅrich assurance,abundance,count,4,1973,5,400
+arthropod,Lasioglossum,malachurum,Europe,abundance,count,,1996,15,400
+arthropod,Lasioglossum,malachurum,HEAD,abundance,count,1,2010,15,400
+arthropod,Lasioglossum,malachurum,HUG,abundance,count,,1993,15,400
+arthropod,Lasioglossum,malachurum,L?Horlogerie,abundance,count,2,1982,5,400
+arthropod,Lasioglossum,malachurum,La Praille,abundance,count,,2002,15,400
+arthropod,Lasioglossum,malachurum,La Seymaz,abundance,count,,2007,15,400
+arthropod,Lasioglossum,malachurum,Les Huttins,abundance,count,,2007,5,400
+arthropod,Lasioglossum,malachurum,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Lasioglossum,malachurum,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Lasioglossum,malachurum,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Lasioglossum,morio,Europe,abundance,count,15,1996,15,400
+arthropod,Lasioglossum,morio,HEAD,abundance,count,,2010,15,400
+arthropod,Lasioglossum,morio,HUG,abundance,count,33,1993,15,400
+arthropod,Lasioglossum,morio,L?Horlogerie,abundance,count,3,1982,5,400
+arthropod,Lasioglossum,morio,La Praille,abundance,count,,2002,15,400
+arthropod,Lasioglossum,morio,La Seymaz,abundance,count,,2007,15,400
+arthropod,Lasioglossum,morio,Les Huttins,abundance,count,1,2007,5,400
+arthropod,Lasioglossum,morio,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Lasioglossum,morio,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Lasioglossum,morio,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Lasioglossum,nitidulum,Europe,abundance,count,,1996,15,400
+arthropod,Lasioglossum,nitidulum,HEAD,abundance,count,,2010,15,400
+arthropod,Lasioglossum,nitidulum,HUG,abundance,count,,1993,15,400
+arthropod,Lasioglossum,nitidulum,L?Horlogerie,abundance,count,1,1982,5,400
+arthropod,Lasioglossum,nitidulum,La Praille,abundance,count,,2002,15,400
+arthropod,Lasioglossum,nitidulum,La Seymaz,abundance,count,,2007,15,400
+arthropod,Lasioglossum,nitidulum,Les Huttins,abundance,count,,2007,5,400
+arthropod,Lasioglossum,nitidulum,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Lasioglossum,nitidulum,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Lasioglossum,nitidulum,ZÅrich assurance,abundance,count,1,1973,5,400
+arthropod,Lasioglossum,pauxillum,Europe,abundance,count,2,1996,15,400
+arthropod,Lasioglossum,pauxillum,HEAD,abundance,count,,2010,15,400
+arthropod,Lasioglossum,pauxillum,HUG,abundance,count,1,1993,15,400
+arthropod,Lasioglossum,pauxillum,L?Horlogerie,abundance,count,9,1982,5,400
+arthropod,Lasioglossum,pauxillum,La Praille,abundance,count,,2002,15,400
+arthropod,Lasioglossum,pauxillum,La Seymaz,abundance,count,,2007,15,400
+arthropod,Lasioglossum,pauxillum,Les Huttins,abundance,count,,2007,5,400
+arthropod,Lasioglossum,pauxillum,Les Pommiers,abundance,count,1,2012,15,400
+arthropod,Lasioglossum,pauxillum,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Lasioglossum,pauxillum,ZÅrich assurance,abundance,count,14,1973,5,400
+arthropod,Lasioglossum,politum,Europe,abundance,count,,1996,15,400
+arthropod,Lasioglossum,politum,HEAD,abundance,count,,2010,15,400
+arthropod,Lasioglossum,politum,HUG,abundance,count,1,1993,15,400
+arthropod,Lasioglossum,politum,L?Horlogerie,abundance,count,1,1982,5,400
+arthropod,Lasioglossum,politum,La Praille,abundance,count,,2002,15,400
+arthropod,Lasioglossum,politum,La Seymaz,abundance,count,1,2007,15,400
+arthropod,Lasioglossum,politum,Les Huttins,abundance,count,,2007,5,400
+arthropod,Lasioglossum,politum,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Lasioglossum,politum,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Lasioglossum,politum,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Megachile,ericetorum,Europe,abundance,count,,1996,15,400
+arthropod,Megachile,ericetorum,HEAD,abundance,count,,2010,15,400
+arthropod,Megachile,ericetorum,HUG,abundance,count,1,1993,15,400
+arthropod,Megachile,ericetorum,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Megachile,ericetorum,La Praille,abundance,count,,2002,15,400
+arthropod,Megachile,ericetorum,La Seymaz,abundance,count,,2007,15,400
+arthropod,Megachile,ericetorum,Les Huttins,abundance,count,,2007,5,400
+arthropod,Megachile,ericetorum,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Megachile,ericetorum,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Megachile,ericetorum,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Megachile,willughbiella,Europe,abundance,count,,1996,15,400
+arthropod,Megachile,willughbiella,HEAD,abundance,count,,2010,15,400
+arthropod,Megachile,willughbiella,HUG,abundance,count,1,1993,15,400
+arthropod,Megachile,willughbiella,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Megachile,willughbiella,La Praille,abundance,count,,2002,15,400
+arthropod,Megachile,willughbiella,La Seymaz,abundance,count,,2007,15,400
+arthropod,Megachile,willughbiella,Les Huttins,abundance,count,,2007,5,400
+arthropod,Megachile,willughbiella,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Megachile,willughbiella,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Megachile,willughbiella,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Osmia,bicornis,Europe,abundance,count,3,1996,15,400
+arthropod,Osmia,bicornis,HEAD,abundance,count,,2010,15,400
+arthropod,Osmia,bicornis,HUG,abundance,count,2,1993,15,400
+arthropod,Osmia,bicornis,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Osmia,bicornis,La Praille,abundance,count,,2002,15,400
+arthropod,Osmia,bicornis,La Seymaz,abundance,count,,2007,15,400
+arthropod,Osmia,bicornis,Les Huttins,abundance,count,,2007,5,400
+arthropod,Osmia,bicornis,Les Pommiers,abundance,count,2,2012,15,400
+arthropod,Osmia,bicornis,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Osmia,bicornis,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Osmia,cornuta,Europe,abundance,count,,1996,15,400
+arthropod,Osmia,cornuta,HEAD,abundance,count,1,2010,15,400
+arthropod,Osmia,cornuta,HUG,abundance,count,,1993,15,400
+arthropod,Osmia,cornuta,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Osmia,cornuta,La Praille,abundance,count,,2002,15,400
+arthropod,Osmia,cornuta,La Seymaz,abundance,count,,2007,15,400
+arthropod,Osmia,cornuta,Les Huttins,abundance,count,,2007,5,400
+arthropod,Osmia,cornuta,Les Pommiers,abundance,count,,2012,15,400
+arthropod,Osmia,cornuta,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Osmia,cornuta,ZÅrich assurance,abundance,count,,1973,5,400
+arthropod,Sphecodes,ephippius,Europe,abundance,count,,1996,15,400
+arthropod,Sphecodes,ephippius,HEAD,abundance,count,,2010,15,400
+arthropod,Sphecodes,ephippius,HUG,abundance,count,,1993,15,400
+arthropod,Sphecodes,ephippius,L?Horlogerie,abundance,count,,1982,5,400
+arthropod,Sphecodes,ephippius,La Praille,abundance,count,,2002,15,400
+arthropod,Sphecodes,ephippius,La Seymaz,abundance,count,,2007,15,400
+arthropod,Sphecodes,ephippius,Les Huttins,abundance,count,,2007,5,400
+arthropod,Sphecodes,ephippius,Les Pommiers,abundance,count,1,2012,15,400
+arthropod,Sphecodes,ephippius,Pavillon de l?enfance,abundance,count,,2011,5,400
+arthropod,Sphecodes,ephippius,ZÅrich assurance,abundance,count,,1973,5,400
+Plants,,,Pavillon de l?enfance,Shannon-Weaver diversity,mean,0.8,2011,5,400
+Plants,,,La Praille,Shannon-Weaver diversity,mean,1.61,2002,15,400
+Plants,,,La Seymaz,Shannon-Weaver diversity,mean,1.35,2007,15,400
+Plants,,,Europe,Shannon-Weaver diversity,mean,1.41,1996,15,400
+Plants,,,Les Huttins,Shannon-Weaver diversity,mean,1.97,2007,5,400
+Plants,,,ZÅrich assurance,Shannon-Weaver diversity,mean,1.56,1973,5,400
+Plants,,,HEAD,Shannon-Weaver diversity,mean,1.95,2010,15,400
+Plants,,,L?Horlogerie,Shannon-Weaver diversity,mean,2.1,1982,5,400
+Plants,,,Les Pommiers,Shannon-Weaver diversity,mean,2.18,2012,15,400
+Plants,,,HUG,Shannon-Weaver diversity,mean,1.84,1993,15,400
+Plants,,,Pavillon de l?enfance,Abundance,mean,10,2011,5,400
+Plants,,,La Praille,Abundance,mean,5,2002,15,400
+Plants,,,La Seymaz,Abundance,mean,12,2007,15,400
+Plants,,,Europe,Abundance,mean,29,1996,15,400
+Plants,,,Les Huttins,Abundance,mean,11,2007,5,400
+Plants,,,ZÅrich assurance,Abundance,mean,28,1973,5,400
+Plants,,,HEAD,Abundance,mean,18,2010,15,400
+Plants,,,L?Horlogerie,Abundance,mean,34,1982,5,400
+Plants,,,Les Pommiers,Abundance,mean,33,2012,15,400
+Plants,,,HUG,Abundance,mean,63,1993,15,400
+Plants,,,Pavillon de l?enfance,Richness,mean,44,2011,5,400
+Plants,,,La Praille,Richness,mean,21,2002,15,400
+Plants,,,La Seymaz,Richness,mean,33,2007,15,400
+Plants,,,Europe,Richness,mean,48,1996,15,400
+Plants,,,Les Huttins,Richness,mean,42,2007,5,400
+Plants,,,ZÅrich assurance,Richness,mean,29,1973,5,400
+Plants,,,HEAD,Richness,mean,47,2010,15,400
+Plants,,,L?Horlogerie,Richness,mean,48,1982,5,400
+Plants,,,Les Pommiers,Richness,mean,64,2012,15,400
+Plants,,,HUG,Richness,mean,37,1993,15,400
