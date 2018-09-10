@@ -1,0 +1,622 @@
+No.,Biotope ENG,Reduced.Habitat,Taxa,Estimated.Questionaire,Richness.mean,Biomass.mean,Abundance.mean,Evenness.mean
+1,Flooded mires,Wetland,Vascular plants,Estimated.Questionaire,10,8,9,9
+2,Hollow bogs,Wetland,Vascular plants,Estimated.Questionaire,10,7,9,8
+3,River ecosystems,Wetland,Vascular plants,Estimated.Questionaire,6,4,4,2
+4,Stream ecosystems,Wetland,Vascular plants,Estimated.Questionaire,6,5,4,4
+5,Forested and shrubby riverbanks,Wetland,Vascular plants,Estimated.Questionaire,6,5,4,4
+6,Open & meadow riverbanks,Wetland,Vascular plants,Estimated.Questionaire,8,5,6,6
+7,Lakes and ponds (incl. shores),Wetland,Vascular plants,Estimated.Questionaire,10,6,6,6
+8,Springs,Wetland,Vascular plants,Estimated.Questionaire,10,5,4,2
+9,Natural sandy beaches,Coastal,Vascular plants,Estimated.Questionaire,8,4,4,4
+10,Gravel & rocky beaches,Coastal,Vascular plants,Estimated.Questionaire,8,5,6,4
+11,Coastline rocks,Coastal,Vascular plants,Estimated.Questionaire,4,3,5,4
+12,Coastal meadows,Coastal,Vascular plants,Estimated.Questionaire,10,8,7,6
+13,Coastal reed beds,Coastal,Vascular plants,Estimated.Questionaire,6,8,10,4
+14,Natural sands,Coastal,Vascular plants,Estimated.Questionaire,8,2,3,2
+15,"Bare rocks (outcrops, ledges, rocky grounds)",RockyMeadows,Vascular plants,Estimated.Questionaire,4,2,3,2
+16,Calcareous rocks,RockyMeadows,Vascular plants,Estimated.Questionaire,14,5,8,8
+17,Rocky meadows,RockyMeadows,Vascular plants,Estimated.Questionaire,14,5,8,8
+18,Forests on rocky substrates,Forest,Vascular plants,Estimated.Questionaire,6,10,7,6
+19,Old-growth forests on rocky substrates,Forest,Vascular plants,Estimated.Questionaire,6,10,7,6
+20,Esker forests (30-100 y.),Forest,Vascular plants,Estimated.Questionaire,6,10,7,6
+21,Old-growth esker forests (100- y.),Forest,Vascular plants,Estimated.Questionaire,8,11,9,8
+22,Heathland forests (30-100 y.),Forest,Vascular plants,Estimated.Questionaire,6,10,7,7
+23,Old-growth heathland forests (100- y.),Forest,Vascular plants,Estimated.Questionaire,10,11,9,7
+24,Herb-rich forests (30-100 y.),Forest,Vascular plants,Estimated.Questionaire,10,11,11,8
+25,Old-growth herb-rich forests (100- y.),Forest,Vascular plants,Estimated.Questionaire,14,11,11,8
+26,Pine marshes (30-100 y.),Forest,Vascular plants,Estimated.Questionaire,6,9,7,4
+27,Old-growth pine marshes (100- y.),Forest,Vascular plants,Estimated.Questionaire,8,10,9,4
+28,Spruce mires (30-100 y.),Forest,Vascular plants,Estimated.Questionaire,8,10,9,4
+29,Old-growth spruce mires (100- y.),Forest,Vascular plants,Estimated.Questionaire,12,11,11,4
+30,Swamp forests (30-100 y.),Forest,Vascular plants,Estimated.Questionaire,10,10,9,4
+31,Old-growth swamp forest (100- y.),Forest,Vascular plants,Estimated.Questionaire,14,11,11,6
+32,Small deciduous forests (<0.5ha),Forest,Vascular plants,Estimated.Questionaire,6,9,9,6
+33,Agricultural fields,Agriculture,Vascular plants,Estimated.Questionaire,0,8,7,3
+34,Community gardens,Public and allotment gardens,Vascular plants,Estimated.Questionaire,4,8,8,6
+35,Moist meadows,Grassland,Vascular plants,Estimated.Questionaire,10,7,10,4
+36,Fresh meadow,Grassland,Vascular plants,Estimated.Questionaire,14,8,10,6
+37,Dry meadows,Grassland,Vascular plants,Estimated.Questionaire,14,5,7,8
+38,Moors,Grassland,Vascular plants,Estimated.Questionaire,4,4,4,4
+39,Forest pastures,Forest,Vascular plants,Estimated.Questionaire,12,9,7,8
+40,Fortifications and similar cultural areas,Forest,Vascular plants,Estimated.Questionaire,14,6,7,8
+41,Anthrophogenic wetlands,Retention Ponds,Vascular plants,Estimated.Questionaire,6,6,5,2
+42,Open wastelands,Brownfield,Vascular plants,Estimated.Questionaire,10,5,4,6
+43,Shrubby wastelands,Brownfield,Vascular plants,Estimated.Questionaire,6,6,6,6
+44,Built parks with trees,Park,Vascular plants,Estimated.Questionaire,4,10,7,6
+45,Manor gardens,Public and allotment gardens,Vascular plants,Estimated.Questionaire,8,11,9,8
+46,Botanical gardens,Public and allotment gardens,Vascular plants,Estimated.Questionaire,12,10,10,9
+47,Pocket parks (<0.5ha),Public and allotment gardens,Vascular plants,Estimated.Questionaire,6,7,6,6
+48,Allotment gardens,Public and allotment gardens,Vascular plants,Estimated.Questionaire,8,8,5,6
+49,Cemeteries,Cemeteries,Vascular plants,Estimated.Questionaire,8,5,4,5
+50,Golf courses,Golf courses,Vascular plants,Estimated.Questionaire,2,2,5,3
+51,Open lawns,yards,Vascular plants,Estimated.Questionaire,0,2,6,4
+52,Avenues,roadsides,Vascular plants,Estimated.Questionaire,4,5,6,5
+53,Sealed apartmentblock yards,yards,Vascular plants,Estimated.Questionaire,0,0,0,0
+54,Bare apartmentblock yards,yards,Vascular plants,Estimated.Questionaire,2,2,3,3
+55,Sealed apartment suburb yards,yards,Vascular plants,Estimated.Questionaire,0,0,0,0
+56,Bare apartment suburb yards,yards,Vascular plants,Estimated.Questionaire,4,3,3,5
+57,Residential gardens,community gardens,Vascular plants,Estimated.Questionaire,4,4,5,4
+58,Densely-built residential gardens & townhouse gardens,community gardens,Vascular plants,Estimated.Questionaire,4,3,3,4
+59,Meadow and shrubby road embankments,roadsides,Vascular plants,Estimated.Questionaire,2,5,5,7
+60,Forested road embankments,urban tree canopy,Vascular plants,Estimated.Questionaire,4,8,7,7
+61,Airfields,Brownfield,Vascular plants,Estimated.Questionaire,6,4,4,4
+62,Areas beneath power-lines,Brownfield,Vascular plants,Estimated.Questionaire,10,5,8,8
+63,Constructed ponds & runoff-water pools,bioswales,Vascular plants,Estimated.Questionaire,6,2,4,2
+64,"Artificial shores (beaches, canals, terraced embankments, etc.)",bioswales,Vascular plants,Estimated.Questionaire,2,2,1,2
+65,Anthrophogenic sand and gravelpits,Brownfield,Vascular plants,Estimated.Questionaire,6,2,3,4
+66,Green roofs,green roof,Vascular plants,Estimated.Questionaire,4,3,6,2
+67,Green walls,green wall,Vascular plants,Estimated.Questionaire,4,2,4,2
+68,Deadwood gardens (parks with additional deadwood),park,Vascular plants,Estimated.Questionaire,6,6,6,4
+69,Impermeable surfaces,Impermeable surfaces,Vascular plants,Estimated.Questionaire,0,0,0,0
+1,Flooded mires,Wetland,Fungi,Estimated.Questionaire,6,1,2.5,4
+2,Hollow bogs,Wetland,Fungi,Estimated.Questionaire,6,1,2.5,4
+3,River ecosystems,Wetland,Fungi,Estimated.Questionaire,0,0,0,2
+4,Stream ecosystems,Wetland,Fungi,Estimated.Questionaire,0,0,0,2
+5,Forested and shrubby riverbanks,Wetland,Fungi,Estimated.Questionaire,14,3,2.5,4
+6,Open & meadow riverbanks,Wetland,Fungi,Estimated.Questionaire,6,0,0.5,2
+7,Lakes and ponds (incl. shores),Wetland,Fungi,Estimated.Questionaire,10,3,2.5,3
+8,Springs,Wetland,Fungi,Estimated.Questionaire,8,1,3,3
+9,Natural sandy beaches,Coastal,Fungi,Estimated.Questionaire,6,1,2.5,4
+10,Gravel & rocky beaches,Coastal,Fungi,Estimated.Questionaire,0,0,2,2
+11,Coastline rocks,Coastal,Fungi,Estimated.Questionaire,4,0,2,3
+12,Coastal meadows,Coastal,Fungi,Estimated.Questionaire,6,1,2,4
+13,Coastal reed beds,Coastal,Fungi,Estimated.Questionaire,4,1,2,3
+14,Natural sands,Coastal,Fungi,Estimated.Questionaire,4,0,2,2
+15,"Bare rocks (outcrops, ledges, rocky grounds)",RockyMeadows,Fungi,Estimated.Questionaire,4,0,2,2
+16,Calcareous rocks,RockyMeadows,Fungi,Estimated.Questionaire,8,2,2,3
+17,Rocky meadows,RockyMeadows,Fungi,Estimated.Questionaire,6,2,2,4
+18,Forests on rocky substrates,Forest,Fungi,Estimated.Questionaire,4,3,2.5,3
+19,Old-growth forests on rocky substrates,Forest,Fungi,Estimated.Questionaire,8,5,4.5,3
+20,Esker forests (30-100 y.),Forest,Fungi,Estimated.Questionaire,8,8,4,5
+21,Old-growth esker forests (100- y.),Forest,Fungi,Estimated.Questionaire,12,8,6,5
+22,Heathland forests (30-100 y.),Forest,Fungi,Estimated.Questionaire,10,10,8,4
+23,Old-growth heathland forests (100- y.),Forest,Fungi,Estimated.Questionaire,12,10,10,4
+24,Herb-rich forests (30-100 y.),Forest,Fungi,Estimated.Questionaire,14,6,6,5
+25,Old-growth herb-rich forests (100- y.),Forest,Fungi,Estimated.Questionaire,16,6,6,5
+26,Pine marshes (30-100 y.),Forest,Fungi,Estimated.Questionaire,4,2,4.5,3
+27,Old-growth pine marshes (100- y.),Forest,Fungi,Estimated.Questionaire,4,3,5,3
+28,Spruce mires (30-100 y.),Forest,Fungi,Estimated.Questionaire,12,6,7,5
+29,Old-growth spruce mires (100- y.),Forest,Fungi,Estimated.Questionaire,12,6,7,5
+30,Swamp forests (30-100 y.),Forest,Fungi,Estimated.Questionaire,8,3,4,4
+31,Old-growth swamp forest (100- y.),Forest,Fungi,Estimated.Questionaire,10,3,4.5,4
+32,Small deciduous forests (<0.5ha),Forest,Fungi,Estimated.Questionaire,8,6,4.5,4
+33,Agricultural fields,Agriculture,Fungi,Estimated.Questionaire,4,1,2.5,2
+34,Community gardens,Public and allotment gardens,Fungi,Estimated.Questionaire,4,0,2,2
+35,Moist meadows,Grassland,Fungi,Estimated.Questionaire,8,1,2.5,4
+36,Fresh meadow,Grassland,Fungi,Estimated.Questionaire,10,3,2.5,4
+37,Dry meadows,Grassland,Fungi,Estimated.Questionaire,12,3,2.5,4
+38,Moors,Grassland,Fungi,Estimated.Questionaire,6,3,2.5,3
+39,Forest pastures,Forest,Fungi,Estimated.Questionaire,12,4,5,5
+40,Fortifications and similar cultural areas,Forest,Fungi,Estimated.Questionaire,8,2,4,3
+41,Anthrophogenic wetlands,Retention Ponds,Fungi,Estimated.Questionaire,4,2,4,3
+42,Open wastelands,Brownfield,Fungi,Estimated.Questionaire,4,5,4.5,3
+43,Shrubby wastelands,Brownfield,Fungi,Estimated.Questionaire,6,5,5,4
+44,Built parks with trees,Park,Fungi,Estimated.Questionaire,8,3,4.5,4
+45,Manor gardens,Public and allotment gardens,Fungi,Estimated.Questionaire,14,6,5.5,5
+46,Botanical gardens,Public and allotment gardens,Fungi,Estimated.Questionaire,14,6,5.5,5
+47,Pocket parks (<0.5ha),Public and allotment gardens,Fungi,Estimated.Questionaire,6,3,4,2
+48,Allotment gardens,Public and allotment gardens,Fungi,Estimated.Questionaire,6,2,4.5,3
+49,Cemeteries,Cemeteries,Fungi,Estimated.Questionaire,14,5,4,5
+50,Golf courses,Golf courses,Fungi,Estimated.Questionaire,4,0,2,2
+51,Open lawns,yards,Fungi,Estimated.Questionaire,4,2,2,2
+52,Avenues,roadsides,Fungi,Estimated.Questionaire,6,3,2.5,3
+53,Sealed apartmentblock yards,yards,Fungi,Estimated.Questionaire,2,0,2,2
+54,Bare apartmentblock yards,yards,Fungi,Estimated.Questionaire,4,0,2,2
+55,Sealed apartment suburb yards,yards,Fungi,Estimated.Questionaire,2,2,2,2
+56,Bare apartment suburb yards,yards,Fungi,Estimated.Questionaire,6,5,2.5,3
+57,Residential gardens,community gardens,Fungi,Estimated.Questionaire,6,3,2.5,3
+58,Densely-built residential gardens & townhouse gardens,community gardens,Fungi,Estimated.Questionaire,6,1,2.5,3
+59,Meadow and shrubby road embankments,roadsides,Fungi,Estimated.Questionaire,4,2,2.5,2
+60,Forested road embankments,urban tree canopy,Fungi,Estimated.Questionaire,8,4,5,5
+61,Airfields,Brownfield,Fungi,Estimated.Questionaire,4,3,2.5,4
+62,Areas beneath power-lines,Brownfield,Fungi,Estimated.Questionaire,4,2,4.5,3
+63,Constructed ponds & runoff-water pools,bioswales,Fungi,Estimated.Questionaire,2,0,2,2
+64,"Artificial shores (beaches, canals, terraced embankments, etc.)",bioswales,Fungi,Estimated.Questionaire,0,0,0,2
+65,Anthrophogenic sand and gravelpits,Brownfield,Fungi,Estimated.Questionaire,4,3,4.5,4
+66,Green roofs,green roof,Fungi,Estimated.Questionaire,4,0,2,3
+67,Green walls,green wall,Fungi,Estimated.Questionaire,0,0,0,2
+68,Deadwood gardens (parks with additional deadwood),park,Fungi,Estimated.Questionaire,8,6,5,4
+69,Impermeable surfaces,Impermeable surfaces,Fungi,Estimated.Questionaire,0,0,0,0
+1,Flooded mires,Wetland,Birds,Estimated.Questionaire,17.33333333,10.66666667,16,10.66666667
+2,Hollow bogs,Wetland,Birds,Estimated.Questionaire,5.333333333,2.666666667,5.333333333,6.666666667
+3,River ecosystems,Wetland,Birds,Estimated.Questionaire,6.666666667,2,4,8
+4,Stream ecosystems,Wetland,Birds,Estimated.Questionaire,8,1.333333333,2.666666667,5.333333333
+5,Forested and shrubby riverbanks,Wetland,Birds,Estimated.Questionaire,16,7.333333333,16,8
+6,Open & meadow riverbanks,Wetland,Birds,Estimated.Questionaire,5.333333333,2,5.333333333,6.666666667
+7,Lakes and ponds (incl. shores),Wetland,Birds,Estimated.Questionaire,17.33333333,9.333333333,16,5.333333333
+8,Springs,Wetland,Birds,Estimated.Questionaire,0,0,0,5.333333333
+9,Natural sandy beaches,Coastal,Birds,Estimated.Questionaire,13.33333333,7.333333333,12,6.666666667
+10,Gravel & rocky beaches,Coastal,Birds,Estimated.Questionaire,10.66666667,4.666666667,10.66666667,5.333333333
+11,Coastline rocks,Coastal,Birds,Estimated.Questionaire,9.333333333,6.666666667,9.333333333,5.333333333
+12,Coastal meadows,Coastal,Birds,Estimated.Questionaire,16,7.333333333,17.33333333,6.666666667
+13,Coastal reed beds,Coastal,Birds,Estimated.Questionaire,14.66666667,8,16,4
+14,Natural sands,Coastal,Birds,Estimated.Questionaire,4,2.666666667,4,1.333333333
+15,"Bare rocks (outcrops, ledges, rocky grounds)",RockyMeadows,Birds,Estimated.Questionaire,2.666666667,1.333333333,1.333333333,2.666666667
+16,Calcareous rocks,RockyMeadows,Birds,Estimated.Questionaire,2.666666667,1.333333333,1.333333333,2.666666667
+17,Rocky meadows,RockyMeadows,Birds,Estimated.Questionaire,4,1.333333333,1.333333333,2.666666667
+18,Forests on rocky substrates,Forest,Birds,Estimated.Questionaire,5.333333333,2.666666667,5.333333333,6.666666667
+19,Old-growth forests on rocky substrates,Forest,Birds,Estimated.Questionaire,5.333333333,2.666666667,5.333333333,6.666666667
+20,Esker forests (30-100 y.),Forest,Birds,Estimated.Questionaire,6.666666667,4,5.333333333,6.666666667
+21,Old-growth esker forests (100- y.),Forest,Birds,Estimated.Questionaire,6.666666667,4,5.333333333,6.666666667
+22,Heathland forests (30-100 y.),Forest,Birds,Estimated.Questionaire,14.66666667,8.666666667,14.66666667,5.333333333
+23,Old-growth heathland forests (100- y.),Forest,Birds,Estimated.Questionaire,16,8.666666667,13.33333333,5.333333333
+24,Herb-rich forests (30-100 y.),Forest,Birds,Estimated.Questionaire,20,12,18.66666667,5.333333333
+25,Old-growth herb-rich forests (100- y.),Forest,Birds,Estimated.Questionaire,21.33333333,12,18.66666667,5.333333333
+26,Pine marshes (30-100 y.),Forest,Birds,Estimated.Questionaire,5.333333333,2.666666667,5.333333333,6.666666667
+27,Old-growth pine marshes (100- y.),Forest,Birds,Estimated.Questionaire,5.333333333,2.666666667,5.333333333,6.666666667
+28,Spruce mires (30-100 y.),Forest,Birds,Estimated.Questionaire,10.66666667,6,9.333333333,8
+29,Old-growth spruce mires (100- y.),Forest,Birds,Estimated.Questionaire,10.66666667,6,9.333333333,8
+30,Swamp forests (30-100 y.),Forest,Birds,Estimated.Questionaire,10.66666667,6,9.333333333,5.333333333
+31,Old-growth swamp forest (100- y.),Forest,Birds,Estimated.Questionaire,10.66666667,6,9.333333333,5.333333333
+32,Small deciduous forests (<0.5ha),Forest,Birds,Estimated.Questionaire,5.333333333,3.333333333,5.333333333,4
+33,Agricultural fields,Agriculture,Birds,Estimated.Questionaire,13.33333333,8,16,5.333333333
+34,Community gardens,Public and allotment gardens,Birds,Estimated.Questionaire,8,2,6.666666667,9.333333333
+35,Moist meadows,Grassland,Birds,Estimated.Questionaire,10.66666667,4.666666667,6.666666667,8
+36,Fresh meadow,Grassland,Birds,Estimated.Questionaire,16,7.333333333,14.66666667,5.333333333
+37,Dry meadows,Grassland,Birds,Estimated.Questionaire,6.666666667,3.333333333,5.333333333,6.666666667
+38,Moors,Grassland,Birds,Estimated.Questionaire,6.666666667,3.333333333,4,8
+39,Forest pastures,Forest,Birds,Estimated.Questionaire,10.66666667,5.333333333,8,8
+40,Fortifications and similar cultural areas,Forest,Birds,Estimated.Questionaire,12,4.666666667,8,6.666666667
+41,Anthrophogenic wetlands,Retention Ponds,Birds,Estimated.Questionaire,9.333333333,5.333333333,8,9.333333333
+42,Open wastelands,Brownfield,Birds,Estimated.Questionaire,14.66666667,6,14.66666667,5.333333333
+43,Shrubby wastelands,Brownfield,Birds,Estimated.Questionaire,8,4,6.666666667,8
+44,Built parks with trees,Park,Birds,Estimated.Questionaire,6.666666667,3.333333333,5.333333333,5.333333333
+45,Manor gardens,Public and allotment gardens,Birds,Estimated.Questionaire,10.66666667,5.333333333,9.333333333,6.666666667
+46,Botanical gardens,Public and allotment gardens,Birds,Estimated.Questionaire,14.66666667,5.333333333,13.33333333,8
+47,Pocket parks (<0.5ha),Public and allotment gardens,Birds,Estimated.Questionaire,4,0,4,5.333333333
+48,Allotment gardens,Public and allotment gardens,Birds,Estimated.Questionaire,12,5.333333333,9.333333333,8
+49,Cemeteries,Cemeteries,Birds,Estimated.Questionaire,12,5.333333333,8,6.666666667
+50,Golf courses,Golf courses,Birds,Estimated.Questionaire,5.333333333,3.333333333,5.333333333,5.333333333
+51,Open lawns,yards,Birds,Estimated.Questionaire,2.666666667,2.666666667,4,4
+52,Avenues,roadsides,Birds,Estimated.Questionaire,1.333333333,0,1.333333333,5.333333333
+53,Sealed apartmentblock yards,yards,Birds,Estimated.Questionaire,0,0,0,5.333333333
+54,Bare apartmentblock yards,yards,Birds,Estimated.Questionaire,4,2.666666667,4,6.666666667
+55,Sealed apartment suburb yards,yards,Birds,Estimated.Questionaire,0,0,0,5.333333333
+56,Bare apartment suburb yards,yards,Birds,Estimated.Questionaire,4,2.666666667,4,6.666666667
+57,Residential gardens,community gardens,Birds,Estimated.Questionaire,9.333333333,5.333333333,8,8
+58,Densely-built residential gardens & townhouse gardens,community gardens,Birds,Estimated.Questionaire,5.333333333,2.666666667,4,6.666666667
+59,Meadow and shrubby road embankments,roadsides,Birds,Estimated.Questionaire,5.333333333,0.666666667,4,5.333333333
+60,Forested road embankments,urban tree canopy,Birds,Estimated.Questionaire,5.333333333,2,4,6.666666667
+61,Airfields,Brownfield,Birds,Estimated.Questionaire,8,4.666666667,8,5.333333333
+62,Areas beneath power-lines,Brownfield,Birds,Estimated.Questionaire,5.333333333,3.333333333,5.333333333,8
+63,Constructed ponds & runoff-water pools,bioswales,Birds,Estimated.Questionaire,2.666666667,4,5.333333333,5.333333333
+64,"Artificial shores (beaches, canals, terraced embankments, etc.)",bioswales,Birds,Estimated.Questionaire,2.666666667,2.666666667,4,5.333333333
+65,Anthrophogenic sand and gravelpits,Brownfield,Birds,Estimated.Questionaire,4,2.666666667,4,2.666666667
+66,Green roofs,green roof,Birds,Estimated.Questionaire,0,0,0,2.666666667
+67,Green walls,green wall,Birds,Estimated.Questionaire,2.666666667,0,0,2.666666667
+68,Deadwood gardens (parks with additional deadwood),park,Birds,Estimated.Questionaire,5.333333333,2.666666667,4,5.333333333
+69,Impermeable surfaces,Impermeable surfaces,Birds,Estimated.Questionaire,0,0,0,0
+1,Flooded mires,Wetland,Bats,Estimated.Questionaire,1.333333333,2,2.666666667,2.666666667
+2,Hollow bogs,Wetland,Bats,Estimated.Questionaire,0,2,2.666666667,2.666666667
+3,River ecosystems,Wetland,Bats,Estimated.Questionaire,4,2,4,2.666666667
+4,Stream ecosystems,Wetland,Bats,Estimated.Questionaire,1.333333333,0.666666667,1.333333333,2.666666667
+5,Forested and shrubby riverbanks,Wetland,Bats,Estimated.Questionaire,9.333333333,7.333333333,10.66666667,8
+6,Open & meadow riverbanks,Wetland,Bats,Estimated.Questionaire,4,2.666666667,5.333333333,8
+7,Lakes and ponds (incl. shores),Wetland,Bats,Estimated.Questionaire,12,8,12,8
+8,Springs,Wetland,Bats,Estimated.Questionaire,1.333333333,0.666666667,1.333333333,5.333333333
+9,Natural sandy beaches,Coastal,Bats,Estimated.Questionaire,5.333333333,5.333333333,6.666666667,8
+10,Gravel & rocky beaches,Coastal,Bats,Estimated.Questionaire,4,3.333333333,4,6.666666667
+11,Coastline rocks,Coastal,Bats,Estimated.Questionaire,1.333333333,2,2.666666667,4
+12,Coastal meadows,Coastal,Bats,Estimated.Questionaire,1.333333333,2.666666667,4,4
+13,Coastal reed beds,Coastal,Bats,Estimated.Questionaire,5.333333333,4.666666667,6.666666667,4
+14,Natural sands,Coastal,Bats,Estimated.Questionaire,1.333333333,2,2.666666667,2.666666667
+15,"Bare rocks (outcrops, ledges, rocky grounds)",RockyMeadows,Bats,Estimated.Questionaire,1.333333333,4,6.666666667,4
+16,Calcareous rocks,RockyMeadows,Bats,Estimated.Questionaire,1.333333333,2,2.666666667,1.333333333
+17,Rocky meadows,RockyMeadows,Bats,Estimated.Questionaire,1.333333333,2.666666667,2.666666667,2.666666667
+18,Forests on rocky substrates,Forest,Bats,Estimated.Questionaire,5.333333333,4,5.333333333,2.666666667
+19,Old-growth forests on rocky substrates,Forest,Bats,Estimated.Questionaire,6.666666667,6,6.666666667,5.333333333
+20,Esker forests (30-100 y.),Forest,Bats,Estimated.Questionaire,5.333333333,4,5.333333333,5.333333333
+21,Old-growth esker forests (100- y.),Forest,Bats,Estimated.Questionaire,6.666666667,6,8,5.333333333
+22,Heathland forests (30-100 y.),Forest,Bats,Estimated.Questionaire,8,5.333333333,8,5.333333333
+23,Old-growth heathland forests (100- y.),Forest,Bats,Estimated.Questionaire,10.66666667,7.333333333,12,5.333333333
+24,Herb-rich forests (30-100 y.),Forest,Bats,Estimated.Questionaire,9.333333333,5.333333333,9.333333333,8
+25,Old-growth herb-rich forests (100- y.),Forest,Bats,Estimated.Questionaire,10.66666667,7.333333333,10.66666667,8
+26,Pine marshes (30-100 y.),Forest,Bats,Estimated.Questionaire,4,2.666666667,4,5.333333333
+27,Old-growth pine marshes (100- y.),Forest,Bats,Estimated.Questionaire,4,2.666666667,4,5.333333333
+28,Spruce mires (30-100 y.),Forest,Bats,Estimated.Questionaire,5.333333333,4.666666667,6.666666667,8
+29,Old-growth spruce mires (100- y.),Forest,Bats,Estimated.Questionaire,8,6.666666667,9.333333333,6.666666667
+30,Swamp forests (30-100 y.),Forest,Bats,Estimated.Questionaire,6.666666667,5.333333333,9.333333333,8
+31,Old-growth swamp forest (100- y.),Forest,Bats,Estimated.Questionaire,8,5.333333333,9.333333333,6.666666667
+32,Small deciduous forests (<0.5ha),Forest,Bats,Estimated.Questionaire,4,3.333333333,5.333333333,6.666666667
+33,Agricultural fields,Agriculture,Bats,Estimated.Questionaire,0,2,2.666666667,1.333333333
+34,Community gardens,Public and allotment gardens,Bats,Estimated.Questionaire,0,2.666666667,4,1.333333333
+35,Moist meadows,Grassland,Bats,Estimated.Questionaire,1.333333333,3.333333333,4,2.666666667
+36,Fresh meadow,Grassland,Bats,Estimated.Questionaire,1.333333333,2.666666667,4,2.666666667
+37,Dry meadows,Grassland,Bats,Estimated.Questionaire,1.333333333,2.666666667,4,2.666666667
+38,Moors,Grassland,Bats,Estimated.Questionaire,0,2.666666667,4,1.333333333
+39,Forest pastures,Forest,Bats,Estimated.Questionaire,8,5.333333333,8,9.333333333
+40,Fortifications and similar cultural areas,Forest,Bats,Estimated.Questionaire,12,6.666666667,9.333333333,10.66666667
+41,Anthrophogenic wetlands,Retention Ponds,Bats,Estimated.Questionaire,2.666666667,2.666666667,5.333333333,4
+42,Open wastelands,Brownfield,Bats,Estimated.Questionaire,1.333333333,0.666666667,2.666666667,1.333333333
+43,Shrubby wastelands,Brownfield,Bats,Estimated.Questionaire,2.666666667,2.666666667,2.666666667,2.666666667
+44,Built parks with trees,Park,Bats,Estimated.Questionaire,8,5.333333333,8,9.333333333
+45,Manor gardens,Public and allotment gardens,Bats,Estimated.Questionaire,12,7.333333333,10.66666667,10.66666667
+46,Botanical gardens,Public and allotment gardens,Bats,Estimated.Questionaire,6.666666667,4.666666667,8,8
+47,Pocket parks (<0.5ha),Public and allotment gardens,Bats,Estimated.Questionaire,2.666666667,2.666666667,4,4
+48,Allotment gardens,Public and allotment gardens,Bats,Estimated.Questionaire,4,3.333333333,6.666666667,5.333333333
+49,Cemeteries,Cemeteries,Bats,Estimated.Questionaire,6.666666667,4.666666667,6.666666667,5.333333333
+50,Golf courses,Golf courses,Bats,Estimated.Questionaire,4,3.333333333,4,4
+51,Open lawns,yards,Bats,Estimated.Questionaire,1.333333333,0.666666667,1.333333333,1.333333333
+52,Avenues,roadsides,Bats,Estimated.Questionaire,1.333333333,1.333333333,2.666666667,1.333333333
+53,Sealed apartmentblock yards,yards,Bats,Estimated.Questionaire,0,2,2.666666667,0
+54,Bare apartmentblock yards,yards,Bats,Estimated.Questionaire,0,2,2.666666667,0
+55,Sealed apartment suburb yards,yards,Bats,Estimated.Questionaire,0,2,2.666666667,0
+56,Bare apartment suburb yards,yards,Bats,Estimated.Questionaire,0,2.666666667,5.333333333,0
+57,Residential gardens,community gardens,Bats,Estimated.Questionaire,4,4.666666667,6.666666667,4
+58,Densely-built residential gardens & townhouse gardens,community gardens,Bats,Estimated.Questionaire,1.333333333,2,2.666666667,1.333333333
+59,Meadow and shrubby road embankments,roadsides,Bats,Estimated.Questionaire,1.333333333,2,2.666666667,1.333333333
+60,Forested road embankments,urban tree canopy,Bats,Estimated.Questionaire,2.666666667,2,2.666666667,2.666666667
+61,Airfields,Brownfield,Bats,Estimated.Questionaire,2.666666667,2,2.666666667,1.333333333
+62,Areas beneath power-lines,Brownfield,Bats,Estimated.Questionaire,0,2.666666667,4,4
+63,Constructed ponds & runoff-water pools,bioswales,Bats,Estimated.Questionaire,4,5.333333333,8,5.333333333
+64,"Artificial shores (beaches, canals, terraced embankments, etc.)",bioswales,Bats,Estimated.Questionaire,4,4,5.333333333,5.333333333
+65,Anthrophogenic sand and gravelpits,Brownfield,Bats,Estimated.Questionaire,1.333333333,3.333333333,4,1.333333333
+66,Green roofs,green roof,Bats,Estimated.Questionaire,2.666666667,2,2.666666667,2.666666667
+67,Green walls,green wall,Bats,Estimated.Questionaire,1.333333333,1.333333333,1.333333333,1.333333333
+68,Deadwood gardens (parks with additional deadwood),park,Bats,Estimated.Questionaire,6.666666667,5.333333333,6.666666667,6.666666667
+69,Impermeable surfaces,Impermeable surfaces,Bats,Estimated.Questionaire,0,0,0,0
+1,Flooded mires,Wetland,Mammals,Estimated.Questionaire,8,1.5,8,6
+2,Hollow bogs,Wetland,Mammals,Estimated.Questionaire,4,0.5,2,4
+3,River ecosystems,Wetland,Mammals,Estimated.Questionaire,11,1.5,6.5,9
+4,Stream ecosystems,Wetland,Mammals,Estimated.Questionaire,11,1.5,6.5,9
+5,Forested and shrubby riverbanks,Wetland,Mammals,Estimated.Questionaire,11,1.5,6.5,7
+6,Open & meadow riverbanks,Wetland,Mammals,Estimated.Questionaire,11,1.5,6.5,9
+7,Lakes and ponds (incl. shores),Wetland,Mammals,Estimated.Questionaire,8,1.5,4.5,9
+8,Springs,Wetland,Mammals,Estimated.Questionaire,6,0.5,2,6
+9,Natural sandy beaches,Coastal,Mammals,Estimated.Questionaire,2,0,0,0
+10,Gravel & rocky beaches,Coastal,Mammals,Estimated.Questionaire,4,0.5,0.5,2
+11,Coastline rocks,Coastal,Mammals,Estimated.Questionaire,4,0.5,0.5,2
+12,Coastal meadows,Coastal,Mammals,Estimated.Questionaire,8,2.5,8.5,8
+13,Coastal reed beds,Coastal,Mammals,Estimated.Questionaire,10,2.5,9,8
+14,Natural sands,Coastal,Mammals,Estimated.Questionaire,0,0,0,0
+15,"Bare rocks (outcrops, ledges, rocky grounds)",RockyMeadows,Mammals,Estimated.Questionaire,0,0,0,0
+16,Calcareous rocks,RockyMeadows,Mammals,Estimated.Questionaire,0,0,0,0
+17,Rocky meadows,RockyMeadows,Mammals,Estimated.Questionaire,4,0.5,2,4
+18,Forests on rocky substrates,Forest,Mammals,Estimated.Questionaire,2,0,2,2
+19,Old-growth forests on rocky substrates,Forest,Mammals,Estimated.Questionaire,2,0,2,2
+20,Esker forests (30-100 y.),Forest,Mammals,Estimated.Questionaire,4,0.5,4,4
+21,Old-growth esker forests (100- y.),Forest,Mammals,Estimated.Questionaire,4,0.5,4,4
+22,Heathland forests (30-100 y.),Forest,Mammals,Estimated.Questionaire,7,1.5,4.5,4
+23,Old-growth heathland forests (100- y.),Forest,Mammals,Estimated.Questionaire,7,1.5,4.5,4
+24,Herb-rich forests (30-100 y.),Forest,Mammals,Estimated.Questionaire,10,2,6.5,4
+25,Old-growth herb-rich forests (100- y.),Forest,Mammals,Estimated.Questionaire,10,2,6.5,4
+26,Pine marshes (30-100 y.),Forest,Mammals,Estimated.Questionaire,5,1,4,4
+27,Old-growth pine marshes (100- y.),Forest,Mammals,Estimated.Questionaire,5,1,4,4
+28,Spruce mires (30-100 y.),Forest,Mammals,Estimated.Questionaire,9,1.5,6,4
+29,Old-growth spruce mires (100- y.),Forest,Mammals,Estimated.Questionaire,9,1.5,6,4
+30,Swamp forests (30-100 y.),Forest,Mammals,Estimated.Questionaire,8,1,6,4
+31,Old-growth swamp forest (100- y.),Forest,Mammals,Estimated.Questionaire,8,1,6,4
+32,Small deciduous forests (<0.5ha),Forest,Mammals,Estimated.Questionaire,5,1.5,4,5
+33,Agricultural fields,Agriculture,Mammals,Estimated.Questionaire,10,2,6.5,6
+34,Community gardens,Public and allotment gardens,Mammals,Estimated.Questionaire,8,1.5,8,4
+35,Moist meadows,Grassland,Mammals,Estimated.Questionaire,7,2,6.5,8
+36,Fresh meadow,Grassland,Mammals,Estimated.Questionaire,7,2,6.5,8
+37,Dry meadows,Grassland,Mammals,Estimated.Questionaire,7,1.5,4.5,7
+38,Moors,Grassland,Mammals,Estimated.Questionaire,4,0.5,4,4
+39,Forest pastures,Forest,Mammals,Estimated.Questionaire,9,1.5,4.5,8
+40,Fortifications and similar cultural areas,Forest,Mammals,Estimated.Questionaire,9,1.5,4.5,9
+41,Anthrophogenic wetlands,Retention Ponds,Mammals,Estimated.Questionaire,9,1.5,4.5,8
+42,Open wastelands,Brownfield,Mammals,Estimated.Questionaire,7,1.5,6,4
+43,Shrubby wastelands,Brownfield,Mammals,Estimated.Questionaire,9,1.5,4.5,6
+44,Built parks with trees,Park,Mammals,Estimated.Questionaire,5,1.5,4.5,2
+45,Manor gardens,Public and allotment gardens,Mammals,Estimated.Questionaire,8,1.5,6.5,2
+46,Botanical gardens,Public and allotment gardens,Mammals,Estimated.Questionaire,8,1.5,6.5,2
+47,Pocket parks (<0.5ha),Public and allotment gardens,Mammals,Estimated.Questionaire,5,1,2,1
+48,Allotment gardens,Public and allotment gardens,Mammals,Estimated.Questionaire,8,2,6.5,4
+49,Cemeteries,Cemeteries,Mammals,Estimated.Questionaire,6,2,6.5,4
+50,Golf courses,Golf courses,Mammals,Estimated.Questionaire,5,0.5,2,1
+51,Open lawns,yards,Mammals,Estimated.Questionaire,3,0.5,2,1
+52,Avenues,roadsides,Mammals,Estimated.Questionaire,1,0,0,1
+53,Sealed apartmentblock yards,yards,Mammals,Estimated.Questionaire,0,0,0,0
+54,Bare apartmentblock yards,yards,Mammals,Estimated.Questionaire,3,0.5,2,0
+55,Sealed apartment suburb yards,yards,Mammals,Estimated.Questionaire,2,0,0,4
+56,Bare apartment suburb yards,yards,Mammals,Estimated.Questionaire,3,0.5,2,4
+57,Residential gardens,community gardens,Mammals,Estimated.Questionaire,5,1,4.5,4
+58,Densely-built residential gardens & townhouse gardens,community gardens,Mammals,Estimated.Questionaire,4,1,4,4
+59,Meadow and shrubby road embankments,roadsides,Mammals,Estimated.Questionaire,3,0.5,0.5,1
+60,Forested road embankments,urban tree canopy,Mammals,Estimated.Questionaire,3,0.5,0.5,1
+61,Airfields,Brownfield,Mammals,Estimated.Questionaire,7,1,6.5,5
+62,Areas beneath power-lines,Brownfield,Mammals,Estimated.Questionaire,8,2,3,8
+63,Constructed ponds & runoff-water pools,bioswales,Mammals,Estimated.Questionaire,8,1.5,7,8
+64,"Artificial shores (beaches, canals, terraced embankments, etc.)",bioswales,Mammals,Estimated.Questionaire,2,0.5,2,4
+65,Anthrophogenic sand and gravelpits,Brownfield,Mammals,Estimated.Questionaire,4,0.5,2,2
+66,Green roofs,green roof,Mammals,Estimated.Questionaire,0,0,0,0
+67,Green walls,green wall,Mammals,Estimated.Questionaire,0,0,0,0
+68,Deadwood gardens (parks with additional deadwood),park,Mammals,Estimated.Questionaire,5,1,4.5,5
+69,Impermeable surfaces,Impermeable surfaces,Mammals,Estimated.Questionaire,0,0,0,0
+1,Flooded mires,Wetland,Herpetofauna,Estimated.Questionaire,7,2,1.5,3
+2,Hollow bogs,Wetland,Herpetofauna,Estimated.Questionaire,5,1,1.5,3
+3,River ecosystems,Wetland,Herpetofauna,Estimated.Questionaire,8,3,3.5,2
+4,Stream ecosystems,Wetland,Herpetofauna,Estimated.Questionaire,8,1,2.5,2
+5,Forested and shrubby riverbanks,Wetland,Herpetofauna,Estimated.Questionaire,6,1,2.5,2
+6,Open & meadow riverbanks,Wetland,Herpetofauna,Estimated.Questionaire,6,2,2.5,2
+7,Lakes and ponds (incl. shores),Wetland,Herpetofauna,Estimated.Questionaire,8,3,3.5,2
+8,Springs,Wetland,Herpetofauna,Estimated.Questionaire,4,1,2.5,1
+9,Natural sandy beaches,Coastal,Herpetofauna,Estimated.Questionaire,2,0,0.5,0
+10,Gravel & rocky beaches,Coastal,Herpetofauna,Estimated.Questionaire,4,2,2.5,1
+11,Coastline rocks,Coastal,Herpetofauna,Estimated.Questionaire,6,1,2.5,2
+12,Coastal meadows,Coastal,Herpetofauna,Estimated.Questionaire,4,1,2.5,2
+13,Coastal reed beds,Coastal,Herpetofauna,Estimated.Questionaire,4,1,2.5,2
+14,Natural sands,Coastal,Herpetofauna,Estimated.Questionaire,2,0,0.5,0
+15,"Bare rocks (outcrops, ledges, rocky grounds)",RockyMeadows,Herpetofauna,Estimated.Questionaire,6,2,2.5,1
+16,Calcareous rocks,RockyMeadows,Herpetofauna,Estimated.Questionaire,3,0,0.5,0
+17,Rocky meadows,RockyMeadows,Herpetofauna,Estimated.Questionaire,3,0,0.5,0
+18,Forests on rocky substrates,Forest,Herpetofauna,Estimated.Questionaire,7,3,3.5,2
+19,Old-growth forests on rocky substrates,Forest,Herpetofauna,Estimated.Questionaire,5,2,3.5,2
+20,Esker forests (30-100 y.),Forest,Herpetofauna,Estimated.Questionaire,7,2,3.5,2
+21,Old-growth esker forests (100- y.),Forest,Herpetofauna,Estimated.Questionaire,7,1,2.5,2
+22,Heathland forests (30-100 y.),Forest,Herpetofauna,Estimated.Questionaire,7,3,3.5,1
+23,Old-growth heathland forests (100- y.),Forest,Herpetofauna,Estimated.Questionaire,5,2,2.5,1
+24,Herb-rich forests (30-100 y.),Forest,Herpetofauna,Estimated.Questionaire,8,3,3.5,2
+25,Old-growth herb-rich forests (100- y.),Forest,Herpetofauna,Estimated.Questionaire,8,3,3.5,2
+26,Pine marshes (30-100 y.),Forest,Herpetofauna,Estimated.Questionaire,8,3,3.5,2
+27,Old-growth pine marshes (100- y.),Forest,Herpetofauna,Estimated.Questionaire,8,3,3.5,2
+28,Spruce mires (30-100 y.),Forest,Herpetofauna,Estimated.Questionaire,8,3,3.5,2
+29,Old-growth spruce mires (100- y.),Forest,Herpetofauna,Estimated.Questionaire,8,3,3.5,2
+30,Swamp forests (30-100 y.),Forest,Herpetofauna,Estimated.Questionaire,8,3,3.5,2
+31,Old-growth swamp forest (100- y.),Forest,Herpetofauna,Estimated.Questionaire,8,3,3.5,2
+32,Small deciduous forests (<0.5ha),Forest,Herpetofauna,Estimated.Questionaire,6,1,2.5,2
+33,Agricultural fields,Agriculture,Herpetofauna,Estimated.Questionaire,4,1,3,1
+34,Community gardens,Public and allotment gardens,Herpetofauna,Estimated.Questionaire,4,1,3,2
+35,Moist meadows,Grassland,Herpetofauna,Estimated.Questionaire,9,3,4,3
+36,Fresh meadow,Grassland,Herpetofauna,Estimated.Questionaire,7,3,4,3
+37,Dry meadows,Grassland,Herpetofauna,Estimated.Questionaire,5,3,4,3
+38,Moors,Grassland,Herpetofauna,Estimated.Questionaire,8,3,4,3
+39,Forest pastures,Forest,Herpetofauna,Estimated.Questionaire,9,2,4,3
+40,Fortifications and similar cultural areas,Forest,Herpetofauna,Estimated.Questionaire,7,2,3,2
+41,Anthrophogenic wetlands,Retention Ponds,Herpetofauna,Estimated.Questionaire,10,2,2.5,2
+42,Open wastelands,Brownfield,Herpetofauna,Estimated.Questionaire,4,0,0.5,0
+43,Shrubby wastelands,Brownfield,Herpetofauna,Estimated.Questionaire,5,1,0.5,0
+44,Built parks with trees,Park,Herpetofauna,Estimated.Questionaire,1,0,0.5,0
+45,Manor gardens,Public and allotment gardens,Herpetofauna,Estimated.Questionaire,3,0,0.5,0
+46,Botanical gardens,Public and allotment gardens,Herpetofauna,Estimated.Questionaire,5,1,0.5,0
+47,Pocket parks (<0.5ha),Public and allotment gardens,Herpetofauna,Estimated.Questionaire,1,0,0.5,0
+48,Allotment gardens,Public and allotment gardens,Herpetofauna,Estimated.Questionaire,3,0,0.5,0
+49,Cemeteries,Cemeteries,Herpetofauna,Estimated.Questionaire,3,0,0.5,0
+50,Golf courses,Golf courses,Herpetofauna,Estimated.Questionaire,5,1,1.5,1
+51,Open lawns,yards,Herpetofauna,Estimated.Questionaire,1,0,0.5,0
+52,Avenues,roadsides,Herpetofauna,Estimated.Questionaire,0,0,0.5,0
+53,Sealed apartmentblock yards,yards,Herpetofauna,Estimated.Questionaire,0,0,0,0
+54,Bare apartmentblock yards,yards,Herpetofauna,Estimated.Questionaire,0,0,0,0
+55,Sealed apartment suburb yards,yards,Herpetofauna,Estimated.Questionaire,0,0,0,0
+56,Bare apartment suburb yards,yards,Herpetofauna,Estimated.Questionaire,0,0,0,0
+57,Residential gardens,community gardens,Herpetofauna,Estimated.Questionaire,4,0,1.5,3
+58,Densely-built residential gardens & townhouse gardens,community gardens,Herpetofauna,Estimated.Questionaire,1,0,0.5,0
+59,Meadow and shrubby road embankments,roadsides,Herpetofauna,Estimated.Questionaire,3,0,0,0
+60,Forested road embankments,urban tree canopy,Herpetofauna,Estimated.Questionaire,1,0,0,0
+61,Airfields,Brownfield,Herpetofauna,Estimated.Questionaire,3,0,0.5,0
+62,Areas beneath power-lines,Brownfield,Herpetofauna,Estimated.Questionaire,7,2,3.5,2
+63,Constructed ponds & runoff-water pools,bioswales,Herpetofauna,Estimated.Questionaire,7,2,3.5,2
+64,"Artificial shores (beaches, canals, terraced embankments, etc.)",bioswales,Herpetofauna,Estimated.Questionaire,2,0,1,0
+65,Anthrophogenic sand and gravelpits,Brownfield,Herpetofauna,Estimated.Questionaire,3,0,1,0
+66,Green roofs,green roof,Herpetofauna,Estimated.Questionaire,0,0,0,0
+67,Green walls,green wall,Herpetofauna,Estimated.Questionaire,0,0,0,0
+68,Deadwood gardens (parks with additional deadwood),park,Herpetofauna,Estimated.Questionaire,1,0,0.5,0
+69,Impermeable surfaces,Impermeable surfaces,Herpetofauna,Estimated.Questionaire,0,0,0,0
+1,Flooded mires,Wetland,Butterflies,Estimated.Questionaire,8.666666667,6.666666667,7.333333333,6.666666667
+2,Hollow bogs,Wetland,Butterflies,Estimated.Questionaire,4,4.666666667,4,4
+3,River ecosystems,Wetland,Butterflies,Estimated.Questionaire,1.333333333,1.333333333,1.333333333,1.333333333
+4,Stream ecosystems,Wetland,Butterflies,Estimated.Questionaire,1.333333333,0,1.333333333,2.666666667
+5,Forested and shrubby riverbanks,Wetland,Butterflies,Estimated.Questionaire,8,6,6,8
+6,Open & meadow riverbanks,Wetland,Butterflies,Estimated.Questionaire,8.666666667,5.333333333,6.666666667,7.333333333
+7,Lakes and ponds (incl. shores),Wetland,Butterflies,Estimated.Questionaire,8,4.666666667,6,7.333333333
+8,Springs,Wetland,Butterflies,Estimated.Questionaire,1.333333333,0.666666667,0.666666667,4
+9,Natural sandy beaches,Coastal,Butterflies,Estimated.Questionaire,10.66666667,6,6,8.666666667
+10,Gravel & rocky beaches,Coastal,Butterflies,Estimated.Questionaire,4.666666667,1.333333333,2,4
+11,Coastline rocks,Coastal,Butterflies,Estimated.Questionaire,4,2,2,6
+12,Coastal meadows,Coastal,Butterflies,Estimated.Questionaire,11.33333333,6.666666667,8.666666667,10
+13,Coastal reed beds,Coastal,Butterflies,Estimated.Questionaire,7.333333333,6.666666667,7.333333333,4
+14,Natural sands,Coastal,Butterflies,Estimated.Questionaire,10,4,7.333333333,5.333333333
+15,"Bare rocks (outcrops, ledges, rocky grounds)",RockyMeadows,Butterflies,Estimated.Questionaire,4,1.333333333,3.333333333,4
+16,Calcareous rocks,RockyMeadows,Butterflies,Estimated.Questionaire,10,4,4,9.333333333
+17,Rocky meadows,RockyMeadows,Butterflies,Estimated.Questionaire,8,4.666666667,6,9.333333333
+18,Forests on rocky substrates,Forest,Butterflies,Estimated.Questionaire,4,4,4,4
+19,Old-growth forests on rocky substrates,Forest,Butterflies,Estimated.Questionaire,5.333333333,4,4,4
+20,Esker forests (30-100 y.),Forest,Butterflies,Estimated.Questionaire,7.333333333,6,6.666666667,3.333333333
+21,Old-growth esker forests (100- y.),Forest,Butterflies,Estimated.Questionaire,6,6,5.333333333,3.333333333
+22,Heathland forests (30-100 y.),Forest,Butterflies,Estimated.Questionaire,4.666666667,6.666666667,6,3.333333333
+23,Old-growth heathland forests (100- y.),Forest,Butterflies,Estimated.Questionaire,6,6.666666667,7.333333333,3.333333333
+24,Herb-rich forests (30-100 y.),Forest,Butterflies,Estimated.Questionaire,12,10.66666667,10.66666667,10
+25,Old-growth herb-rich forests (100- y.),Forest,Butterflies,Estimated.Questionaire,13.33333333,10.66666667,10.66666667,10
+26,Pine marshes (30-100 y.),Forest,Butterflies,Estimated.Questionaire,6,5.333333333,5.333333333,4
+27,Old-growth pine marshes (100- y.),Forest,Butterflies,Estimated.Questionaire,7.333333333,5.333333333,6.666666667,5.333333333
+28,Spruce mires (30-100 y.),Forest,Butterflies,Estimated.Questionaire,6,4.666666667,4.666666667,5.333333333
+29,Old-growth spruce mires (100- y.),Forest,Butterflies,Estimated.Questionaire,7.333333333,4.666666667,6,5.333333333
+30,Swamp forests (30-100 y.),Forest,Butterflies,Estimated.Questionaire,8.666666667,8,9.333333333,9.333333333
+31,Old-growth swamp forest (100- y.),Forest,Butterflies,Estimated.Questionaire,8.666666667,8,9.333333333,8
+32,Small deciduous forests (<0.5ha),Forest,Butterflies,Estimated.Questionaire,10,7.333333333,8.666666667,10
+33,Agricultural fields,Agriculture,Butterflies,Estimated.Questionaire,2,3.333333333,6,2
+34,Community gardens,Public and allotment gardens,Butterflies,Estimated.Questionaire,6.666666667,4,5.333333333,5.333333333
+35,Moist meadows,Grassland,Butterflies,Estimated.Questionaire,10,7.333333333,9.333333333,8.666666667
+36,Fresh meadow,Grassland,Butterflies,Estimated.Questionaire,11.33333333,10,10,11.33333333
+37,Dry meadows,Grassland,Butterflies,Estimated.Questionaire,12,8,9.333333333,12
+38,Moors,Grassland,Butterflies,Estimated.Questionaire,6.666666667,4.666666667,6.666666667,5.333333333
+39,Forest pastures,Forest,Butterflies,Estimated.Questionaire,12,8,8.666666667,10
+40,Fortifications and similar cultural areas,Forest,Butterflies,Estimated.Questionaire,12.66666667,8.666666667,8.666666667,12
+41,Anthrophogenic wetlands,Retention Ponds,Butterflies,Estimated.Questionaire,6.666666667,4,4,6.666666667
+42,Open wastelands,Brownfield,Butterflies,Estimated.Questionaire,12,9.333333333,8,8.666666667
+43,Shrubby wastelands,Brownfield,Butterflies,Estimated.Questionaire,10,10.66666667,8.666666667,10
+44,Built parks with trees,Park,Butterflies,Estimated.Questionaire,7.333333333,4,4.666666667,6
+45,Manor gardens,Public and allotment gardens,Butterflies,Estimated.Questionaire,8,6,6,7.333333333
+46,Botanical gardens,Public and allotment gardens,Butterflies,Estimated.Questionaire,9.333333333,4.666666667,6,7.333333333
+47,Pocket parks (<0.5ha),Public and allotment gardens,Butterflies,Estimated.Questionaire,4,2.666666667,2.666666667,4.666666667
+48,Allotment gardens,Public and allotment gardens,Butterflies,Estimated.Questionaire,6.666666667,5.333333333,5.333333333,7.333333333
+49,Cemeteries,Cemeteries,Butterflies,Estimated.Questionaire,8,6.666666667,5.333333333,7.333333333
+50,Golf courses,Golf courses,Butterflies,Estimated.Questionaire,4,4,3.333333333,2.666666667
+51,Open lawns,yards,Butterflies,Estimated.Questionaire,0.666666667,1.333333333,1.333333333,0.666666667
+52,Avenues,roadsides,Butterflies,Estimated.Questionaire,2,1.333333333,1.333333333,2.666666667
+53,Sealed apartmentblock yards,yards,Butterflies,Estimated.Questionaire,0.666666667,0.666666667,0.666666667,2
+54,Bare apartmentblock yards,yards,Butterflies,Estimated.Questionaire,2.666666667,1.333333333,1.333333333,2
+55,Sealed apartment suburb yards,yards,Butterflies,Estimated.Questionaire,0.666666667,0.666666667,0.666666667,2
+56,Bare apartment suburb yards,yards,Butterflies,Estimated.Questionaire,4,3.333333333,2.666666667,5.333333333
+57,Residential gardens,community gardens,Butterflies,Estimated.Questionaire,5.333333333,5.333333333,5.333333333,6.666666667
+58,Densely-built residential gardens & townhouse gardens,community gardens,Butterflies,Estimated.Questionaire,3.333333333,3.333333333,2.666666667,4
+59,Meadow and shrubby road embankments,roadsides,Butterflies,Estimated.Questionaire,7.333333333,6,6.666666667,7.333333333
+60,Forested road embankments,urban tree canopy,Butterflies,Estimated.Questionaire,5.333333333,6.666666667,6.666666667,8.666666667
+61,Airfields,Brownfield,Butterflies,Estimated.Questionaire,8,8.666666667,8,8.666666667
+62,Areas beneath power-lines,Brownfield,Butterflies,Estimated.Questionaire,11.33333333,9.333333333,8.666666667,8.666666667
+63,Constructed ponds & runoff-water pools,bioswales,Butterflies,Estimated.Questionaire,3.333333333,1.333333333,2.666666667,2.666666667
+64,"Artificial shores (beaches, canals, terraced embankments, etc.)",bioswales,Butterflies,Estimated.Questionaire,0.666666667,0.666666667,0.666666667,0.666666667
+65,Anthrophogenic sand and gravelpits,Brownfield,Butterflies,Estimated.Questionaire,8.666666667,6,7.333333333,8.666666667
+66,Green roofs,green roof,Butterflies,Estimated.Questionaire,3.333333333,0.666666667,2,2
+67,Green walls,green wall,Butterflies,Estimated.Questionaire,3.333333333,0.666666667,0.666666667,2
+68,Deadwood gardens (parks with additional deadwood),park,Butterflies,Estimated.Questionaire,5.333333333,4.666666667,4.666666667,5.333333333
+69,Impermeable surfaces,Impermeable surfaces,Butterflies,Estimated.Questionaire,2.666666667,0,0,0
+1,Flooded mires,Wetland,Hymenoptera,Estimated.Questionaire,1.333333333,1,2,1
+2,Hollow bogs,Wetland,Hymenoptera,Estimated.Questionaire,8,1,2,1
+3,River ecosystems,Wetland,Hymenoptera,Estimated.Questionaire,5.333333333,0,0,0
+4,Stream ecosystems,Wetland,Hymenoptera,Estimated.Questionaire,13.33333333,0,0,0
+5,Forested and shrubby riverbanks,Wetland,Hymenoptera,Estimated.Questionaire,5.333333333,0,0,0
+6,Open & meadow riverbanks,Wetland,Hymenoptera,Estimated.Questionaire,16,1,1,1
+7,Lakes and ponds (incl. shores),Wetland,Hymenoptera,Estimated.Questionaire,0,1,1,1
+8,Springs,Wetland,Hymenoptera,Estimated.Questionaire,8,0,0,0
+9,Natural sandy beaches,Coastal,Hymenoptera,Estimated.Questionaire,5.333333333,5,5,4
+10,Gravel & rocky beaches,Coastal,Hymenoptera,Estimated.Questionaire,4,2,2,3
+11,Coastline rocks,Coastal,Hymenoptera,Estimated.Questionaire,8,2,2,3
+12,Coastal meadows,Coastal,Hymenoptera,Estimated.Questionaire,8,6,6,4
+13,Coastal reed beds,Coastal,Hymenoptera,Estimated.Questionaire,2.666666667,2,2,3
+14,Natural sands,Coastal,Hymenoptera,Estimated.Questionaire,4,5,6,4
+15,"Bare rocks (outcrops, ledges, rocky grounds)",RockyMeadows,Hymenoptera,Estimated.Questionaire,2.666666667,3,2,2
+16,Calcareous rocks,RockyMeadows,Hymenoptera,Estimated.Questionaire,5.333333333,4,3,2
+17,Rocky meadows,RockyMeadows,Hymenoptera,Estimated.Questionaire,5.333333333,5,5,3
+18,Forests on rocky substrates,Forest,Hymenoptera,Estimated.Questionaire,9.333333333,4,4,4
+19,Old-growth forests on rocky substrates,Forest,Hymenoptera,Estimated.Questionaire,5.333333333,4,4,4
+20,Esker forests (30-100 y.),Forest,Hymenoptera,Estimated.Questionaire,9.333333333,5,5,3
+21,Old-growth esker forests (100- y.),Forest,Hymenoptera,Estimated.Questionaire,9.333333333,6,5,3
+22,Heathland forests (30-100 y.),Forest,Hymenoptera,Estimated.Questionaire,13.33333333,5,5,3
+23,Old-growth heathland forests (100- y.),Forest,Hymenoptera,Estimated.Questionaire,12,5,6,3
+24,Herb-rich forests (30-100 y.),Forest,Hymenoptera,Estimated.Questionaire,13.33333333,6,6,4
+25,Old-growth herb-rich forests (100- y.),Forest,Hymenoptera,Estimated.Questionaire,5.333333333,6,6,4
+26,Pine marshes (30-100 y.),Forest,Hymenoptera,Estimated.Questionaire,5.333333333,2,4,4
+27,Old-growth pine marshes (100- y.),Forest,Hymenoptera,Estimated.Questionaire,9.333333333,2,4,4
+28,Spruce mires (30-100 y.),Forest,Hymenoptera,Estimated.Questionaire,10.66666667,1,3,4
+29,Old-growth spruce mires (100- y.),Forest,Hymenoptera,Estimated.Questionaire,8,1,3,4
+30,Swamp forests (30-100 y.),Forest,Hymenoptera,Estimated.Questionaire,9.333333333,1,2,4
+31,Old-growth swamp forest (100- y.),Forest,Hymenoptera,Estimated.Questionaire,8,1,2,4
+32,Small deciduous forests (<0.5ha),Forest,Hymenoptera,Estimated.Questionaire,2.666666667,4,4,3
+33,Agricultural fields,Agriculture,Hymenoptera,Estimated.Questionaire,4,4,4,3
+34,Community gardens,Public and allotment gardens,Hymenoptera,Estimated.Questionaire,6.666666667,5,5,4
+35,Moist meadows,Grassland,Hymenoptera,Estimated.Questionaire,6.666666667,6,7,5
+36,Fresh meadow,Grassland,Hymenoptera,Estimated.Questionaire,6.666666667,6,7,5
+37,Dry meadows,Grassland,Hymenoptera,Estimated.Questionaire,4,7,7,5
+38,Moors,Grassland,Hymenoptera,Estimated.Questionaire,13.33333333,5,5,3
+39,Forest pastures,Forest,Hymenoptera,Estimated.Questionaire,16,5,5,3
+40,Fortifications and similar cultural areas,Forest,Hymenoptera,Estimated.Questionaire,8,7,6,4
+41,Anthrophogenic wetlands,Retention Ponds,Hymenoptera,Estimated.Questionaire,4,2,1,3
+42,Open wastelands,Brownfield,Hymenoptera,Estimated.Questionaire,5.333333333,5,5,4
+43,Shrubby wastelands,Brownfield,Hymenoptera,Estimated.Questionaire,13.33333333,3,3,4
+44,Built parks with trees,Park,Hymenoptera,Estimated.Questionaire,18.66666667,3,3,3
+45,Manor gardens,Public and allotment gardens,Hymenoptera,Estimated.Questionaire,13.33333333,5,5,5
+46,Botanical gardens,Public and allotment gardens,Hymenoptera,Estimated.Questionaire,5.333333333,5,5,5
+47,Pocket parks (<0.5ha),Public and allotment gardens,Hymenoptera,Estimated.Questionaire,8,4,4,3
+48,Allotment gardens,Public and allotment gardens,Hymenoptera,Estimated.Questionaire,9.333333333,5,5,4
+49,Cemeteries,Cemeteries,Hymenoptera,Estimated.Questionaire,5.333333333,3,3,3
+50,Golf courses,Golf courses,Hymenoptera,Estimated.Questionaire,2.666666667,2,3,4
+51,Open lawns,yards,Hymenoptera,Estimated.Questionaire,2.666666667,2,3,4
+52,Avenues,roadsides,Hymenoptera,Estimated.Questionaire,4,2,2,4
+53,Sealed apartmentblock yards,yards,Hymenoptera,Estimated.Questionaire,4,1,1,3
+54,Bare apartmentblock yards,yards,Hymenoptera,Estimated.Questionaire,4,1,1,3
+55,Sealed apartment suburb yards,yards,Hymenoptera,Estimated.Questionaire,5.333333333,1,1,3
+56,Bare apartment suburb yards,yards,Hymenoptera,Estimated.Questionaire,10.66666667,2,2,4
+57,Residential gardens,community gardens,Hymenoptera,Estimated.Questionaire,4,4,4,5
+58,Densely-built residential gardens & townhouse gardens,community gardens,Hymenoptera,Estimated.Questionaire,4,2,2,4
+59,Meadow and shrubby road embankments,roadsides,Hymenoptera,Estimated.Questionaire,5.333333333,4,4,4
+60,Forested road embankments,urban tree canopy,Hymenoptera,Estimated.Questionaire,4,3,3,3
+61,Airfields,Brownfield,Hymenoptera,Estimated.Questionaire,4,5,4,3
+62,Areas beneath power-lines,Brownfield,Hymenoptera,Estimated.Questionaire,9.333333333,4,4,4
+63,Constructed ponds & runoff-water pools,bioswales,Hymenoptera,Estimated.Questionaire,6.666666667,0,0,3
+64,"Artificial shores (beaches, canals, terraced embankments, etc.)",bioswales,Hymenoptera,Estimated.Questionaire,5.333333333,1,0,3
+65,Anthrophogenic sand and gravelpits,Brownfield,Hymenoptera,Estimated.Questionaire,4,5,5,4
+66,Green roofs,green roof,Hymenoptera,Estimated.Questionaire,1.333333333,3,3,3
+67,Green walls,green wall,Hymenoptera,Estimated.Questionaire,8,3,3,2
+68,Deadwood gardens (parks with additional deadwood),park,Hymenoptera,Estimated.Questionaire,0,5,4,3
+69,Impermeable surfaces,Impermeable surfaces,Hymenoptera,Estimated.Questionaire,0,0,0,0
+1,Flooded mires,Wetland,Beetles,Estimated.Questionaire,6.666666667,6,6.666666667,6
+2,Hollow bogs,Wetland,Beetles,Estimated.Questionaire,4,4.333333333,4.666666667,6
+3,River ecosystems,Wetland,Beetles,Estimated.Questionaire,8,4.333333333,5.333333333,5.333333333
+4,Stream ecosystems,Wetland,Beetles,Estimated.Questionaire,8,4.333333333,5.333333333,4
+5,Forested and shrubby riverbanks,Wetland,Beetles,Estimated.Questionaire,6.666666667,4.333333333,3.333333333,5.333333333
+6,Open & meadow riverbanks,Wetland,Beetles,Estimated.Questionaire,6.666666667,4.333333333,5.333333333,5.333333333
+7,Lakes and ponds (incl. shores),Wetland,Beetles,Estimated.Questionaire,9.333333333,7,6.666666667,6.666666667
+8,Springs,Wetland,Beetles,Estimated.Questionaire,5.333333333,2.666666667,3.333333333,4
+9,Natural sandy beaches,Coastal,Beetles,Estimated.Questionaire,8,3,5.333333333,5.333333333
+10,Gravel & rocky beaches,Coastal,Beetles,Estimated.Questionaire,8,3,3.333333333,4
+11,Coastline rocks,Coastal,Beetles,Estimated.Questionaire,4,1.333333333,1.333333333,5.333333333
+12,Coastal meadows,Coastal,Beetles,Estimated.Questionaire,10.66666667,7,8,6.666666667
+13,Coastal reed beds,Coastal,Beetles,Estimated.Questionaire,6.666666667,4.333333333,4,4
+14,Natural sands,Coastal,Beetles,Estimated.Questionaire,6.666666667,3,4,5.333333333
+15,"Bare rocks (outcrops, ledges, rocky grounds)",RockyMeadows,Beetles,Estimated.Questionaire,5.333333333,1.333333333,3.333333333,4
+16,Calcareous rocks,RockyMeadows,Beetles,Estimated.Questionaire,8,3,5.333333333,6.666666667
+17,Rocky meadows,RockyMeadows,Beetles,Estimated.Questionaire,9.333333333,5.666666667,6,7.333333333
+18,Forests on rocky substrates,Forest,Beetles,Estimated.Questionaire,5.333333333,4.666666667,6,6
+19,Old-growth forests on rocky substrates,Forest,Beetles,Estimated.Questionaire,9.333333333,4.666666667,6,6
+20,Esker forests (30-100 y.),Forest,Beetles,Estimated.Questionaire,8,4.666666667,6,6
+21,Old-growth esker forests (100- y.),Forest,Beetles,Estimated.Questionaire,10.66666667,4.666666667,6,6
+22,Heathland forests (30-100 y.),Forest,Beetles,Estimated.Questionaire,10.66666667,6.666666667,8.666666667,6
+23,Old-growth heathland forests (100- y.),Forest,Beetles,Estimated.Questionaire,12,6.333333333,8.666666667,6
+24,Herb-rich forests (30-100 y.),Forest,Beetles,Estimated.Questionaire,10.66666667,9.333333333,10,7.333333333
+25,Old-growth herb-rich forests (100- y.),Forest,Beetles,Estimated.Questionaire,12,8.666666667,10,6
+26,Pine marshes (30-100 y.),Forest,Beetles,Estimated.Questionaire,6.666666667,4.333333333,4,4.666666667
+27,Old-growth pine marshes (100- y.),Forest,Beetles,Estimated.Questionaire,6.666666667,4.333333333,4,4.666666667
+28,Spruce mires (30-100 y.),Forest,Beetles,Estimated.Questionaire,10.66666667,7.333333333,7.333333333,4.666666667
+29,Old-growth spruce mires (100- y.),Forest,Beetles,Estimated.Questionaire,10.66666667,7.333333333,8.666666667,6
+30,Swamp forests (30-100 y.),Forest,Beetles,Estimated.Questionaire,8,6,6.666666667,3.333333333
+31,Old-growth swamp forest (100- y.),Forest,Beetles,Estimated.Questionaire,9.333333333,6,6.666666667,3.333333333
+32,Small deciduous forests (<0.5ha),Forest,Beetles,Estimated.Questionaire,5.333333333,6,6.666666667,6
+33,Agricultural fields,Agriculture,Beetles,Estimated.Questionaire,5.333333333,7.333333333,9.333333333,4.666666667
+34,Community gardens,Public and allotment gardens,Beetles,Estimated.Questionaire,8,7,8,5.333333333
+35,Moist meadows,Grassland,Beetles,Estimated.Questionaire,6.666666667,7.333333333,9.333333333,8
+36,Fresh meadow,Grassland,Beetles,Estimated.Questionaire,8,7.333333333,9.333333333,8
+37,Dry meadows,Grassland,Beetles,Estimated.Questionaire,10.66666667,5.666666667,8,8.666666667
+38,Moors,Grassland,Beetles,Estimated.Questionaire,5.333333333,4.333333333,5.333333333,3.333333333
+39,Forest pastures,Forest,Beetles,Estimated.Questionaire,9.333333333,5.666666667,8,6.666666667
+40,Fortifications and similar cultural areas,Forest,Beetles,Estimated.Questionaire,8,4.333333333,8,6.666666667
+41,Anthrophogenic wetlands,Retention Ponds,Beetles,Estimated.Questionaire,8,7,8,4.666666667
+42,Open wastelands,Brownfield,Beetles,Estimated.Questionaire,10.66666667,8.666666667,11.33333333,6
+43,Shrubby wastelands,Brownfield,Beetles,Estimated.Questionaire,8,7,8.666666667,6
+44,Built parks with trees,Park,Beetles,Estimated.Questionaire,6.666666667,5.666666667,7.333333333,6
+45,Manor gardens,Public and allotment gardens,Beetles,Estimated.Questionaire,9.333333333,5.666666667,7.333333333,8
+46,Botanical gardens,Public and allotment gardens,Beetles,Estimated.Questionaire,8,7,7.333333333,8
+47,Pocket parks (<0.5ha),Public and allotment gardens,Beetles,Estimated.Questionaire,4,4.333333333,6,4.666666667
+48,Allotment gardens,Public and allotment gardens,Beetles,Estimated.Questionaire,6.666666667,7,6.666666667,6.666666667
+49,Cemeteries,Cemeteries,Beetles,Estimated.Questionaire,6.666666667,4.333333333,4.666666667,4.666666667
+50,Golf courses,Golf courses,Beetles,Estimated.Questionaire,5.333333333,5.666666667,6,4
+51,Open lawns,yards,Beetles,Estimated.Questionaire,4,4.333333333,4.666666667,4.666666667
+52,Avenues,roadsides,Beetles,Estimated.Questionaire,4,4.333333333,4.666666667,4.666666667
+53,Sealed apartmentblock yards,yards,Beetles,Estimated.Questionaire,1.333333333,0,0,2
+54,Bare apartmentblock yards,yards,Beetles,Estimated.Questionaire,4,3,3.333333333,3.333333333
+55,Sealed apartment suburb yards,yards,Beetles,Estimated.Questionaire,1.333333333,0,0,2
+56,Bare apartment suburb yards,yards,Beetles,Estimated.Questionaire,4,3,3.333333333,3.333333333
+57,Residential gardens,community gardens,Beetles,Estimated.Questionaire,9.333333333,6,6.666666667,6
+58,Densely-built residential gardens & townhouse gardens,community gardens,Beetles,Estimated.Questionaire,4,4.333333333,3.333333333,3.333333333
+59,Meadow and shrubby road embankments,roadsides,Beetles,Estimated.Questionaire,5.333333333,7,8,6.666666667
+60,Forested road embankments,urban tree canopy,Beetles,Estimated.Questionaire,6.666666667,7,6.666666667,6
+61,Airfields,Brownfield,Beetles,Estimated.Questionaire,8,5.666666667,8,7.333333333
+62,Areas beneath power-lines,Brownfield,Beetles,Estimated.Questionaire,8,5.666666667,8,6.666666667
+63,Constructed ponds & runoff-water pools,bioswales,Beetles,Estimated.Questionaire,2.666666667,3,4.666666667,4.666666667
+64,"Artificial shores (beaches, canals, terraced embankments, etc.)",bioswales,Beetles,Estimated.Questionaire,2.666666667,0.333333333,2,3.333333333
+65,Anthrophogenic sand and gravelpits,Brownfield,Beetles,Estimated.Questionaire,5.333333333,3,4.666666667,3.333333333
+66,Green roofs,green roof,Beetles,Estimated.Questionaire,5.333333333,2.666666667,4.666666667,6
+67,Green walls,green wall,Beetles,Estimated.Questionaire,2.666666667,0,0,2.666666667
+68,Deadwood gardens (parks with additional deadwood),park,Beetles,Estimated.Questionaire,9.333333333,5.666666667,4.666666667,6
+69,Impermeable surfaces,Impermeable surfaces,Beetles,Estimated.Questionaire,0,0,0,0

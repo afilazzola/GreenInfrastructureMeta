@@ -1,0 +1,97 @@
+plot,microsite abbrev.,quadrat number,feature type,depth category,depth range,microsite.full,% vegetation cover,total solar radiation,June seedling density,September seedling density,June seedling species richness,September seedling species richness,mean afternoon substrate temperature,mean substrate VWC %
+1,LED,16,log,deep,10 - 12 cm,log edge deep,6,603.0983125,3,0,1,0,26.5,37.27
+2,LED,31,log,deep,10 - 12 cm,log edge deep,49.38,417.9526563,2,7,1,3,20.85,41.07
+3,LED,53,log,deep,10 - 12 cm,log edge deep,4.55,706.1754375,7,3,3,2,27.75,27.7
+4,LED,68,log,deep,10 - 12 cm,log edge deep,0.58,723.95325,11,11,3,3,29.95,29.2
+5,LED,90,log,deep,10 - 12 cm,log edge deep,13.75,565.805625,2,2,2,2,26.3,33.9
+6,LED,104,log,deep,10 - 12 cm,log edge deep,12.25,680.607625,7,5,3,4,26.55,28.8
+7,LED,125,log,deep,10 - 12 cm,log edge deep,6.29,723.5615625,2,2,2,2,27.7,34.77
+8,LED,150,log,deep,10 - 12 cm,log edge deep,21.25,729.217625,11,12,3,4,26.6,30.6
+1,LES,13,log,shallow,2 - 3 cm,log edge shallow,6,616.8608125,1,0,1,0,36.6,32.97
+2,LES,28,log,shallow,2 - 3 cm,log edge shallow,49.38,586.413625,3,3,2,3,29.3,41.07
+3,LES,50,log,shallow,2 - 3 cm,log edge shallow,4.55,709.1119375,0,0,0,0,34.35,28.17
+4,LES,65,log,shallow,2 - 3 cm,log edge shallow,0.58,721.654625,0,0,0,0,35.35,33.77
+5,LES,87,log,shallow,2 - 3 cm,log edge shallow,13.75,575.21975,0,0,0,0,33.6,38.57
+6,LES,101,log,shallow,2 - 3 cm,log edge shallow,12.25,681.8596875,0,0,0,0,31.35,40.2
+7,LES,122,log,shallow,2 - 3 cm,log edge shallow,6.29,724.6255,1,2,1,1,33.95,33.97
+8,LES,147,log,shallow,2 - 3 cm,log edge shallow,21.25,729.9683125,0,0,0,0,34.95,35.93
+1,PCD,18,pebble center,deep,10 - 12 cm,pebble center deep,6,618.0731875,3,0,1,0,27.5,32.37
+2,PCD,33,pebble center,deep,10 - 12 cm,pebble center deep,49.38,650.79475,0,0,0,0,25.6,29
+3,PCD,55,pebble center,deep,10 - 12 cm,pebble center deep,4.55,712.7275,6,6,2,2,25.2,24.73
+4,PCD,70,pebble center,deep,10 - 12 cm,pebble center deep,0.58,722.283375,8,9,3,3,28.9,25.97
+5,PCD,92,pebble center,deep,10 - 12 cm,pebble center deep,13.75,562.8248125,0,2,0,1,26,24.53
+6,PCD,106,pebble center,deep,10 - 12 cm,pebble center deep,12.25,680.721375,3,6,2,4,26.25,22.73
+7,PCD,127,pebble center,deep,10 - 12 cm,pebble center deep,6.29,724.0753125,1,2,1,2,25.55,28.6
+8,PCD,152,pebble center,deep,10 - 12 cm,pebble center deep,21.25,729.4189375,2,2,2,2,27.4,26.87
+1,PCS,15,pebble center,shallow,2 - 3 cm,pebble center shallow,6,606.9769375,4,2,2,1,35,36.6
+2,PCS,30,pebble center,shallow,2 - 3 cm,pebble center shallow,49.38,550.9004375,3,3,2,1,27.7,40.73
+3,PCS,52,pebble center,shallow,2 - 3 cm,pebble center shallow,4.55,710.077375,2,3,1,2,33.8,31.53
+4,PCS,67,pebble center,shallow,2 - 3 cm,pebble center shallow,0.58,724.4161875,2,4,2,3,36.6,26.23
+5,PCS,89,pebble center,shallow,2 - 3 cm,pebble center shallow,13.75,542.2379375,1,2,1,2,36.25,33.6
+6,PCS,103,pebble center,shallow,2 - 3 cm,pebble center shallow,12.25,686.2438125,2,1,2,1,35.8,26.03
+7,PCS,124,pebble center,shallow,2 - 3 cm,pebble center shallow,6.29,724.286375,2,5,2,3,34.2,30.37
+8,PCS,149,pebble center,shallow,2 - 3 cm,pebble center shallow,21.25,729.602625,1,4,1,2,36.65,31.87
+1,PED,17,pebble edge,deep,10 - 12 cm,pebble edge deep,6,618.0280625,0,1,0,1,30,31.53
+2,PED,32,pebble edge,deep,10 - 12 cm,pebble edge deep,49.38,655.1345625,2,0,1,0,30.3,27.7
+3,PED,54,pebble edge,deep,10 - 12 cm,pebble edge deep,4.55,713.1464375,0,0,0,0,26.6,27.9
+4,PED,69,pebble edge,deep,10 - 12 cm,pebble edge deep,0.58,722.0071875,13,14,2,4,29.65,28.5
+5,PED,91,pebble edge,deep,10 - 12 cm,pebble edge deep,13.75,560.459125,0,1,0,1,26.8,31.87
+6,PED,105,pebble edge,deep,10 - 12 cm,pebble edge deep,12.25,681.3440625,0,1,0,1,26.9,23.93
+7,PED,126,pebble edge,deep,10 - 12 cm,pebble edge deep,6.29,723.1079375,6,4,2,2,28.1,27.37
+8,PED,151,pebble edge,deep,10 - 12 cm,pebble edge deep,21.25,729.546375,3,6,2,4,28.55,31.13
+1,PES,14,pebble edge,shallow,2 - 3 cm,pebble edge shallow,6,607.5775,1,4,1,1,35.75,37.9
+2,PES,29,pebble edge,shallow,2 - 3 cm,pebble edge shallow,49.38,574.236125,10,8,3,4,30.05,41.8
+3,PES,51,pebble edge,shallow,2 - 3 cm,pebble edge shallow,4.55,709.5866875,8,5,4,3,38,37.53
+4,PES,66,pebble edge,shallow,2 - 3 cm,pebble edge shallow,0.58,724.0855,1,0,1,0,39.15,34.33
+5,PES,88,pebble edge,shallow,2 - 3 cm,pebble edge shallow,13.75,549.4815625,5,5,2,2,36.65,37.93
+6,PES,102,pebble edge,shallow,2 - 3 cm,pebble edge shallow,12.25,684.51525,2,0,2,0,36.65,32.5
+7,PES,123,pebble edge,shallow,2 - 3 cm,pebble edge shallow,6.29,724.137,6,5,1,2,35.75,34.67
+8,PES,148,pebble edge,shallow,2 - 3 cm,pebble edge shallow,21.25,729.601125,1,2,1,2,38.7,34.93
+1,D,8,none,deep,10 - 12 cm,deep,18.58,579.2701875,23,14,3,3,30.9,32.4
+1,D,20,none,deep,10 - 12 cm,deep,10.85,648.83775,9,3,3,2,30.95,31.73
+2,D,38,none,deep,10 - 12 cm,deep,23.2,688.9985,7,1,2,1,29.55,29.77
+3,D,42,none,deep,10 - 12 cm,deep,7.4,431.1005938,26,20,5,6,21.8,33.33
+3,D,60,none,deep,10 - 12 cm,deep,2.29,721.901,3,3,2,1,31.05,32.03
+4,D,78,none,deep,10 - 12 cm,deep,4.25,727.847625,3,5,1,3,31,30.37
+7,D,131,none,deep,10 - 12 cm,deep,30.58,722.5965,2,2,1,1,29.65,32.03
+8,D,142,none,deep,10 - 12 cm,deep,8.58,728.8839375,8,4,2,1,28.75,36.1
+1,S,7,none,shallow,2 - 3 cm,shallow,18.58,562.9491875,0,0,0,0,37.95,24.77
+1,S,19,none,shallow,2 - 3 cm,shallow,10.85,647.696125,0,0,0,0,40.3,33.6
+2,S,37,none,shallow,2 - 3 cm,shallow,23.2,683.7655,0,0,0,0,43.45,38.73
+3,S,41,none,shallow,2 - 3 cm,shallow,7.4,685.9949375,0,0,0,0,43.35,36.77
+3,S,59,none,shallow,2 - 3 cm,shallow,2.29,723.6054375,0,0,0,0,42.6,35.23
+4,S,77,none,shallow,2 - 3 cm,shallow,4.25,727.800375,0,0,0,0,40,34.63
+7,S,130,none,shallow,2 - 3 cm,shallow,30.58,721.043,0,0,0,0,41.45,29.03
+8,S,141,none,shallow,2 - 3 cm,shallow,8.58,728.530375,0,0,0,0,43.05,33.6
+1,LE,2,log,control,7.5 cm,log edge,49,582.40075,9,4,3,2,27.25,39.63
+2,LE,35,log,control,7.5 cm,log edge,32.18,329.0490938,3,1,1,1,20.7,41.97
+3,LE,45,log,control,7.5 cm,log edge,14,707.4724375,7,1,3,1,34.8,41.2
+4,LE,73,log,control,7.5 cm,log edge,18.01,726.5475,3,1,2,1,30.75,40.5
+5,LE,94,log,control,7.5 cm,log edge,12.86,626.9635,6,5,1,2,29.6,40.73
+6,LE,108,log,control,7.5 cm,log edge,33,698.7859375,0,0,0,0,30.95,38.53
+7,LE,129,log,control,7.5 cm,log edge,29.52,718.9430625,0,0,0,0,31.5,36.87
+8,LE,140,log,control,7.5 cm,log edge,21.44,727.413875,0,0,0,0,30.45,33
+1,PC,6,pebble center,control,7.5 cm,pebble center,26.78,651.480625,1,0,1,0,30.05,31.57
+2,PC,24,pebble center,control,7.5 cm,pebble center,38.86,668.88175,2,2,1,1,28.1,35
+3,PC,58,pebble center,control,7.5 cm,pebble center,13.39,718.70975,0,1,0,1,29.25,26.37
+4,PC,76,pebble center,control,7.5 cm,pebble center,3.43,726.0864375,1,1,1,1,31.3,31.83
+5,PC,97,pebble center,control,7.5 cm,pebble center,12,646.6720625,1,4,1,1,30.15,29.97
+6,PC,113,pebble center,control,7.5 cm,pebble center,14.29,696.9289375,1,1,1,1,31.75,33.03
+7,PC,118,pebble center,control,7.5 cm,pebble center,43,717.9996875,0,0,0,0,31.1,30.07
+8,PC,137,pebble center,control,7.5 cm,pebble center,3.75,727.36725,1,2,1,1,30.3,27.13
+1,PE,5,pebble edge,control,7.5 cm,pebble edge,26.78,643.18375,4,3,1,1,31.35,36.43
+2,PE,23,pebble edge,control,7.5 cm,pebble edge,38.86,664.00875,3,0,2,0,31.55,36.77
+3,PE,57,pebble edge,control,7.5 cm,pebble edge,13.39,718.5695,7,7,4,2,30.8,36.17
+4,PE,75,pebble edge,control,7.5 cm,pebble edge,3.43,725.4373125,3,6,2,3,36.3,29.97
+5,PE,96,pebble edge,control,7.5 cm,pebble edge,12,659.135875,3,2,1,2,34.05,36.13
+6,PE,112,pebble edge,control,7.5 cm,pebble edge,14.29,698.224625,1,2,1,1,30.45,35.17
+7,PE,117,pebble edge,control,7.5 cm,pebble edge,43,720.3021875,0,0,0,0,30.1,31.8
+8,PE,136,pebble edge,control,7.5 cm,pebble edge,3.75,728.561375,5,3,2,1,30.05,35.23
+2,C,40,none,control,7.5 cm,control,28,698.7139375,0,0,0,0,35.75,35.8
+4,C,71,none,control,7.5 cm,control,11.11,724.940125,2,2,1,1,37.35,38.37
+5,C,81,none,control,7.5 cm,control,15.72,564.230375,4,4,2,4,35.95,36.73
+5,C,83,none,control,7.5 cm,control,9.5,657.8425,5,2,2,2,35.4,39.2
+6,C,109,none,control,7.5 cm,control,42.58,705.2826875,0,0,0,0,33.95,40.2
+6,C,110,none,control,7.5 cm,control,18.57,685.2750625,1,0,1,0,33.4,35.93
+7,C,133,none,control,7.5 cm,control,40.29,725.148375,0,0,0,0,36.6,38.9
+8,C,134,none,control,7.5 cm,control,4.86,725.955625,0,0,0,0,38.7,36.77
