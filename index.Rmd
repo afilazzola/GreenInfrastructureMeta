@@ -211,6 +211,45 @@ length(occurdat)
 ## 70 Studies found with usable data for synthesis
 ```
 
+### Master GI meta
+```{r}
+## Load meta-analysis libraries
+library(metafor)
+library(bootES)
+#http://link.springer.com/article/10.3758%2Fs13428-013-0330-5#Sec36
+# Kirby, K. N., & Gerlanc, D. (2013). BootES: An R package for bootstrap confidence intervals on effect sizes. Behavior research methods, 45(4), 905-927.
+
+
+## load master datasets
+meta <- read.csv("data//Master.GI.Datasets.csv")
+
+## Load functions
+se <- function(x) sqrt(var(x)/length(x)) ## standard error
+rii <- function(x, j, var)
+{
+s1 <- subset(x, Infrastructure == "green", select=var)
+o1 <- subset(x, Infrastructure == "grey", select=var)
+return1 <- log(s1/o1)
+x1 <- x[seq(1, nrow(x), by = 2),]
+return2 <- cbind(x1[j], return1)
+return2[is.na(return2)] <- 0
+return2
+}
+
+
+## extract means for each type of infrastructure
+gi.contrast <- meta %>% group_by(Study, Infrastructure) %>% summarize(eff=mean(Value), error=se(Value))
+gi.contrast <- data.frame(gi.contrast)
+
+## find studies that overlap (i.e. have both green and grey)
+overlap <- gi.contrast[duplicated(match(gi.contrast[,1],gi.contrast[,1])),] ## identify studies that overlap
+eff.contrast <- gi.contrast[gi.contrast$Study %in% overlap$Study,] ## extract the overlap studies only
+
+
+
+```
+
+
 ### Case Study - 4. Green infrastructure Mapping
 ```{r}
 gf.data <- read.csv("data//GI.data//GreenRoofGeocoded.csv")
