@@ -225,16 +225,47 @@ meta <- read.csv("data//Master.GI.Datasets.csv")
 
 ## Load functions
 se <- function(x) sqrt(var(x)/length(x)) ## standard error
-rii <- function(x, j, var)
-{
-s1 <- subset(x, Infrastructure == "green", select=var)
-o1 <- subset(x, Infrastructure == "grey", select=var)
-return1 <- log(s1/o1)
-x1 <- x[seq(1, nrow(x), by = 2),]
-return2 <- cbind(x1[j], return1)
-return2[is.na(return2)] <- 0
-return2
+
+library(broom)
+library(bootES)
+#http://link.springer.com/article/10.3758%2Fs13428-013-0330-5#Sec36
+# Kirby, K. N., & Gerlanc, D. (2013). BootES: An R package for bootstrap confidence intervals on effect sizes. Behavior research methods, 45(4), 905-927.
+
+## Generate a Function that calculates bootstrapped Cohen's D for each variable.
+effcalc <- function(dat, group) {
+eff.vals <- bootES(dat[,c(group,"Value")], R=999, data.col="Value", group.col=group, effect.type="cohens.d", contrast=c(green=1,grey=-1))
+eff.output <- summary(eff.vals)
+rownames(eff.output) <- unique(dat[,"Study"])
+return(eff.output)
 }
+
+## Identify studies where the comparison is possible
+ex1 <- meta %>% group_by(Study) %>% summarize(compare.true=length(unique(Infrastructure))) %>% filter(compare.true==2)
+ex1 <- ex1[1:10,] ## drop last two studies because presence-only
+
+## Conduct bootstrapping on all studies possible
+ex2 <- meta %>% filter(Study %in% ex1$Study) %>% group_by(Study) %>% do(fit = effcalc(dat=., group="Infrastructure"))
+cleaned <-tidy(ex2, fit)
+
+
+## Identify groups to be compare
+treat <- "green roof"
+control <- "conventional roof"
+
+
+## Identify studies where the comparison is possible
+ex1 <- meta %>% group_by(Study) %>% summarize(compare.true=length(unique(GI.type))) %>% filter(compare.true==2)
+ex1 <- ex1[1:10,] ## drop last two studies because presence-only
+
+##Bootstrapped cohen's D for different green infrastructures
+effcalc <- function(dat, group) {
+eff.vals <- bootES(dat[,c(group,"Value")], R=999, data.col="Value", group.col=group, effect.type="cohens.d", contrast=c(green=1,grey=-1))
+eff.output <- summary(eff.vals)
+rownames(eff.output) <- unique(dat[,"Study"])
+return(eff.output)
+}
+
+
 
 
 ## extract means for each type of infrastructure
