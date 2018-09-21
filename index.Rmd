@@ -212,71 +212,44 @@ length(occurdat)
 ```
 
 ### Master GI meta
-```{r}
-## Load meta-analysis libraries
-library(metafor)
-library(bootES)
-#http://link.springer.com/article/10.3758%2Fs13428-013-0330-5#Sec36
-# Kirby, K. N., & Gerlanc, D. (2013). BootES: An R package for bootstrap confidence intervals on effect sizes. Behavior research methods, 45(4), 905-927.
-
-
+```{r warning=FALSE, message=FALSE}
 ## load master datasets
 meta <- read.csv("data//Master.GI.Datasets.csv")
-
-## Load functions
-se <- function(x) sqrt(var(x)/length(x)) ## standard error
-
-library(broom)
-library(bootES)
-#http://link.springer.com/article/10.3758%2Fs13428-013-0330-5#Sec36
-# Kirby, K. N., & Gerlanc, D. (2013). BootES: An R package for bootstrap confidence intervals on effect sizes. Behavior research methods, 45(4), 905-927.
-
-## Generate a Function that calculates bootstrapped Cohen's D for each variable.
-effcalc <- function(dat, group) {
-eff.vals <- bootES(dat[,c(group,"Value")], R=999, data.col="Value", group.col=group, effect.type="cohens.d", contrast=c(green=1,grey=-1))
-eff.output <- summary(eff.vals)
-rownames(eff.output) <- unique(dat[,"Study"])
-return(eff.output)
-}
-
-## Identify studies where the comparison is possible
-ex1 <- meta %>% group_by(Study) %>% summarize(compare.true=length(unique(Infrastructure))) %>% filter(compare.true==2)
-ex1 <- ex1[1:10,] ## drop last two studies because presence-only
-
-## Conduct bootstrapping on all studies possible
-ex2 <- meta %>% filter(Study %in% ex1$Study) %>% group_by(Study) %>% do(fit = effcalc(dat=., group="Infrastructure"))
-cleaned <-tidy(ex2, fit)
+## Omit repo 3 and 9 because of data issues
+meta <- meta %>% filter(Study != "repo-3" & Study != "repo-9") 
 
 
-## Identify groups to be compare
-treat <- "green roof"
-control <- "conventional roof"
+## Load packages and functions
+library(reshape2)
+library(metafor)
+source("dcastMult.R") ## Multiple aggregate
+
+
+## Create Unique identifier column
+meta2 <- meta
+meta2[,"UniqueSite"] <- paste(meta2$Study,meta2$City, meta2$SiteID, meta2$Taxa,  meta$Estimate, sep="-")
 
 
 ## Identify studies where the comparison is possible
-ex1 <- meta %>% group_by(Study) %>% summarize(compare.true=length(unique(GI.type))) %>% filter(compare.true==2)
-ex1 <- ex1[1:10,] ## drop last two studies because presence-only
-
-##Bootstrapped cohen's D for different green infrastructures
-effcalc <- function(dat, group) {
-eff.vals <- bootES(dat[,c(group,"Value")], R=999, data.col="Value", group.col=group, effect.type="cohens.d", contrast=c(green=1,grey=-1))
-eff.output <- summary(eff.vals)
-rownames(eff.output) <- unique(dat[,"Study"])
-return(eff.output)
-}
+ex1 <- meta2 %>% group_by(UniqueSite) %>% summarize(compare.true=length(unique(Infrastructure))) %>% filter(compare.true==2)
 
 
+meta.data <- meta2 %>%  filter(UniqueSite %in% ex1$UniqueSite) %>% filter(Stat=="mean" | Stat=="count") %>% 
+    dcastMult(UniqueSite ~ Infrastructure, funs=list("mean"=mean,"sd"=sd, "n"=length), value.var = "Value") 
+meta.data[is.na(meta.data)] <- 1
 
+meta.ready <- escalc(n1i = grey_n, n2i = green_n, m1i = grey_mean, m2i = green_mean, sd1i = grey_sd, sd2i = green_sd, data = meta.data, measure = "SMD", append = TRUE)
 
-## extract means for each type of infrastructure
-gi.contrast <- meta %>% group_by(Study, Infrastructure) %>% summarize(eff=mean(Value), error=se(Value))
-gi.contrast <- data.frame(gi.contrast)
+#random-effects meta-analysis for green infrastructure vs grey
+m1 <- rma(yi, vi, data = meta.ready)
+summary(m1) ## P > 0.05
 
-## find studies that overlap (i.e. have both green and grey)
-overlap <- gi.contrast[duplicated(match(gi.contrast[,1],gi.contrast[,1])),] ## identify studies that overlap
-eff.contrast <- gi.contrast[gi.contrast$Study %in% overlap$Study,] ## extract the overlap studies only
+## Produce a forest plot to determine the effect sizes for each study
+forest(m1, slab = meta.data$UniqueSite)
 
-
+## Check for publication bias
+## The symetrical distriubtion suggests there is no publication bias
+funnel(m1)
 
 ```
 
