@@ -227,7 +227,7 @@ source("dcastMult.R") ## Multiple aggregate
 
 ## Create Unique identifier column
 meta2 <- meta
-meta2[,"UniqueSite"] <- paste(meta2$Study,meta2$City, meta2$SiteID, meta2$Taxa,  meta$Estimate, sep="-")
+meta2[,"UniqueSite"] <- paste(meta2$Study, meta2$Taxa,  meta$Estimate, sep="-")
 
 
 ## Identify studies where the comparison is possible
@@ -242,7 +242,7 @@ meta.ready <- escalc(n1i = grey_n, n2i = green_n, m1i = grey_mean, m2i = green_m
 
 #random-effects meta-analysis for green infrastructure vs grey
 m1 <- rma(yi, vi, data = meta.ready)
-summary(m1) ## P > 0.05
+summary(m1) ## Significant ** p = 0.029
 
 ## Produce a forest plot to determine the effect sizes for each study
 forest(m1, slab = meta.data$UniqueSite)
@@ -252,6 +252,7 @@ forest(m1, slab = meta.data$UniqueSite)
 funnel(m1)
 
 ```
+
 
 
 ### Case Study - 4. Green infrastructure Mapping
