@@ -187,7 +187,7 @@ The research questions we are exploring:
   1. What are the patterns of GI studies globally
   2. How does green infrastructure compare to conventional "grey" equivalents (e.g. green roof to conventional roof)?
   3. How does green infrastructure compare to its natural equivalents (e.g. retention ponds )?
-  4. What features of green infrstructure can improve the quality of natural systems?
+  4. What features of green infrastructure can improve the quality of natural systems?
 
 
 ### Patterns of GI Studies Globally
@@ -221,7 +221,7 @@ length(occurdat)
 ```
 
 ### Green infrastructure comparison to conventional
-```{r warning=FALSE, message=FALSE}
+```{r warning=FALSE, message=FALSE, fig.width=10, fig.height=8}
 ## load master datasets
 meta <- read.csv("data//Master.GI.Datasets.csv")
 ## Omit repo 3 and 9 because of data issues
@@ -270,7 +270,7 @@ funnel(m1)
 
 
 ### Green infrastructure comparison to natural and rural
-```{r}
+```{r fig.width=10, fig.height=8, warning=FALSE, message=FALSE}
 
 ## Create Unique identifier column
 meta2 <- meta
@@ -345,6 +345,74 @@ forest(m1, slab = meta.stat$UniqueSite)
 ## Check for publication bias
 ## The symetrical distriubtion suggests there is no publication bias
 funnel(m1)
+```
+
+
+### Green infrastructure features in relation to measures of green infrastructure
+```{r}
+## The area of green infrastructure
+names(meta)[20:21] <- c("GI.area","height")
+meta.area <- subset(meta, GI.area>0)
+
+## Determine unique identifier
+meta.area[,"UniqueSite"] <- paste(meta.area$Study, meta.area$Taxa, meta.area$Nat.compare, meta.area$Estimate, sep="-")
+
+## Summarize average richness by area sizes
+area.stat <- meta.area %>% filter(Stat=="count" | Stat=="mean") %>% filter(Estimate=="richness") %>%   group_by(GI.area, GI.type) %>% summarize(val=mean(Value)) %>%  data.frame(.)
+
+area.rich <- area.stat %>% filter(GI.type=="green roof" | GI.type=="green wall" | GI.type=="retention pond" | GI.type=="yards/home gardens" | GI.type=="public/community gardens")
+
+library(ggplot2)
+
+## Species richness per area
+ggplot(area.rich,  aes(x=GI.area, y=val, color=GI.type) ) + geom_point(size=3) + theme_bw() + scale_color_brewer(palette="Set2") + ylab("Average Species Richness") + xlab("Average Area of Green Infrastructure")+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+
+
+## Summarize average abundance by area sizes
+area.stat <- meta.area %>% filter(Stat=="count" | Stat=="mean") %>% filter(Estimate=="abundance") %>%   group_by(GI.area, GI.type) %>% summarize(val=mean(Value)) %>%  data.frame(.)
+
+area.abd <- area.stat %>% filter(GI.type=="green roof" | GI.type=="green wall" | GI.type=="retention pond" | GI.type=="yards/home gardens" | GI.type=="public/community gardens") %>% 
+  filter(GI.area<50000) ## keep numbers approximately similar - removed outlier of 200,000
+
+## Species richness per area
+ggplot(area.abd,  aes(x=GI.area, y=val, color=GI.type) ) + geom_point(size=3) + theme_bw() + scale_color_brewer(palette="Set2") + ylab("Average Abundance") + xlab("Average Area of Green Infrastructure")+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+
+
+## Compare pH for abundance
+ph.data <- meta %>%  filter(pH>0) %>%  filter(GI.type=="retention pond" | GI.type=="natural water")
+ph.abd <- ph.data %>% filter(Estimate=="abundance" & Stat=="count")%>%   group_by(pH, GI.type) %>% summarize(val=mean(Value)) %>%  data.frame(.)
+
+## plot richness against pH
+ggplot(ph.abd,  aes(x=pH, y=val, color=GI.type) ) + geom_point(size=3) + theme_bw() + scale_color_brewer(palette="Set2") + ylab("Average Richness") + xlab("Average pH of Green Infrastructure")+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+
+
+## Compare pH for occurrence
+ph.occ <- ph.data %>% filter(Estimate=="occurrence")%>%   group_by(pH, GI.type) %>% summarize(val=mean(Value)) %>%  data.frame(.)
+
+m1 <- glm(Value~ pH, family=binomial, data=ph.data %>% filter(Estimate=="occurrence"))
+summary(m1)
+
+## plot richness against pH
+ggplot(ph.occ,  aes(x=pH, y=val, color=GI.type) ) + geom_point(size=3) + theme_bw() + scale_color_brewer(palette="Set2") + ylab("Average Occurrence") + xlab("Average pH of Green Infrastructure")+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+
+## plot richness against height
+h.rich <- meta %>%  filter(height>0)  %>% filter(Estimate=="richness") %>% filter(Stat=="count" | Stat=="mean") %>% group_by(height, GI.type) %>%  summarize(val=mean(Value)) %>%  data.frame(.)
+
+ggplot(h.rich,  aes(x=height, y=val, color=GI.type) ) + geom_point(size=3) + theme_bw() + scale_color_brewer(palette="Set2") + ylab("Average Richness") + xlab("Average Height of Green Infrastructure")+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+
+## plot abundance against height
+h.abd <- meta %>%  filter(height>0)  %>% filter(Estimate=="abundance") %>% filter(Stat=="count" | Stat=="mean") %>% group_by(height, GI.type) %>%  summarize(val=mean(Value)) %>%  data.frame(.)
+
+ggplot(h.abd,  aes(x=height, y=val, color=GI.type) ) + geom_point(size=3) + theme_bw() + scale_color_brewer(palette="Set2") + ylab("Average Abundance") + xlab("Average Height of Green Infrastructure")+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+
+## Pond salinity
+salt <- subset(meta, Salinity>0)
+length(unique(salt$Salinity)) ## not enough samples for a meaningful comparison
+
+## Pond depth
+deep <- subset(meta, depth..m.>0)
+length(unique(deep$depth..m.)) ## not enough samples for a meaningful comparison
+
 ```
 
 ### Case Study - 4. Green infrastructure Mapping
