@@ -274,8 +274,9 @@ funnel(m1)
 
 ## Create Unique identifier column
 meta2 <- meta
-meta2[,"UniqueSite"] <- paste(meta2$Study,  meta2$Taxa, meta2$Estimate, sep="-")
-meta2[,"Urban.type"] <- ifelse(meta2$Habitat=="natural", "natural", "urban")
+meta2[,"UniqueSite"] <- paste(meta2$Study,  meta2$Taxa, meta2$Nat.compare, meta2$Estimate, sep="-")
+meta2[,"Urban.type"] <- ifelse(meta2$Habitat=="natural", "natural",  ## code natural as natural
+                               ifelse(meta2$Habitat=="rural","natural","urban")) ## code rural as natural, intermediate/urban as urban
 
 ## Determine the number of comparisons available 
 compare.eval(meta2, Urban.type, UniqueSite)
@@ -293,7 +294,8 @@ nat.raw <- nat.compare[[1]] ## calculated statistics from raw values
 
 ## Join two dataframes
 meta.stat <- rbind(nat.raw, nat.stat[, names(nat.raw)])
-meta.stat <- meta.stat[-13,] ## drop pollen limitation because no SD
+meta.stat <- meta.stat[-c(21),] ## drop 760 & 514 because of zero SD and abnormal values
+
 
 meta.ready <- escalc(n1i = urban_n, n2i = natural_n, m1i = urban_mean, m2i = natural_mean, sd1i = urban_sd, sd2i = natural_sd, data = meta.stat, measure = "SMD", append = TRUE)
 
@@ -312,7 +314,7 @@ funnel(m1)
 
 ## Create Unique identifier column
 meta2 <- meta
-meta2[,"UniqueSite"] <- paste(meta2$Study, meta2$Taxa,  meta$Estimate, sep="-")
+meta2[,"UniqueSite"] <- paste(meta2$Study, meta2$Taxa, meta2$Nat.compare, meta$Estimate, sep="-")
 meta3 <- meta2 %>% filter(Habitat != "natural") 
 meta3[,"Habitat"] <- ifelse(meta3$Habitat=="urban","urban","rural")
 
@@ -328,7 +330,7 @@ rural.raw <- rural.compare[[1]] ## calculated statistics from raw values
 
 ## Join two dataframes
 meta.stat <- rbind(rural.raw, rural.stat[, names(rural.raw)])
-meta.stat <- meta.stat[-8,] ## drop last study because zero SD
+meta.stat <- meta.stat[-9,] ## drop last study because zero SD
 
 meta.ready <- escalc(n1i = urban_n, n2i = rural_n, m1i = urban_mean, m2i = rural_mean, sd1i = urban_sd, sd2i = rural_sd, data = meta.stat, measure = "SMD", append = TRUE)
 
