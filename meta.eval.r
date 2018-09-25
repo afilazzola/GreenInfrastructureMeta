@@ -4,6 +4,16 @@ require(reshape2)
 require(metafor)
 require(tidyverse)
 
+
+### Function to determine the number of pairwise comparisons available for the studies
+compare.eval <- function(meta.data, comparison, site){
+  site <- enquo(site)
+  comparison <- enquo(comparison)
+  ex1 <- meta.data %>% group_by(!!site) %>% summarize(compare.true=length(unique(!!comparison))) %>% filter(compare.true==2) %>% data.frame(.)
+  return(nrow(ex1))
+}
+
+## Function to extract and join datasets that are both raw and statistics to be joined for meta analysis
 meta.eval <- function(meta.data, compare, ids , stats){
 
 ## Identify the closures to prepare for programming  

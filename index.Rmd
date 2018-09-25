@@ -236,7 +236,7 @@ source("meta.eval.r") ## Multiple aggregate
 
 ## Create Unique identifier column
 meta2 <- meta
-meta2[,"UniqueSite"] <- paste(meta2$Study, meta2$Taxa,  meta$Estimate, sep="-")
+meta2[,"UniqueSite"] <- paste(meta2$Study, meta2$Taxa, meta2$GI.compare, meta$Estimate, sep="-")
 
 
 ## Use function to extract summary statistics for comparisons
@@ -269,17 +269,21 @@ funnel(m1)
 ```
 
 
-### Green infrastructure comparison to natural
+### Green infrastructure comparison to natural and rural
 ```{r}
 
 ## Create Unique identifier column
 meta2 <- meta
-meta2[,"UniqueSite"] <- paste(meta2$Study, meta2$Taxa,  meta$Estimate, sep="-")
+meta2[,"UniqueSite"] <- paste(meta2$Study,  meta2$Taxa, meta2$Estimate, sep="-")
 meta2[,"Urban.type"] <- ifelse(meta2$Habitat=="natural", "natural", "urban")
+
+## Determine the number of comparisons available 
+compare.eval(meta2, Urban.type, UniqueSite)
 
 ## Use function to extract summary statistics for comparisons
 ## meta.eval  arguments are (meta.data, compare, ids , stats)
 nat.compare <- meta.eval(meta2, Urban.type, UniqueSite, Stat )
+
 
 ## Combine the lists into same dataframe
 ## Rename Columns in second dataframe
@@ -297,6 +301,7 @@ meta.ready <- escalc(n1i = urban_n, n2i = natural_n, m1i = urban_mean, m2i = nat
 m1 <- rma(yi, vi, data = meta.ready)
 summary(m1) 
 
+## Natural vs GI in Urban
 ## Produce a forest plot to determine the effect sizes for each study
 forest(m1, slab = meta.stat$UniqueSite)
 
@@ -304,6 +309,40 @@ forest(m1, slab = meta.stat$UniqueSite)
 ## The symetrical distriubtion suggests there is no publication bias
 funnel(m1)
 
+
+## Create Unique identifier column
+meta2 <- meta
+meta2[,"UniqueSite"] <- paste(meta2$Study, meta2$Taxa,  meta$Estimate, sep="-")
+meta3 <- meta2 %>% filter(Habitat != "natural") 
+meta3[,"Habitat"] <- ifelse(meta3$Habitat=="urban","urban","rural")
+
+## Use function to extract summary statistics for comparisons
+## meta.eval  arguments are (meta.data, compare, ids , stats)
+rural.compare <- meta.eval(meta3, Habitat, UniqueSite, Stat)
+
+## Combine the lists into same dataframe
+## Rename Columns in second dataframe
+rural.stat <- rural.compare[[2]] ## extracted statistics 
+names(rural.stat) <- c("UniqueSite","rural_mean","rural_sd","urban_mean","urban_sd","rural_n","urban_n") ## rename columns to match
+rural.raw <- rural.compare[[1]] ## calculated statistics from raw values
+
+## Join two dataframes
+meta.stat <- rbind(rural.raw, rural.stat[, names(rural.raw)])
+meta.stat <- meta.stat[-8,] ## drop last study because zero SD
+
+meta.ready <- escalc(n1i = urban_n, n2i = rural_n, m1i = urban_mean, m2i = rural_mean, sd1i = urban_sd, sd2i = rural_sd, data = meta.stat, measure = "SMD", append = TRUE)
+
+#random-effects meta-analysis for green infrastructure vs grey
+m1 <- rma(yi, vi, data = meta.ready)
+summary(m1) 
+
+## Natural vs GI in Urban
+## Produce a forest plot to determine the effect sizes for each study
+forest(m1, slab = meta.stat$UniqueSite)
+
+## Check for publication bias
+## The symetrical distriubtion suggests there is no publication bias
+funnel(m1)
 ```
 
 ### Case Study - 4. Green infrastructure Mapping
