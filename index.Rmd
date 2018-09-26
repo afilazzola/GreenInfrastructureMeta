@@ -236,7 +236,7 @@ source("meta.eval.r") ## Multiple aggregate
 
 ## Create Unique identifier column
 meta2 <- meta
-meta2[,"UniqueSite"] <- paste(meta2$Study, meta2$Taxa, meta2$GI.compare, meta$Estimate, sep="-")
+meta2[,"UniqueSite"] <- paste(meta2$Study, meta2$Taxa.simplified, meta2$GI.compare, meta$Estimate, sep="-")
 
 
 ## Use function to extract summary statistics for comparisons
@@ -274,7 +274,7 @@ funnel(m1)
 
 ## Create Unique identifier column
 meta2 <- meta
-meta2[,"UniqueSite"] <- paste(meta2$Study,  meta2$Taxa, meta2$Nat.compare, meta2$Estimate, sep="-")
+meta2[,"UniqueSite"] <- paste(meta2$Study,  meta2$Taxa.simplified, meta2$Nat.compare, meta2$Estimate, sep="-")
 meta2[,"Urban.type"] <- ifelse(meta2$Habitat=="natural", "natural",  ## code natural as natural
                                ifelse(meta2$Habitat=="rural","natural","urban")) ## code rural as natural, intermediate/urban as urban
 
@@ -314,7 +314,7 @@ funnel(m1)
 
 ## Create Unique identifier column
 meta2 <- meta
-meta2[,"UniqueSite"] <- paste(meta2$Study, meta2$Taxa, meta2$Nat.compare, meta$Estimate, sep="-")
+meta2[,"UniqueSite"] <- paste(meta2$Study, meta2$Taxa.simplified, meta2$Nat.compare, meta$Estimate, sep="-")
 meta3 <- meta2 %>% filter(Habitat != "natural") 
 meta3[,"Habitat"] <- ifelse(meta3$Habitat=="urban","urban","rural")
 
@@ -355,7 +355,7 @@ names(meta)[20:21] <- c("GI.area","height")
 meta.area <- subset(meta, GI.area>0)
 
 ## Determine unique identifier
-meta.area[,"UniqueSite"] <- paste(meta.area$Study, meta.area$Taxa, meta.area$Nat.compare, meta.area$Estimate, sep="-")
+meta.area[,"UniqueSite"] <- paste(meta.area$Study, meta.area$Taxa.simplified, meta.area$Nat.compare, meta.area$Estimate, sep="-")
 
 ## Summarize average richness by area sizes
 area.stat <- meta.area %>% filter(Stat=="count" | Stat=="mean") %>% filter(Estimate=="richness") %>%   group_by(GI.area, GI.type) %>% summarize(val=mean(Value)) %>%  data.frame(.)
