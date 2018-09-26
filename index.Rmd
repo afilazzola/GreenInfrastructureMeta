@@ -299,11 +299,11 @@ meta.stat <- meta.stat[-c(21),] ## drop 760 & 514 because of zero SD and abnorma
 
 meta.ready <- escalc(n1i = urban_n, n2i = natural_n, m1i = urban_mean, m2i = natural_mean, sd1i = urban_sd, sd2i = natural_sd, data = meta.stat, measure = "SMD", append = TRUE)
 
-#random-effects meta-analysis for green infrastructure vs grey
+#random-effects meta-analysis for urban GI vs natural
 m1 <- rma(yi, vi, data = meta.ready)
 summary(m1) 
 
-## Natural vs GI in Urban
+## Natural vs Urban GI
 ## Produce a forest plot to determine the effect sizes for each study
 forest(m1, slab = meta.stat$UniqueSite)
 
@@ -334,11 +334,11 @@ meta.stat <- meta.stat[-9,] ## drop last study because zero SD
 
 meta.ready <- escalc(n1i = urban_n, n2i = rural_n, m1i = urban_mean, m2i = rural_mean, sd1i = urban_sd, sd2i = rural_sd, data = meta.stat, measure = "SMD", append = TRUE)
 
-#random-effects meta-analysis for green infrastructure vs grey
+#random-effects meta-analysis
 m1 <- rma(yi, vi, data = meta.ready)
 summary(m1) 
 
-## Natural vs GI in Urban
+## Rural vs Urban GI
 ## Produce a forest plot to determine the effect sizes for each study
 forest(m1, slab = meta.stat$UniqueSite)
 
