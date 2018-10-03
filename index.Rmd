@@ -125,6 +125,10 @@ evidence <- read.csv("data/evidence.csv")
 
 excludes <- evidence %>% group_by(reason) %>% count(exclude) %>% filter(reason!="")
 ggplot(excludes, aes(x=reason, y=n)) + geom_bar(stat="identity") + coord_flip()
+
+## frequency of study
+year.rate <- evidence %>% group_by(Year) %>% summarize(n=length(Year))
+
 ```
 
 ### Papers processed - Progress
@@ -139,6 +143,7 @@ setTxtProgressBar(txtProgressBar(0,total,  style = 3), prog)
 ```
 Initial pass for relevant papers complete. 
 
+### Description of studies
 ```{r}
 
 GI.type <- evidence %>% group_by(GI.type) %>% count(exclude) %>% filter(GI.type!="")
@@ -169,14 +174,14 @@ meta <- evidence %>% filter(meta.=="yes")
 nrow(meta)
 
 prisma(found = 1255,
-       found_other = 9,
-       no_dupes = 1264,
-       screened = 1264,
-       screen_exclusions = 1123,
-       full_text = 141,
+       found_other = 28,
+       no_dupes = 1283,
+       screened = 1283,
+       screen_exclusions = 1140,
+       full_text = 143,
        full_text_exclusions = 0,
-       qualitative = 141, 
-       quantitative = 115,
+       qualitative = 143, 
+       quantitative = 66,
        width = 800, height = 800)
 ```
 
