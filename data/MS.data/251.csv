@@ -1,0 +1,45 @@
+SiteID,Type,Type2,Estimate,Stat,value
+CSI Roof,grey,conventional roof,abundance,count,2
+Dorothea Godt Roof,grey,conventional roof,abundance,count,5
+Rose Ave School,grey,conventional roof,abundance,count,0
+Tremco Roof,grey,conventional roof,abundance,count,1
+UofT Ramsay Wright,grey,conventional roof,abundance,count,0
+David Gordon Roof,green,green roof,abundance,count,0
+Eastview Centre,green,green roof,abundance,count,3
+ESRI,green,green roof,abundance,count,0
+Evergreen Roof,green,green roof,abundance,count,17
+Exhibition Place Horse,green,green roof,abundance,count,0
+Exhibition Place Sedum,green,green roof,abundance,count,0
+GRITlab,green,green roof,abundance,count,0
+Humber Roof,green,green roof,abundance,count,2
+MEC,green,green roof,abundance,count,7
+Monica Kuhn Office,green,green roof,abundance,count,15
+Now Magazine,green,green roof,abundance,count,0
+ROM,green,green roof,abundance,count,0
+Toronto Botanical Gardens Roof,green,green roof,abundance,count,4
+York CSEE,green,green roof,abundance,count,30
+215 Spadina Ave.,green,green roof,abundance,count,0
+Hugh Garner Roof,green,green roof,abundance,count,3
+Native Child Roof,green,green roof,abundance,count,1
+CSI Roof,grey,green roof,richness,count,1
+Dorothea Godt Roof,grey,green roof,richness,count,2
+Rose Ave School,grey,green roof,richness,count,0
+Tremco Roof,grey,green roof,richness,count,1
+UofT Ramsay Wright,grey,green roof,richness,count,0
+David Gordon Roof,green,green roof,richness,count,0
+Eastview Centre,green,green roof,richness,count,1
+ESRI,green,green roof,richness,count,0
+Evergreen Roof,green,green roof,richness,count,3
+Exhibition Place Horse,green,green roof,richness,count,0
+Exhibition Place Sedum,green,green roof,richness,count,0
+GRITlab,green,green roof,richness,count,0
+Humber Roof,green,green roof,richness,count,1
+MEC,green,green roof,richness,count,1
+Monica Kuhn Office,green,green roof,richness,count,2
+Now Magazine,green,green roof,richness,count,0
+ROM,green,green roof,richness,count,0
+Toronto Botanical Gardens Roof,green,green roof,richness,count,2
+York CSEE,green,green roof,richness,count,2
+215 Spadina Ave.,green,green roof,richness,count,0
+Hugh Garner Roof,green,green roof,richness,count,2
+Native Child Roof,green,green roof,richness,count,1

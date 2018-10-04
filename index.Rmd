@@ -258,7 +258,7 @@ Infra.raw <- Infra.compare[[1]] ## calculated statistics from raw values
 
 ## Join two dataframes
 meta.stat <- rbind(Infra.raw, Infra.stat[, names(Infra.raw)])
-meta.stat <- meta.stat[-13,] ## drop pollen limitation because no SD
+
 
 meta.ready <- escalc(n1i = grey_n, n2i = green_n, m1i = grey_mean, m2i = green_mean, sd1i = grey_sd, sd2i = green_sd, data = meta.stat, measure = "SMD", append = TRUE)
 

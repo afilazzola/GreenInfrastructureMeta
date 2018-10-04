@@ -1,0 +1,17 @@
+GI type,Genus,Species,Estimate,stat,value
+green,Pipistrellus,pipistrellus,abundance,mean,6.75
+green,Pipistrellus,pipistrellus,abundance,sd,13.7
+grey,Pipistrellus,pipistrellus,abundance,mean,3.87
+grey,Pipistrellus,pipistrellus,abundance,sd,6.96
+green,Pipistrellus,pygmaeus,abundance,mean,2.48
+green,Pipistrellus,pygmaeus,abundance,sd,3.28
+grey,Pipistrellus,pygmaeus,abundance,mean,0.36
+grey,Pipistrellus,pygmaeus,abundance,sd,0.889
+green,Pipistrellus,nathusii,abundance,mean,0.2
+green,Pipistrellus,nathusii,abundance,sd,0.3
+grey,Pipistrellus,nathusii,abundance,mean,0.2
+grey,Pipistrellus,nathusii,abundance,sd,0.3
+green,Nyctalus,spp.,abundance,mean,1.17
+green,Nyctalus,spp.,abundance,sd,1.21
+grey,Nyctalus,spp.,abundance,mean,0.338
+grey,Nyctalus,spp.,abundance,sd,0.593
