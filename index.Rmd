@@ -229,8 +229,8 @@ length(occurdat)
 ```{r warning=FALSE, message=FALSE, fig.width=10, fig.height=8}
 ## load master datasets
 meta <- read.csv("data//Master.GI.Datasets.csv")
-## Omit repo 3 because duplicated with study 1305 and remove repo-9 because not equivalent GI comparisons 
-meta <- meta %>% filter(Study != "repo-3" & Study!="repo-9") 
+## Omit repo 3 because duplicated with study 1305 and remove repo-9 because not equivalent GI comparisons. Removed Repo 3 because compare roof with ground
+meta <- meta %>% filter(Study != "repo-3" & Study!="repo-9" & Study!="repo-1") 
 
 ## Drop relative abundance because difference = 0 
 meta <- meta %>% filter(Estimate!="Relative.Abundance")
@@ -244,11 +244,11 @@ source("meta.eval.r") ## Multiple aggregate
 ## Create Unique identifier column
 meta2 <- meta
 meta2[,"UniqueSite"] <- paste(meta2$Study, meta2$Taxa.simplified, meta2$GI.compare, meta$Estimate, sep="-")
-
+meta3 <-  meta2 %>% filter(Infrastructure != "natural") %>%  filter()
 
 ## Use function to extract summary statistics for comparisons
 ## meta.eval  arguments are (meta.data, compare, ids , stats)
-Infra.compare <- meta.eval(meta2, Infrastructure, UniqueSite, Stat )
+Infra.compare <- meta.eval(meta3, Infrastructure, UniqueSite, Stat )
 
 ## Combine the lists into same dataframe
 ## Rename Columns in second dataframe

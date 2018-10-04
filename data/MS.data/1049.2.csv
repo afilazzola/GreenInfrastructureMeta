@@ -1,0 +1,61 @@
+Study,City,SiteID,Taxa,Taxa.simplified,Year,Infrastructure,Habitat,original.habitat,GI.type,GI.compare,Nat.compare,Family,Genus,Species,Status,Estimate,Stat,Value,GI.area.mean (m2),GI.height (m),Rep
+1049,Baltimore,MultiSite,amphibians,amphibians,,green,urban,retention pond,retention pond,retention pond,pond,,Rana,sylvatica,,occurrence,probability,0.44,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,green,urban,retention pond,retention pond,retention pond,pond,,Bufo,americanus,,occurrence,probability,0.25,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,green,urban,retention pond,retention pond,retention pond,pond,,Pseudacris,crucifer,,occurrence,probability,0.5,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,green,urban,retention pond,retention pond,retention pond,pond,,Hyla,chrysoscelis,,occurrence,probability,0.31,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,green,urban,retention pond,retention pond,retention pond,pond,,Rana,clamitans,,occurrence,probability,0.3,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,green,urban,retention pond,retention pond,retention pond,pond,,Rana,palustris,,occurrence,probability,0.19,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,urban,artificial water,artificial water,retention pond,artifical pond,,Rana,sylvatica,,occurrence,probability,0.24,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,urban,artificial water,artificial water,retention pond,artifical pond,,Bufo,americanus,,occurrence,probability,0.14,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,urban,artificial water,artificial water,retention pond,artifical pond,,Pseudacris,crucifer,,occurrence,probability,0.38,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,urban,artificial water,artificial water,retention pond,artifical pond,,Hyla,chrysoscelis,,occurrence,probability,0.19,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,urban,artificial water,artificial water,retention pond,artifical pond,,Rana,clamitans,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,urban,artificial water,artificial water,retention pond,artifical pond,,Rana,palustris,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,urban,natural pond,natural water,natural water,pond,,Rana,sylvatica,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,urban,natural pond,natural water,natural water,pond,,Bufo,americanus,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,urban,natural pond,natural water,natural water,pond,,Pseudacris,crucifer,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,urban,natural pond,natural water,natural water,pond,,Hyla,chrysoscelis,,occurrence,probability,0.13,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,urban,natural pond,natural water,natural water,pond,,Rana,clamitans,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,urban,natural pond,natural water,natural water,pond,,Rana,palustris,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,natural,artificial water,artificial water,retention pond,artifical pond,,Rana,sylvatica,,occurrence,probability,0.2,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,natural,artificial water,artificial water,retention pond,artifical pond,,Bufo,americanus,,occurrence,probability,0.2,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,natural,artificial water,artificial water,retention pond,artifical pond,,Pseudacris,crucifer,,occurrence,probability,0.2,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,natural,artificial water,artificial water,retention pond,artifical pond,,Hyla,chrysoscelis,,occurrence,probability,0.2,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,natural,artificial water,artificial water,retention pond,artifical pond,,Rana,clamitans,,occurrence,probability,0.2,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,natural,artificial water,artificial water,retention pond,artifical pond,,Rana,palustris,,occurrence,probability,0.2,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,natural,natural pond,natural water,natural water,pond,,Rana,sylvatica,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,natural,natural pond,natural water,natural water,pond,,Bufo,americanus,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,natural,natural pond,natural water,natural water,pond,,Pseudacris,crucifer,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,natural,natural pond,natural water,natural water,pond,,Hyla,chrysoscelis,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,natural,natural pond,natural water,natural water,pond,,Rana,clamitans,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,natural,natural pond,natural water,natural water,pond,,Rana,palustris,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,green,urban,retention pond,retention pond,retention pond,pond,,Rana,sylvatica,,occurrence,probability,0.2,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,green,urban,retention pond,retention pond,retention pond,pond,,Bufo,americanus,,occurrence,probability,0.44,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,green,urban,retention pond,retention pond,retention pond,pond,,Pseudacris,crucifer,,occurrence,probability,0.19,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,green,urban,retention pond,retention pond,retention pond,pond,,Hyla,chrysoscelis,,occurrence,probability,0.25,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,green,urban,retention pond,retention pond,retention pond,pond,,Rana,clamitans,,occurrence,probability,0.6,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,green,urban,retention pond,retention pond,retention pond,pond,,Rana,palustris,,occurrence,probability,0.19,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,urban,artificial water,artificial water,retention pond,artifical pond,,Rana,sylvatica,,occurrence,probability,0.1,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,urban,artificial water,artificial water,retention pond,artifical pond,,Bufo,americanus,,occurrence,probability,0.05,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,urban,artificial water,artificial water,retention pond,artifical pond,,Pseudacris,crucifer,,occurrence,probability,0.1,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,urban,artificial water,artificial water,retention pond,artifical pond,,Hyla,chrysoscelis,,occurrence,probability,0.1,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,urban,artificial water,artificial water,retention pond,artifical pond,,Rana,clamitans,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,urban,artificial water,artificial water,retention pond,artifical pond,,Rana,palustris,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,urban,natural pond,natural water,natural water,pond,,Rana,sylvatica,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,urban,natural pond,natural water,natural water,pond,,Bufo,americanus,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,urban,natural pond,natural water,natural water,pond,,Pseudacris,crucifer,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,urban,natural pond,natural water,natural water,pond,,Hyla,chrysoscelis,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,urban,natural pond,natural water,natural water,pond,,Rana,clamitans,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,urban,natural pond,natural water,natural water,pond,,Rana,palustris,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,natural,artificial water,artificial water,retention pond,artifical pond,,Rana,sylvatica,,occurrence,probability,0.2,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,natural,artificial water,artificial water,retention pond,artifical pond,,Bufo,americanus,,occurrence,probability,0.2,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,natural,artificial water,artificial water,retention pond,artifical pond,,Pseudacris,crucifer,,occurrence,probability,0.2,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,natural,artificial water,artificial water,retention pond,artifical pond,,Hyla,chrysoscelis,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,natural,artificial water,artificial water,retention pond,artifical pond,,Rana,clamitans,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,grey,natural,artificial water,artificial water,retention pond,artifical pond,,Rana,palustris,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,natural,natural pond,natural water,natural water,pond,,Rana,sylvatica,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,natural,natural pond,natural water,natural water,pond,,Bufo,americanus,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,natural,natural pond,natural water,natural water,pond,,Pseudacris,crucifer,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,natural,natural pond,natural water,natural water,pond,,Hyla,chrysoscelis,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,natural,natural pond,natural water,natural water,pond,,Rana,clamitans,,occurrence,probability,0,0,,36
+1049,Baltimore,MultiSite,amphibians,amphibians,,natural,natural,natural pond,natural water,natural water,pond,,Rana,palustris,,occurrence,probability,0,0,,36
