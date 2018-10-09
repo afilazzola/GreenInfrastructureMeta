@@ -262,8 +262,12 @@ meta.stat <- rbind(Infra.raw, Infra.stat[, names(Infra.raw)])
 
 meta.ready <- escalc(n1i = grey_n, n2i = green_n, m1i = grey_mean, m2i = green_mean, sd1i = grey_sd, sd2i = green_sd, data = meta.stat, measure = "SMD", append = TRUE)
 
+taxa.test <- c(rep("invertebrate",5),"amphibian","birds.bats","birds.bats","invertebrate","invertebrate","birds.bats","birds.bats","invertebrate")
+GI.test <- c("wall","wall","roof","roof","pond","pond","wall",rep("roof",5),"roadside")
+
+
 #random-effects meta-analysis for green infrastructure vs grey
-m1 <- rma(yi, vi, data = meta.ready)
+m1 <- rma(yi=yi, vi=vi, mods=~factor(taxa.test), data = meta.ready)
 summary(m1) 
 
 ## Produce a forest plot to determine the effect sizes for each study
