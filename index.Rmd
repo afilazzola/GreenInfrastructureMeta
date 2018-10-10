@@ -122,9 +122,12 @@ This steps includes a. checking for duplicating, b. reviewing each instance for 
 
 ```{r, warning=FALSE, message=FALSE}
 evidence <- read.csv("data/evidence.csv")
-
+### Identify studies that were excluded
 excludes <- evidence %>% group_by(reason) %>% count(exclude) %>% filter(reason!="")
 ggplot(excludes, aes(x=reason, y=n)) + geom_bar(stat="identity") + coord_flip()
+
+### Proportion excluded
+excludes %>% mutate(percent=n/1140*100) %>%  data.frame(.)
 
 ## frequency of study
 year.rate <- evidence %>% group_by(Year) %>% summarize(n=length(Year))
@@ -224,6 +227,17 @@ length(occurdat)
 
 ## 70 Studies found with usable data for synthesis
 ```
+
+### Frequency of GI types and taxa
+```{r}
+meta <- read.csv("data//Master.GI.Datasets.csv")
+
+freq.GI <- meta %>%  filter(Infrastructure!="grey" & Habitat!="Natural") %>% group_by(GI.type, Taxa.simplified) %>% summarize(n=length(unique(Study))) %>%  data.frame(.)
+
+table.GI <- freq.GI %>% spread(Taxa.simplified, n, fill=0)
+#write.csv(table.GI, "Table.GI.csv")
+```
+
 
 ### Green infrastructure comparison to conventional
 ```{r warning=FALSE, message=FALSE, fig.width=10, fig.height=8}
