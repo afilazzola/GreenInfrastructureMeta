@@ -276,13 +276,21 @@ meta.stat <- rbind(Infra.raw, Infra.stat[, names(Infra.raw)])
 
 meta.ready <- escalc(n1i = grey_n, n2i = green_n, m1i = grey_mean, m2i = green_mean, sd1i = grey_sd, sd2i = green_sd, data = meta.stat, measure = "SMD", append = TRUE)
 
-taxa.test <- c(rep("invertebrate",5),"amphibian","birds.bats","birds.bats","invertebrate","invertebrate","birds.bats","birds.bats","invertebrate")
-GI.test <- c("wall","wall","roof","roof","pond","pond","wall",rep("roof",5),"roadside")
+## separate out the identifiers
+siteID <- matrix(unlist(strsplit(meta.ready$UniqueSite,"-")),ncol=4, byrow=TRUE)
+siteID <- data.frame(siteID) ## recreate as dataframe
+colnames(siteID) <- c("Study","taxa","GI.type","measure") ## add column names
 
+meta.ready <- cbind(data.frame(meta.ready), siteID)
 
 #random-effects meta-analysis for green infrastructure vs grey
-m1 <- rma(yi=yi, vi=vi, mods=~factor(taxa.test), data = meta.ready)
+m1 <- rma(yi=yi, vi=vi,  data = meta.ready)
 summary(m1) 
+
+#mixed-effects meta-analysis for green infrastructure vs grey
+m2 <- rma(yi=yi, vi=vi, mods=~GI.type-1,  data = meta.ready)
+summary(m2) 
+
 
 ## Produce a forest plot to determine the effect sizes for each study
 forest(m1, slab = meta.stat$UniqueSite)
@@ -290,6 +298,30 @@ forest(m1, slab = meta.stat$UniqueSite)
 ## Check for publication bias
 ## The symetrical distriubtion suggests there is no publication bias
 funnel(m1)
+
+## Calculate rosenthals Failsafe number
+fsn(yi, vi, data=meta.ready)
+
+
+### plot Forest plot with each subgroup
+res.w <- rma(yi=yi, vi=vi,  data = meta.ready,
+             subset=(GI.test=="wall"))
+res.r <- rma(yi=yi, vi=vi,  data = meta.ready,
+             subset=(GI.test=="roof"))
+res.p <- rma(yi=yi, vi=vi,  data = meta.ready,
+             subset=(GI.test=="pond"))
+res.rd <- rma(yi=yi, vi=vi,  data = meta.ready,
+             subset=(GI.test=="roadside"))
+
+## generate plot with spaces inbetween
+forest(m1, atransf=exp, cex=0.75, ylim=c(-1, 24),
+       order=order(meta.ready$GI.type,meta.ready$taxa), rows=c(3:4,7,10:16,19:21),
+        mlab="RE model for all studies", psize=1, slab= paste(meta.ready$Study, meta.ready$taxa, meta.ready$measure))
+
+addpoly(res.w, row=18, cex=0.75, atransf=exp, mlab="RE model for green wall")
+addpoly(res.r, row= 9, cex=0.75, atransf=exp, mlab="RE model for green roof")
+addpoly(res.rd, row= 6, cex=0.75, atransf=exp, mlab="RE model for roadsides")
+addpoly(res.p, row= 2, cex=0.75, atransf=exp, mlab="RE model for retention ponds")
 
 ```
 
