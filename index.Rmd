@@ -122,9 +122,12 @@ This steps includes a. checking for duplicating, b. reviewing each instance for 
 
 ```{r, warning=FALSE, message=FALSE}
 evidence <- read.csv("data/evidence.csv")
-
+### Identify studies that were excluded
 excludes <- evidence %>% group_by(reason) %>% count(exclude) %>% filter(reason!="")
 ggplot(excludes, aes(x=reason, y=n)) + geom_bar(stat="identity") + coord_flip()
+
+### Proportion excluded
+excludes %>% mutate(percent=n/1140*100) %>%  data.frame(.)
 
 ## frequency of study
 year.rate <- evidence %>% group_by(Year) %>% summarize(n=length(Year))
@@ -225,12 +228,23 @@ length(occurdat)
 ## 70 Studies found with usable data for synthesis
 ```
 
+### Frequency of GI types and taxa
+```{r}
+meta <- read.csv("data//Master.GI.Datasets.csv")
+
+freq.GI <- meta %>%  filter(Infrastructure!="grey" & Habitat!="Natural") %>% group_by(GI.type, Taxa.simplified) %>% summarize(n=length(unique(Study))) %>%  data.frame(.)
+
+table.GI <- freq.GI %>% spread(Taxa.simplified, n, fill=0)
+#write.csv(table.GI, "Table.GI.csv")
+```
+
+
 ### Green infrastructure comparison to conventional
 ```{r warning=FALSE, message=FALSE, fig.width=10, fig.height=8}
 ## load master datasets
 meta <- read.csv("data//Master.GI.Datasets.csv")
 ## Omit repo 3 because duplicated with study 1305 and remove repo-9 because not equivalent GI comparisons. Removed Repo 3 because compare roof with ground
-meta <- meta %>% filter(Study != "repo-3" & Study!="repo-9" & Study!="repo-1") 
+meta <- meta %>% filter(Study != "repo.3" & Study!="repo.9" & Study!="repo.1") 
 
 ## Drop relative abundance because difference = 0 
 meta <- meta %>% filter(Estimate!="Relative.Abundance")
@@ -262,13 +276,20 @@ meta.stat <- rbind(Infra.raw, Infra.stat[, names(Infra.raw)])
 
 meta.ready <- escalc(n1i = grey_n, n2i = green_n, m1i = grey_mean, m2i = green_mean, sd1i = grey_sd, sd2i = green_sd, data = meta.stat, measure = "SMD", append = TRUE)
 
-taxa.test <- c(rep("invertebrate",5),"amphibian","birds.bats","birds.bats","invertebrate","invertebrate","birds.bats","birds.bats","invertebrate")
-GI.test <- c("wall","wall","roof","roof","pond","pond","wall",rep("roof",5),"roadside")
-
+## separate out the identifiers
+siteID <- matrix(unlist(strsplit(meta.ready$UniqueSite,"-")),ncol=4, byrow=TRUE)
+siteID <- data.frame(siteID) ## recreate as dataframe
+colnames(siteID) <- c("Study","taxa","GI.compare","measure") ## add column names
+meta.ready <- cbind(data.frame(meta.ready), siteID)
 
 #random-effects meta-analysis for green infrastructure vs grey
-m1 <- rma(yi=yi, vi=vi, mods=~factor(taxa.test), data = meta.ready)
+m1 <- rma(yi=yi, vi=vi,  data = meta.ready)
 summary(m1) 
+
+#mixed-effects meta-analysis for green infrastructure vs grey
+m2 <- rma(yi=yi, vi=vi, mods=~GI.compare-1,  data = meta.ready)
+summary(m2) 
+
 
 ## Produce a forest plot to determine the effect sizes for each study
 forest(m1, slab = meta.stat$UniqueSite)
@@ -276,6 +297,30 @@ forest(m1, slab = meta.stat$UniqueSite)
 ## Check for publication bias
 ## The symetrical distriubtion suggests there is no publication bias
 funnel(m1)
+
+## Calculate rosenthals Failsafe number
+fsn(yi, vi, data=meta.ready)
+
+
+### plot Forest plot with each subgroup
+res.w <- rma(yi=yi, vi=vi,  data = meta.ready,
+             subset=(GI.compare=="wall"))
+res.r <- rma(yi=yi, vi=vi,  data = meta.ready,
+             subset=(GI.compare=="roof"))
+res.p <- rma(yi=yi, vi=vi,  data = meta.ready,
+             subset=(GI.compare=="retention pond"))
+res.rd <- rma(yi=yi, vi=vi,  data = meta.ready,
+             subset=(GI.compare=="roadsides"))
+
+## generate plot with spaces inbetween
+forest(m1, atransf=exp, cex=0.75, ylim=c(-1, 24),
+       order=order(meta.ready$GI.compare,meta.ready$taxa), rows=c(3:4,7,10:16,19:21),
+        mlab="RE model for all studies", psize=1, slab= paste(meta.ready$Study, meta.ready$taxa, meta.ready$measure))
+
+addpoly(res.w, row=18, cex=0.75, atransf=exp, mlab="RE model for green wall")
+addpoly(res.r, row= 9, cex=0.75, atransf=exp, mlab="RE model for green roof")
+addpoly(res.rd, row= 6, cex=0.75, atransf=exp, mlab="RE model for roadsides")
+addpoly(res.p, row= 2, cex=0.75, atransf=exp, mlab="RE model for retention ponds")
 
 ```
 
@@ -288,7 +333,7 @@ meta2 <- meta
 meta2[,"UniqueSite"] <- paste(meta2$Study,  meta2$Taxa.simplified, meta2$Nat.compare, meta2$Estimate, sep="-")
 
 ## Remove comparisons except urban and rural
-meta2 <- meta2 %>% filter(Habitat == "urban" | Habitat == "natural")
+meta2 <- meta2 %>% filter(Habitat == "urban" | Habitat == "natural") %>%  filter (Nat.compare != "park") %>%  filter(Study != 1156)
 
 ## Determine the number of comparisons available 
 compare.eval(meta2, Habitat, UniqueSite)
@@ -309,17 +354,31 @@ meta.stat <- rbind(nat.raw, nat.stat[, names(nat.raw)])
 
 meta.ready <- escalc(n1i = urban_n, n2i = natural_n, m1i = urban_mean, m2i = natural_mean, sd1i = urban_sd, sd2i = natural_sd, data = meta.stat, measure = "SMD", append = TRUE)
 
+## separate out the identifiers
+siteID <- matrix(unlist(strsplit(meta.ready$UniqueSite,"-")),ncol=4, byrow=TRUE)
+siteID <- data.frame(siteID) ## recreate as dataframe
+colnames(siteID) <- c("Study","taxa","GI.type","measure") ## add column names
+meta.ready <- cbind(data.frame(meta.ready), siteID)
+
+
 #random-effects meta-analysis for urban GI vs natural
 m1 <- rma(yi, vi, data = meta.ready)
 summary(m1) 
 
 ## Natural vs Urban GI
 ## Produce a forest plot to determine the effect sizes for each study
-forest(m1, slab = meta.stat$UniqueSite)
+forest(m1, slab = meta.stat$UniqueSite, order=order(meta.ready$GI.type,meta.ready$taxa))
 
 ## Check for publication bias
 ## The symetrical distriubtion suggests there is no publication bias
 funnel(m1)
+
+#mixed-effects meta-analysis for green infrastructure vs grey
+m2 <- rma(yi=yi, vi=vi, mods=~GI.type-1,  data = meta.ready)
+summary(m2) 
+
+## Calculate rosenthals Failsafe number
+fsn(yi, vi, data=meta.ready)
 
 
 ```

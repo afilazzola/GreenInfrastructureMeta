@@ -1,0 +1,18 @@
+"","GI.type","amphibians","arthropod","bats","birds","invertebrate","nematodes","plants","trees"
+"1","agriculture",0,0,0,0,0,0,1,0
+"2","bioswales",0,1,0,0,0,0,3,0
+"3","cemetery",0,0,0,0,0,0,1,0
+"4","forest",0,0,0,1,0,0,2,0
+"5","golf course",0,2,0,1,0,0,0,0
+"6","grassland",0,2,0,2,0,0,0,0
+"7","green roof",0,11,1,5,0,0,7,0
+"8","green wall",0,1,0,1,0,0,0,0
+"9","natural area",0,1,0,0,0,0,0,0
+"10","natural water",3,2,0,0,1,0,0,0
+"11","public/community gardens",0,7,0,2,0,0,8,0
+"12","retention pond",5,1,0,0,1,0,0,0
+"13","roadsides",0,1,0,0,0,1,1,1
+"14","urban ground",0,1,0,0,0,0,0,0
+"15","urban park",0,4,0,2,0,0,2,0
+"16","urban tree canopy",0,0,0,0,0,0,3,1
+"17","yards/home gardens",0,8,0,4,0,0,6,1
