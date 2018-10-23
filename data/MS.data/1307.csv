@@ -1,0 +1,197 @@
+Habitat,Family,Genus,Species,Urban Lot,Status
+Brownfield,Andrenidae,Andrena,barbilabris,0,native
+Brownfield,Andrenidae,Andrena,commoda,4,native
+Brownfield,Andrenidae,Andrena,cressonii,1,native
+Brownfield,Andrenidae,Andrena,dunningi,1,native
+Brownfield,Andrenidae,Andrena,erigeniae,3,native
+Brownfield,Andrenidae,Andrena,miserabilis,3,native
+Brownfield,Andrenidae,Andrena,nasonii,5,native
+Brownfield,Andrenidae,Andrena,perplexa,0,native
+Brownfield,Andrenidae,Andrena,violae,0,native
+Brownfield,Andrenidae,Andrena,wilkella,2,non-native
+Brownfield,Andrenidae,Andrena,ziziae,0,native
+Brownfield,Andrenidae,Calliopsis,andreniformis,4,native
+Brownfield,Apidae,Anthophora,terminalis,1,native
+Brownfield,Apidae,Apis,mellifera,40,non-native
+Brownfield,Apidae,Bombus,fervidus,3,native
+Brownfield,Apidae,Bombus,griseocollis,4,native
+Brownfield,Apidae,Bombus,impatiens,15,native
+Brownfield,Apidae,Bombus,perplexus,0,native
+Brownfield,Apidae,Bombus,vagans,0,native
+Brownfield,Apidae,Ceratina,calcarata,43,native
+Brownfield,Apidae,Ceratina,mikmaqi,0,native
+Brownfield,Apidae,Ceratina,strenua,0,native
+Brownfield,Apidae,Holcopasites,calliopsidis,1,native
+Brownfield,Apidae,Melissodes,bimaculatus,70,native
+Brownfield,Apidae,Melissodes,druriellus,0,native
+Brownfield,Apidae,Melissodes,trinodis,1,native
+Brownfield,Apidae,Nomada,articulata,1,native
+Brownfield,Apidae,Nomada,bidentate,1,native
+Brownfield,Apidae,Nomada,cressonii,0,native
+Brownfield,Apidae,Nomada,imbricata,1,native
+Brownfield,Apidae,Nomada,luteoloides,1,native
+Brownfield,Apidae,Nomada,maculata,1,native
+Brownfield,Apidae,Nomada,pygmaea,0,native
+Brownfield,Apidae,Peponapis,pruinosa,25,native
+Brownfield,Apidae,Triepeolus,remigatus,0,native
+Brownfield,Apidae,Xylocopa,virginica,3,native
+Brownfield,Colletidae,Hylaeus,affinis,0,native
+Brownfield,Colletidae,Hylaeus,affinis/modestus,0,native
+Brownfield,Colletidae,Hylaeus,hyalinatus,12,non-native
+Brownfield,Colletidae,Hylaeus,modestus,0,native
+Brownfield,Colletidae,Hylaeus,pictipes,0,non-native
+Brownfield,Halictidae,Agapostemon,sericeus,12,native
+Brownfield,Halictidae,Agapostemon,texanus,39,native
+Brownfield,Halictidae,Agapostemon,virescens,279,native
+Brownfield,Halictidae,Augochlora,pura,1,native
+Brownfield,Halictidae,Augochlorella,aurata,10,native
+Brownfield,Halictidae,Halictus,confusus,38,native
+Brownfield,Halictidae,Halictus,ligatus,65,native
+Brownfield,Halictidae,Halictus,rubicundus,0,native
+Brownfield,Halictidae,Lasioglossum,admirandum,11,native
+Brownfield,Halictidae,Lasioglossum,anomalum,11,native
+Brownfield,Halictidae,Lasioglossum,apocyni,0,native
+Brownfield,Halictidae,Lasioglossum,bruneri,5,native
+Brownfield,Halictidae,Lasioglossum,cattellae,0,native
+Brownfield,Halictidae,Lasioglossum,cinctipes,0,native
+Brownfield,Halictidae,Lasioglossum,coeruleum,6,native
+Brownfield,Halictidae,Lasioglossum,cressonii,0,native
+Brownfield,Halictidae,Lasioglossum,ellisiae,3,native
+Brownfield,Halictidae,Lasioglossum,ephialtum,54,native
+Brownfield,Halictidae,Lasioglossum,hitchensi,23,native
+Brownfield,Halictidae,Lasioglossum,illinoense,5,native
+Brownfield,Halictidae,Lasioglossum,imitatum,39,native
+Brownfield,Halictidae,Lasioglossum,laevissimum,2,native
+Brownfield,Halictidae,Lasioglossum,leucocomum,19,native
+Brownfield,Halictidae,Lasioglossum,leucozonium,17,native
+Brownfield,Halictidae,Lasioglossum,lineatulum,2,native
+Brownfield,Halictidae,Lasioglossum,lionotum,0,native
+Brownfield,Halictidae,Lasioglossum,pectorale,24,native
+Brownfield,Halictidae,Lasioglossum,pilosum,65,native
+Brownfield,Halictidae,Lasioglossum,subviridatum,1,native
+Brownfield,Halictidae,Lasioglossum,tegulare,10,native
+Brownfield,Halictidae,Lasioglossum,versatum,1,native
+Brownfield,Halictidae,Lasioglossum,weemsi,8,native
+Brownfield,Halictidae,Lasioglossum,zephyrum,4,native
+Brownfield,Halictidae,Lasioglossum,zonulum,0,native
+Brownfield,Halictidae,Sphecodes,atlantis,0,native
+Brownfield,Halictidae,Sphecodes,coronus,1,native
+Brownfield,Halictidae,Sphecodes,cressonii,2,native
+Brownfield,Halictidae,Sphecodes,mandibularis,3,native
+Brownfield,Halictidae,Sphecodes,minor,0,native
+Brownfield,Megachilidae,Anthidium,manicatum,1,non-native
+Brownfield,Megachilidae,Anthidium,oblongatum,1,non-native
+Brownfield,Megachilidae,Megachile,apicalis,2,non-native
+Brownfield,Megachilidae,Megachile,brevis,1,native
+Brownfield,Megachilidae,Megachile,centuncularis,1,native
+Brownfield,Megachilidae,Megachile,frigida,1,native
+Brownfield,Megachilidae,Megachile,mendica,2,native
+Brownfield,Megachilidae,Megachile,pugnata,0,native
+Brownfield,Megachilidae,Megachile,relativa,0,native
+Brownfield,Megachilidae,Megachile,rotundata,12,non-native
+Brownfield,Megachilidae,Megachile,texana,1,native
+Brownfield,Megachilidae,Osmia,atriventris,0,native
+Brownfield,Megachilidae,Osmia,bucephala,1,native
+Brownfield,Megachilidae,Osmia,caerulescens,4,non-native
+Brownfield,Megachilidae,Osmia,georgica,9,native
+Brownfield,Megachilidae,Osmia,pumila,3,native
+Brownfield,Megachilidae,Osmia,subfasciata,1,native
+Brownfield,Megachilidae,Osmia,taurus,2,non-native
+Community Garden,Andrenidae,Andrena,barbilabris,1,native
+Community Garden,Andrenidae,Andrena,commoda,19,native
+Community Garden,Andrenidae,Andrena,cressonii,3,native
+Community Garden,Andrenidae,Andrena,dunningi,0,native
+Community Garden,Andrenidae,Andrena,erigeniae,2,native
+Community Garden,Andrenidae,Andrena,miserabilis,0,native
+Community Garden,Andrenidae,Andrena,nasonii,0,native
+Community Garden,Andrenidae,Andrena,perplexa,2,native
+Community Garden,Andrenidae,Andrena,violae,9,native
+Community Garden,Andrenidae,Andrena,wilkella,3,non-native
+Community Garden,Andrenidae,Andrena,ziziae,1,native
+Community Garden,Andrenidae,Calliopsis,andreniformis,15,native
+Community Garden,Apidae,Anthophora,terminalis,1,native
+Community Garden,Apidae,Apis,mellifera,35,non-native
+Community Garden,Apidae,Bombus,fervidus,13,native
+Community Garden,Apidae,Bombus,griseocollis,4,native
+Community Garden,Apidae,Bombus,impatiens,2,native
+Community Garden,Apidae,Bombus,perplexus,1,native
+Community Garden,Apidae,Bombus,vagans,1,native
+Community Garden,Apidae,Ceratina,calcarata,107,native
+Community Garden,Apidae,Ceratina,mikmaqi,2,native
+Community Garden,Apidae,Ceratina,strenua,1,native
+Community Garden,Apidae,Holcopasites,calliopsidis,0,native
+Community Garden,Apidae,Melissodes,bimaculatus,49,native
+Community Garden,Apidae,Melissodes,druriellus,1,native
+Community Garden,Apidae,Melissodes,trinodis,2,native
+Community Garden,Apidae,Nomada,articulata,2,native
+Community Garden,Apidae,Nomada,bidentate,1,native
+Community Garden,Apidae,Nomada,cressonii,1,native
+Community Garden,Apidae,Nomada,imbricata,0,native
+Community Garden,Apidae,Nomada,luteoloides,2,native
+Community Garden,Apidae,Nomada,maculata,0,native
+Community Garden,Apidae,Nomada,pygmaea,1,native
+Community Garden,Apidae,Peponapis,pruinosa,34,native
+Community Garden,Apidae,Triepeolus,remigatus,1,native
+Community Garden,Apidae,Xylocopa,virginica,5,native
+Community Garden,Colletidae,Hylaeus,affinis,5,native
+Community Garden,Colletidae,Hylaeus,affinis/modestus,5,native
+Community Garden,Colletidae,Hylaeus,hyalinatus,7,non-native
+Community Garden,Colletidae,Hylaeus,modestus,2,native
+Community Garden,Colletidae,Hylaeus,pictipes,3,non-native
+Community Garden,Halictidae,Agapostemon,sericeus,20,native
+Community Garden,Halictidae,Agapostemon,texanus,61,native
+Community Garden,Halictidae,Agapostemon,virescens,436,native
+Community Garden,Halictidae,Augochlora,pura,6,native
+Community Garden,Halictidae,Augochlorella,aurata,22,native
+Community Garden,Halictidae,Halictus,confusus,82,native
+Community Garden,Halictidae,Halictus,ligatus,109,native
+Community Garden,Halictidae,Halictus,rubicundus,2,native
+Community Garden,Halictidae,Lasioglossum,admirandum,5,native
+Community Garden,Halictidae,Lasioglossum,anomalum,0,native
+Community Garden,Halictidae,Lasioglossum,apocyni,1,native
+Community Garden,Halictidae,Lasioglossum,bruneri,5,native
+Community Garden,Halictidae,Lasioglossum,cattellae,6,native
+Community Garden,Halictidae,Lasioglossum,cinctipes,1,native
+Community Garden,Halictidae,Lasioglossum,coeruleum,5,native
+Community Garden,Halictidae,Lasioglossum,cressonii,2,native
+Community Garden,Halictidae,Lasioglossum,ellisiae,3,native
+Community Garden,Halictidae,Lasioglossum,ephialtum,28,native
+Community Garden,Halictidae,Lasioglossum,hitchensi,40,native
+Community Garden,Halictidae,Lasioglossum,illinoense,4,native
+Community Garden,Halictidae,Lasioglossum,imitatum,45,native
+Community Garden,Halictidae,Lasioglossum,laevissimum,14,native
+Community Garden,Halictidae,Lasioglossum,leucocomum,55,native
+Community Garden,Halictidae,Lasioglossum,leucozonium,74,native
+Community Garden,Halictidae,Lasioglossum,lineatulum,6,native
+Community Garden,Halictidae,Lasioglossum,lionotum,1,native
+Community Garden,Halictidae,Lasioglossum,pectorale,26,native
+Community Garden,Halictidae,Lasioglossum,pilosum,53,native
+Community Garden,Halictidae,Lasioglossum,subviridatum,24,native
+Community Garden,Halictidae,Lasioglossum,tegulare,3,native
+Community Garden,Halictidae,Lasioglossum,versatum,2,native
+Community Garden,Halictidae,Lasioglossum,weemsi,8,native
+Community Garden,Halictidae,Lasioglossum,zephyrum,2,native
+Community Garden,Halictidae,Lasioglossum,zonulum,2,native
+Community Garden,Halictidae,Sphecodes,atlantis,1,native
+Community Garden,Halictidae,Sphecodes,coronus,1,native
+Community Garden,Halictidae,Sphecodes,cressonii,1,native
+Community Garden,Halictidae,Sphecodes,mandibularis,0,native
+Community Garden,Halictidae,Sphecodes,minor,1,native
+Community Garden,Megachilidae,Anthidium,manicatum,1,non-native
+Community Garden,Megachilidae,Anthidium,oblongatum,22,non-native
+Community Garden,Megachilidae,Megachile,apicalis,0,non-native
+Community Garden,Megachilidae,Megachile,brevis,0,native
+Community Garden,Megachilidae,Megachile,centuncularis,3,native
+Community Garden,Megachilidae,Megachile,frigida,0,native
+Community Garden,Megachilidae,Megachile,mendica,3,native
+Community Garden,Megachilidae,Megachile,pugnata,1,native
+Community Garden,Megachilidae,Megachile,relativa,1,native
+Community Garden,Megachilidae,Megachile,rotundata,28,non-native
+Community Garden,Megachilidae,Megachile,texana,2,native
+Community Garden,Megachilidae,Osmia,atriventris,1,native
+Community Garden,Megachilidae,Osmia,bucephala,1,native
+Community Garden,Megachilidae,Osmia,caerulescens,33,non-native
+Community Garden,Megachilidae,Osmia,georgica,13,native
+Community Garden,Megachilidae,Osmia,pumila,14,native
+Community Garden,Megachilidae,Osmia,subfasciata,0,native
+Community Garden,Megachilidae,Osmia,taurus,0,non-native

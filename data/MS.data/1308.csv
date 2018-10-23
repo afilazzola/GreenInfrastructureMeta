@@ -1,0 +1,17 @@
+taxa,original.habitat,Estimate,Stat,Value,n,area
+plants,gardens,Shannon Diversity,mean,2.23,24,97333
+plants,gardens,Shannon Diversity,se,0.34,24,97333
+plants,forest,Shannon Diversity,mean,2.25,20,79000
+plants,forest,Shannon Diversity,se,0.31,20,79000
+plants,gardens,evenness,mean,0.8,24,97333
+plants,gardens,evenness,se,0.097,24,97333
+plants,forest,evenness,mean,0.78,20,79000
+plants,forest,evenness,se,0.045,20,79000
+fungi,gardens,Shannon Diversity,mean,15,24,97333
+fungi,gardens,Shannon Diversity,se,3.23,24,97333
+fungi,forest,Shannon Diversity,mean,13.95,20,79000
+fungi,forest,Shannon Diversity,se,2.82,20,79000
+soilmicrobes,gardens,Shannon Diversity,mean,4.32,24,97333
+soilmicrobes,gardens,Shannon Diversity,se,0.88,24,97333
+soilmicrobes,forest,Shannon Diversity,mean,5.24,20,79000
+soilmicrobes,forest,Shannon Diversity,se,0.45,20,79000

@@ -390,18 +390,25 @@ fsn(yi, vi, data=meta.ready)
 names(meta)[20:21] <- c("GI.area","height")
 meta.area <- subset(meta, GI.area>0)
 
+## omit Study 536 & 1304 because raw counts
+meta.area <- subset(meta.area, Study != 536 & Study != 1304)
+
 ## Determine unique identifier
 meta.area[,"UniqueSite"] <- paste(meta.area$Study, meta.area$Taxa.simplified, meta.area$Nat.compare, meta.area$Estimate, sep="-")
 
 ## Summarize average richness by area sizes
-area.stat <- meta.area %>% filter(Stat=="count" | Stat=="mean") %>% filter(Estimate=="richness") %>%   group_by(GI.area, GI.type) %>% summarize(val=mean(Value)) %>%  data.frame(.)
+area.stat <- meta.area %>% filter(Stat=="count" | Stat=="mean") %>% filter(Estimate=="richness") %>%   group_by(Study, GI.area, GI.type) %>% summarize(val=mean(Value)) %>%  data.frame(.)
 
 area.rich <- area.stat %>% filter(GI.type=="green roof" | GI.type=="green wall" | GI.type=="retention pond" | GI.type=="yards/home gardens" | GI.type=="public/community gardens")
 
 library(ggplot2)
 
 ## Species richness per area
-ggplot(area.rich,  aes(x=GI.area, y=val, color=GI.type) ) + geom_point(size=3) + theme_bw() + scale_color_brewer(palette="Set2") + ylab("Average Species Richness") + xlab("Average Area of Green Infrastructure")+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+ggplot(area.rich,  aes(x=GI.area, y=val, color=GI.type) ) + geom_point(size=3) + theme_bw() + scale_color_brewer(palette="Set2") + ylab("Average Species Richness") + xlab("Average Area of Green Infrastructure")+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank()) 
+
+plot(area.rich$GI.area, area.rich$val, pch=c(as.numeric(area.rich$GI.type)/5))
+m1 <- lm(val~GI.area, data=area.rich)
+
 
 
 ## Summarize average abundance by area sizes
@@ -475,4 +482,15 @@ m <- leaflet(data=GI.data) %>%
    addCircleMarkers(~lon, ~lat, color =  ifelse(GI.data$GI.type == "Retention Pond", 'blue', 'red'), radius=5)
 m
 ```
+
+### Technical report analyses
+```{r}
+
+meta <- read.csv("data//Master.GI.Datasets.csv")
+
+spp.n <- meta %>% group_by(Genus) %>% summarize(n=length(Species)) %>% arrange(-n) %>% data.frame()
+spp.n
+
+spp.nbird <- meta %>% filter(Taxa.simplified!="birds") %>%  group_by(Genus) %>% summarize(n=length(Species)) %>% arrange(-n) %>% data.frame() %>% head()
+spp.nbird
 
