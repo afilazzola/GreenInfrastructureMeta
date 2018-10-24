@@ -132,6 +132,7 @@ excludes %>% mutate(percent=n/1140*100) %>%  data.frame(.)
 ## frequency of study
 year.rate <- evidence %>% group_by(Year) %>% summarize(n=length(Year))
 
+ggplot(tail(year.rate,20)) + geom_bar(aes(x=Year, y=n), stat="identity") + ylab("number of published studies") +xlab("year published") +theme(text = element_text(size=16))
 ```
 
 ### Papers processed - Progress
@@ -399,27 +400,29 @@ meta.area[,"UniqueSite"] <- paste(meta.area$Study, meta.area$Taxa.simplified, me
 ## Summarize average richness by area sizes
 area.stat <- meta.area %>% filter(Stat=="count" | Stat=="mean") %>% filter(Estimate=="richness") %>%   group_by(Study, GI.area, GI.type) %>% summarize(val=mean(Value)) %>%  data.frame(.)
 
-area.rich <- area.stat %>% filter(GI.type=="green roof" | GI.type=="green wall" | GI.type=="retention pond" | GI.type=="yards/home gardens" | GI.type=="public/community gardens")
+area.rich <- area.stat %>% filter(GI.type=="green roof" | GI.type=="green wall"  | GI.type=="yards/home gardens" | GI.type=="public/community gardens")
 
 library(ggplot2)
 
 ## Species richness per area
-ggplot(area.rich,  aes(x=GI.area, y=val, color=GI.type) ) + geom_point(size=3) + theme_bw() + scale_color_brewer(palette="Set2") + ylab("Average Species Richness") + xlab("Average Area of Green Infrastructure")+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank()) 
+ggplot(area.rich,  aes(x=GI.area, y=val, color=GI.type) ) + geom_point(size=3) + theme_bw() + scale_color_brewer(palette="Set2") + ylab("Average species richness") + xlab(expression("Average area of green infrastructure (m"^2*")"))+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank()) +  stat_smooth(method="lm", formula= y~poly(x,2),aes(x=GI.area, y=val), color="#181818", fill="#80808080", data=area.rich)
 
-plot(area.rich$GI.area, area.rich$val, pch=c(as.numeric(area.rich$GI.type)/5))
-m1 <- lm(val~GI.area, data=area.rich)
-
+m1 <- lm(val~poly(GI.area,2), data=area.rich)
+summary(m1)
 
 
 ## Summarize average abundance by area sizes
-area.stat <- meta.area %>% filter(Stat=="count" | Stat=="mean") %>% filter(Estimate=="abundance") %>%   group_by(GI.area, GI.type) %>% summarize(val=mean(Value)) %>%  data.frame(.)
+area.stat <- meta.area %>% filter(Stat=="count" | Stat=="mean") %>% filter(Estimate=="abundance") %>%   group_by(Study, GI.area, GI.type) %>% summarize(val=mean(Value)) %>%  data.frame(.)
 
-area.abd <- area.stat %>% filter(GI.type=="green roof" | GI.type=="green wall" | GI.type=="retention pond" | GI.type=="yards/home gardens" | GI.type=="public/community gardens") %>% 
-  filter(GI.area<50000) ## keep numbers approximately similar - removed outlier of 200,000
+area.abd <- area.stat %>% filter(GI.type=="green roof" | GI.type=="green wall"  | GI.type=="yards/home gardens" | GI.type=="public/community gardens") %>% 
+  filter(GI.area<50000) %>%  ## keep numbers approximately similar - removed outlier of 200,000
+filter(Study != 1299 & Study != 1127) 
 
 ## Species richness per area
-ggplot(area.abd,  aes(x=GI.area, y=val, color=GI.type) ) + geom_point(size=3) + theme_bw() + scale_color_brewer(palette="Set2") + ylab("Average Abundance") + xlab("Average Area of Green Infrastructure")+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+ggplot(area.abd,  aes(x=GI.area, y=val, color=GI.type) ) + geom_point(size=3) + theme_bw() + scale_color_brewer(palette="Set2") + ylab("Average abundance of species") + xlab(expression("Average area of green infrastructure (m"^2*")"))+theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 
+m2 <- lm(val~GI.area, data=area.abd)
+summary(m2)
 
 ## Compare pH for abundance
 ph.data <- meta %>%  filter(pH>0) %>%  filter(GI.type=="retention pond" | GI.type=="natural water")
