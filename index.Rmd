@@ -313,15 +313,15 @@ res.p <- rma(yi=yi, vi=vi,  data = meta.ready,
 res.rd <- rma(yi=yi, vi=vi,  data = meta.ready,
              subset=(GI.compare=="roadsides"))
 
-## generate plot with spaces inbetween
-forest(m1, atransf=exp, cex=0.75, ylim=c(-1, 24),
-       order=order(meta.ready$GI.compare,meta.ready$taxa), rows=c(3:4,7,10:16,19:21),
-        mlab="RE model for all studies", psize=1, slab= paste(meta.ready$Study, meta.ready$taxa, meta.ready$measure))
-
-addpoly(res.w, row=18, cex=0.75, atransf=exp, mlab="RE model for green wall")
-addpoly(res.r, row= 9, cex=0.75, atransf=exp, mlab="RE model for green roof")
-addpoly(res.rd, row= 6, cex=0.75, atransf=exp, mlab="RE model for roadsides")
-addpoly(res.p, row= 2, cex=0.75, atransf=exp, mlab="RE model for retention ponds")
+# ## generate plot with spaces inbetween
+# forest(m1, atransf=exp, cex=0.75, ylim=c(-1, 24),
+#        order=order(meta.ready$GI.compare,meta.ready$taxa), rows=c(3:4,7,10:16,19:21),
+# #         mlab="RE model for all studies", psize=1, slab= paste(meta.ready$Study, meta.ready$taxa, meta.ready$measure))
+# 
+# addpoly(res.w, row=18, cex=0.75, atransf=exp, mlab="RE model for green wall")
+# addpoly(res.r, row= 9, cex=0.75, atransf=exp, mlab="RE model for green roof")
+# addpoly(res.rd, row= 6, cex=0.75, atransf=exp, mlab="RE model for roadsides")
+# addpoly(res.p, row= 2, cex=0.75, atransf=exp, mlab="RE model for retention ponds")
 
 ```
 
@@ -497,3 +497,34 @@ spp.n
 spp.nbird <- meta %>% filter(Taxa.simplified!="birds") %>%  group_by(Genus) %>% summarize(n=length(Species)) %>% arrange(-n) %>% data.frame() %>% head()
 spp.nbird
 
+
+## Appendix Figures
+
+meta <- read.csv("data//Master.GI.Datasets.csv")
+## Omit repo 3 because duplicated with study 1305 and remove repo-9 because not equivalent GI comparisons. Removed Repo 3 because compare roof with ground
+meta <- meta %>% filter(Study != "repo.3" & Study!="repo.9" & Study!="repo.1") 
+
+## Drop relative abundance because difference = 0 
+meta <- meta %>% filter(Estimate!="Relative.Abundance")
+
+## pH
+
+ph.count <- subset(meta, pH>0 & Genus != "")
+
+ggplot(ph.count) + geom_density(aes(pH, fill=Genus), position="stack") + xlab("pH of retention pond") + ylab("frequency of occurrence")+theme_set(theme_bw(base_size = 22))+theme_bw()
+
+se <- function(x) {sd(x)/sqrt(length(x))}
+
+## Depth
+depth <- subset(meta, depth..m.>0 )
+depth <- depth %>% group_by(depth..m.) %>% summarize(avg=mean(Value), error=se(Value))
+
+ggplot(depth, aes(x=depth..m., y=avg)) + geom_point( size=4) + geom_errorbar(data=depth, aes(ymin=avg-error, ymax=avg+error), width=0.03)+ xlab("depth of retention pond (m)") + ylab("average number of individuals observed")+theme_set(theme_bw(base_size = 22))+theme_bw()
+
+
+## Height
+high <- subset(meta, GI.height..m.>0 & Stat=="mean")
+high <- filter(high, Estimate %in% c("abundance","richness"))
+high <- high %>% group_by(GI.height..m.,Estimate) %>% summarize(Value=mean(Value))
+
+ggplot(high) + geom_point(aes(x=GI.height..m., y=Value)) + facet_grid(~Estimate)+ xlab("height of green roof (m)") + ylab("average number observed")+theme_set(theme_bw(base_size = 22))+theme_bw()
