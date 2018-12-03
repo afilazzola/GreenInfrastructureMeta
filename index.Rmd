@@ -177,15 +177,15 @@ nrow(review)
 meta <- evidence %>% filter(meta.=="yes")
 nrow(meta)
 
-prisma(found = 1255,
+prisma(found = 1276,
        found_other = 28,
-       no_dupes = 1283,
-       screened = 1283,
-       screen_exclusions = 1140,
-       full_text = 143,
-       full_text_exclusions = 0,
-       qualitative = 143, 
-       quantitative = 66,
+       no_dupes = 1304,
+       screened = 1304,
+       screen_exclusions = 0,
+       full_text = 1304,
+       full_text_exclusions = 1180,
+       qualitative = 124, 
+       quantitative = 20,
        width = 800, height = 800)
 ```
 
