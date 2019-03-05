@@ -1,0 +1,13 @@
+Study,City,SiteID,Taxa,Taxa.simplified,Year,Infrastructure,Habitat,original.habitat,GI.type,GI.compare,Nat.compare,Family,Genus,Species,Status,Estimate,Stat,Value,GI.area.mean (m2),GI.height (m),Rep,pH,Salinity,depth (m)
+1500,Tallahassee,Multisite,Amphibian,Amphibian,2000,green,urban,retention pond,retention pond,retention pond,pond,Urodela,,,,mean number caught,mean,0.8052,,,3,,,
+1500,Tallahassee,Multisite,Reptile,Reptile,2000,green,urban,retention pond,retention pond,retention pond,pond,Testudines,,,,mean number caught,mean,0.7586,,,3,,,
+1500,Tallahassee,Multisite,Reptile,Reptile,2000,green,urban,retention pond,retention pond,retention pond,pond,Serpentes,,,,mean number caught,mean,0.21,,,3,,,
+1500,Tallahassee,Multisite,Amphibian,Amphibian,2000,green,natural,natural pond,natural water,natural water,pond,Urodela,,,,mean number caught,mean,0.8327,,,3,,,
+1500,Tallahassee,Multisite,Reptile,Reptile,2000,green,natural,natural pond,natural water,natural water,pond,Testudines,,,,mean number caught,mean,0.2741,,,3,,,
+1500,Tallahassee,Multisite,Reptile,Reptile,2000,green,natural,natural pond,natural water,natural water,pond,Serpentes,,,,mean number caught,mean,0.25,,,3,,,
+1500,Tallahassee,Multisite,Amphibian,Amphibian,2000,green,urban,retention pond,retention pond,retention pond,pond,Urodela,,,,mean number caught,se,0.5348,,,3,,,
+1500,Tallahassee,Multisite,Reptile,Reptile,2000,green,urban,retention pond,retention pond,retention pond,pond,Testudines,,,,mean number caught,se,0.0914,,,3,,,
+1500,Tallahassee,Multisite,Reptile,Reptile,2000,green,urban,retention pond,retention pond,retention pond,pond,Serpentes,,,,mean number caught,se,0,,,3,,,
+1500,Tallahassee,Multisite,Amphibian,Amphibian,2000,green,natural,natural pond,natural water,natural water,pond,Urodela,,,,mean number caught,se,0.3173,,,3,,,
+1500,Tallahassee,Multisite,Reptile,Reptile,2000,green,natural,natural pond,natural water,natural water,pond,Testudines,,,,mean number caught,se,0.0459,,,3,,,
+1500,Tallahassee,Multisite,Reptile,Reptile,2000,green,natural,natural pond,natural water,natural water,pond,Serpentes,,,,mean number caught,se,0.03,,,3,,,

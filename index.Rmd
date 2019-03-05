@@ -113,6 +113,21 @@ Adding revised terms from July 3rd meeting added 213 papers
 Total articles returned = 1,224 (as of July 2018)
 
 
+### Reviewers comments to add papers
+```{r}
+search1.4 <- read.csv("data/WOS-lit.updated.csv")
+reviewer <- read.csv("data//reviewer.updated2019.csv")
+
+net.difference <- anti_join( reviewer, search1.4, by = "DOI")
+net.difference <- net.difference %>% select(Title, DOI) #to simplify for a look
+nrow(net.difference) #count of number of differences from consecutive search
+
+str(net.difference)
+write.csv(net.difference, "new.papers.csv", row.names=FALSE)
+```
+
+
+
 ### Literature Review - 2. Sort
 
 This steps includes a. checking for duplicating, b. reviewing each instance for relevancy, c. consistently identifying and documenting exclusion criteria. Outcomes include a list of publications to be used for synthesis, a library of pdfs, and a PRISMA report to ensure the worflow is transparent and reproducible. Papers were excluded with the following characteristics:
