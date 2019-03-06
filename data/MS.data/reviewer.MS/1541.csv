@@ -1,0 +1,9 @@
+Study,City,SiteID,Taxa,Taxa.simplified,Year,Infrastructure,Habitat,original.habitat,GI.type,GI.compare,Nat.compare,Family,Genus,Species,Status,Estimate,Stat,Value,GI.area.mean (m2),GI.height (m),Rep,pH,Salinity,depth (m)
+1541,Toronto,center,Plants,Plants,2012,green,urban,retention pond,retention pond,retention pond,pond,,,,,biomass (g/m2),mean,233,,,4,7.9,,0.175
+1541,Toronto,center,Plants,Plants,2012,green,natural,natural pond,natural water,natural water,pond,,,,,biomass (g/m2),mean,9.95,,,5,7.92,,0.28
+1541,Toronto,shore,Plants,Plants,2012,green,urban,retention pond,retention pond,retention pond,pond,,,,,biomass (g/m2),mean,437.8,,,4,7.9,,0.175
+1541,Toronto,shore,Plants,Plants,2012,green,natural,natural pond,natural water,natural water,pond,,,,,biomass (g/m2),mean,268.6,,,5,7.92,,0.28
+1541,Toronto,center,Plants,Plants,2012,green,urban,retention pond,retention pond,retention pond,pond,,,,,biomass (g/m2),se,344.1,,,4,7.9,,0.175
+1541,Toronto,center,Plants,Plants,2012,green,natural,natural pond,natural water,natural water,pond,,,,,biomass (g/m2),se,4.05,,,5,7.92,,0.28
+1541,Toronto,shore,Plants,Plants,2012,green,urban,retention pond,retention pond,retention pond,pond,,,,,biomass (g/m2),se,522.2,,,4,7.9,,0.175
+1541,Toronto,shore,Plants,Plants,2012,green,natural,natural pond,natural water,natural water,pond,,,,,biomass (g/m2),se,258.4,,,5,7.92,,0.28
