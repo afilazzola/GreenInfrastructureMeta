@@ -1,0 +1,5 @@
+Study,City,SiteID,Taxa,Taxa.simplified,Year,Infrastructure,Habitat,original.habitat,GI.type,GI.compare,Nat.compare,Family,Genus,Species,Status,Estimate,Stat,Value,GI.area.mean (m2),GI.height (m),Rep,pH,Salinity,depth (m)
+1646,Aarhus,Multisite,Invertebrates,Invertebrates,,green,urban,retention pond,retention pond,retention pond,pond,,,,,richness,mean,7,,,9,,,
+1646,Aarhus,Multisite,Invertebrates,Invertebrates,,green,natural,natural pond,natural water,natural water,pond,,,,,richness,mean,7.72,,,11,,,
+1646,Aarhus,Multisite,Invertebrates,Invertebrates,,green,urban,retention pond,retention pond,retention pond,pond,,,,,richness,se,0.97,,,9,,,
+1646,Aarhus,Multisite,Invertebrates,Invertebrates,,green,natural,natural pond,natural water,natural water,pond,,,,,richness,se,1.24,,,11,,,

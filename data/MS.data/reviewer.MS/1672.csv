@@ -1,0 +1,25 @@
+Study,City,SiteID,Taxa,Taxa.simplified,Year,Infrastructure,Habitat,original.habitat,GI.type,GI.compare,Nat.compare,Family,Genus,Species,Status,Estimate,Stat,Value,GI.area.mean (m2),GI.height (m),Rep,pH,Salinity,depth (m)
+1672,Munster,Multisite,Arthropod,Arthropod,,green,urban,retention pond,retention pond,retention pond,pond,Odonata,,,,richness,mean,5.3,2629,,35,,,37.9
+1672,Munster,Multisite,Arthropod,Arthropod,,green,urban,retention pond,retention pond,retention pond,pond,Odonata,,,,richness,se,0.6,2629,,35,,,37.9
+1672,Munster,Multisite,Arthropod,Arthropod,,green,natural,natural pond,natural water,natural water,pond,Odonata,,,,richness,mean,3.4,812,,35,,,51.6
+1672,Munster,Multisite,Arthropod,Arthropod,,green,natural,natural pond,natural water,natural water,pond,Odonata,,,,richness,se,0.7,812,,35,,,51.6
+1672,Munster,Multisite,Plants,Plants,,green,urban,retention pond,retention pond,retention pond,pond,Reeds,,,,percent cover,mean,35.4,2629,,35,,,37.9
+1672,Munster,Multisite,Plants,Plants,,green,urban,retention pond,retention pond,retention pond,pond,Reeds,,,,percent cover,se,6.2,2629,,35,,,37.9
+1672,Munster,Multisite,Plants,Plants,,green,natural,natural pond,natural water,natural water,pond,Reeds,,,,percent cover,mean,13,812,,35,,,51.6
+1672,Munster,Multisite,Plants,Plants,,green,natural,natural pond,natural water,natural water,pond,Reeds,,,,percent cover,se,3.6,812,,35,,,51.6
+1672,Munster,Multisite,Plants,Plants,,green,urban,retention pond,retention pond,retention pond,pond,Algae,,,,percent cover,mean,7.9,2629,,35,,,37.9
+1672,Munster,Multisite,Plants,Plants,,green,urban,retention pond,retention pond,retention pond,pond,Algae,,,,percent cover,se,3.6,2629,,35,,,37.9
+1672,Munster,Multisite,Plants,Plants,,green,natural,natural pond,natural water,natural water,pond,Algae,,,,percent cover,mean,5.2,812,,35,,,51.6
+1672,Munster,Multisite,Plants,Plants,,green,natural,natural pond,natural water,natural water,pond,Algae,,,,percent cover,se,3.2,812,,35,,,51.6
+1672,Munster,Multisite,Plants,Plants,,green,urban,retention pond,retention pond,retention pond,pond,Floating plants,,,,percent cover,mean,9,2629,,35,,,37.9
+1672,Munster,Multisite,Plants,Plants,,green,urban,retention pond,retention pond,retention pond,pond,Floating plants,,,,percent cover,se,3.9,2629,,35,,,37.9
+1672,Munster,Multisite,Plants,Plants,,green,natural,natural pond,natural water,natural water,pond,Floating plants,,,,percent cover,mean,18.4,812,,35,,,51.6
+1672,Munster,Multisite,Plants,Plants,,green,natural,natural pond,natural water,natural water,pond,Floating plants,,,,percent cover,se,5.9,812,,35,,,51.6
+1672,Munster,Multisite,Plants,Plants,,green,urban,retention pond,retention pond,retention pond,pond,Submerged Plants,,,,percent cover,mean,5.7,2629,,35,,,37.9
+1672,Munster,Multisite,Plants,Plants,,green,urban,retention pond,retention pond,retention pond,pond,Submerged Plants,,,,percent cover,se,3.2,2629,,35,,,37.9
+1672,Munster,Multisite,Plants,Plants,,green,natural,natural pond,natural water,natural water,pond,Submerged Plants,,,,percent cover,mean,3.1,812,,35,,,51.6
+1672,Munster,Multisite,Plants,Plants,,green,natural,natural pond,natural water,natural water,pond,Submerged Plants,,,,percent cover,se,1.8,812,,35,,,51.6
+1672,Munster,Multisite,Plants,Plants,,green,urban,retention pond,retention pond,retention pond,pond,Woodland,,,,percent cover,mean,19.9,2629,,35,,,37.9
+1672,Munster,Multisite,Plants,Plants,,green,urban,retention pond,retention pond,retention pond,pond,Woodland,,,,percent cover,se,4.1,2629,,35,,,37.9
+1672,Munster,Multisite,Plants,Plants,,green,natural,natural pond,natural water,natural water,pond,Woodland,,,,percent cover,mean,49.6,812,,35,,,51.6
+1672,Munster,Multisite,Plants,Plants,,green,natural,natural pond,natural water,natural water,pond,Woodland,,,,percent cover,se,5.5,812,,35,,,51.6

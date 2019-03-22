@@ -1,0 +1,5 @@
+Study,City,SiteID,Taxa,Taxa.simplified,Year,Infrastructure,Habitat,original.habitat,GI.type,GI.compare,Nat.compare,Family,Genus,Species,Status,Estimate,Stat,Value,GI.area.mean (m2),GI.height (m),Rep,pH,Salinity,depth (m)
+1671,Melbourne,,Fish,,,green,urban,retention pond,retention pond,retention pond,pond,,Galaxiella,pusilla,,recapture rate,mean,0.46,,,4,,,
+1671,Melbourne,,Fish,,,green,natural,natural pond,natural water,natural water,pond,,Galaxiella,pusilla,,recapture rate,mean,0.88,,,4,,,
+1671,Melbourne,,Fish,,,green,urban,retention pond,retention pond,retention pond,pond,,Galaxiella,pusilla,,recapture rate,se,0.0001,,,4,,,
+1671,Melbourne,,Fish,,,green,natural,natural pond,natural water,natural water,pond,,Galaxiella,pusilla,,recapture rate,se,0.5,,,4,,,

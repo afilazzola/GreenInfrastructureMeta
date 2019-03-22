@@ -1,0 +1,9 @@
+Study,City,SiteID,Taxa,Taxa.simplified,Year,Infrastructure,Habitat,original.habitat,GI.type,GI.compare,Nat.compare,Family,Genus,Species,Status,Estimate,Stat,Value,GI.area.mean (m2),GI.height (m),Rep,pH,Salinity,depth (m)
+1619,Edmonton,,Amphibian,Amphibian,2009,green,urban,retention pond,retention pond,retention pond,pond,?Ranidae,Lithobates,sylvaticus,native,egg mass abundance,mean,8,,,6,,,
+1619,Edmonton,,Amphibian,Amphibian,2009,green,natural,natural pond,natural water,natural water,pond,?Ranidae,Lithobates,sylvaticus,native,egg mass abundance,mean,35,,,3,,,
+1619,Edmonton,,Amphibian,Amphibian,2009,green,urban,retention pond,retention pond,retention pond,pond,?Ranidae,Lithobates,sylvaticus,native,egg mass abundance,sd,2.04,,,6,,,
+1619,Edmonton,,Amphibian,Amphibian,2009,green,natural,natural pond,natural water,natural water,pond,?Ranidae,Lithobates,sylvaticus,native,egg mass abundance,sd,15.6,,,3,,,
+1619,Edmonton,,Amphibian,Amphibian,2009,green,urban,retention pond,retention pond,retention pond,pond,?Ranidae,Lithobates,sylvaticus,native,tadpole abundance,mean,0.01,,,6,,,
+1619,Edmonton,,Amphibian,Amphibian,2009,green,natural,natural pond,natural water,natural water,pond,?Ranidae,Lithobates,sylvaticus,native,tadpole abundance,mean,0.49,,,3,,,
+1619,Edmonton,,Amphibian,Amphibian,2009,green,urban,retention pond,retention pond,retention pond,pond,?Ranidae,Lithobates,sylvaticus,native,tadpole abundance,sd,0.0082,,,6,,,
+1619,Edmonton,,Amphibian,Amphibian,2009,green,natural,natural pond,natural water,natural water,pond,?Ranidae,Lithobates,sylvaticus,native,tadpole abundance,sd,0.17,,,3,,,
