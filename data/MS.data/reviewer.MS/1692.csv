@@ -1,0 +1,5 @@
+Study,City,SiteID,Taxa,Taxa.simplified,Year,Infrastructure,Habitat,original.habitat,GI.type,GI.compare,Nat.compare,Family,Genus,Species,Status,Estimate,Stat,Value,GI.area.mean (m2),GI.height (m),Rep,pH,Salinity,depth (m)
+1692,Gresham,Multisite,Amphibia,Amphibia,2010,green,urban,retention pond,retention pond,retention pond,pond,,,,,average occurrence of species per site,mean,0.2785,,,79,,,
+1692,Gresham,Multisite,Amphibia,Amphibia,2010,green,natural,natural pond,natural water,natural water,pond,,,,,average occurrence of species per site,mean,0.365,,,21,,,
+1692,Gresham,Multisite,Amphibia,Amphibia,2010,green,urban,retention pond,retention pond,retention pond,pond,,,,,average occurrence of species per site,se,0.0949,,,79,,,
+1692,Gresham,Multisite,Amphibia,Amphibia,2010,green,natural,natural pond,natural water,natural water,pond,,,,,average occurrence of species per site,se,0.08031,,,21,,,

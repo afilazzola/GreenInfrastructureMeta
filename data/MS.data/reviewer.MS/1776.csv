@@ -1,0 +1,5 @@
+Study,City,SiteID,Taxa,Taxa.simplified,Year,Infrastructure,Habitat,original.habitat,GI.type,GI.compare,Nat.compare,Family,Genus,Species,Status,Estimate,Stat,Value,GI.area.mean (m2),GI.height (m),Rep,pH,Salinity,depth (m)
+1776,Cleveland,Multisite,arthropod,arthropod,,green,urban,community garden,community garden,garden,garden,,,,,average occurrence per species,mean,10.69387755,,,8,,,
+1776,Cleveland,Multisite,arthropod,arthropod,,grey,urban,vacant lot,vacant lot,garden,garden,,,,,average occurrence per species,mean,16.56122449,,,8,,,
+1776,Cleveland,Multisite,arthropod,arthropod,,green,urban,community garden,community garden,garden,garden,,,,,average occurrence per species,se,3.173563886,,,8,,,
+1776,Cleveland,Multisite,arthropod,arthropod,,grey,urban,vacant lot,vacant lot,garden,garden,,,,,average occurrence per species,se,4.878458276,,,8,,,
