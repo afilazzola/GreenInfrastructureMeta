@@ -136,7 +136,7 @@ This steps includes a. checking for duplicating, b. reviewing each instance for 
 - Irrelevant categories (e.g. political science, law, sports tourism, art)
 
 ```{r, warning=FALSE, message=FALSE}
-evidence <- read.csv("data/evidence.csv")
+evidence <- read.csv("data/evidence.updated.csv")
 ### Identify studies that were excluded
 excludes <- evidence %>% group_by(reason) %>% count(exclude) %>% filter(reason!="")
 ggplot(excludes, aes(x=reason, y=n)) + geom_bar(stat="identity") + coord_flip()
@@ -192,15 +192,15 @@ nrow(review)
 meta <- evidence %>% filter(meta.=="yes")
 nrow(meta)
 
-prisma(found = 1276,
+prisma(found = 1855,
        found_other = 28,
-       no_dupes = 1304,
-       screened = 1304,
+       no_dupes = 1883,
+       screened = 1883,
        screen_exclusions = 0,
-       full_text = 1304,
-       full_text_exclusions = 1180,
-       qualitative = 124, 
-       quantitative = 20,
+       full_text = 1883,
+       full_text_exclusions = 1721,
+       qualitative = 162, 
+       quantitative = 33,
        width = 800, height = 800)
 ```
 
@@ -225,7 +225,7 @@ mp <- ggplot() +   mapWorld
 ## colorblind-friendly palette
 cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7","#000000")
 
-meta <- read.csv("data//evidence.csv")
+meta <- read.csv("data//evidence.updated.csv")
 meta <- subset(meta, GI.type!="")
 
 ## plot points on top
