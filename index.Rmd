@@ -384,9 +384,9 @@ meta.ready <- cbind(data.frame(meta.ready), siteID)
 
 
 #random-effects meta-analysis for urban GI vs natural
+
 m1 <- rma(yi, vi, data = meta.ready)
 summary(m1) 
-
 ## Natural vs Urban GI
 ## Produce a forest plot to determine the effect sizes for each study
 forest(m1, slab = meta.stat$UniqueSite, order=order(meta.ready$GI.type,meta.ready$taxa))
