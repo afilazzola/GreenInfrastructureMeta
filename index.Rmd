@@ -482,31 +482,6 @@ length(unique(deep$depth..m.)) ## not enough samples for a meaningful comparison
 
 ```
 
-### Case Study - 4. Green infrastructure Mapping
-```{r}
-gf.data <- read.csv("data//GI.data//GreenRoofGeocoded.csv")
-garden.data <- read.csv("data//GI.data//ComGardensdata.csv")
-pond.data <- read.csv("data//GI.data//RetentionPondsGPS.csv")
-
-## Extract coordinates only for GI
-gf.data <- gf.data[,c("lon","lat")]
-garden.data <- garden.data[,c("lon","lat")]
-pond.data <- pond.data[,c("lon","lat")]
-
-## combine into single dataset
-GI.data <- rbind(gf.data,garden.data, pond.data)
-## add column for data type
-GI.data[,"GI.type"] <- c(rep("Green Roof",nrow(gf.data)),rep("Community Garden",nrow(garden.data)),rep("Retention Pond", nrow(pond.data)))
-
-## interactive map
-library(leaflet)
-
-m <- leaflet(data=GI.data) %>%
-  addTiles() %>%  
-   addCircleMarkers(~lon, ~lat, color =  ifelse(GI.data$GI.type == "Retention Pond", 'blue', 'red'), radius=5)
-m
-```
-
 ### Technical report analyses
 ```{r}
 
